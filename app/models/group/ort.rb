@@ -16,7 +16,8 @@ class Group::Ort < Group
            Group::OrtArbeitsgruppe,
            Group::OrtExterneKontakte,
            Group::OrtMitglieder,
-           Group::OrtSympathisanten
+           Group::OrtSympathisanten,
+           Group::OrtSpender
 
   self.default_children = [
     Group::OrtGewaehlte,

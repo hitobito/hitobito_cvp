@@ -20,6 +20,7 @@ class Group::Kanton < Group
            Group::KantonDelegierte,
            Group::KantonMitglieder,
            Group::KantonSympathisanten,
+           Group::KantonSpender,
 
            Group::Region,
            Group::Ort
