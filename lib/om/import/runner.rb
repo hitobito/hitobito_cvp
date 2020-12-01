@@ -29,8 +29,12 @@ module Import
       ActiveSupport::Deprecation.debug = true
       ActiveSupport::Deprecation.silenced = true
       ActiveRecord::Base.logger.level = 1
+      ActiveRecord::Base.logger = nil
       Group.all_types.each { |type| type.default_children = [] }
-      models.each(&:delete_all)
+
+      models.each do |model|
+        ActiveRecord::Base.connection.truncate(model.table_name)
+      end
     end
 
     def groups
