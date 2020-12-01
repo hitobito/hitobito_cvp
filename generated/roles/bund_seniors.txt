@@ -1,0 +1,87 @@
+<Bund CVP Schweiz, id:1, 0>
+ <Vereinigung 60+, id:4, 1>
+  <VereinigungArbeitsgruppe Kantonale Verantwortliche, id:36627, 4>
+   <VereinigungArbeitsgruppe AI [tbd:Kontaktperson 3], id:36631, 36627>
+   <VereinigungArbeitsgruppe AR [tbd:Kontaktperson 3], id:36632, 36627>
+   <VereinigungArbeitsgruppe BE [tbd:Kontaktperson 2], id:36633, 36627>
+   <VereinigungArbeitsgruppe BL [tbd:Kontaktperson 1], id:36629, 36627>
+   <VereinigungArbeitsgruppe BS [tbd:Kontaktperson 1], id:36630, 36627>
+   <VereinigungArbeitsgruppe FR [tbd:Kontaktperson 2], id:36634, 36627>
+   <VereinigungArbeitsgruppe GL [tbd:Kontaktperson 1], id:36636, 36627>
+   <VereinigungArbeitsgruppe GR [tbd:Kontaktperson 2], id:36637, 36627>
+   <VereinigungArbeitsgruppe JU [tbd:Kontaktperson 1], id:36638, 36627>
+   <VereinigungArbeitsgruppe LU [tbd:Kontaktperson 1], id:36639, 36627>
+   <VereinigungArbeitsgruppe NW [tbd:Kontaktperson 2], id:36641, 36627>
+   <VereinigungArbeitsgruppe OW [tbd:Kontaktperson 1], id:36642, 36627>
+   <VereinigungArbeitsgruppe SG [tbd:Kontaktperson 3], id:36643, 36627>
+   <VereinigungArbeitsgruppe SH [tbd:Kontaktperson 1], id:36644, 36627>
+   <VereinigungArbeitsgruppe SO [tbd:Kontaktperson 2], id:36645, 36627>
+   <VereinigungArbeitsgruppe SZ [tbd:Kontaktperson 2], id:36646, 36627>
+   <VereinigungArbeitsgruppe TG [tbd:Kontaktperson 1], id:36647, 36627>
+   <VereinigungArbeitsgruppe UR [tbd:Kontaktperson 1], id:36654, 36627>
+   <VereinigungArbeitsgruppe VD [tbd:Kontaktperson 1], id:36655, 36627>
+   <VereinigungArbeitsgruppe VS-CSP Oberwallis [tbd:Kontaktperson 2], id:36659, 36627>
+   <VereinigungArbeitsgruppe VS-CVP Oberwallis [tbd:Kontaktperson 2], id:36656, 36627>
+   <VereinigungArbeitsgruppe ZG [tbd:Kontaktperson 2], id:36652, 36627>
+   <VereinigungArbeitsgruppe ZH [tbd:Kontaktperson 1], id:36653, 36627>
+  <VereinigungPraesidium Vorstand [Mitglied 7, Praesident 3], id:36625, 4>
+  <Kanton 60+ AG, id:36665, 4>
+   <KantonMitglieder Mitgliedschaften [Mitglied 267], id:36668, 36665>
+   <KantonPraesidium Vorstand [Praesident 2], id:36666, 36665>
+  <Kanton 60+ BE, id:36246, 4>
+   <KantonMitglieder Mitgliedschaften [Mitglied 108, SympathisantNachKantonalemStatut 1], id:36674, 36246>
+  <Kanton 60+ BL, id:33145, 4>
+   <KantonExterneKontakte Newsletter [Kontakt 104], id:38957, 33145>
+   <KantonMitglieder Mitgliedschaften [Mitglied 128, SympathisantNachKantonalemStatut 1], id:36671, 33145>
+  <Kanton 60+ BS, id:39134, 4>
+   <KantonMitglieder Mitgliedschaften [Mitglied 3, SympathisantNachKantonalemStatut 199], id:39136, 39134>
+  <Kanton 60+ FR, id:14859, 4>
+   <KantonMitglieder Mitgliedschaften [Mitglied 1], id:37561, 14859>
+  <Kanton 60+ GR, id:44, 4>
+   <KantonMitglieder Mitgliedschaften [Mitglied 394], id:36823, 44>
+  <Kanton 60+ LU, id:45, 4>
+   <KantonExterneKontakte Newsletter [Kontakt 683], id:38788, 45>
+   <Region Wahlkreis Entlebuch, id:36819, 45>
+    <RegionMitglieder Mitgliedschaften [Mitglied 12], id:36821, 36819>
+   <Region Wahlkreis Hochdorf, id:37015, 45>
+    <RegionMitglieder Mitgliedschaften [Mitglied 589], id:37025, 37015>
+   <Region Wahlkreis Luzern Land, id:37017, 45>
+    <RegionMitglieder Mitgliedschaften [Mitglied 681], id:37026, 37017>
+   <Region Wahlkreis Luzern Stadt, id:37019, 45>
+    <RegionMitglieder Mitgliedschaften [Mitglied 610, Sympathisant 62], id:37027, 37019>
+   <Region Wahlkreis Sursee, id:37021, 45>
+    <RegionArbeitsgruppe Seniorenrat [tbd:Mitglied 12], id:40047, 37021>
+    <RegionMitglieder Mitgliedschaften [Mitglied 706], id:37028, 37021>
+   <Region Wahlkreis Willisau, id:37023, 45>
+    <RegionMitglieder Mitgliedschaften [Mitglied 270], id:37029, 37023>
+  <Kanton 60+ SG, id:35484, 4>
+   <Region Regionalpartei Rheintal, id:35485, 35484>
+    <RegionMitglieder Mitgliedschaften [Mitglied 226], id:35511, 35485>
+   <Region Regionalpartei Rorschach, id:35487, 35484>
+    <RegionMitglieder Mitgliedschaften [Mitglied 281], id:35502, 35487>
+   <Region Regionalpartei Sarganserland, id:35489, 35484>
+    <RegionMitglieder Mitgliedschaften [Mitglied 213], id:35503, 35489>
+   <Region Regionalpartei See-Gaster, id:35490, 35484>
+    <RegionMitglieder Mitgliedschaften [Mitglied 238], id:35504, 35490>
+   <Region Regionalpartei St. Gallen-Gossau, id:35491, 35484>
+    <RegionMitglieder Mitgliedschaften [Mitglied 700], id:35505, 35491>
+   <Region Regionalpartei Toggenburg, id:35492, 35484>
+    <RegionMitglieder Mitgliedschaften [Mitglied 184], id:35506, 35492>
+   <Region Regionalpartei Werdenberg, id:35493, 35484>
+    <RegionMitglieder Mitgliedschaften [Mitglied 113], id:35507, 35493>
+   <Region Regionalpartei Wil-Untertoggenburg, id:35494, 35484>
+    <RegionMitglieder Mitgliedschaften [Mitglied 246, Sympathisant 4], id:35508, 35494>
+  <Kanton 60+ SO, id:36262, 4>
+   <KantonMitglieder Mitgliedschaften [Mitglied 75], id:36264, 36262>
+  <Kanton 60+ SZ, id:35663, 4>
+   <KantonArbeitsgruppe Leitungsteam [Mitglied 8], id:35664, 35663>
+   <KantonMitglieder Mitgliedschaften [Mitglied 379, SympathisantNachKantonalemStatut 38], id:36661, 35663>
+  <Kanton 60+ TG, id:46, 4>
+   <KantonMitglieder Mitgliedschaften [Mitglied 308], id:36837, 46>
+  <Kanton 60+ UR, id:39271, 4>
+   <KantonMitglieder Mitgliedschaften [Mitglied 8], id:39274, 39271>
+  <Kanton 60+ ZG, id:36621, 4>
+   <KantonMitglieder Mitgliedschaften [Mitglied 154, SympathisantNachKantonalemStatut 36], id:36624, 36621>
+  <Kanton 60+ ZH, id:38869, 4>
+   <KantonMitglieder Mitgliedschaften [Mitglied 78], id:38871, 38869>
+  <Kanton Weitere Funktionen [tbd:Betreuung Homepage 1, tbd:Revisor 2, tbd:Sekretär 1, tbd:Sekretär Kantonalpartei/Vereinigung 1], id:36626, 4>

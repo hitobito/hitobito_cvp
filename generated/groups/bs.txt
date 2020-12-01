@@ -1,0 +1,50 @@
+<Bund id=1, label=CVP Schweiz, parent_id=>
+ <Kanton id=157, label=CVP BS, parent_id=1>
+  <KantonArbeitsgruppe id=1036, label=Arbeitsgruppe Schule, Erziehung, Bildung (SEB), parent_id=157>
+  <KantonArbeitsgruppe id=1037, label=BL/BS Organisationen, parent_id=157>
+   <KantonArbeitsgruppe id=2694, label=KAB, parent_id=1037>
+   <KantonArbeitsgruppe id=2695, label=Mittelstandsvereinigung Basel, parent_id=1037>
+  <KantonArbeitsgruppe id=37320, label=Diverse Funktionen, parent_id=157>
+  <KantonArbeitsgruppe id=1041, label=Finanzen, parent_id=157>
+   <KantonArbeitsgruppe id=2697, label=Patronat, parent_id=1041>
+  <KantonArbeitsgruppe id=38198, label=Fundraising, parent_id=157>
+   <KantonArbeitsgruppe id=39182, label=Grossunternehmen, parent_id=38198>
+   <KantonArbeitsgruppe id=39183, label=KMU, parent_id=38198>
+   <KantonArbeitsgruppe id=39184, label=Verbände, parent_id=38198>
+   <KantonArbeitsgruppe id=39185, label=Zünfte, parent_id=38198>
+  <KantonArbeitsgruppe id=37321, label=Ratsexterne Kommissionen, parent_id=157>
+   <KantonArbeitsgruppe id=37322, label=Erziehungsrat, parent_id=37321>
+   <KantonArbeitsgruppe id=37323, label=Verwaltungsrat BVB, parent_id=37321>
+  <KantonExterneKontakte id=39525, label=Medienverteiler, parent_id=157>
+  <KantonExterneKontakte id=39524, label=Newsletter, parent_id=157>
+  <KantonGewaehlte id=33169, label=Exekutive, parent_id=157>
+  <KantonGewaehlte id=415, label=Judikative, parent_id=157>
+   <KantonGewaehlte id=1030, label=Appellationsgericht, parent_id=415>
+   <KantonGewaehlte id=1031, label=Sozialversicherungsgericht, parent_id=415>
+   <KantonGewaehlte id=1032, label=Strafgericht, parent_id=415>
+   <KantonGewaehlte id=1033, label=Zivilgericht, parent_id=415>
+  <KantonGewaehlte id=417, label=Legislative, parent_id=157>
+  <KantonMitglieder id=418, label=Mitgliedschaften, parent_id=157>
+  <KantonPraesidium id=419, label=Partei, parent_id=157>
+  <KantonPraesidium id=1043, label=Parteileitung, parent_id=157>
+  <KantonPraesidium id=1045, label=Vorstand, parent_id=157>
+  <KantonSpender id=38316, label=Donatoren, parent_id=157>
+  <Ort id=420, label=Riehen, parent_id=157>
+   <OrtGewaehlte id=36219, label=Exekutive, parent_id=420>
+   <OrtGewaehlte id=1047, label=Legislative, parent_id=420>
+   <OrtMitglieder id=1048, label=Mitgliedschaften, parent_id=420>
+   <OrtPraesidium id=1049, label=Partei, parent_id=420>
+  <Region id=34890, label=Stadt Basel, parent_id=157>
+   <RegionArbeitsgruppe id=37319, label=Basler Bürger, parent_id=34890>
+   <RegionArbeitsgruppe id=34891, label=Exekutive, parent_id=34890>
+   <RegionArbeitsgruppe id=34892, label=Legislative, parent_id=34890>
+   <Ort id=413, label=Grossbasel-Ost, parent_id=34890>
+    <OrtMitglieder id=1026, label=Mitgliedschaften, parent_id=413>
+    <OrtPraesidium id=1027, label=Partei, parent_id=413>
+   <Ort id=414, label=Grossbasel-West, parent_id=34890>
+    <OrtMitglieder id=1028, label=Mitgliedschaften, parent_id=414>
+    <OrtPraesidium id=1029, label=Partei, parent_id=414>
+   <Ort id=416, label=Kleinbasel, parent_id=34890>
+    <OrtMitglieder id=1034, label=Mitgliedschaften, parent_id=416>
+    <OrtPraesidium id=1035, label=Partei, parent_id=416>
+   <Ort id=37324, label=Stiftungskommission, parent_id=34890>

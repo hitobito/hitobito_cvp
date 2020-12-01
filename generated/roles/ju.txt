@@ -1,0 +1,240 @@
+<Bund CVP Schweiz, id:1, 0>
+ <Kanton CVP JU, id:162, 1>
+  <KantonArbeitsgruppe Politikkommission [Mitglied 23, Praesident 4], id:35531, 162>
+  <KantonExterneKontakte Newsletter [Kontakt 610], id:39969, 162>
+  <KantonGewaehlte Exekutive [KantonaleExekutive 2, Staatsanwaltschaft 2, tbd:Juge de 1re instance 3, tbd:Privatsekretär 2, tbd:Präsident 1], id:35530, 162>
+  <KantonGewaehlte Judikative [tbd:Juge au tribunal 4], id:488, 162>
+  <KantonGewaehlte Legislative [KantonaleLegislative 47], id:489, 162>
+  <KantonMitglieder Mitgliedschaften [Mitglied 33, SympathisantNachKantonalemStatut 1], id:36340, 162>
+  <KantonPraesidium Partei [Praesident 11, tbd:Ansprechperson Finanzen 3, tbd:Botschafter 1, tbd:Delegierte CVP Frauen CH 1, tbd:Empfänger Rechnung Jahresbeitrag CVP CH 6, tbd:Kanzler kantonal 1, tbd:Membre de AIJ 5, tbd:Membre de la Présidence 18, tbd:Nationalrat 1, tbd:OM Ansprechperson 1, tbd:Présidence élargie 19, tbd:Sekretär Kantonalpartei/Vereinigung 2, tbd:Ständerat 1, tbd:administrativer Sekretär 1], id:491, 162>
+  <Region Ajoie, id:485, 162>
+   <RegionMitglieder Mitgliedschaften, id:36453, 485>
+   <RegionPraesidium Partei [Praesident 3, tbd:Kassier 1, tbd:Sekretär 3, tbd:Vorstandsmitglied 6], id:1340, 485>
+   <Ort Alle, id:1310, 485>
+    <OrtGewaehlte Exekutive [Fraktionschef 2, KommunaleExekutive 7], id:35532, 1310>
+    <OrtMitglieder Mitgliedschaften [Mitglied 69], id:2880, 1310>
+    <OrtPraesidium Partei [Adressverwalter 1, Praesident 2, tbd:Gemeindammann 1], id:2881, 1310>
+   <Ort Asuel, id:1311, 485>
+    <OrtMitglieder Mitgliedschaften [Mitglied 4], id:2882, 1311>
+    <OrtPraesidium Partei [Praesident 1], id:2883, 1311>
+   <Ort Baroche, id:1312, 485>
+    <OrtGewaehlte Exekutive [Fraktionschef 1, KommunaleExekutive 2], id:36364, 1312>
+    <OrtMitglieder Mitgliedschaften [Mitglied 42], id:36365, 1312>
+    <OrtPraesidium Partei [Adressverwalter 1, tbd:Gemeindammann 2], id:2884, 1312>
+   <Ort Basse Allaine, id:1313, 485>
+    <OrtGewaehlte Exekutive [Fraktionschef 1, KommunaleExekutive 3], id:36386, 1313>
+    <OrtMitglieder Mitgliedschaften [Mitglied 108], id:2885, 1313>
+    <OrtPraesidium Partei [Praesident 1], id:2886, 1313>
+   <Ort Beurnevésin, id:1314, 485>
+    <OrtGewaehlte Exekutive [Fraktionschef 1, KommunaleExekutive 1], id:36388, 1314>
+    <OrtMitglieder Mitgliedschaften [Mitglied 7], id:2887, 1314>
+    <OrtPraesidium Partei [Praesident 1], id:2888, 1314>
+   <Ort Boncourt, id:1315, 485>
+    <OrtGewaehlte Exekutive [Fraktionschef 2, KommunaleExekutive 5], id:36389, 1315>
+    <OrtMitglieder Mitgliedschaften [Mitglied 121], id:2889, 1315>
+    <OrtPraesidium Partei [Adressverwalter 2, Praesident 1], id:2890, 1315>
+   <Ort Bonfol, id:1316, 485>
+    <OrtMitglieder Mitgliedschaften [Mitglied 21, SympathisantNachKantonalemStatut 5], id:2891, 1316>
+    <OrtPraesidium Partei [Adressverwalter 2, Praesident 1], id:2892, 1316>
+   <Ort Buix, id:1318, 485>
+    <OrtMitglieder Mitgliedschaften [Mitglied 67], id:2895, 1318>
+   <Ort Bure, id:1319, 485>
+    <OrtGewaehlte Exekutive [Fraktionschef 3, KommunaleExekutive 3], id:36391, 1319>
+    <OrtMitglieder Mitgliedschaften [Mitglied 74], id:2897, 1319>
+    <OrtPraesidium Partei [Praesident 1, tbd:Sekretär 1], id:2898, 1319>
+   <Ort Clos du Doubs, id:1322, 485>
+    <OrtGewaehlte Exekutive [Fraktionschef 1, KommunaleExekutive 5], id:36392, 1322>
+    <OrtMitglieder Mitgliedschaften [Mitglied 169], id:2903, 1322>
+    <OrtPraesidium Partei [Mitglied 8, Praesident 3, tbd:Sekretär 1], id:2904, 1322>
+   <Ort Coeuve, id:1323, 485>
+    <OrtGewaehlte Exekutive [Fraktionschef 1, KommunaleExekutive 2], id:36393, 1323>
+    <OrtMitglieder Mitgliedschaften [Mitglied 64], id:2905, 1323>
+    <OrtPraesidium Partei [Adressverwalter 2, Praesident 1], id:2906, 1323>
+   <Ort Cornol, id:1324, 485>
+    <OrtGewaehlte Exekutive [KommunaleExekutive 3], id:36394, 1324>
+    <OrtMitglieder Mitgliedschaften [Mitglied 28], id:2907, 1324>
+    <OrtPraesidium Partei [Adressverwalter 1, Mitglied 1, Praesident 2], id:2908, 1324>
+   <Ort Courchavon, id:1325, 485>
+    <OrtGewaehlte Exekutive [Fraktionschef 1, KommunaleExekutive 4], id:36395, 1325>
+    <OrtMitglieder Mitgliedschaften [Mitglied 72], id:2909, 1325>
+    <OrtPraesidium Partei [Adressverwalter 1, Mitglied 7, Praesident 1], id:2910, 1325>
+   <Ort Courgenay, id:1326, 485>
+    <OrtGewaehlte Exekutive [KommunaleExekutive 4], id:36396, 1326>
+    <OrtMitglieder Mitgliedschaften [Mitglied 57], id:2911, 1326>
+    <OrtPraesidium Partei [Adressverwalter 3, Praesident 2], id:2912, 1326>
+   <Ort Courtedoux, id:1327, 485>
+    <OrtMitglieder Mitgliedschaften [Mitglied 15, SympathisantNachKantonalemStatut 1], id:2913, 1327>
+    <OrtPraesidium Partei [Adressverwalter 1], id:2914, 1327>
+   <Ort Courtemaîche, id:1328, 485>
+    <OrtMitglieder Mitgliedschaften [Mitglied 42], id:2915, 1328>
+   <Ort Damphreux, id:1329, 485>
+    <OrtGewaehlte Exekutive [Fraktionschef 1, KommunaleExekutive 5], id:36399, 1329>
+    <OrtMitglieder Mitgliedschaften [Mitglied 33], id:2917, 1329>
+    <OrtPraesidium Partei [Praesident 1], id:2918, 1329>
+   <Ort Fahy, id:1331, 485>
+    <OrtMitglieder Mitgliedschaften [Mitglied 8], id:2920, 1331>
+    <OrtPraesidium Partei [Adressverwalter 1, Mitglied 1], id:36400, 1331>
+   <Ort Fontenais, id:1332, 485>
+    <OrtGewaehlte Exekutive [Fraktionschef 2, KommunaleExekutive 3], id:36402, 1332>
+    <OrtMitglieder Mitgliedschaften [Mitglied 62], id:2921, 1332>
+    <OrtPraesidium Partei [Adressverwalter 6, Mitglied 3, Praesident 2, tbd:Sekretär 1], id:2922, 1332>
+   <Ort Grandfontaine, id:1334, 485>
+    <OrtGewaehlte Exekutive [Fraktionschef 2, KommunaleExekutive 2], id:36403, 1334>
+    <OrtMitglieder Mitgliedschaften [Mitglied 62], id:2924, 1334>
+    <OrtPraesidium Partei [Adressverwalter 3, Praesident 1], id:2925, 1334>
+   <Ort Haute-Ajoie, id:35877, 485>
+    <OrtGewaehlte Exekutive [KommunaleExekutive 3], id:36404, 35877>
+    <OrtMitglieder Mitgliedschaften [Mitglied 135], id:35879, 35877>
+    <OrtPraesidium Partei [Adressverwalter 1, Praesident 1], id:35878, 35877>
+   <Ort Lugnez, id:1335, 485>
+    <OrtMitglieder Mitgliedschaften [Mitglied 17], id:2926, 1335>
+    <OrtPraesidium Partei [Praesident 1], id:2927, 1335>
+   <Ort Montignez, id:1338, 485>
+    <OrtMitglieder Mitgliedschaften [Mitglied 17], id:2931, 1338>
+   <Ort Porrentruy, id:1342, 485>
+    <OrtArbeitsgruppe Legislativ [tbd:Mitglied 20], id:37584, 1342>
+    <OrtGewaehlte Exekutive [Fraktionschef 2, KommunaleExekutive 2], id:36407, 1342>
+    <OrtMitglieder Mitgliedschaften [Mitglied 413, SympathisantNachKantonalemStatut 3], id:2936, 1342>
+    <OrtPraesidium Partei [Adressverwalter 16, Mitglied 7, Praesident 2, tbd:Sekretär 2], id:2937, 1342>
+   <Ort Rocourt (commune), id:39019, 485>
+    <OrtGewaehlte Exekutive [KommunaleExekutive 2], id:39021, 39019>
+   <Ort Vendlincourt, id:1347, 485>
+    <OrtGewaehlte Exekutive [Fraktionschef 2, KommunaleExekutive 2], id:36408, 1347>
+    <OrtMitglieder Mitgliedschaften [Mitglied 24], id:2945, 1347>
+    <OrtPraesidium Partei [Praesident 1], id:2946, 1347>
+  <Region Delémont, id:486, 162>
+   <RegionMitglieder Mitgliedschaften [Mitglied 3, Sympathisant 2], id:1364, 486>
+   <RegionPraesidium Partei [Praesident 1, tbd:Sekretär 1, tbd:Vorstandsmitglied 1], id:1367, 486>
+   <Ort Bassecourt, id:1348, 486>
+    <OrtPraesidium Partei [Praesident 2], id:2948, 1348>
+   <Ort Bourrignon, id:1350, 486>
+    <OrtMitglieder Mitgliedschaften [Mitglied 44], id:2951, 1350>
+    <OrtPraesidium Partei [Praesident 1], id:2952, 1350>
+   <Ort Boécourt, id:1349, 486>
+    <OrtGewaehlte Exekutive [KommunaleExekutive 2], id:36410, 1349>
+    <OrtPraesidium Partei [Praesident 1], id:2950, 1349>
+   <Ort Châtillon, id:1351, 486>
+    <OrtGewaehlte Exekutive [Fraktionschef 1, KommunaleExekutive 1], id:36412, 1351>
+    <OrtMitglieder Mitgliedschaften [Mitglied 11], id:2953, 1351>
+    <OrtPraesidium Partei [Praesident 1], id:2954, 1351>
+   <Ort Corban, id:1352, 486>
+    <OrtGewaehlte Exekutive [Fraktionschef 1, KommunaleExekutive 3], id:36413, 1352>
+    <OrtMitglieder Mitgliedschaften [Mitglied 72], id:2955, 1352>
+    <OrtPraesidium Partei [Praesident 1], id:2956, 1352>
+   <Ort Courchapoix, id:1353, 486>
+    <OrtMitglieder Mitgliedschaften [Mitglied 9], id:2957, 1353>
+   <Ort Courfaivre, id:1354, 486>
+    <OrtGewaehlte Exekutive [Fraktionschef 1], id:36416, 1354>
+   <Ort Courrendlin, id:1355, 486>
+    <OrtGewaehlte Exekutive [Fraktionschef 1, KommunaleExekutive 2], id:36417, 1355>
+    <OrtMitglieder Mitgliedschaften [Mitglied 46], id:2960, 1355>
+    <OrtPraesidium Partei [Adressverwalter 7, Praesident 1], id:2961, 1355>
+   <Ort Courroux, id:1356, 486>
+    <OrtGewaehlte Exekutive [KommunaleExekutive 1], id:36418, 1356>
+    <OrtMitglieder Mitgliedschaften [Mitglied 85, SympathisantNachKantonalemStatut 11], id:2962, 1356>
+    <OrtPraesidium Partei [Adressverwalter 8, Praesident 1], id:2963, 1356>
+   <Ort Courtételle, id:1357, 486>
+    <OrtGewaehlte Exekutive [Fraktionschef 1, KommunaleExekutive 5], id:36419, 1357>
+    <OrtMitglieder Mitgliedschaften [Mitglied 83], id:2964, 1357>
+    <OrtPraesidium Partei [Adressverwalter 4, Praesident 1], id:2965, 1357>
+   <Ort Delémont, id:1358, 486>
+    <OrtArbeitsgruppe Legislativ [tbd:Mitglied 13], id:37585, 1358>
+    <OrtGewaehlte Exekutive [Fraktionschef 1, KommunaleExekutive 1], id:36420, 1358>
+    <OrtMitglieder Mitgliedschaften [Mitglied 305, SympathisantNachKantonalemStatut 2], id:2966, 1358>
+    <OrtPraesidium Partei [Adressverwalter 23, Mitglied 4, Praesident 2, tbd:Sekretär 1], id:2967, 1358>
+   <Ort Develier, id:1359, 486>
+    <OrtGewaehlte Exekutive [KommunaleExekutive 2], id:36421, 1359>
+    <OrtMitglieder Mitgliedschaften [Mitglied 203], id:2968, 1359>
+    <OrtPraesidium Partei [Adressverwalter 1], id:2969, 1359>
+   <Ort Ederswiler, id:1360, 486>
+    <OrtGewaehlte Exekutive [Fraktionschef 1], id:36422, 1360>
+    <OrtMitglieder Mitgliedschaften [Mitglied 1], id:2970, 1360>
+   <Ort Glovelier, id:1361, 486>
+    <OrtGewaehlte Exekutive [Fraktionschef 1], id:36423, 1361>
+    <OrtPraesidium Partei [Praesident 1], id:2973, 1361>
+   <Ort Haute-Sorne, id:36575, 486>
+    <OrtArbeitsgruppe Legislativ [tbd:Mitglied 16], id:37586, 36575>
+    <OrtGewaehlte Exekutive [KommunaleExekutive 7], id:36577, 36575>
+    <OrtMitglieder Mitgliedschaften [Mitglied 380], id:36584, 36575>
+    <OrtPraesidium Partei [Adressverwalter 9, Kassier 1, Praesident 1], id:36576, 36575>
+   <Ort Mervelier, id:1362, 486>
+    <OrtMitglieder Mitgliedschaften [Mitglied 20], id:2974, 1362>
+    <OrtPraesidium Partei [Adressverwalter 1, Praesident 1], id:2975, 1362>
+   <Ort Mettembert, id:1363, 486>
+    <OrtMitglieder Mitgliedschaften [Mitglied 7], id:2976, 1363>
+   <Ort Movelier, id:1366, 486>
+    <OrtGewaehlte Exekutive [Fraktionschef 1, KommunaleExekutive 3], id:36427, 1366>
+    <OrtMitglieder Mitgliedschaften [Mitglied 14], id:2980, 1366>
+    <OrtPraesidium Partei [Praesident 3], id:2981, 1366>
+   <Ort Pleigne, id:1368, 486>
+    <OrtGewaehlte Exekutive [Fraktionschef 2, KommunaleExekutive 3], id:36428, 1368>
+    <OrtMitglieder Mitgliedschaften [Mitglied 36], id:2982, 1368>
+    <OrtPraesidium Partei [Adressverwalter 1, Mitglied 5, Praesident 1, tbd:Sekretär 1], id:2983, 1368>
+   <Ort Rebeuvelier, id:1369, 486>
+    <OrtMitglieder Mitgliedschaften [Mitglied 1], id:2984, 1369>
+   <Ort Rossemaison, id:1370, 486>
+    <OrtGewaehlte Exekutive [KommunaleExekutive 2], id:36432, 1370>
+    <OrtMitglieder Mitgliedschaften [Mitglied 3], id:2985, 1370>
+   <Ort Saulcy, id:1371, 486>
+    <OrtPraesidium Partei [Praesident 1], id:2987, 1371>
+   <Ort Soulce, id:1372, 486>
+    <OrtPraesidium Partei [Praesident 1], id:2989, 1372>
+   <Ort Soyhières, id:1373, 486>
+    <OrtMitglieder Mitgliedschaften [Mitglied 1], id:2990, 1373>
+   <Ort Undervelier, id:1374, 486>
+    <OrtPraesidium Partei [Praesident 1], id:2993, 1374>
+   <Ort Val-Terbi, id:36578, 486>
+    <OrtArbeitsgruppe Legislativ [tbd:Mitglied 16], id:37587, 36578>
+    <OrtGewaehlte Exekutive [Fraktionschef 1, KommunaleExekutive 5], id:36580, 36578>
+    <OrtMitglieder Mitgliedschaften [Mitglied 273], id:36585, 36578>
+    <OrtPraesidium Partei [Adressverwalter 2, Praesident 1], id:36579, 36578>
+   <Ort Vellerat, id:1375, 486>
+    <OrtGewaehlte Exekutive [KommunaleExekutive 1], id:36438, 1375>
+    <OrtMitglieder Mitgliedschaften [Mitglied 2], id:2994, 1375>
+  <Region Franches-Montagnes, id:487, 162>
+   <RegionMitglieder Mitgliedschaften [Mitglied 2], id:1387, 487>
+   <RegionPraesidium Partei [Praesident 4, tbd:Sekretär 1, tbd:Vorstandsmitglied 1], id:1389, 487>
+   <Ort La Chaux-des-Breuleux, id:1378, 487>
+    <OrtMitglieder Mitgliedschaften [Mitglied 6], id:2999, 1378>
+    <OrtPraesidium Partei [Praesident 1], id:3000, 1378>
+   <Ort Lajoux, id:1379, 487>
+    <OrtMitglieder Mitgliedschaften [Mitglied 6], id:3001, 1379>
+    <OrtPraesidium Partei [Adressverwalter 1, Praesident 1], id:3002, 1379>
+   <Ort Le Bémont, id:1380, 487>
+    <OrtMitglieder Mitgliedschaften [Mitglied 5], id:3003, 1380>
+    <OrtPraesidium Partei [Praesident 1], id:3004, 1380>
+   <Ort Le Noirmont, id:1381, 487>
+    <OrtMitglieder Mitgliedschaften [Mitglied 58], id:3005, 1381>
+    <OrtPraesidium Partei [Adressverwalter 5, Praesident 1], id:3006, 1381>
+   <Ort Les Bois, id:1382, 487>
+    <OrtArbeitsgruppe Legislativ [tbd:Mitglied 9], id:37583, 1382>
+    <OrtGewaehlte Exekutive [Fraktionschef 1, KommunaleExekutive 2], id:36443, 1382>
+    <OrtMitglieder Mitgliedschaften [Mitglied 74], id:3007, 1382>
+    <OrtPraesidium Partei [Adressverwalter 2, Praesident 2], id:3008, 1382>
+   <Ort Les Breuleux, id:1383, 487>
+    <OrtGewaehlte Exekutive [KommunaleExekutive 4], id:36444, 1383>
+    <OrtMitglieder Mitgliedschaften [Mitglied 79], id:3009, 1383>
+    <OrtPraesidium Partei [Adressverwalter 9, Praesident 2], id:3010, 1383>
+   <Ort Les Enfers, id:1384, 487>
+    <OrtMitglieder Mitgliedschaften [Mitglied 11], id:3011, 1384>
+    <OrtPraesidium Partei [Adressverwalter 1], id:3012, 1384>
+   <Ort Les Genevez, id:1385, 487>
+    <OrtMitglieder Mitgliedschaften [Mitglied 5], id:3013, 1385>
+   <Ort Montfaucon, id:1388, 487>
+    <OrtGewaehlte Exekutive [KommunaleExekutive 1], id:36449, 1388>
+    <OrtMitglieder Mitgliedschaften [Mitglied 42], id:3016, 1388>
+   <Ort Muriaux, id:36581, 487>
+    <OrtMitglieder Mitgliedschaften, id:36586, 36581>
+   <Ort Saignelégier, id:1390, 487>
+    <OrtGewaehlte Exekutive [KommunaleExekutive 6], id:36450, 1390>
+    <OrtMitglieder Mitgliedschaften [Mitglied 194], id:3017, 1390>
+    <OrtPraesidium Partei [Adressverwalter 12, Kassier 1, Mitglied 10, Praesident 3, tbd:Sekretär 2], id:3018, 1390>
+   <Ort Soubey, id:1391, 487>
+    <OrtMitglieder Mitgliedschaften [Mitglied 20], id:3019, 1391>
+    <OrtPraesidium Partei [Adressverwalter 1, Praesident 1], id:3020, 1391>
+   <Ort St-Brais, id:1392, 487>
+    <OrtMitglieder Mitgliedschaften [Mitglied 3], id:3021, 1392>
+    <OrtPraesidium Partei [Adressverwalter 1, Praesident 1], id:3022, 1392>
+  <Region Moutier, id:39884, 162>
+   <RegionMitglieder Mitgliedschaften [Mitglied 92, Sympathisant 1], id:39886, 39884>
+   <RegionPraesidium Partei [Praesident 1, tbd:Kassier 1, tbd:Sekretär 1, tbd:Vorstandsmitglied 8], id:39885, 39884>

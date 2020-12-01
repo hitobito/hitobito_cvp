@@ -1,0 +1,42 @@
+<Bund id=1, label=CVP Schweiz, parent_id=>
+ <Kanton id=173, label=CVP UR, parent_id=1>
+  <KantonArbeitsgruppe id=38864, label=Nationale Funktionen, parent_id=173>
+  <KantonArbeitsgruppe id=2077, label=Parteitag, parent_id=173>
+  <KantonDelegierte id=2074, label=DV, parent_id=173>
+   <KantonDelegierte id=34921, label=Von Amtes wegen, parent_id=2074>
+  <KantonGewaehlte id=611, label=Exekutive, parent_id=173>
+  <KantonGewaehlte id=612, label=Judikative, parent_id=173>
+   <KantonGewaehlte id=34905, label=Landgericht Uri, parent_id=612>
+   <KantonGewaehlte id=34906, label=Landgericht Ursern, parent_id=612>
+   <KantonGewaehlte id=34904, label=Obergericht, parent_id=612>
+  <KantonGewaehlte id=613, label=Legislative, parent_id=173>
+  <KantonKommission id=38863, label=Kontrollkommission, parent_id=173>
+  <KantonMitglieder id=614, label=Mitgliedschaften, parent_id=173>
+  <KantonPraesidium id=2073, label=Parteivorstand, parent_id=173>
+  <Ort id=600, label=Altdorf, parent_id=173>
+   <OrtArbeitsgruppe id=38798, label=Landrat, parent_id=600>
+   <OrtArbeitsgruppe id=35009, label=Öffentliche Ämter, parent_id=600>
+   <OrtGewaehlte id=35008, label=Exekutive, parent_id=600>
+   <OrtMitglieder id=2057, label=Mitgliedschaften, parent_id=600>
+   <OrtPraesidium id=2058, label=Partei, parent_id=600>
+  <Ort id=601, label=Andermatt, parent_id=173>
+   <OrtMitglieder id=2059, label=Mitgliedschaften, parent_id=601>
+   <OrtPraesidium id=35686, label=Partei, parent_id=601>
+  <Ort id=602, label=Attinghausen, parent_id=173>
+   <OrtMitglieder id=2060, label=Mitgliedschaften, parent_id=602>
+   <OrtPraesidium id=35687, label=Partei, parent_id=602>
+  <Ort id=603, label=Bürglen, parent_id=173>
+   <OrtMitglieder id=2061, label=Mitgliedschaften, parent_id=603>
+   <OrtPraesidium id=2062, label=Partei, parent_id=603>
+  <Ort id=604, label=Erstfeld, parent_id=173>
+   <OrtMitglieder id=2063, label=Mitgliedschaften, parent_id=604>
+   <OrtPraesidium id=2064, label=Partei, parent_id=604>
+  <Ort id=608, label=Schattdorf, parent_id=173>
+   <OrtMitglieder id=2068, label=Mitgliedschaften, parent_id=608>
+   <OrtPraesidium id=35691, label=Partei, parent_id=608>
+  <Ort id=609, label=Seedorf, parent_id=173>
+   <OrtMitglieder id=2069, label=Mitgliedschaften, parent_id=609>
+   <OrtPraesidium id=2070, label=Partei, parent_id=609>
+  <Ort id=610, label=Silenen, parent_id=173>
+   <OrtMitglieder id=2071, label=Mitgliedschaften, parent_id=610>
+   <OrtPraesidium id=2072, label=Partei, parent_id=610>

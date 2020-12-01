@@ -1,0 +1,18 @@
+<Bund CVP Schweiz, id:1, 0>
+ <Kanton CVP GL, id:160, 1>
+  <KantonArbeitsgruppe Rechnung Sektionen [tbd:Empfänger 2], id:39450, 160>
+  <KantonGewaehlte Exekutive [KantonaleExekutive 1], id:36706, 160>
+  <KantonGewaehlte Judikative [Staatsanwaltschaft 1, tbd:Richter 6], id:443, 160>
+  <KantonGewaehlte Legislative [KantonaleLegislative 42], id:444, 160>
+  <KantonMitglieder Mitgliedschaften [Mitglied 4, SympathisantNachKantonalemStatut 2], id:445, 160>
+  <KantonPraesidium Partei [Praesident 2, tbd:Ansprechperson Finanzen 2, tbd:Empfänger Rechnung Jahresbeitrag CVP CH 1, tbd:Empfänger Umzugsmeldung 1, tbd:Kassier 1, tbd:OM Ansprechperson 2, tbd:Sekretär Kantonalpartei/Vereinigung 1], id:452, 160>
+  <Ort Glarus Mitte, id:14570, 160>
+   <OrtMitglieder Mitgliedschaften [Mitglied 63, SympathisantNachKantonalemStatut 42], id:14579, 14570>
+   <OrtPraesidium Partei [Adressverwalter 3], id:14584, 14570>
+  <Ort Glarus Nord, id:14569, 160>
+   <OrtGewaehlte Legislative [KommunaleExekutive 1], id:14585, 14569>
+   <OrtMitglieder Mitgliedschaften [Mitglied 146, SympathisantNachKantonalemStatut 128], id:14580, 14569>
+   <OrtPraesidium Partei [Adressverwalter 1, Mitglied 1], id:14583, 14569>
+  <Ort Glarus Süd, id:5092, 160>
+   <OrtMitglieder Mitgliedschaften [Mitglied 52], id:5093, 5092>
+   <OrtPraesidium Partei [Adressverwalter 1], id:14573, 5092>

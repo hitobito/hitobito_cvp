@@ -1,0 +1,58 @@
+<Bund CVP Schweiz, id:1, 0>
+ <Vereinigung CVP Frauen, id:3, 1>
+  <VereinigungArbeitsgruppe Delegierte CVP Frauen Schweiz, id:39714, 3>
+   <VereinigungArbeitsgruppe BL [tbd:Delegierte 1], id:39780, 39714>
+   <VereinigungArbeitsgruppe GE [tbd:Delegierte 1], id:39783, 39714>
+   <VereinigungArbeitsgruppe GR [tbd:Delegierte 1], id:39784, 39714>
+   <VereinigungArbeitsgruppe JU [tbd:Delegierte 1], id:39785, 39714>
+   <VereinigungArbeitsgruppe TI [tbd:Delegierte 1], id:39791, 39714>
+   <VereinigungArbeitsgruppe VS - Oberwallis [tbd:Delegierte 1], id:39795, 39714>
+   <VereinigungArbeitsgruppe ZG [tbd:Delegierte 1], id:39797, 39714>
+  <VereinigungArbeitsgruppe Freundeskreis [Mitglied 1537], id:17, 3>
+  <VereinigungPraesidium CVP Frauen Schweiz [Mitglied 138, Praesident 4, tbd:Büro 7, tbd:Revisor 4, tbd:Sekretär (administrativ) 1, tbd:Sekretär Kantonalpartei/Vereinigung 1], id:14612, 3>
+  <Kanton AG, id:89, 3>
+   <KantonMitglieder Mitgliedschaften [Mitglied 118, SympathisantNachKantonalemStatut 268], id:36377, 89>
+  <Kanton AI [tbd:Präsident 1], id:14609, 3>
+  <Kanton BE [tbd:Mitglied 35, tbd:Präsident 1], id:91, 3>
+  <Kanton BL [tbd:Mitglied 3], id:92, 3>
+   <KantonExterneKontakte Newsletter [Kontakt 218], id:38955, 92>
+   <KantonMitglieder Mitgliedschaften [Mitglied 125, SympathisantNachKantonalemStatut 6], id:38956, 92>
+  <Kanton FR, id:37563, 3>
+   <KantonMitglieder Mitgliedschaften [Mitglied 6], id:37565, 37563>
+  <Kanton GE [tbd:Mitglied 3, tbd:Präsident 2], id:95, 3>
+  <Kanton GL [tbd:Mitglied 3, tbd:Präsident 1, tbd:Sekretär 1], id:96, 3>
+  <Kanton GR, id:97, 3>
+   <KantonArbeitsgruppe Delegierte CVP Frauen CH [tbd:Delegierter 1], id:38427, 97>
+   <KantonArbeitsgruppe Delegierte CVP GR [tbd:Delegierter 1], id:38426, 97>
+   <KantonArbeitsgruppe Frau Aktiv [tbd:Empfänger 50], id:38428, 97>
+   <KantonMitglieder Mitgliedschaften [Mitglied 407, SympathisantNachKantonalemStatut 42], id:38425, 97>
+   <KantonPraesidium Vorstand [Mitglied 7, Praesident 1], id:38424, 97>
+  <Kanton JU, id:98, 3>
+   <KantonMitglieder Mitgliedschaften [Mitglied 496], id:36385, 98>
+  <Kanton LU, id:38778, 3>
+   <KantonExterneKontakte Newsletter [Kontakt 1457], id:38781, 38778>
+   <KantonMitglieder Mitgliedschaften [Mitglied 425, SympathisantNachKantonalemStatut 2796], id:38780, 38778>
+  <Kanton NE [tbd:Mitglied 1, tbd:Präsident 1], id:100, 3>
+  <Kanton NW [tbd:Mitglied 2], id:101, 3>
+  <Kanton OW, id:102, 3>
+   <KantonMitglieder Mitgliedschaften, id:36794, 102>
+  <Kanton SG, id:103, 3>
+   <KantonExterneKontakte Newsletter [Kontakt 239], id:39233, 103>
+   <KantonMitglieder Mitgliedschaften [Mitglied 275, SympathisantNachKantonalemStatut 94], id:37861, 103>
+   <KantonPraesidium Vorstand [Mitglied 1, Praesident 1, tbd:Ressort Finanzen 1, tbd:Ressort Politik 1], id:37860, 103>
+  <Kanton SH [tbd:Mitglied 2, tbd:Präsident 1], id:104, 3>
+  <Kanton SO, id:105, 3>
+   <KantonMitglieder Mitgliedschaften [Mitglied 3], id:36458, 105>
+  <Kanton TG, id:107, 3>
+   <KantonExterneKontakte Newsletter [Kontakt 253], id:38953, 107>
+   <KantonMitglieder Mitgliedschaften [Mitglied 97, SympathisantNachKantonalemStatut 142], id:36122, 107>
+   <KantonPraesidium Vorstand [Mitglied 11, Praesident 2, tbd:Kassier 1], id:36123, 107>
+  <Kanton TI [tbd:Mitglied 2, tbd:Präsident 2], id:108, 3>
+  <Kanton VD, id:110, 3>
+   <KantonArbeitsgruppe Parti [Praesident 1], id:36209, 110>
+   <KantonMitglieder Mitgliedschaften [Mitglied 112, SympathisantNachKantonalemStatut 1], id:38172, 110>
+  <Kanton VS Oberwallis, id:34983, 3>
+   <KantonMitglieder Mitgliedschaften [Mitglied 19], id:36456, 34983>
+  <Kanton ZG [tbd:Mitglied 254, tbd:Präsident 1], id:112, 3>
+  <Kanton ZH, id:39077, 3>
+   <KantonMitglieder Mitgliedschaften [Mitglied 85, SympathisantNachKantonalemStatut 159], id:39079, 39077>

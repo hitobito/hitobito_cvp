@@ -1,0 +1,6 @@
+<Bund id=1, label=CVP Schweiz, parent_id=>
+ <Kanton id=152, label=CVP AI, parent_id=1>
+  <KantonGewaehlte id=352, label=Judikative, parent_id=152>
+  <KantonGewaehlte id=353, label=Legislative, parent_id=152>
+  <KantonMitglieder id=354, label=Mitgliedschaften, parent_id=152>
+  <KantonPraesidium id=355, label=Partei, parent_id=152>

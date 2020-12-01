@@ -1,0 +1,3 @@
+<Bund CVP Schweiz, id:1, 0>
+ <BundArbeitsgruppe Die Politik, id:7, 1>
+  <BundArbeitsgruppe Inserenten [tbd:Mitglied 1], id:36711, 7>

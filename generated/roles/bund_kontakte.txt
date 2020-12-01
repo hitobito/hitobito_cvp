@@ -1,0 +1,47 @@
+<Bund CVP Schweiz, id:1, 0>
+ <BundExterneKontakte allgemeine Kontakte, id:9, 1>
+  <BundExterneKontakte Dienstleistungen (MS) [tbd:Dienstleistungen 67], id:14621, 9>
+  <BundExterneKontakte Diverses, id:38397, 9>
+   <BundExterneKontakte Adressen Philipp Kutter (NR-Wahlen 2015) [Kontakt 395], id:38398, 38397>
+   <BundExterneKontakte Adressen Reto Nause September 2019 (Buch) [Kontakt 52], id:40289, 38397>
+   <BundExterneKontakte Adressen Reto Nause September 2019 (K) [Kontakt 48], id:40288, 38397>
+   <BundExterneKontakte Adressen Reto Nause September 2019 (Koni Hädener) [Kontakt 126], id:40298, 38397>
+   <BundExterneKontakte Adressen Reto Nause September 2019 (TC) [Kontakt 115], id:40286, 38397>
+   <BundExterneKontakte Petition CVP Stadt Bern (nur für Mailversand) [Kontakt 176], id:39804, 38397>
+   <BundExterneKontakte Rechnungsempfänger Wordpress [tbd:Empfänger 1], id:39874, 38397>
+  <BundExterneKontakte Expertengruppen (DF), id:39415, 9>
+   <BundExterneKontakte Banken (JG) [Kontakt 6], id:39416, 39415>
+   <BundExterneKontakte Bildung (IC) [Kontakt 5], id:39417, 39415>
+   <BundExterneKontakte Biochemie (IC) [Kontakt 1], id:39418, 39415>
+   <BundExterneKontakte Digitalisierung (JG) [Kontakt 9], id:39419, 39415>
+   <BundExterneKontakte Gesundheit (JP) [Kontakt 10], id:39420, 39415>
+   <BundExterneKontakte Migration (SE) [Kontakt 2], id:39421, 39415>
+   <BundExterneKontakte Post (IC) [Kontakt 1], id:39422, 39415>
+   <BundExterneKontakte Rechtsfragen (SE) [Kontakt 6], id:39423, 39415>
+   <BundExterneKontakte Religion (SE) [Kontakt 2], id:39424, 39415>
+   <BundExterneKontakte Service Public (IC) [Kontakt 1], id:39425, 39415>
+   <BundExterneKontakte Sicherheit (SE) [Kontakt 7], id:39426, 39415>
+   <BundExterneKontakte Staatsfinanzen (IC) [Kontakt 3], id:39427, 39415>
+   <BundExterneKontakte Strassenverkehr (IC) [Kontakt 2], id:39428, 39415>
+   <BundExterneKontakte Tabak (JP) [Kontakt 2], id:39429, 39415>
+   <BundExterneKontakte Telekommunikation (IC) [Kontakt 2], id:39430, 39415>
+   <BundExterneKontakte Umwelt (JG) [Kontakt 3], id:39431, 39415>
+   <BundExterneKontakte Verkehr (IC) [Kontakt 2], id:39432, 39415>
+   <BundExterneKontakte Wirtschaft (JG) [Kontakt 5], id:39433, 39415>
+  <BundExterneKontakte Firmen, id:39235, 9>
+   <BundExterneKontakte Grossfirmen Mai 2017 (ab 800 MA) [Kontakt 154], id:39237, 39235>
+   <BundExterneKontakte KMU Mai 2017 (bis 799 MA) [Kontakt 127], id:39236, 39235>
+  <BundExterneKontakte Medien (MA) [tbd:Zu versorgen 154], id:11, 9>
+   <BundExterneKontakte Fachzeitschriften, id:47, 11>
+    <BundExterneKontakte Fachmedien [tbd:Fachzeitschriften (Medienverteiler) 638], id:264, 47>
+   <BundExterneKontakte Print, id:51, 11>
+    <BundExterneKontakte Tagesmedien [tbd:Journalist 4], id:33155, 51>
+    <BundExterneKontakte Zu versorgen [tbd:Zu versorgen 255], id:33158, 51>
+   <BundExterneKontakte Radio, id:49, 11>
+    <BundExterneKontakte Zu versorgen [tbd:Zu versorgen 52], id:33159, 49>
+   <BundExterneKontakte TV, id:50, 11>
+    <BundExterneKontakte Zu versorgen [tbd:Zu versorgen 44], id:33160, 50>
+   <BundExterneKontakte online, id:48, 11>
+    <BundExterneKontakte Verteiler [tbd:Zu versorgen 18], id:33149, 48>
+  <BundExterneKontakte Parteien (MS) [tbd:Parteien 4], id:14622, 9>
+  <BundExterneKontakte Wordpress-Rechnungen [Kontakt 135], id:40002, 9>

@@ -1,0 +1,194 @@
+<Bund id=1, label=CVP Schweiz, parent_id=>
+ <Kanton id=170, label=CVP SZ, parent_id=1>
+  <KantonArbeitsgruppe id=36179, label=AG Wirtschaftstagung, parent_id=170>
+  <KantonArbeitsgruppe id=35581, label=Bankrat, parent_id=170>
+  <KantonArbeitsgruppe id=35667, label=Delegierte CVP Schweiz, parent_id=170>
+  <KantonArbeitsgruppe id=35669, label=Eidgenössische Mandate (NR, SR, BR, BG), parent_id=170>
+  <KantonArbeitsgruppe id=35580, label=Erziehungsrat, parent_id=170>
+  <KantonArbeitsgruppe id=36181, label=Fraktions-AG, parent_id=170>
+   <KantonArbeitsgruppe id=36184, label=AG Bau/Infrastruktur, parent_id=36181>
+   <KantonArbeitsgruppe id=36187, label=AG Bildung/Kultur, parent_id=36181>
+   <KantonArbeitsgruppe id=36182, label=AG Finanzen, parent_id=36181>
+   <KantonArbeitsgruppe id=36183, label=AG Gesundheit/Soziales/Familie, parent_id=36181>
+   <KantonArbeitsgruppe id=36185, label=AG Raumplanung/Umwelt/Verkehr, parent_id=36181>
+   <KantonArbeitsgruppe id=36186, label=AG Sicherheit / Justiz, parent_id=36181>
+   <KantonArbeitsgruppe id=36188, label=AG Volkswirtschaft, parent_id=36181>
+  <KantonArbeitsgruppe id=35546, label=MV, parent_id=170>
+   <KantonArbeitsgruppe id=35576, label=60plus, parent_id=35546>
+   <KantonArbeitsgruppe id=35573, label=Bezirk Höfe, parent_id=35546>
+   <KantonArbeitsgruppe id=35574, label=Bezirk March, parent_id=35546>
+   <KantonArbeitsgruppe id=35572, label=Bezirk Schwyz, parent_id=35546>
+   <KantonArbeitsgruppe id=35564, label=CVP Altendorf, parent_id=35546>
+   <KantonArbeitsgruppe id=35553, label=CVP Arth-Oberarth-Goldau, parent_id=35546>
+   <KantonArbeitsgruppe id=35551, label=CVP Einsiedeln, parent_id=35546>
+   <KantonArbeitsgruppe id=36189, label=CVP Feusisberg, parent_id=35546>
+   <KantonArbeitsgruppe id=35562, label=CVP Freienbach, parent_id=35546>
+   <KantonArbeitsgruppe id=35566, label=CVP Galgenen, parent_id=35546>
+   <KantonArbeitsgruppe id=35550, label=CVP Gersau, parent_id=35546>
+   <KantonArbeitsgruppe id=35554, label=CVP Illgau, parent_id=35546>
+   <KantonArbeitsgruppe id=35555, label=CVP Ingenbohl, parent_id=35546>
+   <KantonArbeitsgruppe id=35549, label=CVP Küssnacht, parent_id=35546>
+   <KantonArbeitsgruppe id=35567, label=CVP Lachen, parent_id=35546>
+   <KantonArbeitsgruppe id=35556, label=CVP Lauerz, parent_id=35546>
+   <KantonArbeitsgruppe id=35557, label=CVP Muotathal, parent_id=35546>
+   <KantonArbeitsgruppe id=35568, label=CVP Reichenburg, parent_id=35546>
+   <KantonArbeitsgruppe id=35558, label=CVP Rothenthurm, parent_id=35546>
+   <KantonArbeitsgruppe id=35559, label=CVP Sattel, parent_id=35546>
+   <KantonArbeitsgruppe id=35552, label=CVP Schwyz, parent_id=35546>
+   <KantonArbeitsgruppe id=35569, label=CVP Schübelbach, parent_id=35546>
+   <KantonArbeitsgruppe id=35560, label=CVP Steinen, parent_id=35546>
+   <KantonArbeitsgruppe id=35570, label=CVP Tuggen, parent_id=35546>
+   <KantonArbeitsgruppe id=35561, label=CVP Unteriberg, parent_id=35546>
+   <KantonArbeitsgruppe id=35571, label=CVP Wangen, parent_id=35546>
+   <KantonArbeitsgruppe id=35563, label=CVP Wollerau, parent_id=35546>
+   <KantonArbeitsgruppe id=35575, label=JCVP, parent_id=35546>
+   <KantonArbeitsgruppe id=35565, label=KVP Altendorf, parent_id=35546>
+  <KantonArbeitsgruppe id=36521, label=Mail Ortsparteien, parent_id=170>
+  <KantonArbeitsgruppe id=35666, label=Präsidenten der Vereinigungen, parent_id=170>
+  <KantonArbeitsgruppe id=35579, label=Revisionsstelle, parent_id=170>
+  <KantonGewaehlte id=35582, label=Exekutive, parent_id=170>
+  <KantonGewaehlte id=35583, label=Judikative, parent_id=170>
+   <KantonGewaehlte id=35584, label=Kantonsgericht, parent_id=35583>
+   <KantonGewaehlte id=35586, label=Strafgericht, parent_id=35583>
+   <KantonGewaehlte id=35585, label=Verwaltungsgericht, parent_id=35583>
+  <KantonGewaehlte id=566, label=Legislative, parent_id=170>
+  <KantonGewaehlte id=35578, label=Schiedsgericht, parent_id=170>
+  <KantonMitglieder id=567, label=Mitgliedschaften, parent_id=170>
+  <KantonPraesidium id=36180, label=Fraktionsvorstand, parent_id=170>
+  <KantonPraesidium id=568, label=Partei, parent_id=170>
+  <KantonPraesidium id=1778, label=Vorstand, parent_id=170>
+  <KantonPraesidium id=35668, label=Vorstand CVP Schweiz, parent_id=170>
+  <KantonPraesidium id=35665, label=Vorstandsausschuss, parent_id=170>
+  <Region id=560, label=Bezirk Einsiedeln, parent_id=170>
+   <RegionArbeitsgruppe id=35603, label=Exekutive, parent_id=560>
+   <RegionArbeitsgruppe id=35602, label=Judikative, parent_id=560>
+   <RegionMitglieder id=1747, label=Mitgliedschaften, parent_id=560>
+   <RegionPraesidium id=35601, label=Partei, parent_id=560>
+  <Region id=561, label=Bezirk Gersau, parent_id=170>
+   <RegionArbeitsgruppe id=35598, label=Exekutive, parent_id=561>
+   <RegionMitglieder id=35600, label=Mitgliedschaften, parent_id=561>
+   <RegionPraesidium id=35597, label=Partei, parent_id=561>
+  <Region id=563, label=Bezirk Höfe, parent_id=170>
+   <RegionArbeitsgruppe id=35625, label=Exekutive, parent_id=563>
+   <RegionArbeitsgruppe id=35626, label=Judikative, parent_id=563>
+   <RegionPraesidium id=35624, label=Partei, parent_id=563>
+   <Ort id=1751, label=Feusisberg, parent_id=563>
+    <OrtGewaehlte id=35627, label=Exekutive, parent_id=1751>
+    <OrtMitglieder id=3596, label=Mitgliedschaften, parent_id=1751>
+    <OrtPraesidium id=3597, label=Partei, parent_id=1751>
+   <Ort id=1752, label=Freienbach, parent_id=563>
+    <OrtArbeitsgruppe id=39948, label=Neuzuzüger, parent_id=1752>
+     <OrtArbeitsgruppe id=39949, label=2018, parent_id=39948>
+    <OrtGewaehlte id=35629, label=Exekutive, parent_id=1752>
+    <OrtMitglieder id=3598, label=Mitgliedschaften, parent_id=1752>
+    <OrtPraesidium id=35628, label=Partei, parent_id=1752>
+   <Ort id=1753, label=Wollerau, parent_id=563>
+    <OrtGewaehlte id=35630, label=Exekutive, parent_id=1753>
+    <OrtMitglieder id=3599, label=Mitgliedschaften, parent_id=1753>
+    <OrtPraesidium id=3600, label=Partei, parent_id=1753>
+  <Region id=562, label=Bezirk Küssnacht, parent_id=170>
+   <RegionArbeitsgruppe id=35648, label=Exekutive, parent_id=562>
+   <RegionArbeitsgruppe id=35649, label=Judikative, parent_id=562>
+   <RegionMitglieder id=35651, label=Mitgliedschaften, parent_id=562>
+   <RegionPraesidium id=35647, label=Partei, parent_id=562>
+  <Region id=564, label=Bezirk March, parent_id=170>
+   <RegionArbeitsgruppe id=35632, label=Exekutive, parent_id=564>
+   <RegionArbeitsgruppe id=35633, label=Judikative, parent_id=564>
+   <RegionPraesidium id=35631, label=Partei, parent_id=564>
+   <Ort id=1754, label=Altendorf, parent_id=564>
+    <OrtArbeitsgruppe id=38446, label=Ehrenmitglieder, parent_id=1754>
+    <OrtArbeitsgruppe id=40333, label=Kommissionsmitglieder, parent_id=1754>
+    <OrtArbeitsgruppe id=37924, label=Schulrat, parent_id=1754>
+    <OrtGewaehlte id=35637, label=Exekutive, parent_id=1754>
+    <OrtMitglieder id=35636, label=Mitgliedschaften, parent_id=1754>
+    <OrtPraesidium id=3601, label=Partei, parent_id=1754>
+   <Ort id=1755, label=Altendorf KVP, parent_id=564>
+    <OrtGewaehlte id=35638, label=Exekutive, parent_id=1755>
+    <OrtMitglieder id=3602, label=Mitgliedschaften, parent_id=1755>
+    <OrtPraesidium id=3603, label=Partei, parent_id=1755>
+   <Ort id=1756, label=Galgenen, parent_id=564>
+    <OrtGewaehlte id=35640, label=Exekutive, parent_id=1756>
+    <OrtMitglieder id=3604, label=Mitgliedschaften, parent_id=1756>
+    <OrtPraesidium id=35639, label=Partei, parent_id=1756>
+   <Ort id=1758, label=Lachen, parent_id=564>
+    <OrtGewaehlte id=35641, label=Exekutive, parent_id=1758>
+    <OrtMitglieder id=3606, label=Mitgliedschaften, parent_id=1758>
+    <OrtPraesidium id=3607, label=Partei, parent_id=1758>
+   <Ort id=1759, label=Reichenburg, parent_id=564>
+    <OrtGewaehlte id=35643, label=Exekutive, parent_id=1759>
+    <OrtMitglieder id=3608, label=Mitgliedschaften, parent_id=1759>
+    <OrtPraesidium id=35642, label=Partei, parent_id=1759>
+   <Ort id=1760, label=Schübelbach, parent_id=564>
+    <OrtGewaehlte id=35644, label=Exekutive, parent_id=1760>
+    <OrtMitglieder id=3609, label=Mitgliedschaften, parent_id=1760>
+    <OrtPraesidium id=3610, label=Partei, parent_id=1760>
+   <Ort id=1761, label=Tuggen, parent_id=564>
+    <OrtGewaehlte id=35645, label=Exekutive, parent_id=1761>
+    <OrtMitglieder id=3611, label=Mitgliedschaften, parent_id=1761>
+    <OrtPraesidium id=3612, label=Partei, parent_id=1761>
+   <Ort id=1762, label=Wangen, parent_id=564>
+    <OrtGewaehlte id=35646, label=Exekutive, parent_id=1762>
+    <OrtMitglieder id=3613, label=Mitgliedschaften, parent_id=1762>
+    <OrtPraesidium id=3614, label=Partei, parent_id=1762>
+  <Region id=565, label=Bezirk Schwyz, parent_id=170>
+   <RegionArbeitsgruppe id=35604, label=Exekutive, parent_id=565>
+   <RegionArbeitsgruppe id=35605, label=Judikative, parent_id=565>
+   <RegionPraesidium id=1771, label=Partei, parent_id=565>
+   <Ort id=1764, label=Arth-Oberarth-Goldau, parent_id=565>
+    <OrtGewaehlte id=35606, label=Exekutive, parent_id=1764>
+    <OrtMitglieder id=3616, label=Mitgliedschaften, parent_id=1764>
+    <OrtPraesidium id=3617, label=Partei, parent_id=1764>
+   <Ort id=1765, label=Illgau, parent_id=565>
+    <OrtGewaehlte id=35608, label=Exekutive, parent_id=1765>
+    <OrtMitglieder id=3618, label=Mitgliedschaften, parent_id=1765>
+    <OrtPraesidium id=3619, label=Partei, parent_id=1765>
+   <Ort id=1766, label=Ingenbohl, parent_id=565>
+    <OrtGewaehlte id=35609, label=Exekutive, parent_id=1766>
+    <OrtMitglieder id=3620, label=Mitgliedschaften, parent_id=1766>
+    <OrtPraesidium id=3621, label=Partei, parent_id=1766>
+   <Ort id=1767, label=Lauerz, parent_id=565>
+    <OrtGewaehlte id=35610, label=Exekutive, parent_id=1767>
+    <OrtMitglieder id=3622, label=Mitgliedschaften, parent_id=1767>
+    <OrtPraesidium id=3623, label=Partei, parent_id=1767>
+   <Ort id=1769, label=Muotathal, parent_id=565>
+    <OrtGewaehlte id=35613, label=Exekutive, parent_id=1769>
+    <OrtMitglieder id=3625, label=Mitgliedschaften, parent_id=1769>
+    <OrtPraesidium id=3626, label=Partei, parent_id=1769>
+   <Ort id=1773, label=Rothenthurm, parent_id=565>
+    <OrtGewaehlte id=35614, label=Exekutive, parent_id=1773>
+    <OrtMitglieder id=3629, label=Mitgliedschaften, parent_id=1773>
+    <OrtPraesidium id=3630, label=Partei, parent_id=1773>
+   <Ort id=1774, label=Sattel, parent_id=565>
+    <OrtGewaehlte id=35616, label=Exekutive, parent_id=1774>
+    <OrtMitglieder id=3631, label=Mitgliedschaften, parent_id=1774>
+    <OrtPraesidium id=35615, label=Partei, parent_id=1774>
+   <Ort id=1775, label=Schwyz, parent_id=565>
+    <OrtArbeitsgruppe id=39166, label=Kommissionen, parent_id=1775>
+     <OrtArbeitsgruppe id=39171, label=Alterskommission, parent_id=39166>
+     <OrtArbeitsgruppe id=39174, label=Baukommission, parent_id=39166>
+     <OrtArbeitsgruppe id=39179, label=Einbürgerungsbehörde, parent_id=39166>
+     <OrtArbeitsgruppe id=39170, label=Entwicklungskommission, parent_id=39166>
+     <OrtArbeitsgruppe id=39173, label=Fachkommission Jugend, parent_id=39166>
+     <OrtArbeitsgruppe id=39169, label=Finanzkommission, parent_id=39166>
+     <OrtArbeitsgruppe id=39190, label=Fürsorgebehörde, parent_id=39166>
+     <OrtArbeitsgruppe id=39168, label=Kommission für Wahlen und Abstimmungen, parent_id=39166>
+     <OrtArbeitsgruppe id=39178, label=Liegenschaftskommission, parent_id=39166>
+     <OrtArbeitsgruppe id=39175, label=Planungskommission, parent_id=39166>
+     <OrtArbeitsgruppe id=39167, label=Rechnungsprüfungskommission, parent_id=39166>
+     <OrtArbeitsgruppe id=39172, label=Schulrat, parent_id=39166>
+     <OrtArbeitsgruppe id=39180, label=Sportkommission, parent_id=39166>
+     <OrtArbeitsgruppe id=39177, label=Tiefbau- und Verkehrskommission, parent_id=39166>
+     <OrtArbeitsgruppe id=39176, label=Umweltkommission, parent_id=39166>
+    <OrtGewaehlte id=35617, label=Exekutive, parent_id=1775>
+    <OrtMitglieder id=3632, label=Mitgliedschaften, parent_id=1775>
+    <OrtPraesidium id=3633, label=Partei, parent_id=1775>
+   <Ort id=1776, label=Steinen, parent_id=565>
+    <OrtArbeitsgruppe id=38970, label=Kommissionen, parent_id=1776>
+     <OrtArbeitsgruppe id=38972, label=Einbürgerungskommission, parent_id=38970>
+    <OrtGewaehlte id=35619, label=Exekutive, parent_id=1776>
+    <OrtMitglieder id=3634, label=Mitgliedschaften, parent_id=1776>
+    <OrtPraesidium id=35618, label=Partei, parent_id=1776>
+   <Ort id=1777, label=Unteriberg, parent_id=565>
+    <OrtGewaehlte id=3636, label=Exekutive, parent_id=1777>
+    <OrtMitglieder id=3635, label=Mitgliedschaften, parent_id=1777>
+    <OrtPraesidium id=35620, label=Partei, parent_id=1777>

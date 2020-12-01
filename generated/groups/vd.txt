@@ -1,0 +1,49 @@
+<Bund id=1, label=CVP Schweiz, parent_id=>
+ <Kanton id=174, label=CVP VD, parent_id=1>
+  <KantonExterneKontakte id=39970, label=Newsletter, parent_id=174>
+  <KantonGewaehlte id=621, label=Legislative, parent_id=174>
+  <KantonMitglieder id=622, label=Mitgliedschaften, parent_id=174>
+  <KantonPraesidium id=625, label=Partei, parent_id=174>
+  <Ort id=37857, label=Aigle-Chablais, parent_id=174>
+   <OrtMitglieder id=37859, label=Mitgliedschaften, parent_id=37857>
+   <OrtPraesidium id=37858, label=Partei, parent_id=37857>
+  <Ort id=616, label=Crissier, parent_id=174>
+   <OrtMitglieder id=2080, label=Mitgliedschaften, parent_id=616>
+  <Ort id=617, label=Echallens - Gros-de-Vaud, parent_id=174>
+   <OrtMitglieder id=2082, label=Mitgliedschaften, parent_id=617>
+   <OrtPraesidium id=2083, label=Partei, parent_id=617>
+  <Ort id=624, label=Jura - Nord vaudois, parent_id=174>
+   <OrtMitglieder id=2091, label=Mitgliedschaften, parent_id=624>
+   <OrtPraesidium id=35679, label=Partei, parent_id=624>
+  <Ort id=620, label=Lausanne, parent_id=174>
+   <OrtMitglieder id=2088, label=Mitgliedschaften, parent_id=620>
+   <OrtPraesidium id=2089, label=Partei, parent_id=620>
+  <Ort id=36301, label=Lavaux-Oron, parent_id=174>
+   <OrtMitglieder id=36303, label=Mitgliedschaften, parent_id=36301>
+   <OrtPraesidium id=36302, label=Partei, parent_id=36301>
+  <Ort id=36298, label=Morges, parent_id=174>
+   <OrtMitglieder id=36300, label=Mitgliedschaften, parent_id=36298>
+   <OrtPraesidium id=36299, label=Partei, parent_id=36298>
+  <Ort id=618, label=Nyon Région, parent_id=174>
+   <OrtMitglieder id=2084, label=Mitgliedschaften, parent_id=618>
+   <OrtPraesidium id=2085, label=Partei, parent_id=618>
+  <Ort id=36304, label=Ouest lausannois, parent_id=174>
+   <OrtMitglieder id=36306, label=Mitgliedschaften, parent_id=36304>
+  <Ort id=626, label=Prilly, parent_id=174>
+   <OrtMitglieder id=2092, label=Mitgliedschaften, parent_id=626>
+   <OrtPraesidium id=2093, label=Partei, parent_id=626>
+  <Ort id=628, label=Villeneuve, parent_id=174>
+   <OrtMitglieder id=2096, label=Mitgliedschaften, parent_id=628>
+   <OrtPraesidium id=35680, label=Partei, parent_id=628>
+  <Region id=38911, label=Riviera-Pays d'Enhaut, parent_id=174>
+   <RegionMitglieder id=38913, label=Mitgliedschaften, parent_id=38911>
+   <Ort id=38918, label=La Tour-de Peilz, parent_id=38911>
+    <OrtMitglieder id=38927, label=Mitgliedschaften, parent_id=38918>
+    <OrtPraesidium id=38919, label=Parti, parent_id=38918>
+   <Ort id=38916, label=Montreux, parent_id=38911>
+    <OrtMitglieder id=38926, label=Mitgliedschaften, parent_id=38916>
+    <OrtPraesidium id=38917, label=Parti, parent_id=38916>
+   <Ort id=38912, label=Parti, parent_id=38911>
+   <Ort id=38914, label=Vevey, parent_id=38911>
+    <OrtMitglieder id=38923, label=Mitgliedschaften, parent_id=38914>
+    <OrtPraesidium id=38915, label=Parti, parent_id=38914>

@@ -1,0 +1,6 @@
+<Bund CVP Schweiz, id:1, 0>
+ <Kanton CVP AI, id:152, 1>
+  <KantonGewaehlte Judikative [tbd:Bezirksrichter 1, tbd:Kantonsrichter 7], id:352, 152>
+  <KantonGewaehlte Legislative [KantonaleLegislative 20], id:353, 152>
+  <KantonMitglieder Mitgliedschaften [Mitglied 159, SympathisantNachKantonalemStatut 33], id:354, 152>
+  <KantonPraesidium Partei [Mitglied 6, Praesident 4, tbd:Ansprechperson OM 1, tbd:Empfänger Rechnung Jahresbeitrag CVP CH 2, tbd:Kassier 1, tbd:Plakatierer 1, tbd:Sekretär Kantonalpartei/Vereinigung 2, tbd:Zuzüger 7], id:355, 152>

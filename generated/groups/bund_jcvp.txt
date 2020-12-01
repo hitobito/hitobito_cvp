@@ -1,0 +1,75 @@
+<Bund id=1, label=CVP Schweiz, parent_id=>
+ <Vereinigung id=2, label=JCVP, parent_id=1>
+  <VereinigungArbeitsgruppe id=234, label=Delegiertenversammlung, parent_id=2>
+  <VereinigungExterneKontakte id=14620, label=JCVPSchweiz, parent_id=2>
+   <VereinigungExterneKontakte id=39412, label=Medienverteiler, parent_id=14620>
+   <VereinigungExterneKontakte id=39411, label=Newsletter, parent_id=14620>
+  <VereinigungPraesidium id=235, label=Parteileitung, parent_id=2>
+  <Kanton id=236, label=JCVP AG, parent_id=2>
+   <KantonMitglieder id=36463, label=Mitgliedschaften, parent_id=236>
+  <Kanton id=237, label=JCVP AI, parent_id=2>
+  <Kanton id=238, label=JCVP BE, parent_id=2>
+   <KantonMitglieder id=36267, label=Mitgliedschaften, parent_id=238>
+  <Kanton id=239, label=JCVP BL, parent_id=2>
+   <KantonMitglieder id=36565, label=Mitgliedschaften, parent_id=239>
+  <Kanton id=240, label=JCVP BS, parent_id=2>
+   <KantonMitglieder id=36673, label=Mitgliedschaften, parent_id=240>
+  <Kanton id=241, label=JCVP FR, parent_id=2>
+   <KantonMitglieder id=36658, label=Mitgliedschaften, parent_id=241>
+  <Kanton id=38742, label=JCVP GE, parent_id=2>
+   <KantonMitglieder id=38744, label=Mitgliedschaften, parent_id=38742>
+  <Kanton id=243, label=JCVP GL, parent_id=2>
+   <KantonMitglieder id=39699, label=Mitgliedschaften, parent_id=243>
+  <Kanton id=244, label=JCVP GR, parent_id=2>
+   <KantonArbeitsgruppe id=690, label=JCVP Surselva, parent_id=244>
+   <KantonArbeitsgruppe id=36321, label=Verschiedene Funktionen, parent_id=244>
+   <KantonMitglieder id=36316, label=Mitgliedschaften, parent_id=244>
+   <KantonPraesidium id=39062, label=Vorstand, parent_id=244>
+  <Kanton id=38800, label=JCVP JU, parent_id=2>
+   <KantonArbeitsgruppe id=38801, label=Funktion, parent_id=38800>
+   <KantonMitglieder id=38802, label=Mitgliedschaften, parent_id=38800>
+  <Kanton id=246, label=JCVP LU, parent_id=2>
+   <KantonArbeitsgruppe id=695, label=Info, parent_id=246>
+   <KantonArbeitsgruppe id=693, label=JCVP Wahlkreis Luzern-Land, parent_id=246>
+    <KantonArbeitsgruppe id=2365, label=Kriens, parent_id=693>
+     <KantonArbeitsgruppe id=39146, label=Freunde, parent_id=2365>
+     <KantonArbeitsgruppe id=39148, label=Spender, parent_id=2365>
+     <KantonArbeitsgruppe id=39147, label=bärebiss, parent_id=2365>
+   <KantonExterneKontakte id=38782, label=Newsletter, parent_id=246>
+   <KantonMitglieder id=36530, label=Mitgliedschaften, parent_id=246>
+  <Kanton id=247, label=JCVP NE, parent_id=2>
+   <KantonMitglieder id=36851, label=Mitgliedschaften, parent_id=247>
+  <Kanton id=248, label=JCVP NW, parent_id=2>
+   <KantonMitglieder id=36558, label=Mitgliedschaften, parent_id=248>
+  <Kanton id=40378, label=JCVP OW, parent_id=2>
+   <KantonMitglieder id=40380, label=Mitgliedschaften, parent_id=40378>
+  <Kanton id=258, label=JCVP Oberwallis, parent_id=2>
+   <KantonMitglieder id=36537, label=Mitgliedschaften, parent_id=258>
+  <Kanton id=250, label=JCVP SG, parent_id=2>
+   <KantonArbeitsgruppe id=37044, label=Alte Funktionen, parent_id=250>
+   <KantonExterneKontakte id=39234, label=Newsletter, parent_id=250>
+   <KantonMitglieder id=37031, label=Mitgliedschaften, parent_id=250>
+   <KantonPraesidium id=35770, label=Parteileitung, parent_id=250>
+   <KantonPraesidium id=35769, label=Parteivorstand, parent_id=250>
+  <Kanton id=251, label=JCVP SH, parent_id=2>
+  <Kanton id=252, label=JCVP SO, parent_id=2>
+   <KantonExterneKontakte id=39287, label=Newsletter, parent_id=252>
+   <KantonMitglieder id=37589, label=Mitgliedschaften, parent_id=252>
+  <Kanton id=253, label=JCVP SZ, parent_id=2>
+   <KantonMitglieder id=36367, label=Mitgliedschaften, parent_id=253>
+  <Kanton id=254, label=JCVP TG, parent_id=2>
+   <KantonArbeitsgruppe id=37383, label=Gönner, parent_id=254>
+   <KantonMitglieder id=37001, label=Mitgliedschaften, parent_id=254>
+   <KantonPraesidium id=37000, label=Vorstand, parent_id=254>
+  <Kanton id=255, label=JCVP TI, parent_id=2>
+  <Kanton id=256, label=JCVP UR, parent_id=2>
+   <KantonMitglieder id=36117, label=Mitgliedschaften, parent_id=256>
+  <Kanton id=257, label=JCVP VD, parent_id=2>
+   <KantonArbeitsgruppe id=36210, label=Parti, parent_id=257>
+   <KantonMitglieder id=38307, label=Mitgliedschaften, parent_id=257>
+  <Kanton id=259, label=JCVP VS-Romand, parent_id=2>
+  <Kanton id=39310, label=JCVP Valais romand, parent_id=2>
+   <KantonMitglieder id=39312, label=Mitgliedschaften, parent_id=39310>
+  <Kanton id=260, label=JCVP ZG, parent_id=2>
+  <Kanton id=261, label=JCVP ZH, parent_id=2>
+   <KantonMitglieder id=36838, label=Mitgliedschaften, parent_id=261>

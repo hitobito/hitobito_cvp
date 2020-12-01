@@ -1,0 +1,66 @@
+<Bund id=1, label=CVP Schweiz, parent_id=>
+ <Kanton id=177, label=CVP ZG, parent_id=1>
+  <KantonArbeitsgruppe id=2246, label=Präsidium, parent_id=177>
+  <KantonArbeitsgruppe id=2248, label=Wahlkampfteam, parent_id=177>
+  <KantonDelegierte id=2243, label=DV, parent_id=177>
+  <KantonGewaehlte id=661, label=Judikative, parent_id=177>
+  <KantonGewaehlte id=662, label=Legislative, parent_id=177>
+  <KantonGewaehlte id=2247, label=Schiedsgericht, parent_id=177>
+  <KantonKommission id=2245, label=Kontrollkommission, parent_id=177>
+  <KantonMitglieder id=664, label=Mitgliedschaften, parent_id=177>
+  <KantonPraesidium id=2244, label=Fraktion, parent_id=177>
+  <KantonPraesidium id=667, label=Partei, parent_id=177>
+  <KantonPraesidium id=2249, label=Zentralvorstand, parent_id=177>
+  <Ort id=652, label=Baar, parent_id=177>
+   <OrtGewaehlte id=40191, label=Exekutive, parent_id=652>
+   <OrtGewaehlte id=40192, label=Mandatsträger, parent_id=652>
+   <OrtMitglieder id=2223, label=Mitgliedschaften, parent_id=652>
+   <OrtPraesidium id=5016, label=Partei, parent_id=652>
+   <OrtPraesidium id=5018, label=Vorstand, parent_id=652>
+  <Ort id=658, label=Cham, parent_id=177>
+   <OrtArbeitsgruppe id=40305, label=Ehemalige, parent_id=658>
+   <OrtGewaehlte id=5015, label=Exekutive, parent_id=658>
+   <OrtMitglieder id=2229, label=Mitgliedschaften, parent_id=658>
+   <OrtPraesidium id=5014, label=Partei, parent_id=658>
+  <Ort id=660, label=Hünenberg, parent_id=177>
+   <OrtArbeitsgruppe id=40352, label=Arbeitsgruppenmitglied, parent_id=660>
+   <OrtArbeitsgruppe id=40358, label=Korporationsrat Präsidium, parent_id=660>
+   <OrtArbeitsgruppe id=40356, label=RPK Bürgergemeinde, parent_id=660>
+   <OrtArbeitsgruppe id=40355, label=RPK Einwohnergemeinde, parent_id=660>
+   <OrtArbeitsgruppe id=40354, label=RPK Kath. Kirchgem. Cham-Hün., parent_id=660>
+   <OrtArbeitsgruppe id=40357, label=RPK-Präsident Einwohnergemeinde, parent_id=660>
+   <OrtArbeitsgruppe id=40353, label=Stimmenzähler, parent_id=660>
+   <OrtGewaehlte id=2231, label=Exekutive, parent_id=660>
+   <OrtMitglieder id=2232, label=Mitgliedschaften, parent_id=660>
+   <OrtPraesidium id=2233, label=Partei, parent_id=660>
+  <Ort id=663, label=Menzingen, parent_id=177>
+   <OrtGewaehlte id=2234, label=Exekutive, parent_id=663>
+   <OrtMitglieder id=2235, label=Mitgliedschaften, parent_id=663>
+   <OrtPraesidium id=2236, label=Partei, parent_id=663>
+  <Ort id=665, label=Neuheim, parent_id=177>
+   <OrtGewaehlte id=2237, label=Exekutive, parent_id=665>
+   <OrtMitglieder id=2238, label=Mitgliedschaften, parent_id=665>
+   <OrtPraesidium id=2239, label=Partei, parent_id=665>
+  <Ort id=666, label=Oberägeri, parent_id=177>
+   <OrtGewaehlte id=2240, label=Exekutive, parent_id=666>
+   <OrtMitglieder id=2241, label=Mitgliedschaften, parent_id=666>
+   <OrtPraesidium id=2242, label=Partei, parent_id=666>
+  <Ort id=668, label=Risch-Rotkreuz, parent_id=177>
+   <OrtMitglieder id=2250, label=Mitgliedschaften, parent_id=668>
+   <OrtPraesidium id=2251, label=Partei, parent_id=668>
+  <Ort id=669, label=Stadt Zug, parent_id=177>
+   <OrtGewaehlte id=2252, label=Exekutive, parent_id=669>
+   <OrtGewaehlte id=2253, label=Legislative, parent_id=669>
+   <OrtMitglieder id=2254, label=Mitgliedschaften, parent_id=669>
+  <Ort id=670, label=Steinhausen, parent_id=177>
+   <OrtGewaehlte id=2256, label=Exekutive, parent_id=670>
+   <OrtMitglieder id=2257, label=Mitgliedschaften, parent_id=670>
+   <OrtPraesidium id=2258, label=Partei, parent_id=670>
+  <Ort id=671, label=Unterägeri, parent_id=177>
+   <OrtGewaehlte id=2259, label=Exekutive, parent_id=671>
+   <OrtMitglieder id=2260, label=Mitgliedschaften, parent_id=671>
+   <OrtPraesidium id=2261, label=Partei, parent_id=671>
+  <Ort id=672, label=Walchwil, parent_id=177>
+   <OrtGewaehlte id=2262, label=Exekutive, parent_id=672>
+   <OrtMitglieder id=2263, label=Mitgliedschaften, parent_id=672>
+   <OrtPraesidium id=2264, label=Partei, parent_id=672>
