@@ -98,6 +98,10 @@ de:
       group/vereinigung_externe_kontakte:
         one: Externe Kontakte
         other: Externe Kontakte
+      group/vereinigung_mitglieder:
+        one: Mitglieder
+        other: Mitglieder
+
 
       group/region:
         one: Region
@@ -348,6 +352,10 @@ de:
         one: Spender
       group/vereinigung_externe_kontakte/kontakt:
         one: Kontakt
+      group/vereinigung_mitglieder/mitglied:
+        one: Mitglieder
+      group/vereinigung_mitglieder/sympathisant:
+        one: Sympathisant
 
       group/region_parteigremium/praesident:
         one: Präsident
