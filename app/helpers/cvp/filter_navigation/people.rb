@@ -16,4 +16,8 @@ module Cvp::FilterNavigation::People
     end
   end
 
+  def visible_role_types?(types)
+    group.layer? ? false : super(types)
+  end
+
 end
