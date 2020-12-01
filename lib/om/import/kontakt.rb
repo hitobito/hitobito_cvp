@@ -64,11 +64,23 @@ module Import
     end
 
     def scope
-      mitglieder = ::Mitgliedschaft.where(struktur_id: group_ids).pluck(:kunden_id)
-      verbindungen = ::Verbindung.where(struktur_id: group_ids).pluck(:kunden_id_1)
-      ::Kontakt.where(kunden_id: (mitglieder + verbindungen).uniq).minimal.tap do |scope|
+      ::Kontakt.where(kunden_id: kunden_ids.uniq).order(Arel.sql(order_clause)).tap do |scope|
         @total = scope.unscope(:select).count
       end
+    end
+
+    def order_clause
+      <<~SQL
+      CASE WHEN email IS NOT NULL AND name IS NOT NULL AND vorname IS NOT NULL then 1
+      ELSE 0
+      END
+      SQL
+    end
+
+    def kunden_ids
+      mitglieder = ::Mitgliedschaft.where(struktur_id: group_ids).pluck(:kunden_id)
+      verbindungen = ::Verbindung.where(struktur_id: group_ids).pluck(:kunden_id_1)
+      (mitglieder + verbindungen).uniq
     end
   end
 end
