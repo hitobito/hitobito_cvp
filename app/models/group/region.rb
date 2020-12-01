@@ -18,6 +18,7 @@ class Group::Region < Group
            Group::RegionSekretariat,
            Group::RegionArbeitsgruppe,
            Group::RegionDelegierte,
+           Group::RegionMitglieder,
            Group::Ort
 
   self.default_children = [

@@ -121,6 +121,9 @@ de:
       group/region_delegierte:
         one: Delegierte
         other: Delegierte
+      group/region_mitglieder:
+        one: Mitglieder
+        other: Mitglieder
 
       group/ort:
         one: Ortspartei
@@ -393,6 +396,10 @@ de:
         one: Delegierte
       group/region_delegierte/ersatzdelegierte:
         one: Ersatzdelegierte
+      group/region_mitglieder/mitglied:
+        one: Mitglieder
+      group/region_mitglieder/sympathisant:
+        one: Sympathisant
 
       group/ort_gewaehlte/fraktionschef:
         one: Fraktionschef
