@@ -13,6 +13,12 @@ module Cvp::Role
     before_validation :assert_consistent_roles_within_mitglieder_group
   end
 
+  class_methods do
+    def label
+      sti_name.ends_with?('Merkmal') ? 'Merkmal' : model_name.human
+    end
+  end
+
   def assert_consistent_roles_within_mitglieder_group
     if is_a?(Role::Mitglied) && group.roles.exists? && group.roles.first.type != type
       errors.add(:type, :inclusion)
