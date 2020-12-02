@@ -1,4 +1,4 @@
-class Address < SourceModel
+class Adresscode < SourceModel
   self.table_name = :adresscodes
   self.primary_key = 'kunden_id'
 
