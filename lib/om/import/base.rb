@@ -9,13 +9,24 @@ module Import
       @start_time = Time.zone.now
       puts "Starting #{label}"
       res = yield
-      puts "Finished #{label} - duration: #{duration}"
+      puts "Finished #{label} #{upsert_summary} - duration: #{duration}"
       res
     end
 
+    def upsert_summary
+      upserts.collect do |model, count|
+        [model.name, count].join(": ")
+      end.join(', ').presence
+    end
+
     def upsert(model, rows)
-      puts " Inserted #{rows.size} #{model}"
-      model.upsert_all(rows)
+      model.upsert_all(rows, returning: false).tap do
+        upserts[model] += rows.size
+      end
+    end
+
+    def upserts
+      @upserts ||= Hash.new(0)
     end
 
     def time_diff(start_time, end_time)
