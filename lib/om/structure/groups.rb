@@ -40,6 +40,7 @@ module Structure
       vd: [1, 29, 174],
       vs_ober: [1, 29, 175],
       vs_romand: [1, 29, 176],
+      csp_ow: [1, 40284],
       zg: [1, 29, 177],
       zh: [1, 29, 5181],
       bund_jcvp: [1, 2],

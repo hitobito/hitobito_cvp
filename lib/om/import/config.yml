@@ -26,6 +26,8 @@ groups:
     - [14652, 1] # Fraktion > CVP-Fraktion
     - [8, 1]     # Fraktion
 
+    - [150, 40284] # CSP Oberwallis
+
   types:
     Bund:
       Kanton:
@@ -58,6 +60,7 @@ groups:
             176, # vs_romand
             177, # zg
             5181, # zh
+            40284, # csp oberwallis
           ]
       Vereinigung:
         - ids: [2, 3, 4, 5, 6]

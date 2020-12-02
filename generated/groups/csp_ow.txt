@@ -1,0 +1,12 @@
+<Bund id=1, label=CVP Schweiz, parent_id=>
+ <Kanton id=40284, label=CSP Oberwallis, parent_id=1>
+  <KantonArbeitsgruppe id=36662, label=60+ CSPO, parent_id=40284>
+   <KantonArbeitsgruppe id=36663, label=Kernteam, parent_id=36662>
+  <KantonArbeitsgruppe id=40392, label=CSPO Frauen, parent_id=40284>
+  <KantonArbeitsgruppe id=40291, label=Mandatsträger, parent_id=40284>
+  <KantonArbeitsgruppe id=40273, label=Mitglied 300er, parent_id=40284>
+  <KantonGewaehlte id=40279, label=Exekutive, parent_id=40284>
+  <KantonGewaehlte id=40280, label=Judikative, parent_id=40284>
+  <KantonGewaehlte id=333, label=Legislative, parent_id=40284>
+  <KantonMitglieder id=334, label=Mitgliedschaften, parent_id=40284>
+  <KantonPraesidium id=335, label=Partei, parent_id=40284>
