@@ -137,9 +137,9 @@ migrate:
   12_Kontodaten: # Leerees CVS File
   13_Verbindungen:
     alter: |
-
       ALTER TABLE verbindungen
         ALTER COLUMN kunden_id_1 TYPE UUID USING kunden_id_1::uuid,
+        ALTER COLUMN kunden_id_2 TYPE UUID USING kunden_id_2::uuid,
         ALTER COLUMN struktur_id TYPE INTEGER USING struktur_id::integer,
         ALTER COLUMN datum_von DROP NOT NULL,
         ALTER COLUMN datum_bis DROP NOT NULL,
