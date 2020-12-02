@@ -292,7 +292,6 @@ roles_new:
     - !ruby/regexp /Mitglied/i
   KantonGewaehlte:
     MitgliedKantonalesGerichtErsteInstanz:
-    - !ruby/regexp /Richteramt/i
     - ['Ersatzrichter', 'Mitglied']
     - ['Richter', 'Mitglied']
     - ['Handelsgericht', 'Richter']
@@ -317,6 +316,8 @@ roles_new:
     - ['Verwaltungsrekurskommission', 'Präsident']
     - ['Verwaltungsrekurskommission', 'Richter']
     - ['Verwaltungsrekurskommission', 'Fachrichter']
+    - !ruby/regexp /Richteramt/i
+    - !ruby/regexp /^Kantonsrichter$/i
     MitgliedKantonalesGerichtZweiteInstanz:
     - ['Ersatzrichter', 'Mitglied']
     KantonaleLegislative:

@@ -6,7 +6,7 @@
   <KantonArbeitsgruppe Mandatsträger [tbd:Nationalrat 1, tbd:Präfekt 2, tbd:Vizepräfekt 5], id:40291, 40284>
   <KantonArbeitsgruppe Mitglied 300er [Mitglied 39], id:40273, 40284>
   <KantonGewaehlte Exekutive [KantonaleExekutive 3], id:40279, 40284>
-  <KantonGewaehlte Judikative [Staatsanwaltschaft 2, tbd:Bezirksrichter 1, tbd:Kantonsrichter 2], id:40280, 40284>
+  <KantonGewaehlte Judikative [MitgliedKantonalesGerichtErsteInstanz 2, Staatsanwaltschaft 2, tbd:Bezirksrichter 1], id:40280, 40284>
   <KantonGewaehlte Legislative [KantonaleLegislative 19, tbd:Suppleant 11], id:333, 40284>
   <KantonMitglieder Mitgliedschaften [Mitglied 495, SympathisantNachKantonalemStatut 1372], id:334, 40284>
   <KantonPraesidium Partei [Praesident 3, tbd:Empfänger Rechnung Jahresbeitrag CVP CH 1, tbd:Empfänger Umzugsmeldung 1, tbd:Partner 111, tbd:Sekretär Kantonalpartei/Vereinigung 1], id:335, 40284>

@@ -28,7 +28,7 @@
    <KantonExterneKontakte Versand für Nationalratswahlen 2015 [Kontakt 2581], id:38414, 38413>
   <KantonExterneKontakte Newsletter d [Kontakt 424], id:33426, 154>
   <KantonExterneKontakte Newsletter f [Kontakt 86], id:40295, 154>
-  <KantonGewaehlte Judikative [tbd:Kantonsrichter 2], id:366, 154>
+  <KantonGewaehlte Judikative [MitgliedKantonalesGerichtErsteInstanz 2], id:366, 154>
   <KantonGewaehlte Legislative [KantonaleLegislative 5], id:371, 154>
   <KantonMitglieder Mitgliedschaften, id:374, 154>
   <KantonPraesidium Partei [Mitglied 32, Praesident 8, tbd:Botschafter 2, tbd:Empfänger Rechnung Jahresbeitrag CVP CH 2, tbd:Empfänger Umzugsmeldung 3, tbd:Kassier 1, tbd:Kontakt Bundeshausfraktion 1, tbd:Plakatierer 11, tbd:Sekretär Kantonalpartei/Vereinigung 7, tbd:Zuzüger 9], id:378, 154>

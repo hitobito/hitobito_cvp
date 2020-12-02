@@ -3,7 +3,7 @@
   <KantonArbeitsgruppe Club [Mitglied 30], id:36255, 175>
   <KantonExterneKontakte Newsletter [Kontakt 669], id:40307, 175>
   <KantonGewaehlte Exekutive [KantonaleExekutive 1], id:33109, 175>
-  <KantonGewaehlte Judikative [Staatsanwaltschaft 5, tbd:Bezirksrichter 1, tbd:Bundesrichter 1, tbd:Ersatzrichter 1, tbd:Kantonsrichter 2], id:34978, 175>
+  <KantonGewaehlte Judikative [MitgliedKantonalesGerichtErsteInstanz 2, Staatsanwaltschaft 5, tbd:Bezirksrichter 1, tbd:Bundesrichter 1, tbd:Ersatzrichter 1], id:34978, 175>
   <KantonGewaehlte Legislative [KantonaleLegislative 43, tbd:Suppleant 37], id:631, 175>
   <KantonMitglieder Mitgliedschaften [Mitglied 1130, SympathisantNachKantonalemStatut 96], id:633, 175>
   <KantonPraesidium Fraktion [Mitglied 7, Praesident 2, tbd:Sekretär 1], id:34984, 175>
