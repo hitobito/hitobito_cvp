@@ -155,12 +155,12 @@ migrate:
 
       -- Update datum_von und datum_bis:
       UPDATE verbindungen SET datum_von = NULL WHERE datum_von = '00000000';
-      UPDATE verbindungen SET datum_bis = NULL WHERE datum_von = '00000000';
+      UPDATE verbindungen SET datum_bis = NULL WHERE datum_bis = '00000000';
 
       -- Change datum_von und datum_bis to date:
       ALTER TABLE verbindungen
         ALTER COLUMN datum_von TYPE DATE USING datum_von::date,
-        ALTER COLUMN datum_bis TYPE DATE USING datum_von::date;
+        ALTER COLUMN datum_bis TYPE DATE USING datum_bis::date;
 
       CREATE INDEX idx_verbindungen_struktur_id ON verbindungen(struktur_id);
       CREATE INDEX idx_verbindungen_kunden_id_1 ON verbindungen(kunden_id_1);
