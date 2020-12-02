@@ -33,6 +33,18 @@ namespace :om do
     task :publish do
       Target::Publisher.new.run
     end
+
+    desc "Merkmale"
+    task :merkmale do
+      counts = Role.where('type LIKE "%Merkmal"').group(:type, :label).count
+      rows = counts.sort_by(&:second).reverse.collect do |list, count|
+        [*list, count]
+      end
+      CSV.open("merkmale.csv", "wb") do |csv|
+        csv << %W(Gruppe Merkmal Anzahl)
+        rows.each { |row| csv << row }
+      end
+    end
   end
 
   desc "Render Groups (tree_ids)"
