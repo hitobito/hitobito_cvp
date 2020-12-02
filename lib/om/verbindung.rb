@@ -8,6 +8,8 @@ class Verbindung < SourceModel
 
   self.attrs = %w(
     kunden_id_1
+    created_on
+    updated_on
     datum_von
     datum_bis
     verbindungsnummer
@@ -18,8 +20,12 @@ class Verbindung < SourceModel
 
   scope :active, -> { where(datum_bis: nil).or(where('datum_bis > ?', Date.today)) }
 
-  def attrs
-    { created_at: datum_von || Time.zone.now, deleted_at: datum_bis, label: bemerkungen }
+  def timestamps
+    {
+      created_at: datum_von || created_on || Time.zone.now,
+      updated_at: datum_von || updated_on || Time.zone.now,
+      deleted_at: datum_bis
+    }
   end
 
   def to_s

@@ -16,6 +16,7 @@ class Mitgliedschaft < SourceModel
     mitgliedschafts_bezeichnung
     mitgliedschafts_nummer
     erfassungs_datum
+    mutations_datum
   )
 
   scope :einzel, -> { where("mitgliedschafts_bezeichnung ~* '#{EINZEL}'") }
@@ -24,16 +25,11 @@ class Mitgliedschaft < SourceModel
   scope :mitglieder, -> { einzel.or(familie).or(sympathisant) }
   scope :other, -> { where.not(mitgliedschafts_nummer: mitglieder.select(:mitgliedschafts_nummer)) }
 
-  def attrs
-    {
-      label: mitgliedschafts_bezeichnung,
-      created_at: parse(erfassungs_datum) || Time.zone.now,
-      mitgliedschafts_nummer: mitgliedschafts_nummer
+  def timestamps
+    { created_at: erfassungs_datum.presence || Time.zone.now,
+      updated_at: mutations_datum || Time.zone.now,
+      deleted_at: nil
     }
   end
 
-  def parse(date)
-    yy, mm, dd = date.scan(/([1|2]\d{3})(\d{2})(\d{2})/).first&.collect(&:to_i)
-    Date.new(yy, mm, dd) if yy
-  end
 end

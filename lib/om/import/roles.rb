@@ -16,12 +16,12 @@ module Import
     end
 
     def attrs(role)
-      {
+      role.timestamps.merge(
         group_id: role.group.id,
         person_id: fetch_person_id(role.kunden_id),
         type: type_or_default(role),
         label: role.label
-      }
+      )
     end
 
     def type_or_default(role)

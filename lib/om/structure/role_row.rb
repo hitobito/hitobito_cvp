@@ -1,12 +1,13 @@
 module Structure
   class RoleRow
-    attr_reader :label, :kunden_id, :group
+    attr_reader :label, :kunden_id, :group, :timestamps
     attr_accessor :type
 
-    def initialize(group, kunden_id, label)
+    def initialize(group, kunden_id, label, timestamps = {})
       @group = group
       @kunden_id = kunden_id
       @label = label
+      @timestamps = timestamps
     end
 
     def constraint

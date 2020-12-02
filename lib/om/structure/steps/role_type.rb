@@ -16,7 +16,8 @@ module Structure::Steps
       find_in_batches(verbindungen) do |group, obj|
         Structure::RoleRow.new(group,
                                obj.kunden_id_1,
-                               obj.merkmal.merkmal_bezeichnung_d)
+                               obj.merkmal.merkmal_bezeichnung_d,
+                               obj.timestamps)
       end
     end
 
@@ -24,7 +25,8 @@ module Structure::Steps
       find_in_batches(mitgliedschaften) do |group, obj|
         Structure::RoleRow.new(group,
                                obj.kunden_id,
-                               obj.mitgliedschafts_bezeichnung)
+                               obj.mitgliedschafts_bezeichnung,
+                               obj.timestamps)
       end
     end
 
