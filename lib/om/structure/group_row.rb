@@ -112,5 +112,11 @@ module Structure
       end.join(', ')
       " [#{string}]" if string.present?
     end
+
+    def custom_inspect
+      to_s(:detail)
+    end
+
+    alias :inspect :custom_inspect
   end
 end
