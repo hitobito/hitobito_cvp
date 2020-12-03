@@ -1,7 +1,7 @@
 module Target
   class Seeder
     def self.run
-      new("#{ENV['HOME']}/Downloads/cvp/sekretaere.yaml")).run
+      new("#{ENV['HOME']}/Downloads/cvp/sekretaere.yaml").run
     end
 
     def initialize(file)
