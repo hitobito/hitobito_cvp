@@ -257,160 +257,161 @@ groups:
 roles_new:
   ignored:
     - Wahlbüro
-  BundDelegierte:
-    Delegierte:
-    - !ruby/regexp /^Delegierter$/i
-  BundGewaehlte:
-    Nationalrat:
-    - !ruby/regexp /^Nationalrat$/i
-    Staenderat:
-    - !ruby/regexp /^Ständerat$/i
-    Bundesrat:
-    - !ruby/regexp /^Bundesrat$/i
-  BundExterneKontakte:
-    Kontakt:
-    - !ruby/regexp /^Kontakt$/i
-  VereinigungPraesidium:
-    Praesident:
-    - !ruby/regexp /Präsident/i
-    Mitglied:
-    - !ruby/regexp /Mitglied/i
-    Kassier:
-    - !ruby/regexp /Kassier/i
-  VereinigungArbeitsgruppe:
-    Praesident:
-    - !ruby/regexp /Präsident/i
-    Mitglied:
-    - !ruby/regexp /^Mitglied$/i
-    - !ruby/regexp /^Kontakt$/i
-    Gast:
-    - !ruby/regexp /^Gast$/i
-  KantonPraesidium:
-    Praesident:
-    - !ruby/regexp /Präsident/i
-    Mitglied:
-    - !ruby/regexp /Mitglied/i
-  KantonGewaehlte:
-    MitgliedKantonalesGerichtErsteInstanz:
-    - ['Ersatzrichter', 'Mitglied']
-    - ['Richter', 'Mitglied']
-    - ['Handelsgericht', 'Richter']
-    - ['Handelsgericht', 'Fachrichter']
-    - ['Kantonsgericht', 'Präsident']
-    - ['Kantonsgericht', 'Richter']
-    - ['Kantonsgericht', 'Ersatzrichter']
-    - ['Verwaltungsgericht', 'Präsident']
-    - ['Verwaltungsgericht', 'Richter']
-    - ['Verwaltungsgericht', 'Ersatzrichter']
-    - ['Versicherungsgericht', 'Richter']
-    - ['Versicherungsgericht', 'Fachrichter']
-    - ['Fachrichter der Verwaltungsrekurskommission', 'Mitglied']
-    - ['Abteilungspräsident Versicherungsgericht', 'Mitglied']
-    - ['Abteilungsvizepräsident Versicherungsgericht', 'Mitglied']
-    - ['Fachrichter Versicherungsgericht', 'Mitglied']
-    - ['Hauptamtlicher Kantonsrichter', 'Mitglied']
-    - ['Verwaltungsgerichtspräsident', 'Mitglied']
-    - ['Vizepräsident Verwaltungsgericht', 'Mitglied']
-    - ['Anklagekammer', 'Ersatzrichter']
-    - ['Kantonsgerichtpräsident', 'Mitglied']
-    - ['Verwaltungsrekurskommission', 'Präsident']
-    - ['Verwaltungsrekurskommission', 'Richter']
-    - ['Verwaltungsrekurskommission', 'Fachrichter']
-    - !ruby/regexp /Richteramt/i
-    - !ruby/regexp /^Kantonsrichter$/i
-    MitgliedKantonalesGerichtZweiteInstanz:
-    - ['Ersatzrichter', 'Mitglied']
-    KantonaleLegislative:
-    - ['Legislative', 'Mitglied']
-    Staatsanwaltschaft:
-    - !ruby/regexp /Staatsanwalt/i
-    KantonaleExekutive:
-    - !ruby/regexp /Kantonsrat/i
-    - ['Exekutive', 'Mitglied']
-    - ['Staatssekretär \(7200\)', 'Mitglied']
-    - ['Regierungsrat \(8400\)', 'Mitglied']
-    - ['Regierungpräsident \(8760\)', 'Mitglied']
-  KantonKommission:
-    Praesident:
-    - !ruby/regexp /Präsident/i
-    Mitglied:
-    - !ruby/regexp /Mitglied/i
-  KantonSpender:
-    Mitglied:
-    - !ruby/regexp /Mitglied/i
-  KantonExterneKontakte:
-    Kontakt:
-    - !ruby/regexp /Kontakt/i
-    - !ruby/regexp /Empfänger/i
-  KantonDelegierte:
-    Delegierte:
-    - !ruby/regexp /^Delegierter$/i # exclude 'Delegierte von Amtes wegen'
-  KantonArbeitsgruppe:
-    Praesident:
-    - !ruby/regexp /Präsident/i
-    Mitglied:
-    - !ruby/regexp /^Mitglied$/i
-    - !ruby/regexp /^Kontakt$/i
-    Gast:
-    - !ruby/regexp /^Gast$/i
-  KantonMitglieder:
-    Mitglied:
-    - !ruby/regexp /einzel|ehren|jugend|jeune|indi|senior|fam/i
-    SympathisantNachKantonalemStatut:
-    - !ruby/regexp /Sympathisant/i
-  RegionDelegierte:
-    Delegierte:
-    - !ruby/regexp /Delegierter|Mitglied/i
-  RegionGewaehlte:
-    Delegierte:
-    - !ruby/regexp /Delegierter|Mitglied/i
-  RegionPraesidium:
-    Praesident:
-    - !ruby/regexp /Präsident/i
-    Vizepraesident:
-    - !ruby/regexp /Vizepräsident/i
-    Kassier:
-    - !ruby/regexp /Finanzen/i
-    Mitglied:
-    - !ruby/regexp /Ressort/i
-  RegionMitglieder:
-    Mitglied:
-    - !ruby/regexp /einzel|ehren|jugend|jeune|indi|senior|fam/i
-    Sympathisant:
-    - !ruby/regexp /symp/i
-  OrtPraesidium:
-    Praesident:
-    - !ruby/regexp /Präsident/i
-    Vizepraesident:
-    - !ruby/regexp /Vizepräsident/i
-    Kassier:
-    - !ruby/regexp /Finanzen/i
-    - !ruby/regexp /Kassier/i
-    Mitglied:
-    - !ruby/regexp /Ressort|Mitglied/i
-    Adressverwalter:
-    - !ruby/regexp /Umzug|Zuzüger/i
-  OrtSpender:
-    Mitglied:
-    - !ruby/regexp /Kontakt/i
-  OrtMitglieder:
-    Mitglied:
-    - !ruby/regexp /einzel|ehren|jugend|jeune|indi|senior|fam/i
-    SympathisantNachKantonalemStatut:
-    - !ruby/regexp /sym/i
-  OrtGewaehlte:
-    Fraktionschef:
-    - !ruby/regexp /Präsident/i
-    MitgliedWeitereGemeindeKommissionen:
-    - !ruby/regexp /GPK Mitglied/i
-    - ['Finanzkommission', 'Mitglied']
-    Schulpflegekommission:
-    - !ruby/regexp /Schulrat|Schulparlament|Schulpflege/i
-    - ['Schulpflege', 'Mitglied']
-    - ['Schulpflege', 'Präsident']
-    KommunaleExekutive:
-    - !ruby/regexp /Exekutive/i
-    - !ruby/regexp /^Mitglied$/i
-  OrtExterneKontakte:
-    Kontakt:
-      - !ruby/regexp /Kontakt|Mitglied|Empfänger/i
+  types:
+    BundDelegierte:
+      Delegierte:
+      - !ruby/regexp /^Delegierter$/i
+    BundGewaehlte:
+      Nationalrat:
+      - !ruby/regexp /^Nationalrat$/i
+      Staenderat:
+      - !ruby/regexp /^Ständerat$/i
+      Bundesrat:
+      - !ruby/regexp /^Bundesrat$/i
+    BundExterneKontakte:
+      Kontakt:
+      - !ruby/regexp /^Kontakt$/i
+    VereinigungPraesidium:
+      Praesident:
+      - !ruby/regexp /Präsident/i
+      Mitglied:
+      - !ruby/regexp /Mitglied/i
+      Kassier:
+      - !ruby/regexp /Kassier/i
+    VereinigungArbeitsgruppe:
+      Praesident:
+      - !ruby/regexp /Präsident/i
+      Mitglied:
+      - !ruby/regexp /^Mitglied$/i
+      - !ruby/regexp /^Kontakt$/i
+      Gast:
+      - !ruby/regexp /^Gast$/i
+    KantonPraesidium:
+      Praesident:
+      - !ruby/regexp /Präsident/i
+      Mitglied:
+      - !ruby/regexp /Mitglied/i
+    KantonGewaehlte:
+      MitgliedKantonalesGerichtErsteInstanz:
+      - ['Ersatzrichter', 'Mitglied']
+      - ['Richter', 'Mitglied']
+      - ['Handelsgericht', 'Richter']
+      - ['Handelsgericht', 'Fachrichter']
+      - ['Kantonsgericht', 'Präsident']
+      - ['Kantonsgericht', 'Richter']
+      - ['Kantonsgericht', 'Ersatzrichter']
+      - ['Verwaltungsgericht', 'Präsident']
+      - ['Verwaltungsgericht', 'Richter']
+      - ['Verwaltungsgericht', 'Ersatzrichter']
+      - ['Versicherungsgericht', 'Richter']
+      - ['Versicherungsgericht', 'Fachrichter']
+      - ['Fachrichter der Verwaltungsrekurskommission', 'Mitglied']
+      - ['Abteilungspräsident Versicherungsgericht', 'Mitglied']
+      - ['Abteilungsvizepräsident Versicherungsgericht', 'Mitglied']
+      - ['Fachrichter Versicherungsgericht', 'Mitglied']
+      - ['Hauptamtlicher Kantonsrichter', 'Mitglied']
+      - ['Verwaltungsgerichtspräsident', 'Mitglied']
+      - ['Vizepräsident Verwaltungsgericht', 'Mitglied']
+      - ['Anklagekammer', 'Ersatzrichter']
+      - ['Kantonsgerichtpräsident', 'Mitglied']
+      - ['Verwaltungsrekurskommission', 'Präsident']
+      - ['Verwaltungsrekurskommission', 'Richter']
+      - ['Verwaltungsrekurskommission', 'Fachrichter']
+      - !ruby/regexp /Richteramt/i
+      - !ruby/regexp /^Kantonsrichter$/i
+      MitgliedKantonalesGerichtZweiteInstanz:
+      - ['Ersatzrichter', 'Mitglied']
+      KantonaleLegislative:
+      - ['Legislative', 'Mitglied']
+      Staatsanwaltschaft:
+      - !ruby/regexp /Staatsanwalt/i
+      KantonaleExekutive:
+      - !ruby/regexp /Kantonsrat/i
+      - ['Exekutive', 'Mitglied']
+      - ['Staatssekretär \(7200\)', 'Mitglied']
+      - ['Regierungsrat \(8400\)', 'Mitglied']
+      - ['Regierungpräsident \(8760\)', 'Mitglied']
+    KantonKommission:
+      Praesident:
+      - !ruby/regexp /Präsident/i
+      Mitglied:
+      - !ruby/regexp /Mitglied/i
+    KantonSpender:
+      Mitglied:
+      - !ruby/regexp /Mitglied/i
+    KantonExterneKontakte:
+      Kontakt:
+      - !ruby/regexp /Kontakt/i
+      - !ruby/regexp /Empfänger/i
+    KantonDelegierte:
+      Delegierte:
+      - !ruby/regexp /^Delegierter$/i # exclude 'Delegierte von Amtes wegen'
+    KantonArbeitsgruppe:
+      Praesident:
+      - !ruby/regexp /Präsident/i
+      Mitglied:
+      - !ruby/regexp /^Mitglied$/i
+      - !ruby/regexp /^Kontakt$/i
+      Gast:
+      - !ruby/regexp /^Gast$/i
+    KantonMitglieder:
+      Mitglied:
+      - !ruby/regexp /einzel|ehren|jugend|jeune|indi|senior|fam/i
+      SympathisantNachKantonalemStatut:
+      - !ruby/regexp /Sympathisant/i
+    RegionDelegierte:
+      Delegierte:
+      - !ruby/regexp /Delegierter|Mitglied/i
+    RegionGewaehlte:
+      Delegierte:
+      - !ruby/regexp /Delegierter|Mitglied/i
+    RegionPraesidium:
+      Praesident:
+      - !ruby/regexp /Präsident/i
+      Vizepraesident:
+      - !ruby/regexp /Vizepräsident/i
+      Kassier:
+      - !ruby/regexp /Finanzen/i
+      Mitglied:
+      - !ruby/regexp /Ressort/i
+    RegionMitglieder:
+      Mitglied:
+      - !ruby/regexp /einzel|ehren|jugend|jeune|indi|senior|fam/i
+      Sympathisant:
+      - !ruby/regexp /symp/i
+    OrtPraesidium:
+      Praesident:
+      - !ruby/regexp /Präsident/i
+      Vizepraesident:
+      - !ruby/regexp /Vizepräsident/i
+      Kassier:
+      - !ruby/regexp /Finanzen/i
+      - !ruby/regexp /Kassier/i
+      Mitglied:
+      - !ruby/regexp /Ressort|Mitglied/i
+      Adressverwalter:
+      - !ruby/regexp /Umzug|Zuzüger/i
+    OrtSpender:
+      Mitglied:
+      - !ruby/regexp /Kontakt/i
+    OrtMitglieder:
+      Mitglied:
+      - !ruby/regexp /einzel|ehren|jugend|jeune|indi|senior|fam/i
+      SympathisantNachKantonalemStatut:
+      - !ruby/regexp /sym/i
+    OrtGewaehlte:
+      Fraktionschef:
+      - !ruby/regexp /Präsident/i
+      MitgliedWeitereGemeindeKommissionen:
+      - !ruby/regexp /GPK Mitglied/i
+      - ['Finanzkommission', 'Mitglied']
+      Schulpflegekommission:
+      - !ruby/regexp /Schulrat|Schulparlament|Schulpflege/i
+      - ['Schulpflege', 'Mitglied']
+      - ['Schulpflege', 'Präsident']
+      KommunaleExekutive:
+      - !ruby/regexp /Exekutive/i
+      - !ruby/regexp /^Mitglied$/i
+    OrtExterneKontakte:
+      Kontakt:
+        - !ruby/regexp /Kontakt|Mitglied|Empfänger/i

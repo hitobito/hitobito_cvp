@@ -1,11 +1,6 @@
 module Structure::Steps
   class RoleType < Base
 
-    def initialize(rows, config = nil)
-      super
-      @ignored = @config[:roles_new].delete(:ignored)
-    end
-
     def run
       apply_roles
       apply_mitgliedschaften
@@ -48,7 +43,7 @@ module Structure::Steps
     end
 
     def guesser
-      @guesser ||= TypeGuess::Roles.new(@config[:roles_new], allowed)
+      @guesser ||= TypeGuess::Roles.new(@config.dig(:roles_new, :types), allowed)
     end
 
     # TODO we are ignoring some mitgliedschaften here
@@ -73,7 +68,7 @@ module Structure::Steps
     end
 
     def ignored?(label)
-      @ignored.any? { |r| r.match(label) }
+      @config.dig(:roles_new, :ignored).any? { |r| r.match(label) }
     end
   end
 end
