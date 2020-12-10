@@ -18,10 +18,6 @@ module Structure
       @group.type
     end
 
-    def type_or_default
-      type || 'Merkmal'
-    end
-
     def to_s(format = nil)
       if format == :full
         type_string = type.starts_with?('tbd') ? :tbd : type
