@@ -1,15 +1,12 @@
 <Bund CVP Schweiz, id:1, 0>
  <Vereinigung AWG, id:5, 1>
   <VereinigungPraesidium AWG Schweiz [Praesident 4], id:14613, 5>
-  <Kanton AG, id:35277, 5>
-   <KantonMitglieder Mitgliedschaften, id:36357, 35277>
   <Kanton AWG LU, id:38784, 5>
    <KantonExterneKontakte Newsletter [Kontakt 141], id:38786, 38784>
    <KantonMitglieder Mitgliedschaften [Mitglied 18], id:38787, 38784>
-  <Kanton FR, id:37566, 5>
-   <KantonMitglieder Mitgliedschaften, id:37568, 37566>
   <Kanton GR, id:52, 5>
-   <KantonMitglieder Mitgliedschaften [Mitglied 11, SympathisantNachKantonalemStatut 1], id:39064, 52>
+   <KantonSympathisanten Sympathisanten [Sympathisant 1], id:18099, 52>
+   <KantonMitglieder Mitgliedschaften [Mitglied 11], id:39064, 52>
   <Kanton SG, id:37768, 5>
    <KantonMitglieder Mitgliedschaften [Mitglied 196], id:38698, 37768>
   <Kanton TG [tbd:Mitglied 1, tbd:Präsident 1, tbd:Vorstandsmitglied 1], id:55, 5>
@@ -17,7 +14,7 @@
    <KantonMitglieder Mitgliedschaften [Mitglied 100], id:36118, 56>
   <Kanton VD, id:40076, 5>
    <KantonArbeitsgruppe Interessenten [tbd:Interessent 1], id:40079, 40076>
-   <KantonMitglieder Mitgliedschaften, id:40080, 40076>
   <Kanton ZG [tbd:Mitglied 1], id:57, 5>
   <Kanton ZH, id:58, 5>
-   <KantonMitglieder Mitgliedschaften [Mitglied 123, SympathisantNachKantonalemStatut 80], id:38568, 58>
+   <KantonSympathisanten Sympathisanten [Sympathisant 79], id:18107, 58>
+   <KantonMitglieder Mitgliedschaften [Mitglied 124], id:38568, 58>

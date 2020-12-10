@@ -29,12 +29,15 @@
    <KantonMitglieder Mitgliedschaften [Mitglied 267], id:36668, 36665>
    <KantonPraesidium Vorstand [Praesident 2], id:36666, 36665>
   <Kanton 60+ BE, id:36246, 4>
-   <KantonMitglieder Mitgliedschaften [Mitglied 108, SympathisantNachKantonalemStatut 1], id:36674, 36246>
+   <KantonSympathisanten Sympathisanten [Sympathisant 1], id:18098, 36246>
+   <KantonMitglieder Mitgliedschaften [Mitglied 108], id:36674, 36246>
   <Kanton 60+ BL, id:33145, 4>
+   <KantonSympathisanten Sympathisanten [Sympathisant 1], id:18099, 33145>
    <KantonExterneKontakte Newsletter [Kontakt 104], id:38957, 33145>
-   <KantonMitglieder Mitgliedschaften [Mitglied 128, SympathisantNachKantonalemStatut 1], id:36671, 33145>
+   <KantonMitglieder Mitgliedschaften [Mitglied 128], id:36671, 33145>
   <Kanton 60+ BS, id:39134, 4>
-   <KantonMitglieder Mitgliedschaften [Mitglied 3, SympathisantNachKantonalemStatut 199], id:39136, 39134>
+   <KantonSympathisanten Sympathisanten [Sympathisant 199], id:18100, 39134>
+   <KantonMitglieder Mitgliedschaften [Mitglied 3], id:39136, 39134>
   <Kanton 60+ FR, id:14859, 4>
    <KantonMitglieder Mitgliedschaften [Mitglied 1], id:37561, 14859>
   <Kanton 60+ GR, id:44, 4>
@@ -48,7 +51,8 @@
    <Region Wahlkreis Luzern Land, id:37017, 45>
     <RegionMitglieder Mitgliedschaften [Mitglied 681], id:37026, 37017>
    <Region Wahlkreis Luzern Stadt, id:37019, 45>
-    <RegionMitglieder Mitgliedschaften [Mitglied 610, Sympathisant 62], id:37027, 37019>
+    <RegionSympathisanten Sympathisanten [Sympathisant 62], id:18107, 37019>
+    <RegionMitglieder Mitgliedschaften [Mitglied 610], id:37027, 37019>
    <Region Wahlkreis Sursee, id:37021, 45>
     <RegionArbeitsgruppe Seniorenrat [tbd:Mitglied 12], id:40047, 37021>
     <RegionMitglieder Mitgliedschaften [Mitglied 706], id:37028, 37021>
@@ -70,18 +74,21 @@
    <Region Regionalpartei Werdenberg, id:35493, 35484>
     <RegionMitglieder Mitgliedschaften [Mitglied 113], id:35507, 35493>
    <Region Regionalpartei Wil-Untertoggenburg, id:35494, 35484>
-    <RegionMitglieder Mitgliedschaften [Mitglied 246, Sympathisant 4], id:35508, 35494>
+    <RegionSympathisanten Sympathisanten [Sympathisant 4], id:18118, 35494>
+    <RegionMitglieder Mitgliedschaften [Mitglied 246], id:35508, 35494>
   <Kanton 60+ SO, id:36262, 4>
    <KantonMitglieder Mitgliedschaften [Mitglied 75], id:36264, 36262>
   <Kanton 60+ SZ, id:35663, 4>
+   <KantonSympathisanten Sympathisanten [Sympathisant 38], id:18120, 35663>
    <KantonArbeitsgruppe Leitungsteam [Mitglied 8], id:35664, 35663>
-   <KantonMitglieder Mitgliedschaften [Mitglied 379, SympathisantNachKantonalemStatut 38], id:36661, 35663>
+   <KantonMitglieder Mitgliedschaften [Mitglied 379], id:36661, 35663>
   <Kanton 60+ TG, id:46, 4>
    <KantonMitglieder Mitgliedschaften [Mitglied 308], id:36837, 46>
   <Kanton 60+ UR, id:39271, 4>
    <KantonMitglieder Mitgliedschaften [Mitglied 8], id:39274, 39271>
   <Kanton 60+ ZG, id:36621, 4>
-   <KantonMitglieder Mitgliedschaften [Mitglied 154, SympathisantNachKantonalemStatut 36], id:36624, 36621>
+   <KantonSympathisanten Sympathisanten [Sympathisant 36], id:18123, 36621>
+   <KantonMitglieder Mitgliedschaften [Mitglied 154], id:36624, 36621>
   <Kanton 60+ ZH, id:38869, 4>
    <KantonMitglieder Mitgliedschaften [Mitglied 78], id:38871, 38869>
   <Kanton Weitere Funktionen [tbd:Betreuung Homepage 1, tbd:Revisor 2, tbd:Sekretär 1, tbd:Sekretär Kantonalpartei/Vereinigung 1], id:36626, 4>

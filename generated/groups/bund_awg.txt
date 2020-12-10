@@ -1,14 +1,11 @@
 <Bund id=1, label=CVP Schweiz, parent_id=>
  <Vereinigung id=5, label=AWG, parent_id=1>
   <VereinigungPraesidium id=14613, label=AWG Schweiz, parent_id=5>
-  <Kanton id=35277, label=AG, parent_id=5>
-   <KantonMitglieder id=36357, label=Mitgliedschaften, parent_id=35277>
   <Kanton id=38784, label=AWG LU, parent_id=5>
    <KantonExterneKontakte id=38786, label=Newsletter, parent_id=38784>
    <KantonMitglieder id=38787, label=Mitgliedschaften, parent_id=38784>
-  <Kanton id=37566, label=FR, parent_id=5>
-   <KantonMitglieder id=37568, label=Mitgliedschaften, parent_id=37566>
   <Kanton id=52, label=GR, parent_id=5>
+   <KantonSympathisanten id=18099, label=Sympathisanten, parent_id=52>
    <KantonMitglieder id=39064, label=Mitgliedschaften, parent_id=52>
   <Kanton id=37768, label=SG, parent_id=5>
    <KantonMitglieder id=38698, label=Mitgliedschaften, parent_id=37768>
@@ -17,7 +14,7 @@
    <KantonMitglieder id=36118, label=Mitgliedschaften, parent_id=56>
   <Kanton id=40076, label=VD, parent_id=5>
    <KantonArbeitsgruppe id=40079, label=Interessenten, parent_id=40076>
-   <KantonMitglieder id=40080, label=Mitgliedschaften, parent_id=40076>
   <Kanton id=57, label=ZG, parent_id=5>
   <Kanton id=58, label=ZH, parent_id=5>
+   <KantonSympathisanten id=18107, label=Sympathisanten, parent_id=58>
    <KantonMitglieder id=38568, label=Mitgliedschaften, parent_id=58>

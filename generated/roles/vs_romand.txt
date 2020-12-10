@@ -1,5 +1,6 @@
 <Bund CVP Schweiz, id:1, 0>
  <Kanton CVP VS. Romand, id:176, 1>
+  <KantonSympathisanten Sympathisanten [Sympathisant 2], id:18095, 176>
   <KantonArbeitsgruppe Bureau [Mitglied 13], id:33488, 176>
   <KantonArbeitsgruppe Candidats à la constituante [tbd:Kandidat 60], id:39902, 176>
   <KantonArbeitsgruppe Candidats à la députation [tbd:Kantonsrat 44, tbd:Kantonsrat Stellvertreter 39], id:39143, 176>
@@ -36,7 +37,7 @@
   <KantonGewaehlte Exekutive [KantonaleExekutive 13, tbd:Präsident 5, tbd:Vizepräsident 10], id:33208, 176>
   <KantonGewaehlte Judikative [tbd:Ersatzrichter 2, tbd:Richter 2], id:36709, 176>
   <KantonGewaehlte Legislative [KantonaleLegislative 103, tbd:Ersatzmitglied 49, tbd:Suppleant 31, tbd:Vizepräsident 2], id:643, 176>
-  <KantonMitglieder Mitgliedschaften [Mitglied 3802, SympathisantNachKantonalemStatut 2], id:645, 176>
+  <KantonMitglieder Mitgliedschaften [Mitglied 3802], id:645, 176>
   <KantonPraesidium Partei [tbd:Zuzüger 28], id:647, 176>
   <Region Conthey, id:640, 176>
    <RegionMitglieder Mitgliedschaften [Mitglied 1], id:2164, 640>
@@ -74,8 +75,9 @@
     <OrtMitglieder Mitgliedschaften [Mitglied 161], id:33462, 2168>
     <OrtPraesidium Partei [Adressverwalter 1, Praesident 1], id:4191, 2168>
    <Ort Sembrancher, id:2170, 641>
+    <OrtSympathisanten Sympathisanten [Sympathisant 13], id:18106, 2170>
     <OrtGewaehlte Exekutive [Fraktionschef 2], id:37050, 2170>
-    <OrtMitglieder Mitgliedschaften [Mitglied 24, SympathisantNachKantonalemStatut 13], id:33463, 2170>
+    <OrtMitglieder Mitgliedschaften [Mitglied 24], id:33463, 2170>
     <OrtPraesidium Partei [Adressverwalter 5, Praesident 3], id:4192, 2170>
    <Ort Val de Bagnes, id:40308, 641>
     <OrtArbeitsgruppe Exekutiv [tbd:Mitglied 2, tbd:Präsident 2, tbd:Vizepräsident 4], id:40310, 40308>
@@ -158,7 +160,6 @@
     <OrtPraesidium Partei [Adressverwalter 2, Praesident 1], id:33203, 2188>
    <Ort Collombey-Muraz, id:2189, 646>
     <OrtGewaehlte Exekutive [Fraktionschef 1], id:37064, 2189>
-    <OrtMitglieder Mitgliedschaften, id:4212, 2189>
     <OrtPraesidium Partei [Praesident 2], id:33204, 2189>
    <Ort Monthey, id:2190, 646>
     <OrtGewaehlte Exekutive [Fraktionschef 1], id:37065, 2190>
@@ -188,14 +189,14 @@
     <OrtMitglieder Mitgliedschaften [Mitglied 13], id:4222, 2197>
     <OrtPraesidium Partei [Praesident 1], id:33205, 2197>
   <Region Sierre, id:648, 176>
-   <RegionMitglieder Mitgliedschaften, id:33504, 648>
    <RegionPraesidium Partei [Praesident 4, tbd:Kassier 1, tbd:Präfekt 1], id:2204, 648>
    <Ort Anniviers, id:2201, 648>
     <OrtGewaehlte Exekutive [Fraktionschef 1], id:37088, 2201>
     <OrtMitglieder Mitgliedschaften [Mitglied 150], id:4226, 2201>
     <OrtPraesidium Partei [Adressverwalter 2, Praesident 2], id:33206, 2201>
    <Ort Chalais, id:2198, 648>
-    <OrtMitglieder Mitgliedschaften [Mitglied 114, SympathisantNachKantonalemStatut 2], id:33456, 2198>
+    <OrtSympathisanten Sympathisanten [Sympathisant 2], id:18139, 2198>
+    <OrtMitglieder Mitgliedschaften [Mitglied 114], id:33456, 2198>
     <OrtPraesidium Partei [Adressverwalter 2, Praesident 3], id:4223, 2198>
    <Ort Chippis, id:2200, 648>
     <OrtGewaehlte Exekutive [Fraktionschef 1], id:37072, 2200>
@@ -228,12 +229,14 @@
     <OrtMitglieder Mitgliedschaften [Mitglied 131], id:33507, 33475>
     <OrtPraesidium Partei [Adressverwalter 2, Praesident 4], id:33476, 33475>
    <Ort Venthone, id:2207, 648>
+    <OrtSympathisanten Sympathisanten [Sympathisant 1], id:18147, 2207>
     <OrtGewaehlte Exekutive [Fraktionschef 1], id:37090, 2207>
-    <OrtMitglieder Mitgliedschaften [Mitglied 12, SympathisantNachKantonalemStatut 1], id:4234, 2207>
+    <OrtMitglieder Mitgliedschaften [Mitglied 12], id:4234, 2207>
     <OrtPraesidium Partei [Praesident 1], id:4235, 2207>
    <Ort Veyras, id:2208, 648>
+    <OrtSympathisanten Sympathisanten [Sympathisant 1], id:18148, 2208>
     <OrtGewaehlte Exekutive [Fraktionschef 1], id:37076, 2208>
-    <OrtMitglieder Mitgliedschaften [Mitglied 23, SympathisantNachKantonalemStatut 1], id:4236, 2208>
+    <OrtMitglieder Mitgliedschaften [Mitglied 23], id:4236, 2208>
     <OrtPraesidium Partei [Praesident 4], id:4237, 2208>
   <Region Sion, id:649, 176>
    <RegionMitglieder Mitgliedschaften [Mitglied 12], id:34889, 649>
@@ -247,13 +250,15 @@
     <OrtMitglieder Mitgliedschaften [Mitglied 110], id:33430, 33170>
     <OrtPraesidium Partei [Adressverwalter 3, Praesident 4], id:33171, 33170>
    <Ort Saviese, id:2210, 649>
+    <OrtSympathisanten Sympathisanten [Sympathisant 1], id:18152, 2210>
     <OrtGewaehlte Exekutive [Fraktionschef 1], id:37078, 2210>
-    <OrtMitglieder Mitgliedschaften [Mitglied 123, SympathisantNachKantonalemStatut 1], id:33428, 2210>
+    <OrtMitglieder Mitgliedschaften [Mitglied 123], id:33428, 2210>
     <OrtPraesidium Partei [Adressverwalter 1, Praesident 5], id:4239, 2210>
    <Ort Sion, id:2211, 649>
+    <OrtSympathisanten Sympathisanten [Sympathisant 400], id:18153, 2211>
     <OrtGewaehlte Exekutive [Fraktionschef 1], id:37079, 2211>
     <OrtGewaehlte Legislative [KommunaleExekutive 1], id:36805, 2211>
-    <OrtMitglieder Mitgliedschaften [Mitglied 607, SympathisantNachKantonalemStatut 399], id:4240, 2211>
+    <OrtMitglieder Mitgliedschaften [Mitglied 606], id:4240, 2211>
     <OrtPraesidium Partei [Adressverwalter 28, Praesident 1], id:33207, 2211>
    <Ort Veysonnaz, id:2212, 649>
     <OrtGewaehlte Exekutive [Fraktionschef 2], id:37080, 2212>
@@ -278,8 +283,9 @@
     <OrtMitglieder Mitgliedschaften [Mitglied 12], id:33435, 33187>
     <OrtPraesidium Partei [Adressverwalter 2, Praesident 1], id:33188, 33187>
    <Ort Massongex, id:33185, 650>
+    <OrtSympathisanten Sympathisanten [Sympathisant 1], id:18160, 33185>
     <OrtGewaehlte Exekutive [Fraktionschef 2], id:37102, 33185>
-    <OrtMitglieder Mitgliedschaften [Mitglied 17, SympathisantNachKantonalemStatut 1], id:33436, 33185>
+    <OrtMitglieder Mitgliedschaften [Mitglied 17], id:33436, 33185>
     <OrtPraesidium Partei [Adressverwalter 1, Praesident 1], id:33186, 33185>
    <Ort Salvan, id:2218, 650>
     <OrtGewaehlte Exekutive [Fraktionschef 1], id:37085, 2218>
@@ -294,6 +300,7 @@
     <OrtMitglieder Mitgliedschaften [Mitglied 35], id:4248, 2220>
     <OrtPraesidium Partei [Adressverwalter 2, Praesident 3], id:4249, 2220>
    <Ort Verossaz, id:2221, 650>
+    <OrtSympathisanten Sympathisanten [Sympathisant 2], id:18164, 2221>
     <OrtGewaehlte Exekutive [Fraktionschef 1], id:37092, 2221>
-    <OrtMitglieder Mitgliedschaften [Mitglied 15, SympathisantNachKantonalemStatut 2], id:33508, 2221>
+    <OrtMitglieder Mitgliedschaften [Mitglied 15], id:33508, 2221>
     <OrtPraesidium Partei [Adressverwalter 2, Praesident 3], id:4250, 2221>

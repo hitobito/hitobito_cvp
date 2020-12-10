@@ -53,16 +53,16 @@
    <KantonGewaehlte Verwaltungsgericht [MitgliedKantonalesGerichtErsteInstanz 3, tbd:Mitglied 2, tbd:Vizepräsident 2], id:35585, 35583>
   <KantonGewaehlte Legislative [KantonaleLegislative 76], id:566, 170>
   <KantonGewaehlte Schiedsgericht [tbd:Mitglied 3], id:35578, 170>
-  <KantonMitglieder Mitgliedschaften, id:567, 170>
   <KantonPraesidium Fraktionsvorstand [Mitglied 10], id:36180, 170>
   <KantonPraesidium Partei [Praesident 8, tbd:Ansprechperson Finanzen 1, tbd:Empfänger Rechnung Jahresbeitrag CVP CH 1, tbd:Leserbriefschreiber/-in Verantw. 55, tbd:OM Ansprechperson 3, tbd:Sekretär Kantonalpartei/Vereinigung 1, tbd:Zuzüger 2], id:568, 170>
   <KantonPraesidium Vorstand [Mitglied 22], id:1778, 170>
   <KantonPraesidium Vorstand CVP Schweiz [Mitglied 4], id:35668, 170>
   <KantonPraesidium Vorstandsausschuss [Mitglied 5], id:35665, 170>
   <Region Bezirk Einsiedeln, id:560, 170>
+   <RegionSympathisanten Sympathisanten [Sympathisant 4], id:18096, 560>
    <RegionArbeitsgruppe Exekutive [tbd:Mitglied 1, tbd:Vizepräsident 1], id:35603, 560>
    <RegionArbeitsgruppe Judikative [tbd:Mitglied 4], id:35602, 560>
-   <RegionMitglieder Mitgliedschaften [Mitglied 171, Sympathisant 4], id:1747, 560>
+   <RegionMitglieder Mitgliedschaften [Mitglied 171], id:1747, 560>
    <RegionPraesidium Partei [Praesident 3, tbd:Vorstandsmitglied 8, tbd:Zuzüger 7], id:35601, 560>
   <Region Bezirk Gersau, id:561, 170>
    <RegionArbeitsgruppe Exekutive [tbd:Mitglied 4, tbd:Präsident 2], id:35598, 561>
@@ -73,54 +73,63 @@
    <RegionArbeitsgruppe Judikative [tbd:Mitglied 1], id:35626, 563>
    <RegionPraesidium Partei [Praesident 1], id:35624, 563>
    <Ort Feusisberg, id:1751, 563>
+    <OrtSympathisanten Sympathisanten [Sympathisant 5], id:18099, 1751>
     <OrtGewaehlte Exekutive [KommunaleExekutive 2], id:35627, 1751>
-    <OrtMitglieder Mitgliedschaften [Mitglied 38, SympathisantNachKantonalemStatut 5], id:3596, 1751>
+    <OrtMitglieder Mitgliedschaften [Mitglied 38], id:3596, 1751>
     <OrtPraesidium Partei [Adressverwalter 1, Mitglied 7, Praesident 3], id:3597, 1751>
    <Ort Freienbach, id:1752, 563>
+    <OrtSympathisanten Sympathisanten [Sympathisant 255], id:18100, 1752>
     <OrtArbeitsgruppe Neuzuzüger, id:39948, 1752>
      <OrtArbeitsgruppe 2018 [tbd:Kontakt 153], id:39949, 39948>
     <OrtGewaehlte Exekutive [Fraktionschef 1, KommunaleExekutive 4], id:35629, 1752>
-    <OrtMitglieder Mitgliedschaften [Mitglied 209, SympathisantNachKantonalemStatut 255], id:3598, 1752>
+    <OrtMitglieder Mitgliedschaften [Mitglied 209], id:3598, 1752>
     <OrtPraesidium Partei [Adressverwalter 3, Kassier 2, Mitglied 17, Praesident 4, tbd:Abstimmungsbüro 15, tbd:Abwasserverband Höfe 2, tbd:Betriebskommission Pflegezentren 1, tbd:Delegierter 10, tbd:Einbürgerungskommission 1, tbd:Energiekommission 1, tbd:Erziehungsrat 1, tbd:Fürsorgebehörde 2, tbd:Hochbaukommission 1, tbd:Jugend/Familienkommission 1, tbd:Kantonsrat 2, tbd:Kulturkommission 2, tbd:Liegenschaftenkommission 1, tbd:Planungskommission 1, tbd:Projektgruppe Steinfabrik 1, tbd:RPK Gemeinde 2, tbd:Schulrat 1, tbd:Umwelt/Landschaftsko 1, tbd:Verkehrskommission 1], id:35628, 1752>
    <Ort Wollerau, id:1753, 563>
+    <OrtSympathisanten Sympathisanten [Sympathisant 50], id:18101, 1753>
     <OrtGewaehlte Exekutive [KommunaleExekutive 3], id:35630, 1753>
-    <OrtMitglieder Mitgliedschaften [Mitglied 85, SympathisantNachKantonalemStatut 50], id:3599, 1753>
+    <OrtMitglieder Mitgliedschaften [Mitglied 85], id:3599, 1753>
     <OrtPraesidium Partei [Adressverwalter 2, Mitglied 39, Praesident 3], id:3600, 1753>
   <Region Bezirk Küssnacht, id:562, 170>
+   <RegionSympathisanten Sympathisanten [Sympathisant 129], id:18102, 562>
    <RegionArbeitsgruppe Exekutive [tbd:Mitglied 3], id:35648, 562>
    <RegionArbeitsgruppe Judikative [tbd:Mitglied 7, tbd:Präsident 1], id:35649, 562>
-   <RegionMitglieder Mitgliedschaften [Mitglied 184, Sympathisant 128], id:35651, 562>
+   <RegionMitglieder Mitgliedschaften [Mitglied 183], id:35651, 562>
    <RegionPraesidium Partei [Praesident 1, tbd:Empfänger Umzugsmeldung 1, tbd:Vorstandsmitglied 6, tbd:Zuzüger 5], id:35647, 562>
   <Region Bezirk March, id:564, 170>
    <RegionArbeitsgruppe Exekutive [tbd:Mitglied 2], id:35632, 564>
    <RegionArbeitsgruppe Judikative [tbd:Mitglied 2], id:35633, 564>
    <RegionPraesidium Partei [Praesident 3, tbd:Empfänger Umzugsmeldung 1, tbd:Vorstandsmitglied 3], id:35631, 564>
    <Ort Altendorf, id:1754, 564>
+    <OrtSympathisanten Sympathisanten [Sympathisant 459], id:18104, 1754>
     <OrtArbeitsgruppe Ehrenmitglieder [tbd:Mitglied 12], id:38446, 1754>
     <OrtArbeitsgruppe Kommissionsmitglieder [tbd:Mitglied 16], id:40333, 1754>
     <OrtArbeitsgruppe Schulrat [tbd:Mitglied 1], id:37924, 1754>
     <OrtGewaehlte Exekutive [KommunaleExekutive 3], id:35637, 1754>
-    <OrtMitglieder Mitgliedschaften [Mitglied 193, SympathisantNachKantonalemStatut 459], id:35636, 1754>
+    <OrtMitglieder Mitgliedschaften [Mitglied 193], id:35636, 1754>
     <OrtPraesidium Partei [Adressverwalter 4, Mitglied 19, Praesident 3], id:3601, 1754>
    <Ort Altendorf KVP, id:1755, 564>
     <OrtGewaehlte Exekutive [KommunaleExekutive 1], id:35638, 1755>
     <OrtMitglieder Mitgliedschaften [Mitglied 17], id:3602, 1755>
     <OrtPraesidium Partei [Praesident 2], id:3603, 1755>
    <Ort Galgenen, id:1756, 564>
+    <OrtSympathisanten Sympathisanten [Sympathisant 4], id:18106, 1756>
     <OrtGewaehlte Exekutive [KommunaleExekutive 2], id:35640, 1756>
-    <OrtMitglieder Mitgliedschaften [Mitglied 30, SympathisantNachKantonalemStatut 4], id:3604, 1756>
+    <OrtMitglieder Mitgliedschaften [Mitglied 30], id:3604, 1756>
     <OrtPraesidium Partei [Mitglied 3, Praesident 1], id:35639, 1756>
    <Ort Lachen, id:1758, 564>
+    <OrtSympathisanten Sympathisanten [Sympathisant 3], id:18107, 1758>
     <OrtGewaehlte Exekutive [KommunaleExekutive 2], id:35641, 1758>
-    <OrtMitglieder Mitgliedschaften [Mitglied 90, SympathisantNachKantonalemStatut 3], id:3606, 1758>
+    <OrtMitglieder Mitgliedschaften [Mitglied 90], id:3606, 1758>
     <OrtPraesidium Partei [Adressverwalter 3, Mitglied 7, Praesident 3], id:3607, 1758>
    <Ort Reichenburg, id:1759, 564>
+    <OrtSympathisanten Sympathisanten [Sympathisant 1], id:18108, 1759>
     <OrtGewaehlte Exekutive [KommunaleExekutive 1], id:35643, 1759>
-    <OrtMitglieder Mitgliedschaften [Mitglied 8, SympathisantNachKantonalemStatut 1], id:3608, 1759>
+    <OrtMitglieder Mitgliedschaften [Mitglied 8], id:3608, 1759>
     <OrtPraesidium Partei [Mitglied 5, Praesident 3], id:35642, 1759>
    <Ort Schübelbach, id:1760, 564>
+    <OrtSympathisanten Sympathisanten [Sympathisant 1], id:18109, 1760>
     <OrtGewaehlte Exekutive [KommunaleExekutive 5], id:35644, 1760>
-    <OrtMitglieder Mitgliedschaften [Mitglied 23, SympathisantNachKantonalemStatut 1], id:3609, 1760>
+    <OrtMitglieder Mitgliedschaften [Mitglied 23], id:3609, 1760>
     <OrtPraesidium Partei [Adressverwalter 1, Mitglied 13, Praesident 2], id:3610, 1760>
    <Ort Tuggen, id:1761, 564>
     <OrtGewaehlte Exekutive [Fraktionschef 1, KommunaleExekutive 1], id:35645, 1761>
@@ -135,34 +144,39 @@
    <RegionArbeitsgruppe Judikative [tbd:Präsident 1], id:35605, 565>
    <RegionPraesidium Partei [Praesident 1, tbd:Vorstandsmitglied 1], id:1771, 565>
    <Ort Arth-Oberarth-Goldau, id:1764, 565>
+    <OrtSympathisanten Sympathisanten [Sympathisant 120], id:18113, 1764>
     <OrtGewaehlte Exekutive [Fraktionschef 2, KommunaleExekutive 5], id:35606, 1764>
-    <OrtMitglieder Mitgliedschaften [Mitglied 576, SympathisantNachKantonalemStatut 121], id:3616, 1764>
+    <OrtMitglieder Mitgliedschaften [Mitglied 577], id:3616, 1764>
     <OrtPraesidium Partei [Mitglied 3, Praesident 1], id:3617, 1764>
    <Ort Illgau, id:1765, 565>
     <OrtGewaehlte Exekutive [Fraktionschef 1, KommunaleExekutive 1], id:35608, 1765>
     <OrtMitglieder Mitgliedschaften [Mitglied 15], id:3618, 1765>
     <OrtPraesidium Partei [Mitglied 4, Praesident 1], id:3619, 1765>
    <Ort Ingenbohl, id:1766, 565>
+    <OrtSympathisanten Sympathisanten [Sympathisant 36], id:18115, 1766>
     <OrtGewaehlte Exekutive [Fraktionschef 1, KommunaleExekutive 3], id:35609, 1766>
-    <OrtMitglieder Mitgliedschaften [Mitglied 106, SympathisantNachKantonalemStatut 36], id:3620, 1766>
+    <OrtMitglieder Mitgliedschaften [Mitglied 106], id:3620, 1766>
     <OrtPraesidium Partei [Adressverwalter 11, Mitglied 8, Praesident 4], id:3621, 1766>
    <Ort Lauerz, id:1767, 565>
+    <OrtSympathisanten Sympathisanten [Sympathisant 7], id:18116, 1767>
     <OrtGewaehlte Exekutive [Fraktionschef 2, KommunaleExekutive 3], id:35610, 1767>
-    <OrtMitglieder Mitgliedschaften [Mitglied 32, SympathisantNachKantonalemStatut 7], id:3622, 1767>
+    <OrtMitglieder Mitgliedschaften [Mitglied 32], id:3622, 1767>
     <OrtPraesidium Partei [Kassier 1, Praesident 3, tbd:Beisitzer 10], id:3623, 1767>
    <Ort Muotathal, id:1769, 565>
     <OrtGewaehlte Exekutive [KommunaleExekutive 9, tbd:RPK Gemeinde 1], id:35613, 1769>
     <OrtMitglieder Mitgliedschaften [Mitglied 41], id:3625, 1769>
     <OrtPraesidium Partei [Mitglied 12, Praesident 3, tbd:Revisor 2], id:3626, 1769>
    <Ort Rothenthurm, id:1773, 565>
+    <OrtSympathisanten Sympathisanten [Sympathisant 10], id:18118, 1773>
     <OrtGewaehlte Exekutive [KommunaleExekutive 6, tbd:Rechnungsprüfungskommission Mitgl. 1], id:35614, 1773>
-    <OrtMitglieder Mitgliedschaften [Mitglied 31, SympathisantNachKantonalemStatut 10], id:3629, 1773>
+    <OrtMitglieder Mitgliedschaften [Mitglied 31], id:3629, 1773>
     <OrtPraesidium Partei [Mitglied 4, Praesident 2], id:3630, 1773>
    <Ort Sattel, id:1774, 565>
     <OrtGewaehlte Exekutive [KommunaleExekutive 3], id:35616, 1774>
     <OrtMitglieder Mitgliedschaften [Mitglied 14], id:3631, 1774>
     <OrtPraesidium Partei [Adressverwalter 1, Mitglied 4, Praesident 2], id:35615, 1774>
    <Ort Schwyz, id:1775, 565>
+    <OrtSympathisanten Sympathisanten [Sympathisant 136], id:18120, 1775>
     <OrtArbeitsgruppe Kommissionen, id:39166, 1775>
      <OrtArbeitsgruppe Alterskommission [tbd:Mitglied 1], id:39171, 39166>
      <OrtArbeitsgruppe Baukommission [tbd:Mitglied 2], id:39174, 39166>
@@ -180,13 +194,14 @@
      <OrtArbeitsgruppe Tiefbau- und Verkehrskommission [tbd:Mitglied 1], id:39177, 39166>
      <OrtArbeitsgruppe Umweltkommission [tbd:Mitglied 1], id:39176, 39166>
     <OrtGewaehlte Exekutive [Fraktionschef 1, KommunaleExekutive 7], id:35617, 1775>
-    <OrtMitglieder Mitgliedschaften [Mitglied 619, SympathisantNachKantonalemStatut 132], id:3632, 1775>
+    <OrtMitglieder Mitgliedschaften [Mitglied 615], id:3632, 1775>
     <OrtPraesidium Partei [Adressverwalter 20, Mitglied 13, Praesident 3], id:3633, 1775>
    <Ort Steinen, id:1776, 565>
+    <OrtSympathisanten Sympathisanten [Sympathisant 247], id:18121, 1776>
     <OrtArbeitsgruppe Kommissionen, id:38970, 1776>
      <OrtArbeitsgruppe Einbürgerungskommission [tbd:Mitglied 1], id:38972, 38970>
     <OrtGewaehlte Exekutive [Fraktionschef 2, KommunaleExekutive 3], id:35619, 1776>
-    <OrtMitglieder Mitgliedschaften [Mitglied 26, SympathisantNachKantonalemStatut 247], id:3634, 1776>
+    <OrtMitglieder Mitgliedschaften [Mitglied 26], id:3634, 1776>
     <OrtPraesidium Partei [Adressverwalter 6, Kassier 1, Mitglied 6, Praesident 3, tbd:Aktuar 1], id:35618, 1776>
    <Ort Unteriberg, id:1777, 565>
     <OrtGewaehlte Exekutive [KommunaleExekutive 1], id:3636, 1777>

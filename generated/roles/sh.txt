@@ -5,19 +5,23 @@
   <KantonMitglieder Mitgliedschaften [Mitglied 60], id:546, 168>
   <KantonPraesidium Partei [Mitglied 13, Praesident 7, tbd:Ansprechperson Finanzen 2, tbd:Empfänger Rechnung Jahresbeitrag CVP CH 2, tbd:Kontakt Bundeshausfraktion 1, tbd:Medien 1, tbd:OM Ansprechperson 1, tbd:Sekretär Kantonalpartei/Vereinigung 1], id:548, 168>
   <Ort Neuhausen am Rheinfall, id:547, 168>
+   <OrtSympathisanten Sympathisanten [Sympathisant 6], id:18096, 547>
    <OrtGewaehlte Exekutive [KommunaleExekutive 1], id:38318, 547>
    <OrtGewaehlte Legislative [KommunaleExekutive 2], id:38317, 547>
-   <OrtMitglieder Mitgliedschaften [Mitglied 43, SympathisantNachKantonalemStatut 6], id:1657, 547>
+   <OrtMitglieder Mitgliedschaften [Mitglied 43], id:1657, 547>
    <OrtPraesidium Partei [Adressverwalter 1, Mitglied 11, Praesident 1], id:1658, 547>
   <Ort Ramsen, id:549, 168>
+   <OrtSympathisanten Sympathisanten [Sympathisant 3], id:18097, 549>
    <OrtGewaehlte Exekutive [KommunaleExekutive 1], id:38320, 549>
-   <OrtMitglieder Mitgliedschaften [Mitglied 37, SympathisantNachKantonalemStatut 3], id:1659, 549>
+   <OrtMitglieder Mitgliedschaften [Mitglied 37], id:1659, 549>
    <OrtPraesidium Partei [Adressverwalter 1, Praesident 1], id:38395, 549>
   <Ort Schaffhausen, id:550, 168>
+   <OrtSympathisanten Sympathisanten [Sympathisant 17], id:18098, 550>
    <OrtGewaehlte Legislative [KommunaleExekutive 1], id:38319, 550>
-   <OrtMitglieder Mitgliedschaften [Mitglied 54, SympathisantNachKantonalemStatut 17], id:1660, 550>
+   <OrtMitglieder Mitgliedschaften [Mitglied 54], id:1660, 550>
    <OrtPraesidium Partei [Praesident 2], id:1661, 550>
   <Ort Stein am Rhein, id:551, 168>
+   <OrtSympathisanten Sympathisanten [Sympathisant 5], id:18099, 551>
    <OrtGewaehlte Exekutive [KommunaleExekutive 2], id:39076, 551>
-   <OrtMitglieder Mitgliedschaften [Mitglied 10, SympathisantNachKantonalemStatut 5], id:1662, 551>
+   <OrtMitglieder Mitgliedschaften [Mitglied 10], id:1662, 551>
    <OrtPraesidium Partei [Adressverwalter 1], id:1663, 551>

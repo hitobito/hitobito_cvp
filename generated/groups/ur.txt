@@ -1,5 +1,6 @@
 <Bund id=1, label=CVP Schweiz, parent_id=>
  <Kanton id=173, label=CVP UR, parent_id=1>
+  <KantonSympathisanten id=18095, label=Sympathisanten, parent_id=173>
   <KantonArbeitsgruppe id=38864, label=Nationale Funktionen, parent_id=173>
   <KantonArbeitsgruppe id=2077, label=Parteitag, parent_id=173>
   <KantonDelegierte id=2074, label=DV, parent_id=173>
@@ -14,6 +15,7 @@
   <KantonMitglieder id=614, label=Mitgliedschaften, parent_id=173>
   <KantonPraesidium id=2073, label=Parteivorstand, parent_id=173>
   <Ort id=600, label=Altdorf, parent_id=173>
+   <OrtSympathisanten id=18096, label=Sympathisanten, parent_id=600>
    <OrtArbeitsgruppe id=38798, label=Landrat, parent_id=600>
    <OrtArbeitsgruppe id=35009, label=Öffentliche Ämter, parent_id=600>
    <OrtGewaehlte id=35008, label=Exekutive, parent_id=600>
@@ -29,6 +31,7 @@
    <OrtMitglieder id=2061, label=Mitgliedschaften, parent_id=603>
    <OrtPraesidium id=2062, label=Partei, parent_id=603>
   <Ort id=604, label=Erstfeld, parent_id=173>
+   <OrtSympathisanten id=18100, label=Sympathisanten, parent_id=604>
    <OrtMitglieder id=2063, label=Mitgliedschaften, parent_id=604>
    <OrtPraesidium id=2064, label=Partei, parent_id=604>
   <Ort id=608, label=Schattdorf, parent_id=173>

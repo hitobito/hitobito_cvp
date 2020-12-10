@@ -30,9 +30,9 @@
   <KantonExterneKontakte id=40295, label=Newsletter f, parent_id=154>
   <KantonGewaehlte id=366, label=Judikative, parent_id=154>
   <KantonGewaehlte id=371, label=Legislative, parent_id=154>
-  <KantonMitglieder id=374, label=Mitgliedschaften, parent_id=154>
   <KantonPraesidium id=378, label=Partei, parent_id=154>
   <Ort id=361, label=Bern (Stadt), parent_id=154>
+   <OrtSympathisanten id=18096, label=Sympathisanten, parent_id=361>
    <OrtArbeitsgruppe id=39697, label=Adressen Grossratswahlen 2018, parent_id=361>
    <OrtArbeitsgruppe id=2635, label=DV Bezirk, parent_id=361>
    <OrtArbeitsgruppe id=39803, label=Petition Radiostudio 2018 (nur für Mailversand), parent_id=361>
@@ -42,25 +42,31 @@
    <OrtPraesidium id=912, label=Partei, parent_id=361>
    <OrtPraesidium id=2636, label=Vorstand, parent_id=361>
   <Ort id=362, label=Biel, parent_id=154>
+   <OrtSympathisanten id=18097, label=Sympathisanten, parent_id=362>
    <OrtGewaehlte id=913, label=Legislative, parent_id=362>
    <OrtMitglieder id=914, label=Mitgliedschaften, parent_id=362>
    <OrtPraesidium id=39471, label=Partei, parent_id=362>
   <Ort id=363, label=Bolligen-Ittingen-Ostermundigen, parent_id=154>
+   <OrtSympathisanten id=18098, label=Sympathisanten, parent_id=363>
    <OrtArbeitsgruppe id=2637, label=DV Bezirk, parent_id=363>
    <OrtMitglieder id=915, label=Mitgliedschaften, parent_id=363>
    <OrtPraesidium id=916, label=Partei, parent_id=363>
    <OrtPraesidium id=2638, label=Vorstand, parent_id=363>
   <Ort id=364, label=Burgdorf, parent_id=154>
+   <OrtSympathisanten id=18099, label=Sympathisanten, parent_id=364>
    <OrtMitglieder id=917, label=Mitgliedschaften, parent_id=364>
    <OrtPraesidium id=918, label=Partei, parent_id=364>
   <Ort id=369, label=Köniz [betreut durch Kehrsatz], parent_id=154>
+   <OrtSympathisanten id=18100, label=Sympathisanten, parent_id=369>
    <OrtGewaehlte id=922, label=Legislative, parent_id=369>
    <OrtMitglieder id=923, label=Mitgliedschaften, parent_id=369>
    <OrtPraesidium id=924, label=Partei, parent_id=369>
   <Ort id=376, label=Muri, parent_id=154>
+   <OrtSympathisanten id=18102, label=Sympathisanten, parent_id=376>
    <OrtGewaehlte id=932, label=Legislative, parent_id=376>
    <OrtMitglieder id=933, label=Mitgliedschaften, parent_id=376>
   <Ort id=380, label=Thun, parent_id=154>
+   <OrtSympathisanten id=18104, label=Sympathisanten, parent_id=380>
    <OrtArbeitsgruppe id=38196, label=Ehrenmitglieder, parent_id=380>
    <OrtGewaehlte id=38197, label=Exekutive, parent_id=380>
    <OrtMitglieder id=942, label=Mitgliedschaften, parent_id=380>

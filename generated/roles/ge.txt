@@ -1,5 +1,6 @@
 <Bund CVP Schweiz, id:1, 0>
  <Kanton CVP GE, id:159, 1>
+  <KantonSympathisanten Sympathisanten [Sympathisant 1], id:18095, 159>
   <KantonArbeitsgruppe Commissions, id:34747, 159>
    <KantonArbeitsgruppe Aménagement-logement [Mitglied 36, Praesident 1], id:34879, 34747>
    <KantonArbeitsgruppe Economie-Finances-Fiscalité [Mitglied 41, Praesident 1], id:34880, 34747>
@@ -54,7 +55,7 @@
   <KantonExterneKontakte Newsletter [Kontakt 938], id:40003, 159>
   <KantonGewaehlte Exekutive [KantonaleExekutive 1], id:34887, 159>
   <KantonGewaehlte Legislative [KantonaleLegislative 1], id:433, 159>
-  <KantonMitglieder Mitgliedschaften [Mitglied 74, SympathisantNachKantonalemStatut 1], id:435, 159>
+  <KantonMitglieder Mitgliedschaften [Mitglied 74], id:435, 159>
   <KantonPraesidium Partei [Mitglied 19, Praesident 12, tbd:Ansprechperson Finanzen 1, tbd:Botschafter 1, tbd:Empfänger Rechnung Jahresbeitrag CVP CH 1, tbd:Membre d'une CODOF 53, tbd:OM Ansprechperson 1, tbd:Plakatierer 3], id:437, 159>
   <Ort Aire-La-Ville, id:36513, 159>
    <OrtGewaehlte Exekutive [tbd:Maire 1], id:36515, 36513>
@@ -75,8 +76,9 @@
    <OrtMitglieder Mitgliedschaften [Mitglied 57], id:34853, 34752>
    <OrtPraesidium Partei [Adressverwalter 5, Kassier 2, Praesident 3, tbd:Sekretär 1], id:34774, 34752>
   <Ort Carouge, id:34753, 159>
+   <OrtSympathisanten Sympathisanten [Sympathisant 18], id:18100, 34753>
    <OrtGewaehlte Legislative [KommunaleExekutive 8], id:34805, 34753>
-   <OrtMitglieder Mitgliedschaften [Mitglied 73, SympathisantNachKantonalemStatut 18], id:34854, 34753>
+   <OrtMitglieder Mitgliedschaften [Mitglied 73], id:34854, 34753>
    <OrtPraesidium Partei [Adressverwalter 2, Kassier 2, Mitglied 5, Praesident 4], id:34775, 34753>
   <Ort Chêne-Bougeries, id:34755, 159>
    <OrtGewaehlte Legislative [KommunaleExekutive 2], id:34810, 34755>
@@ -113,18 +115,20 @@
    <OrtMitglieder Mitgliedschaften [Mitglied 22], id:34862, 34761>
    <OrtPraesidium Partei [Adressverwalter 1, Kassier 1, Praesident 3, tbd:Sekretär 1], id:34784, 34761>
   <Ort Grand-Saconnex, id:34762, 159>
+   <OrtSympathisanten Sympathisanten [Sympathisant 1], id:18109, 34762>
    <OrtGewaehlte Exekutive [tbd:Conseiller administratif 3, tbd:Maire 1], id:34825, 34762>
    <OrtGewaehlte Legislative [KommunaleExekutive 7], id:34826, 34762>
-   <OrtMitglieder Mitgliedschaften [Mitglied 50, SympathisantNachKantonalemStatut 1], id:34863, 34762>
+   <OrtMitglieder Mitgliedschaften [Mitglied 50], id:34863, 34762>
    <OrtPraesidium Partei [Adressverwalter 1, Kassier 2, Mitglied 18, Praesident 6, tbd:Sekretär 1], id:34785, 34762>
   <Ort La Champagne, id:34754, 159>
    <OrtGewaehlte Exekutive [tbd:Maire 4], id:34808, 34754>
    <OrtMitglieder Mitgliedschaften [Mitglied 63], id:34855, 34754>
    <OrtPraesidium Partei [Adressverwalter 2, Praesident 1], id:34776, 34754>
   <Ort Lancy, id:34764, 159>
+   <OrtSympathisanten Sympathisanten [Sympathisant 1], id:18111, 34764>
    <OrtGewaehlte Exekutive [tbd:Conseiller administratif 3, tbd:Maire 1], id:34827, 34764>
    <OrtGewaehlte Legislative [KommunaleExekutive 17], id:34828, 34764>
-   <OrtMitglieder Mitgliedschaften [Mitglied 119, SympathisantNachKantonalemStatut 1], id:34864, 34764>
+   <OrtMitglieder Mitgliedschaften [Mitglied 119], id:34864, 34764>
    <OrtPraesidium Partei [Adressverwalter 2, Kassier 1, Mitglied 16, Praesident 3, tbd:Sekretär 1], id:34786, 34764>
   <Ort Mandemant, id:34766, 159>
    <OrtGewaehlte Exekutive [tbd:Conseiller administratif 2], id:34830, 34766>
@@ -176,7 +180,8 @@
    <OrtMitglieder Mitgliedschaften [Mitglied 87], id:34870, 34770>
    <OrtPraesidium Partei [Adressverwalter 6, Mitglied 22, Praesident 1, tbd:Sekretär 1], id:34795, 34770>
   <Ort Ville de Genève, id:439, 159>
+   <OrtSympathisanten Sympathisanten [Sympathisant 5], id:18122, 439>
    <OrtGewaehlte Exekutive [tbd:Conseiller administratif 3, tbd:Maire 1], id:34848, 439>
    <OrtGewaehlte Legislative [KommunaleExekutive 18], id:34847, 439>
-   <OrtMitglieder Mitgliedschaften [Mitglied 377, SympathisantNachKantonalemStatut 5], id:1219, 439>
+   <OrtMitglieder Mitgliedschaften [Mitglied 377], id:1219, 439>
    <OrtPraesidium Partei [Adressverwalter 17, Kassier 1, Mitglied 1, Praesident 1, tbd:Sekretär 1], id:34796, 439>

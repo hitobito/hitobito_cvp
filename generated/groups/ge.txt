@@ -1,5 +1,6 @@
 <Bund id=1, label=CVP Schweiz, parent_id=>
  <Kanton id=159, label=CVP GE, parent_id=1>
+  <KantonSympathisanten id=18095, label=Sympathisanten, parent_id=159>
   <KantonArbeitsgruppe id=34747, label=Commissions, parent_id=159>
    <KantonArbeitsgruppe id=34879, label=Aménagement-logement, parent_id=34747>
    <KantonArbeitsgruppe id=34880, label=Economie-Finances-Fiscalité, parent_id=34747>
@@ -75,6 +76,7 @@
    <OrtMitglieder id=34853, label=Mitgliedschaften, parent_id=34752>
    <OrtPraesidium id=34774, label=Partei, parent_id=34752>
   <Ort id=34753, label=Carouge, parent_id=159>
+   <OrtSympathisanten id=18100, label=Sympathisanten, parent_id=34753>
    <OrtGewaehlte id=34805, label=Legislative, parent_id=34753>
    <OrtMitglieder id=34854, label=Mitgliedschaften, parent_id=34753>
    <OrtPraesidium id=34775, label=Partei, parent_id=34753>
@@ -113,6 +115,7 @@
    <OrtMitglieder id=34862, label=Mitgliedschaften, parent_id=34761>
    <OrtPraesidium id=34784, label=Partei, parent_id=34761>
   <Ort id=34762, label=Grand-Saconnex, parent_id=159>
+   <OrtSympathisanten id=18109, label=Sympathisanten, parent_id=34762>
    <OrtGewaehlte id=34825, label=Exekutive, parent_id=34762>
    <OrtGewaehlte id=34826, label=Legislative, parent_id=34762>
    <OrtMitglieder id=34863, label=Mitgliedschaften, parent_id=34762>
@@ -122,6 +125,7 @@
    <OrtMitglieder id=34855, label=Mitgliedschaften, parent_id=34754>
    <OrtPraesidium id=34776, label=Partei, parent_id=34754>
   <Ort id=34764, label=Lancy, parent_id=159>
+   <OrtSympathisanten id=18111, label=Sympathisanten, parent_id=34764>
    <OrtGewaehlte id=34827, label=Exekutive, parent_id=34764>
    <OrtGewaehlte id=34828, label=Legislative, parent_id=34764>
    <OrtMitglieder id=34864, label=Mitgliedschaften, parent_id=34764>
@@ -176,6 +180,7 @@
    <OrtMitglieder id=34870, label=Mitgliedschaften, parent_id=34770>
    <OrtPraesidium id=34795, label=Partei, parent_id=34770>
   <Ort id=439, label=Ville de Genève, parent_id=159>
+   <OrtSympathisanten id=18122, label=Sympathisanten, parent_id=439>
    <OrtGewaehlte id=34848, label=Exekutive, parent_id=439>
    <OrtGewaehlte id=34847, label=Legislative, parent_id=439>
    <OrtMitglieder id=1219, label=Mitgliedschaften, parent_id=439>

@@ -29,11 +29,14 @@
    <KantonMitglieder id=36668, label=Mitgliedschaften, parent_id=36665>
    <KantonPraesidium id=36666, label=Vorstand, parent_id=36665>
   <Kanton id=36246, label=60+ BE, parent_id=4>
+   <KantonSympathisanten id=18098, label=Sympathisanten, parent_id=36246>
    <KantonMitglieder id=36674, label=Mitgliedschaften, parent_id=36246>
   <Kanton id=33145, label=60+ BL, parent_id=4>
+   <KantonSympathisanten id=18099, label=Sympathisanten, parent_id=33145>
    <KantonExterneKontakte id=38957, label=Newsletter, parent_id=33145>
    <KantonMitglieder id=36671, label=Mitgliedschaften, parent_id=33145>
   <Kanton id=39134, label=60+ BS, parent_id=4>
+   <KantonSympathisanten id=18100, label=Sympathisanten, parent_id=39134>
    <KantonMitglieder id=39136, label=Mitgliedschaften, parent_id=39134>
   <Kanton id=14859, label=60+ FR, parent_id=4>
    <KantonMitglieder id=37561, label=Mitgliedschaften, parent_id=14859>
@@ -48,6 +51,7 @@
    <Region id=37017, label=Wahlkreis Luzern Land, parent_id=45>
     <RegionMitglieder id=37026, label=Mitgliedschaften, parent_id=37017>
    <Region id=37019, label=Wahlkreis Luzern Stadt, parent_id=45>
+    <RegionSympathisanten id=18107, label=Sympathisanten, parent_id=37019>
     <RegionMitglieder id=37027, label=Mitgliedschaften, parent_id=37019>
    <Region id=37021, label=Wahlkreis Sursee, parent_id=45>
     <RegionArbeitsgruppe id=40047, label=Seniorenrat, parent_id=37021>
@@ -70,10 +74,12 @@
    <Region id=35493, label=Regionalpartei Werdenberg, parent_id=35484>
     <RegionMitglieder id=35507, label=Mitgliedschaften, parent_id=35493>
    <Region id=35494, label=Regionalpartei Wil-Untertoggenburg, parent_id=35484>
+    <RegionSympathisanten id=18118, label=Sympathisanten, parent_id=35494>
     <RegionMitglieder id=35508, label=Mitgliedschaften, parent_id=35494>
   <Kanton id=36262, label=60+ SO, parent_id=4>
    <KantonMitglieder id=36264, label=Mitgliedschaften, parent_id=36262>
   <Kanton id=35663, label=60+ SZ, parent_id=4>
+   <KantonSympathisanten id=18120, label=Sympathisanten, parent_id=35663>
    <KantonArbeitsgruppe id=35664, label=Leitungsteam, parent_id=35663>
    <KantonMitglieder id=36661, label=Mitgliedschaften, parent_id=35663>
   <Kanton id=46, label=60+ TG, parent_id=4>
@@ -81,6 +87,7 @@
   <Kanton id=39271, label=60+ UR, parent_id=4>
    <KantonMitglieder id=39274, label=Mitgliedschaften, parent_id=39271>
   <Kanton id=36621, label=60+ ZG, parent_id=4>
+   <KantonSympathisanten id=18123, label=Sympathisanten, parent_id=36621>
    <KantonMitglieder id=36624, label=Mitgliedschaften, parent_id=36621>
   <Kanton id=38869, label=60+ ZH, parent_id=4>
    <KantonMitglieder id=38871, label=Mitgliedschaften, parent_id=38869>

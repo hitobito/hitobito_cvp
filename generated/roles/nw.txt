@@ -35,61 +35,72 @@
   <KantonPraesidium Partei [Praesident 6, tbd:Ansprechperson Finanzen 1, tbd:Delegierter 22, tbd:Empfänger Rechnung Jahresbeitrag CVP CH 1, tbd:Ersatzdelegierter 2, tbd:OM Ansprechperson 1, tbd:Plakatierer 2, tbd:Revisor 1, tbd:Vorstand 1, tbd:Zuzüger 1], id:517, 165>
   <KantonPraesidium Vorstand [Mitglied 17, Praesident 3, tbd:Kassier 3, tbd:Sekretär 2, tbd:Wahlkampfleiter 2], id:1526, 165>
   <Ort Beckenried, id:505, 165>
+   <OrtSympathisanten Sympathisanten [Sympathisant 14], id:18096, 505>
    <OrtGewaehlte Exekutive [KommunaleExekutive 2], id:1500, 505>
    <OrtGewaehlte Finanzkommission [MitgliedWeitereGemeindeKommissionen 1], id:3304, 505>
    <OrtGewaehlte Schulpflege [Fraktionschef 1, Schulpflegekommission 4], id:3305, 505>
-   <OrtMitglieder Mitgliedschaften [Mitglied 103, SympathisantNachKantonalemStatut 14], id:1501, 505>
+   <OrtMitglieder Mitgliedschaften [Mitglied 103], id:1501, 505>
    <OrtPraesidium Partei [Adressverwalter 3, Mitglied 7, Praesident 3], id:1502, 505>
   <Ort Buochs, id:506, 165>
+   <OrtSympathisanten Sympathisanten [Sympathisant 11], id:18097, 506>
    <OrtGewaehlte Exekutive [Fraktionschef 1, KommunaleExekutive 4], id:1503, 506>
    <OrtGewaehlte Finanzkommission [MitgliedWeitereGemeindeKommissionen 2], id:3306, 506>
    <OrtGewaehlte Schulpflege [Schulpflegekommission 1], id:3307, 506>
-   <OrtMitglieder Mitgliedschaften [Mitglied 169, SympathisantNachKantonalemStatut 11], id:1504, 506>
+   <OrtMitglieder Mitgliedschaften [Mitglied 169], id:1504, 506>
    <OrtPraesidium Partei [Adressverwalter 8, Mitglied 3, Praesident 1], id:1505, 506>
   <Ort Dallenwil, id:507, 165>
+   <OrtSympathisanten Sympathisanten [Sympathisant 10], id:18098, 507>
    <OrtGewaehlte Exekutive [Fraktionschef 1, KommunaleExekutive 4], id:1506, 507>
    <OrtGewaehlte Schulpflege [Schulpflegekommission 1], id:3308, 507>
-   <OrtMitglieder Mitgliedschaften [Mitglied 89, SympathisantNachKantonalemStatut 10], id:1507, 507>
+   <OrtMitglieder Mitgliedschaften [Mitglied 89], id:1507, 507>
    <OrtPraesidium Partei [Adressverwalter 3, Mitglied 3, Praesident 2], id:1508, 507>
   <Ort Emmetten, id:508, 165>
+   <OrtSympathisanten Sympathisanten [Sympathisant 4], id:18099, 508>
    <OrtGewaehlte Exekutive [KommunaleExekutive 2], id:33147, 508>
-   <OrtMitglieder Mitgliedschaften [Mitglied 29, SympathisantNachKantonalemStatut 4], id:1509, 508>
+   <OrtMitglieder Mitgliedschaften [Mitglied 29], id:1509, 508>
    <OrtPraesidium Partei [Adressverwalter 2, Kassier 1, Mitglied 2, Praesident 1], id:1510, 508>
   <Ort Ennetbürgen, id:509, 165>
+   <OrtSympathisanten Sympathisanten [Sympathisant 188], id:18100, 509>
    <OrtGewaehlte Exekutive [Fraktionschef 1, KommunaleExekutive 6], id:1511, 509>
    <OrtGewaehlte Finanzkommission [MitgliedWeitereGemeindeKommissionen 1], id:3309, 509>
    <OrtGewaehlte Schulpflege [Fraktionschef 1, Schulpflegekommission 4], id:3310, 509>
-   <OrtMitglieder Mitgliedschaften [Mitglied 76, SympathisantNachKantonalemStatut 188], id:1512, 509>
+   <OrtMitglieder Mitgliedschaften [Mitglied 76], id:1512, 509>
    <OrtPraesidium Partei [Adressverwalter 5, Mitglied 5, Praesident 2], id:1513, 509>
   <Ort Ennetmoos, id:510, 165>
+   <OrtSympathisanten Sympathisanten [Sympathisant 31], id:18101, 510>
    <OrtGewaehlte Exekutive [Fraktionschef 4, KommunaleExekutive 8], id:1514, 510>
    <OrtGewaehlte Schulpflege [Schulpflegekommission 1], id:3311, 510>
-   <OrtMitglieder Mitgliedschaften [Mitglied 110, SympathisantNachKantonalemStatut 32], id:1515, 510>
+   <OrtMitglieder Mitgliedschaften [Mitglied 111], id:1515, 510>
    <OrtPraesidium Partei [Adressverwalter 1, Mitglied 4, Praesident 2], id:1516, 510>
   <Ort Hergiswil, id:512, 165>
+   <OrtSympathisanten Sympathisanten [Sympathisant 278], id:18102, 512>
    <OrtGewaehlte Exekutive [KommunaleExekutive 2], id:1517, 512>
    <OrtGewaehlte Finanzkommission [MitgliedWeitereGemeindeKommissionen 2], id:3312, 512>
    <OrtGewaehlte Schulpflege [Fraktionschef 1, Schulpflegekommission 2], id:3313, 512>
-   <OrtMitglieder Mitgliedschaften [Mitglied 84, SympathisantNachKantonalemStatut 278], id:1518, 512>
+   <OrtMitglieder Mitgliedschaften [Mitglied 84], id:1518, 512>
    <OrtPraesidium Partei [Adressverwalter 5, Mitglied 7, Praesident 2], id:1519, 512>
   <Ort Oberdorf, id:516, 165>
+   <OrtSympathisanten Sympathisanten [Sympathisant 2], id:18103, 516>
    <OrtGewaehlte Exekutive [Fraktionschef 1, KommunaleExekutive 6], id:1521, 516>
    <OrtGewaehlte Finanzkommission [MitgliedWeitereGemeindeKommissionen 2], id:3314, 516>
    <OrtGewaehlte Schulpflege [Fraktionschef 1, Schulpflegekommission 3], id:3315, 516>
-   <OrtMitglieder Mitgliedschaften [Mitglied 88, SympathisantNachKantonalemStatut 2], id:1522, 516>
+   <OrtMitglieder Mitgliedschaften [Mitglied 88], id:1522, 516>
    <OrtPraesidium Partei [Adressverwalter 2, Kassier 1, Mitglied 6, Praesident 2], id:1523, 516>
   <Ort Stans, id:519, 165>
+   <OrtSympathisanten Sympathisanten [Sympathisant 114], id:18104, 519>
    <OrtGewaehlte Exekutive [KommunaleExekutive 3], id:1528, 519>
    <OrtGewaehlte Finanzkommission [MitgliedWeitereGemeindeKommissionen 1], id:3325, 519>
-   <OrtMitglieder Mitgliedschaften [Mitglied 270, SympathisantNachKantonalemStatut 114], id:1529, 519>
+   <OrtMitglieder Mitgliedschaften [Mitglied 270], id:1529, 519>
    <OrtPraesidium Partei [Adressverwalter 6, Kassier 2, Mitglied 5, Praesident 3], id:1530, 519>
   <Ort Stansstad, id:520, 165>
+   <OrtSympathisanten Sympathisanten [Sympathisant 145], id:18105, 520>
    <OrtGewaehlte Exekutive [Fraktionschef 2, KommunaleExekutive 6], id:1531, 520>
    <OrtGewaehlte Schulpflege [Fraktionschef 1, Schulpflegekommission 4], id:3328, 520>
-   <OrtMitglieder Mitgliedschaften [Mitglied 87, SympathisantNachKantonalemStatut 144], id:1532, 520>
+   <OrtMitglieder Mitgliedschaften [Mitglied 86], id:1532, 520>
    <OrtPraesidium Partei [Adressverwalter 7, Mitglied 6, Praesident 2, tbd:Sekretär 1], id:1533, 520>
   <Ort Wolfenschiessen, id:521, 165>
+   <OrtSympathisanten Sympathisanten [Sympathisant 148], id:18106, 521>
    <OrtGewaehlte Exekutive [KommunaleExekutive 3], id:1534, 521>
    <OrtGewaehlte Schulpflege [Fraktionschef 2, Schulpflegekommission 5], id:3329, 521>
-   <OrtMitglieder Mitgliedschaften [Mitglied 169, SympathisantNachKantonalemStatut 148], id:1535, 521>
+   <OrtMitglieder Mitgliedschaften [Mitglied 169], id:1535, 521>
    <OrtPraesidium Partei [Adressverwalter 3, Mitglied 10, Praesident 2], id:1536, 521>

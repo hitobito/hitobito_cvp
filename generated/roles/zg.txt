@@ -1,5 +1,6 @@
 <Bund CVP Schweiz, id:1, 0>
  <Kanton CVP ZG, id:177, 1>
+  <KantonSympathisanten Sympathisanten [Sympathisant 216], id:18095, 177>
   <KantonArbeitsgruppe Präsidium [Mitglied 13], id:2246, 177>
   <KantonArbeitsgruppe Wahlkampfteam [Mitglied 30], id:2248, 177>
   <KantonDelegierte DV [Delegierte 324], id:2243, 177>
@@ -7,14 +8,15 @@
   <KantonGewaehlte Legislative [KantonaleLegislative 47], id:662, 177>
   <KantonGewaehlte Schiedsgericht [tbd:Mitglied 5], id:2247, 177>
   <KantonKommission Kontrollkommission [Mitglied 5], id:2245, 177>
-  <KantonMitglieder Mitgliedschaften [Mitglied 872, SympathisantNachKantonalemStatut 216], id:664, 177>
+  <KantonMitglieder Mitgliedschaften [Mitglied 872], id:664, 177>
   <KantonPraesidium Fraktion [Mitglied 44, Praesident 2], id:2244, 177>
   <KantonPraesidium Partei [Praesident 4, tbd:Ansprechperson Finanzen 1, tbd:Botschafter 2, tbd:Empfänger Rechnung Jahresbeitrag CVP CH 3, tbd:Empfänger Umzugsmeldung 1, tbd:Medien 8, tbd:OM Ansprechperson 2, tbd:Plakatierer 1, tbd:Sekretär Kantonalpartei/Vereinigung 1, tbd:Zuzüger 8], id:667, 177>
   <KantonPraesidium Zentralvorstand [Mitglied 66, Praesident 3], id:2249, 177>
   <Ort Baar, id:652, 177>
+   <OrtSympathisanten Sympathisanten [Sympathisant 3], id:18096, 652>
    <OrtGewaehlte Exekutive [KommunaleExekutive 3], id:40191, 652>
    <OrtGewaehlte Mandatsträger [tbd:Bürgerrat 5, tbd:Delegierter 39, tbd:Kantonsrat 3, tbd:Kirchenrat 3, tbd:Kommissionsmitglied 44, tbd:Mitglied der RGPK 5, tbd:Regierungsrat 2, tbd:Richter 3], id:40192, 652>
-   <OrtMitglieder Mitgliedschaften [Mitglied 241, SympathisantNachKantonalemStatut 3], id:2223, 652>
+   <OrtMitglieder Mitgliedschaften [Mitglied 241], id:2223, 652>
    <OrtPraesidium Partei [Adressverwalter 1, Kassier 1, Praesident 2], id:5016, 652>
    <OrtPraesidium Vorstand [Mitglied 8], id:5018, 652>
   <Ort Cham, id:658, 177>
@@ -23,6 +25,7 @@
    <OrtMitglieder Mitgliedschaften [Mitglied 274], id:2229, 658>
    <OrtPraesidium Partei [Adressverwalter 5, Mitglied 24, Praesident 4, tbd:Baufachkommission 1, tbd:Behördenapero 67, tbd:Bürgerrat 1, tbd:Delegierter Kanton 19, tbd:Finanzkommission 3, tbd:Gericht 3, tbd:Grundstück Gewinnsteuer 4, tbd:Kantonsrat 3, tbd:Kirchenrat 1, tbd:LLC Vorstand 2, tbd:Mandatsträger 9, tbd:Planungskommission 2, tbd:Planungskommission Papieri 3, tbd:Rechnungsprüfungskommission Mitgl. 3, tbd:Schulkommission 2, tbd:Sozialkommission 3, tbd:Stimm und Urnenbüro 5, tbd:Verkehrskommission 4, tbd:personeller Pool Gemeindebauten 2, tbd:städtebauliches und arch. Leitbild 1], id:5014, 658>
   <Ort Hünenberg, id:660, 177>
+   <OrtSympathisanten Sympathisanten [Sympathisant 2], id:18098, 660>
    <OrtArbeitsgruppe Arbeitsgruppenmitglied [tbd:Mitglied 1], id:40352, 660>
    <OrtArbeitsgruppe Korporationsrat Präsidium [tbd:Mitglied 1], id:40358, 660>
    <OrtArbeitsgruppe RPK Bürgergemeinde [tbd:Mitglied 1], id:40356, 660>
@@ -31,7 +34,7 @@
    <OrtArbeitsgruppe RPK-Präsident Einwohnergemeinde [tbd:Präsident 1], id:40357, 660>
    <OrtArbeitsgruppe Stimmenzähler [tbd:Mitglied 5], id:40353, 660>
    <OrtGewaehlte Exekutive [KommunaleExekutive 2], id:2231, 660>
-   <OrtMitglieder Mitgliedschaften [Mitglied 234, SympathisantNachKantonalemStatut 2], id:2232, 660>
+   <OrtMitglieder Mitgliedschaften [Mitglied 234], id:2232, 660>
    <OrtPraesidium Partei [Adressverwalter 7, Mitglied 13, Praesident 3, tbd:Bürgerrat 2, tbd:Friedensrichter 1, tbd:Kantonsrat 2, tbd:Kirchenrat 2], id:2233, 660>
   <Ort Menzingen, id:663, 177>
    <OrtGewaehlte Exekutive [KommunaleExekutive 5], id:2234, 663>
@@ -42,16 +45,19 @@
    <OrtMitglieder Mitgliedschaften [Mitglied 10], id:2238, 665>
    <OrtPraesidium Partei [Praesident 2], id:2239, 665>
   <Ort Oberägeri, id:666, 177>
+   <OrtSympathisanten Sympathisanten [Sympathisant 1], id:18101, 666>
    <OrtGewaehlte Exekutive [KommunaleExekutive 2], id:2240, 666>
-   <OrtMitglieder Mitgliedschaften [Mitglied 163, SympathisantNachKantonalemStatut 1], id:2241, 666>
+   <OrtMitglieder Mitgliedschaften [Mitglied 163], id:2241, 666>
    <OrtPraesidium Partei [Praesident 2], id:2242, 666>
   <Ort Risch-Rotkreuz, id:668, 177>
-   <OrtMitglieder Mitgliedschaften [Mitglied 160, SympathisantNachKantonalemStatut 89], id:2250, 668>
+   <OrtSympathisanten Sympathisanten [Sympathisant 89], id:18102, 668>
+   <OrtMitglieder Mitgliedschaften [Mitglied 160], id:2250, 668>
    <OrtPraesidium Partei [Adressverwalter 3, Praesident 3, tbd:Delegierter 2, tbd:Sekretär 1], id:2251, 668>
   <Ort Stadt Zug, id:669, 177>
+   <OrtSympathisanten Sympathisanten [Sympathisant 27], id:18103, 669>
    <OrtGewaehlte Exekutive [tbd:Delegierter 1], id:2252, 669>
    <OrtGewaehlte Legislative [KommunaleExekutive 2], id:2253, 669>
-   <OrtMitglieder Mitgliedschaften [Mitglied 219, SympathisantNachKantonalemStatut 27], id:2254, 669>
+   <OrtMitglieder Mitgliedschaften [Mitglied 219], id:2254, 669>
   <Ort Steinhausen, id:670, 177>
    <OrtGewaehlte Exekutive [KommunaleExekutive 2], id:2256, 670>
    <OrtMitglieder Mitgliedschaften [Mitglied 175], id:2257, 670>

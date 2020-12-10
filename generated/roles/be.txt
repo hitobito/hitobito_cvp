@@ -30,38 +30,44 @@
   <KantonExterneKontakte Newsletter f [Kontakt 86], id:40295, 154>
   <KantonGewaehlte Judikative [MitgliedKantonalesGerichtErsteInstanz 2], id:366, 154>
   <KantonGewaehlte Legislative [KantonaleLegislative 5], id:371, 154>
-  <KantonMitglieder Mitgliedschaften, id:374, 154>
   <KantonPraesidium Partei [Mitglied 32, Praesident 8, tbd:Botschafter 2, tbd:Empfänger Rechnung Jahresbeitrag CVP CH 2, tbd:Empfänger Umzugsmeldung 3, tbd:Kassier 1, tbd:Kontakt Bundeshausfraktion 1, tbd:Plakatierer 11, tbd:Sekretär Kantonalpartei/Vereinigung 7, tbd:Zuzüger 9], id:378, 154>
   <Ort Bern (Stadt), id:361, 154>
+   <OrtSympathisanten Sympathisanten [Sympathisant 191], id:18096, 361>
    <OrtArbeitsgruppe Adressen Grossratswahlen 2018 [tbd:Kontakt 303], id:39697, 361>
    <OrtArbeitsgruppe DV Bezirk [tbd:Delegierter 1], id:2635, 361>
    <OrtArbeitsgruppe Petition Radiostudio 2018 (nur für Mailversand) [tbd:Kontakt 18], id:39803, 361>
    <OrtGewaehlte Exekutive [KommunaleExekutive 1], id:908, 361>
    <OrtGewaehlte Legislative [KommunaleExekutive 3], id:910, 361>
-   <OrtMitglieder Mitgliedschaften [Mitglied 108, SympathisantNachKantonalemStatut 191], id:911, 361>
+   <OrtMitglieder Mitgliedschaften [Mitglied 108], id:911, 361>
    <OrtPraesidium Partei [Adressverwalter 15, Kassier 1, Praesident 4, tbd:Sekretär 1], id:912, 361>
    <OrtPraesidium Vorstand [Mitglied 14], id:2636, 361>
   <Ort Biel, id:362, 154>
+   <OrtSympathisanten Sympathisanten [Sympathisant 12], id:18097, 362>
    <OrtGewaehlte Legislative [KommunaleExekutive 2], id:913, 362>
-   <OrtMitglieder Mitgliedschaften [Mitglied 52, SympathisantNachKantonalemStatut 12], id:914, 362>
+   <OrtMitglieder Mitgliedschaften [Mitglied 52], id:914, 362>
    <OrtPraesidium Partei [Adressverwalter 9], id:39471, 362>
   <Ort Bolligen-Ittingen-Ostermundigen, id:363, 154>
+   <OrtSympathisanten Sympathisanten [Sympathisant 27], id:18098, 363>
    <OrtArbeitsgruppe DV Bezirk [tbd:Delegierter 1], id:2637, 363>
-   <OrtMitglieder Mitgliedschaften [Mitglied 87, SympathisantNachKantonalemStatut 27], id:915, 363>
+   <OrtMitglieder Mitgliedschaften [Mitglied 87], id:915, 363>
    <OrtPraesidium Partei [Adressverwalter 2, Kassier 1], id:916, 363>
    <OrtPraesidium Vorstand [Mitglied 3], id:2638, 363>
   <Ort Burgdorf, id:364, 154>
-   <OrtMitglieder Mitgliedschaften [Mitglied 42, SympathisantNachKantonalemStatut 18], id:917, 364>
+   <OrtSympathisanten Sympathisanten [Sympathisant 18], id:18099, 364>
+   <OrtMitglieder Mitgliedschaften [Mitglied 42], id:917, 364>
    <OrtPraesidium Partei [Adressverwalter 3, Kassier 1, Praesident 3, tbd:Sekretär 1], id:918, 364>
   <Ort Köniz [betreut durch Kehrsatz], id:369, 154>
+   <OrtSympathisanten Sympathisanten [Sympathisant 119], id:18100, 369>
    <OrtGewaehlte Legislative [KommunaleExekutive 1], id:922, 369>
-   <OrtMitglieder Mitgliedschaften [Mitglied 48, SympathisantNachKantonalemStatut 119], id:923, 369>
+   <OrtMitglieder Mitgliedschaften [Mitglied 48], id:923, 369>
    <OrtPraesidium Partei [Adressverwalter 1, Mitglied 1, Praesident 1, tbd:Empfänger Email Einladung 1], id:924, 369>
   <Ort Muri, id:376, 154>
+   <OrtSympathisanten Sympathisanten [Sympathisant 16], id:18102, 376>
    <OrtGewaehlte Legislative [KommunaleExekutive 1], id:932, 376>
-   <OrtMitglieder Mitgliedschaften [Mitglied 1, SympathisantNachKantonalemStatut 16], id:933, 376>
+   <OrtMitglieder Mitgliedschaften [Mitglied 1], id:933, 376>
   <Ort Thun, id:380, 154>
+   <OrtSympathisanten Sympathisanten [Sympathisant 104], id:18104, 380>
    <OrtArbeitsgruppe Ehrenmitglieder [tbd:Mitglied 1], id:38196, 380>
    <OrtGewaehlte Exekutive [KommunaleExekutive 1], id:38197, 380>
-   <OrtMitglieder Mitgliedschaften [Mitglied 46, SympathisantNachKantonalemStatut 105], id:942, 380>
+   <OrtMitglieder Mitgliedschaften [Mitglied 47], id:942, 380>
    <OrtPraesidium Vorstand [Adressverwalter 3, Kassier 1, Mitglied 4, Praesident 4, tbd:Sekretär 1], id:2644, 380>

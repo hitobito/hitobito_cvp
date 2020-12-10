@@ -1,5 +1,6 @@
 <Bund id=1, label=CVP Schweiz, parent_id=>
  <Kanton id=162, label=CVP JU, parent_id=1>
+  <KantonSympathisanten id=18095, label=Sympathisanten, parent_id=162>
   <KantonArbeitsgruppe id=35531, label=Politikkommission, parent_id=162>
   <KantonExterneKontakte id=39969, label=Newsletter, parent_id=162>
   <KantonGewaehlte id=35530, label=Exekutive, parent_id=162>
@@ -8,7 +9,6 @@
   <KantonMitglieder id=36340, label=Mitgliedschaften, parent_id=162>
   <KantonPraesidium id=491, label=Partei, parent_id=162>
   <Region id=485, label=Ajoie, parent_id=162>
-   <RegionMitglieder id=36453, label=Mitgliedschaften, parent_id=485>
    <RegionPraesidium id=1340, label=Partei, parent_id=485>
    <Ort id=1310, label=Alle, parent_id=485>
     <OrtGewaehlte id=35532, label=Exekutive, parent_id=1310>
@@ -34,6 +34,7 @@
     <OrtMitglieder id=2889, label=Mitgliedschaften, parent_id=1315>
     <OrtPraesidium id=2890, label=Partei, parent_id=1315>
    <Ort id=1316, label=Bonfol, parent_id=485>
+    <OrtSympathisanten id=18103, label=Sympathisanten, parent_id=1316>
     <OrtMitglieder id=2891, label=Mitgliedschaften, parent_id=1316>
     <OrtPraesidium id=2892, label=Partei, parent_id=1316>
    <Ort id=1318, label=Buix, parent_id=485>
@@ -63,6 +64,7 @@
     <OrtMitglieder id=2911, label=Mitgliedschaften, parent_id=1326>
     <OrtPraesidium id=2912, label=Partei, parent_id=1326>
    <Ort id=1327, label=Courtedoux, parent_id=485>
+    <OrtSympathisanten id=18111, label=Sympathisanten, parent_id=1327>
     <OrtMitglieder id=2913, label=Mitgliedschaften, parent_id=1327>
     <OrtPraesidium id=2914, label=Partei, parent_id=1327>
    <Ort id=1328, label=Courtemaîche, parent_id=485>
@@ -92,6 +94,7 @@
    <Ort id=1338, label=Montignez, parent_id=485>
     <OrtMitglieder id=2931, label=Mitgliedschaften, parent_id=1338>
    <Ort id=1342, label=Porrentruy, parent_id=485>
+    <OrtSympathisanten id=18120, label=Sympathisanten, parent_id=1342>
     <OrtArbeitsgruppe id=37584, label=Legislativ, parent_id=1342>
     <OrtGewaehlte id=36407, label=Exekutive, parent_id=1342>
     <OrtMitglieder id=2936, label=Mitgliedschaften, parent_id=1342>
@@ -103,6 +106,7 @@
     <OrtMitglieder id=2945, label=Mitgliedschaften, parent_id=1347>
     <OrtPraesidium id=2946, label=Partei, parent_id=1347>
   <Region id=486, label=Delémont, parent_id=162>
+   <RegionSympathisanten id=18123, label=Sympathisanten, parent_id=486>
    <RegionMitglieder id=1364, label=Mitgliedschaften, parent_id=486>
    <RegionPraesidium id=1367, label=Partei, parent_id=486>
    <Ort id=1348, label=Bassecourt, parent_id=486>
@@ -130,6 +134,7 @@
     <OrtMitglieder id=2960, label=Mitgliedschaften, parent_id=1355>
     <OrtPraesidium id=2961, label=Partei, parent_id=1355>
    <Ort id=1356, label=Courroux, parent_id=486>
+    <OrtSympathisanten id=18132, label=Sympathisanten, parent_id=1356>
     <OrtGewaehlte id=36418, label=Exekutive, parent_id=1356>
     <OrtMitglieder id=2962, label=Mitgliedschaften, parent_id=1356>
     <OrtPraesidium id=2963, label=Partei, parent_id=1356>
@@ -138,6 +143,7 @@
     <OrtMitglieder id=2964, label=Mitgliedschaften, parent_id=1357>
     <OrtPraesidium id=2965, label=Partei, parent_id=1357>
    <Ort id=1358, label=Delémont, parent_id=486>
+    <OrtSympathisanten id=18134, label=Sympathisanten, parent_id=1358>
     <OrtArbeitsgruppe id=37585, label=Legislativ, parent_id=1358>
     <OrtGewaehlte id=36420, label=Exekutive, parent_id=1358>
     <OrtMitglieder id=2966, label=Mitgliedschaften, parent_id=1358>
@@ -223,8 +229,6 @@
    <Ort id=1388, label=Montfaucon, parent_id=487>
     <OrtGewaehlte id=36449, label=Exekutive, parent_id=1388>
     <OrtMitglieder id=3016, label=Mitgliedschaften, parent_id=1388>
-   <Ort id=36581, label=Muriaux, parent_id=487>
-    <OrtMitglieder id=36586, label=Mitgliedschaften, parent_id=36581>
    <Ort id=1390, label=Saignelégier, parent_id=487>
     <OrtGewaehlte id=36450, label=Exekutive, parent_id=1390>
     <OrtMitglieder id=3017, label=Mitgliedschaften, parent_id=1390>
@@ -236,5 +240,6 @@
     <OrtMitglieder id=3021, label=Mitgliedschaften, parent_id=1392>
     <OrtPraesidium id=3022, label=Partei, parent_id=1392>
   <Region id=39884, label=Moutier, parent_id=162>
+   <RegionSympathisanten id=18165, label=Sympathisanten, parent_id=39884>
    <RegionMitglieder id=39886, label=Mitgliedschaften, parent_id=39884>
    <RegionPraesidium id=39885, label=Partei, parent_id=39884>
