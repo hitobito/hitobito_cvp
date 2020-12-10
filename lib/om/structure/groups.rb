@@ -9,8 +9,9 @@ module Structure
       Structure::Steps::Adopt,
       Structure::Steps::MoveUp,
       Structure::Steps::GroupType,
+      Structure::Steps::Hierarchy,
+      Structure::Steps::GroupCreate,
       Structure::Steps::RoleType,
-      Structure::Steps::Hierarchy
     ]
 
     MAPPINGS = {

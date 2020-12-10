@@ -11,6 +11,18 @@ groups:
     - [29, 1] # Kantonalparteien
     - [42, 2] # JCVP > Kantonalparteien
 
+  create:
+    - parent: Bund
+      child: Sympathisanten
+    - parent: Kanton
+      child: Sympathisanten
+    - parent: Region
+      child: Sympathisanten
+    - parent: Ort
+      child: Sympathisanten
+    - parent: Vereinigung
+      child: Sympathisanten
+
   moves:
     by_parent_id:
     - [37881, 167] # SG > Partei > Gesinnungskreis
@@ -257,6 +269,12 @@ groups:
 roles_new:
   ignored:
     - Wahlbüro
+  moves:
+    -
+      from: Mitglieder
+      to: Sympathisant
+      label: !ruby/regexp /symp/i
+
   types:
     BundDelegierte:
       Delegierte:
