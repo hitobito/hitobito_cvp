@@ -11,9 +11,10 @@ module Structure::Steps
     end
 
     def build(parent, mapping)
-      Structure::GroupRow.new(next_id, mapping[:child], parent.id, parent).tap do |row|
-        row.type = "#{parent.type}#{mapping[:child]}"
-      end
+       group = Structure::GroupRow.new(next_id, mapping[:child], parent.id, parent)
+       group.type = "#{parent.type}#{mapping[:child]}"
+       parent.children += [group]
+       group
     end
 
     def missing?(children, mapping)

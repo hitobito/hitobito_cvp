@@ -272,7 +272,7 @@ roles_new:
   moves:
     -
       from: Mitglieder
-      to: Sympathisant
+      to: Sympathisanten
       label: !ruby/regexp /symp/i
 
   types:
@@ -289,6 +289,9 @@ roles_new:
     BundExterneKontakte:
       Kontakt:
       - !ruby/regexp /^Kontakt$/i
+    BundSympathisanten:
+      Sympathisant:
+      - !ruby/regexp /symp/i
     VereinigungPraesidium:
       Praesident:
       - !ruby/regexp /Präsident/i
@@ -304,6 +307,9 @@ roles_new:
       - !ruby/regexp /^Kontakt$/i
       Gast:
       - !ruby/regexp /^Gast$/i
+    VereinigungSympathisanten:
+      Sympathisant:
+      - !ruby/regexp /symp/i
     KantonPraesidium:
       Praesident:
       - !ruby/regexp /Präsident/i
@@ -375,8 +381,9 @@ roles_new:
     KantonMitglieder:
       Mitglied:
       - !ruby/regexp /einzel|ehren|jugend|jeune|indi|senior|fam/i
-      SympathisantNachKantonalemStatut:
-      - !ruby/regexp /Sympathisant/i
+    KantonSympathisanten:
+      Sympathisant:
+      - !ruby/regexp /symp/i
     RegionDelegierte:
       Delegierte:
       - !ruby/regexp /Delegierter|Mitglied/i
@@ -395,6 +402,7 @@ roles_new:
     RegionMitglieder:
       Mitglied:
       - !ruby/regexp /einzel|ehren|jugend|jeune|indi|senior|fam/i
+    RegionSympathisanten:
       Sympathisant:
       - !ruby/regexp /symp/i
     OrtPraesidium:
@@ -415,8 +423,9 @@ roles_new:
     OrtMitglieder:
       Mitglied:
       - !ruby/regexp /einzel|ehren|jugend|jeune|indi|senior|fam/i
-      SympathisantNachKantonalemStatut:
-      - !ruby/regexp /sym/i
+    OrtSympathisanten:
+      Sympathisant:
+      - !ruby/regexp /symp/i
     OrtGewaehlte:
       Fraktionschef:
       - !ruby/regexp /Präsident/i

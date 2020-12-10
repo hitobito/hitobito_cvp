@@ -20,7 +20,7 @@ module Structure::Steps
         batch.each do |obj|
           next if ignored?(obj.label)
 
-          group = rows_by_id.fetch(obj.struktur_id)
+          group = lookup_group(obj)
           role = Structure::RoleRow.new(group,
                                         obj.kunden_id,
                                         obj.label,
@@ -30,6 +30,19 @@ module Structure::Steps
           group.roles << role
         end
       end
+    end
+
+    def lookup_group(obj)
+      group = rows_by_id.fetch(obj.struktur_id)
+      move = moves.find { |m| group.type.ends_with?(m[:from]) && m[:label].match?(obj.label) }
+      return group unless move
+
+      moved_to = group.parent.children.find { |child| child.type.ends_with?(move[:to]) }
+      moved_to || fail("Move failed:  #{obj}")
+    end
+
+    def moves
+      @moves ||= @config.dig(:roles_new, :moves)
     end
 
     def rows_by_id
