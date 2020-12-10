@@ -5,14 +5,14 @@ class Source::Importer
   def initialize(files = nil)
     @zip = "~/Downloads/cvp/DatenExport.zip"
     @config = YAML.load_file(File.expand_path('config.yml', __dir__))
-    @files = files ? Array(files) : config['migrate'].keys
+    @files = files ? Array(files) : config['files']
   end
 
   def run
     extract
     convert
     import
-    # rebuild_verband
+    rebuild_verband
   end
 
   def extract

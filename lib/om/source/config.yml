@@ -1,21 +1,12 @@
 files:
+  - 16_Verbandstruktur
   - 01_KontaktDaten
-  - 02_Adresscodes
   - 03_Kampagnenstamm
-  - 04_KampagnenSegmente
-  - 05_KontaktHistory
   - 06_SpendenHistory
   - 07_Mitgliedschaft
-  - 08_MitgliedschaftMerkmal
   - 09_MerkmalStamm
-  - 10_KontoStamm
   - 11_Notizen
-  - 12_Kontodaten
   - 13_Verbindungen
-  - 14_Dokumente
-  - 15_DokumenteEmpfДnger
-  - 16_Verbandstruktur
-  - 17_Referenznummern
 
 migrate:
   01_KontaktDaten:
@@ -30,7 +21,8 @@ migrate:
         ALTER COLUMN monat_geburt TYPE INTEGER USING monat_geburt::integer,
         ALTER COLUMN tag_geburt TYPE INTEGER USING tag_geburt::integer,
         ALTER COLUMN postleitzahl_zusatzziffer TYPE INTEGER USING postleitzahl_zusatzziffer::integer,
-        ALTER COLUMN hausnummer TYPE INTEGER USING hausnummer::integer;
+        ALTER COLUMN hausnummer TYPE INTEGER USING hausnummer::integer,
+        ALTER COLUMN hausnummer DROP NOT NULL;
 
       -- Update some values:
       UPDATE kontakt_daten SET hausnummer=NULL where hausnummer = 0;
@@ -74,11 +66,8 @@ migrate:
           ALTER COLUMN postaufgabe_am TYPE DATE USING postaufgabe_am::date,
           ALTER COLUMN aufbereitet_am TYPE DATE USING aufbereitet_am::date,
           ALTER COLUMN abgeliefert_am TYPE DATE USING abgeliefert_am::date;
-  04_KampagnenSegmente:
-  05_KontaktHistory:
   06_SpendenHistory:
     alter: |
-      --
       ALTER TABLE spenden_history
         ALTER COLUMN kunden_id TYPE UUID USING kunden_id::uuid,
         ALTER COLUMN kostentraeger_id TYPE UUID USING kostentraeger_id::uuid,
@@ -94,7 +83,6 @@ migrate:
       CREATE EXTENSION IF NOT EXISTS pg_trgm;
 
       -- Modify datatypes create fk to verband:
-       from mitgliedschafts where kunden_id = '88ff6340-d5ce-437d-a3fd-1881574d6560' order by struktur_id, kunden_id, erfassungs_datum desc;
       ALTER TABLE mitgliedschaft
         ALTER COLUMN kunden_id TYPE UUID USING kunden_id::uuid,
         ALTER COLUMN organisations_id TYPE UUID USING organisations_id::uuid,
@@ -122,7 +110,6 @@ migrate:
       CREATE INDEX midx_mitgliedschaft_struktur_id ON mitgliedschafts(struktur_id);
       CREATE INDEX midx_mitgliedschaft_kunden_id ON mitgliedschafts(kunden_id);
       CREATE INDEX midx_mitgliedschaft_label ON mitgliedschafts USING gin(lower(mitgliedschafts_bezeichnung) gin_trgm_ops);
-  08_MitgliedschaftMerkmal:
   09_MerkmalStamm:
     alter: |
       -- Create a primary key:
@@ -133,8 +120,6 @@ migrate:
     alter: |
       ALTER TABLE konto_stamm
         ALTER COLUMN id_konto_referenz TYPE UUID USING id_konto_referenz::uuid;
-  11_Notizen:
-  12_Kontodaten: # Leerees CVS File
   13_Verbindungen:
     alter: |
       ALTER TABLE verbindungen
@@ -176,8 +161,6 @@ migrate:
       CREATE INDEX midx_verbindungen_struktur_id ON verbindungs(struktur_id);
       CREATE INDEX midx_verbindungen_kunden_id_1 ON verbindungs(kunden_id_1);
       CREATE INDEX midx_verbindungen_merkmalstamm ON verbindungs(merkmal_id);
-  14_Dokumente:
-  15_DokumenteEmpfДnger:
   16_Verbandstruktur:
     alter: |
       ALTER TABLE verbandstruktur
@@ -211,8 +194,6 @@ migrate:
 
   17_Referenznummern:
     alter: |
-      --
       ALTER TABLE referenznummern
         ALTER COLUMN kunden_id TYPE UUID USING kunden_id::uuid,
         ALTER COLUMN mailingsnummer TYPE INTEGER USING mailingsnummer::integer;
-        # Time: 112784.104 ms (01:52.784)
