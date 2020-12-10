@@ -28,6 +28,14 @@ class Verbindung < SourceModel
     }
   end
 
+  def kunden_id
+    kunden_id_1
+  end
+
+  def label
+    merkmal.merkmal_bezeichnung_d
+  end
+
   def to_s
     [verbindungsnummer, verband, merkmal, datum_von, datum_bis, bemerkungen].join(' - ')
   end

@@ -8,29 +8,23 @@ module Structure::Steps
     end
 
     def apply_roles
-      find_in_batches(verbindungen) do |group, obj|
-        Structure::RoleRow.new(group,
-                               obj.kunden_id_1,
-                               obj.merkmal.merkmal_bezeichnung_d,
-                               obj.timestamps)
-      end
+      find_in_batches(verbindungen)
     end
 
     def apply_mitgliedschaften
-      find_in_batches(mitgliedschaften) do |group, obj|
-        Structure::RoleRow.new(group,
-                               obj.kunden_id,
-                               obj.mitgliedschafts_bezeichnung,
-                               obj.timestamps)
-      end
+      find_in_batches(mitgliedschaften)
     end
 
     def find_in_batches(scope)
       scope.find_in_batches do |batch|
         batch.each do |obj|
+          next if ignored?(obj.label)
+
           group = rows_by_id.fetch(obj.struktur_id)
-          role = yield(group, obj)
-          next if ignored?(role.label)
+          role = Structure::RoleRow.new(group,
+                                        obj.kunden_id,
+                                        obj.label,
+                                        obj.timestamps)
 
           role.type = guesser.type(role)
           group.roles << role

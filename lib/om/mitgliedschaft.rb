@@ -32,4 +32,7 @@ class Mitgliedschaft < SourceModel
     }
   end
 
+  def label
+    mitgliedschafts_bezeichnung
+  end
 end

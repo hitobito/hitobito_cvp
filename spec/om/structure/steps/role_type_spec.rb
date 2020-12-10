@@ -17,11 +17,11 @@ describe Structure::Steps::RoleType do
     rows.first.type = 'Bund'
     verbindungen = double("Verbindungen")
     allow(verbindungen).to receive(:find_in_batches).and_yield([
-      double(:verbindung,
-             struktur_id: 1,
-             kunden_id_1: 1,
-             timestamps: { created_at: now, updated_at: now },
-             merkmal: double(:merkmal, merkmal_bezeichnung_d: 'Gast'))
+      Verbindung.new(struktur_id: 1,
+                     kunden_id_1: 1,
+                     datum_von: now,
+                     datum_bis: now,
+                     merkmal: Merkmal.new(merkmal_bezeichnung_d: 'Gast'))
     ])
     allow(subject).to receive(:verbindungen).and_return(verbindungen)
     subject.apply_roles
@@ -33,11 +33,11 @@ describe Structure::Steps::RoleType do
     rows.first.type = 'Bund'
     verbindungen = double("Verbindungen")
     allow(verbindungen).to receive(:find_in_batches).and_yield([
-      double(:verbindung,
-             struktur_id: 1,
-             kunden_id_1: 1,
-             timestamps: { created_at: now, updated_at: now },
-             merkmal: double(:merkmal, merkmal_bezeichnung_d: 'Gast'))
+      Verbindung.new(struktur_id: 1,
+                     kunden_id_1: 1,
+                     datum_von: now,
+                     datum_bis: now,
+                     merkmal: Merkmal.new(merkmal_bezeichnung_d: 'Gast'))
     ])
     allow(subject).to receive(:verbindungen).and_return(verbindungen)
     subject.apply_roles
