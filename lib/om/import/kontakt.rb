@@ -26,6 +26,9 @@ module Import
   end
 
   class Kontakt < Base
+    def initialize(groups = nil)
+      @groups = groups
+    end
 
     def run
       scope.find_in_batches.each do |batch|
@@ -78,9 +81,7 @@ module Import
     end
 
     def kunden_ids
-      mitglieder = ::Mitgliedschaft.where(struktur_id: group_ids).pluck(:kunden_id)
-      verbindungen = ::Verbindung.where(struktur_id: group_ids).pluck(:kunden_id_1)
-      (mitglieder + verbindungen).uniq
+      groups.flat_map { |g| g.roles.collect(&:kunden_id) }.uniq
     end
   end
 end

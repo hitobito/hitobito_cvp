@@ -60,5 +60,13 @@ module Import
       @people ||= ::Person.pluck(:kunden_id, :id).to_h
       @people.fetch(uuid)
     end
+
+    def groups
+      @groups ||= Structure::Groups.new(scope: group_scope).tap(&:build)
+    end
+
+    def group_scope
+      ::Verband.all.order(:depth).where(verbandstruktur_id: Group.pluck(:id))
+    end
   end
 end

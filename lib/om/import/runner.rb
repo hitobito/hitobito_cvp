@@ -112,12 +112,15 @@ module Import
     end
 
     def import_people
-      Import::Kontakt.run
+      Import::Kontakt.run(groups)
     end
 
     def import_roles
       Import::Roles.run(groups)
     end
 
+    def kunden_ids
+      groups.flat_map { |g| g.roles.collect(&:kunden_id) }
+    end
   end
 end
