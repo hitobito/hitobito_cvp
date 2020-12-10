@@ -1,10 +1,5 @@
 module Import
   class Roles < Base
-
-    def initialize(groups = nil)
-      @groups = groups
-    end
-
     def run
       roles.each_slice(1000).collect do |slice|
         rows = slice.collect do |role|

@@ -26,10 +26,6 @@ module Import
   end
 
   class Kontakt < Base
-    def initialize(groups = nil)
-      @groups = groups
-    end
-
     def run
       scope.find_in_batches.each do |batch|
         rows = batch.collect do |kontakt|
@@ -78,10 +74,6 @@ module Import
       ELSE 0
       END
       SQL
-    end
-
-    def kunden_ids
-      groups.flat_map { |g| g.roles.collect(&:kunden_id) }.uniq
     end
   end
 end

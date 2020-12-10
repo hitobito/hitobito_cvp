@@ -1,12 +1,12 @@
 module Import
   class Spenden < Base
     # hier brauch ich die group id
+    #
     def run
       scope.minimal.find_in_batches do |batch|
         rows = batch.collect do |row|
           group_id = bund.id
           list = lists[row['kampagnen_nummer']]
-          person_id = people[row['kunden_id']]
 
           row.prepare.merge(
             id: row.spenden_nummer,
@@ -15,7 +15,7 @@ module Import
             sequence_number: next_number(group_id),
             esr_number: '',
             title: list&.title || 'Unbekannt',
-            recipient_id: person_id,
+            recipient_id: fetch_person_id(row['kunden_id']),
             invoice_list_id: list&.id,
           )
         end
@@ -43,12 +43,8 @@ module Import
       end
     end
 
-    def people
-      @people ||= ::Person.pluck(:kunden_id, :id).to_h
-    end
-
     def scope
-      @scope ||= Spende.where(kunden_id: people.keys)
+      @scope ||= Spende.where(kunden_id: kunden_ids)
     end
 
     def lists

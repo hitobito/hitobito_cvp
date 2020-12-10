@@ -5,6 +5,10 @@ module Import
       obj.measured { obj.run }
     end
 
+    def initialize(groups = nil)
+      @groups = groups
+    end
+
     def measured(label = self.class.name)
       @start_time = Time.zone.now
       puts "Starting #{label}"
@@ -44,29 +48,21 @@ module Import
       puts "Invalid type for #{model_class} - #{e}"
     end
 
-    def group_ids
-      Groups.instance.by_id.keys
+    def groups
+      @groups ||= Structure::Groups.new(scope: group_scope).build
     end
 
-    def group_type(id)
-      Groups.instance.get(id).type
+    def kunden_ids
+      groups.flat_map { |g| g.roles.collect(&:kunden_id) }.uniq
     end
 
-    def group_name(id)
-      Groups.instance.get(id).name
+    def group_scope
+      ::Verband.all.order(:depth).where(verbandstruktur_id: Group.pluck(:id))
     end
 
     def fetch_person_id(uuid)
       @people ||= ::Person.pluck(:kunden_id, :id).to_h
       @people.fetch(uuid)
-    end
-
-    def groups
-      @groups ||= Structure::Groups.new(scope: group_scope).tap(&:build)
-    end
-
-    def group_scope
-      ::Verband.all.order(:depth).where(verbandstruktur_id: Group.pluck(:id))
     end
   end
 end

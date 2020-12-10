@@ -100,7 +100,7 @@ module Import
     end
 
     def import_spenden
-      Import::Spenden.run
+      Import::Spenden.run(groups)
     end
 
     def consolidate_families
