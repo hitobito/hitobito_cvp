@@ -4,6 +4,7 @@ describe Structure::Steps::RoleType do
   let(:rows) {
     [Structure::GroupRow.new(1, 'CVP Schweiz', nil)]
   }
+  let(:now) { Time.zone.now  }
 
   let(:config) {
     path = File.join(File.dirname(__FILE__), '../../../../lib/om/import/config.yml')
@@ -19,6 +20,7 @@ describe Structure::Steps::RoleType do
       double(:verbindung,
              struktur_id: 1,
              kunden_id_1: 1,
+             timestamps: { created_at: now, updated_at: now },
              merkmal: double(:merkmal, merkmal_bezeichnung_d: 'Gast'))
     ])
     allow(subject).to receive(:verbindungen).and_return(verbindungen)
@@ -34,6 +36,7 @@ describe Structure::Steps::RoleType do
       double(:verbindung,
              struktur_id: 1,
              kunden_id_1: 1,
+             timestamps: { created_at: now, updated_at: now },
              merkmal: double(:merkmal, merkmal_bezeichnung_d: 'Gast'))
     ])
     allow(subject).to receive(:verbindungen).and_return(verbindungen)
