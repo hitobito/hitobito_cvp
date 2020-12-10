@@ -16,6 +16,7 @@ describe Structure::Groups do
 
   it 'runs all operations' do
     expect(subject).to receive(:rows).and_return(rows)
+    allow(rows.last).to receive(:present?).and_return(true)
 
     result = subject.build
     expect(result).to have(3).items

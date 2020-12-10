@@ -21,7 +21,7 @@ module Structure
     end
 
     def present?
-      @present ||= children? || roles.present? || mitgliedschaft? || sympathisanten?
+      @present ||= roles.present? || children.any?(&:present?)
     end
 
     def attrs
@@ -75,11 +75,6 @@ module Structure
 
     def sympathisanten?
       type&.ends_with?('Sympathisanten')
-    end
-
-
-    def children?
-      children.any?(&:present?) || children.any?(&:mitgliedschaft?) || children.any?(&:sympathisanten?)
     end
 
     def <=>(other)

@@ -41,15 +41,6 @@ describe Structure::GroupRow do
       row.children = [child]
       expect(row).to be_blank
     end
-
-    it 'is not blank if any child is a mitglieder group' do
-      row = Structure::GroupRow.new(1, 'Dummy', 0)
-      child = Structure::GroupRow.new(1, 'Mitgliedschaften', 0)
-      child.type = 'Ort::Mitglieder'
-      expect(child).not_to be_blank
-      row.children = [child]
-      expect(row).not_to be_blank
-    end
   end
 
   context 'sorting' do
