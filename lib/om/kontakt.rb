@@ -140,7 +140,7 @@ class Kontakt < SourceModel
   def name_attrs
     attrs = {
       first_name: vorname,
-      last_name: name,
+      last_name: firma? ? nil : name,
       company_name: firma? ? firma : nil,
       company: firma?
     }
