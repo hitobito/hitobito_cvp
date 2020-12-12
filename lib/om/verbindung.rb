@@ -37,7 +37,7 @@ class Verbindung < SourceModel
   end
 
   def to_s
-    [verbindungsnummer, verband, merkmal, datum_von, datum_bis, bemerkungen].join(' - ')
+    [verband, label, bemerkungen].reject(&:blank?).join(' - ')
   end
 
 end

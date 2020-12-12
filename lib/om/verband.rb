@@ -12,7 +12,7 @@ class Verband < SourceModel
 
   has_many :mitgliedschaften, class_name: 'Mitgliedschaft', foreign_key: :struktur_id
   has_many :dokumente, -> { minimal }, class_name: 'Dokument', foreign_key: :struktur_id
-  has_many :verbindungen, class_name: 'Verbindung', foreign_key: :kunden_id_2
+  has_many :verbindungen, class_name: 'Verbindung', foreign_key: :struktur_id
 
   scope :list, -> { order(:verbandstruktur_id) }
 
