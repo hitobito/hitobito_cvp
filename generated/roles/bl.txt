@@ -38,12 +38,12 @@
    <OrtPraesidium Partei [Adressverwalter 2, Mitglied 10, Praesident 5, tbd:OM Ansprechperson 3], id:996, 407>
   <Region Wahlkreis Allschwil/Schönenbuch, id:386, 156>
    <RegionSympathisanten Sympathisanten [Sympathisant 1], id:18098, 386>
-   <RegionArbeitsgruppe Exekutive [tbd:Mitglied 2], id:950, 386>
+   <RegionGewaehlte Exekutive [RegionExekutive 2], id:950, 386>
    <RegionMitglieder Mitgliedschaften [Mitglied 201], id:952, 386>
    <RegionPraesidium Partei [Praesident 1, tbd:Empfänger Umzugsmeldung 1, tbd:OM Ansprechperson 2, tbd:Zuzüger 3], id:953, 386>
   <Region Wahlkreis Binningen (inkl. Bottmingen), id:398, 156>
    <RegionSympathisanten Sympathisanten [Sympathisant 33], id:18099, 398>
-   <RegionArbeitsgruppe Legislative [tbd:Mitglied 5], id:978, 398>
+   <RegionGewaehlte Legislative [RegionLegislative 5], id:978, 398>
    <RegionMitglieder Mitgliedschaften [Mitglied 107], id:979, 398>
    <RegionPraesidium Partei [Praesident 2, tbd:Empfänger Umzugsmeldung 1, tbd:OM Ansprechperson 2, tbd:Vorstandsmitglied 10, tbd:Zuzüger 5], id:980, 398>
   <Region Wahlkreis Gelterkinden, id:388, 156>
@@ -135,12 +135,12 @@
    <RegionSympathisanten Sympathisanten [Sympathisant 1], id:18127, 394>
    <RegionMitglieder Mitgliedschaften [Mitglied 2], id:973, 394>
   <Region Wahlkreis Waldenburg, id:397, 156>
-   <RegionArbeitsgruppe Exekutive [tbd:Mitglied 1], id:33679, 397>
+   <RegionGewaehlte Exekutive [RegionExekutive 1], id:33679, 397>
    <RegionMitglieder Mitgliedschaften [Mitglied 21], id:976, 397>
    <RegionPraesidium Partei [tbd:OM Ansprechperson 1, tbd:Vorstandsmitglied 1], id:33678, 397>
   <Region Wahlreis Pratteln, id:33684, 156>
    <RegionSympathisanten Sympathisanten [Sympathisant 5], id:18129, 33684>
-   <RegionArbeitsgruppe Exekutive [tbd:Mitglied 1], id:33686, 33684>
-   <RegionArbeitsgruppe Legislative [tbd:Mitglied 3], id:36522, 33684>
+   <RegionGewaehlte Exekutive [RegionExekutive 1], id:33686, 33684>
+   <RegionGewaehlte Legislative [RegionLegislative 3], id:36522, 33684>
    <RegionMitglieder Mitgliedschaften [Mitglied 36], id:35073, 33684>
    <RegionPraesidium Partei [Praesident 2, tbd:Aktuar 1, tbd:Gönner 1, tbd:Kassier 2, tbd:OM Ansprechperson 2, tbd:Vorstandsmitglied 5, tbd:Zuzüger 2], id:33685, 33684>

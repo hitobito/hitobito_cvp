@@ -10,7 +10,7 @@
   <KantonPraesidium id=34984, label=Fraktion, parent_id=175>
   <KantonPraesidium id=635, label=Partei, parent_id=175>
   <Region id=629, label=Brig, parent_id=175>
-   <RegionArbeitsgruppe id=33111, label=Exekutive, parent_id=629>
+   <RegionGewaehlte id=33111, label=Exekutive, parent_id=629>
    <RegionPraesidium id=33112, label=Partei, parent_id=629>
    <Ort id=2098, label=Brig-Glis-Gamsen-Brigerbad, parent_id=629>
     <OrtSympathisanten id=18097, label=Sympathisanten, parent_id=2098>
@@ -48,7 +48,7 @@
     <OrtMitglieder id=4125, label=Mitgliedschaften, parent_id=2106>
     <OrtPraesidium id=35070, label=Partei, parent_id=2106>
   <Region id=630, label=Goms, parent_id=175>
-   <RegionArbeitsgruppe id=33113, label=Exekutive, parent_id=630>
+   <RegionGewaehlte id=33113, label=Exekutive, parent_id=630>
    <RegionPraesidium id=33114, label=Partei, parent_id=630>
    <Ort id=2107, label=Bellwald, parent_id=630>
     <OrtGewaehlte id=35113, label=Exekutive, parent_id=2107>
@@ -82,7 +82,7 @@
     <OrtGewaehlte id=35156, label=Exekutive, parent_id=2113>
     <OrtMitglieder id=4132, label=Mitgliedschaften, parent_id=2113>
   <Region id=632, label=Leuk, parent_id=175>
-   <RegionArbeitsgruppe id=33115, label=Exekutive, parent_id=632>
+   <RegionGewaehlte id=33115, label=Exekutive, parent_id=632>
    <RegionPraesidium id=33116, label=Partei, parent_id=632>
    <Ort id=2116, label=Agarn, parent_id=632>
     <OrtArbeitsgruppe id=35159, label=Burgergemeinde, parent_id=2116>
@@ -141,7 +141,7 @@
     <OrtMitglieder id=4148, label=Mitgliedschaften, parent_id=2127>
     <OrtPraesidium id=35214, label=Partei, parent_id=2127>
   <Region id=634, label=Oestl. Raron, parent_id=175>
-   <RegionArbeitsgruppe id=33117, label=Exekutive, parent_id=634>
+   <RegionGewaehlte id=33117, label=Exekutive, parent_id=634>
    <Ort id=2128, label=Betten, parent_id=634>
     <OrtSympathisanten id=18132, label=Sympathisanten, parent_id=2128>
     <OrtGewaehlte id=35216, label=Exekutive, parent_id=2128>
@@ -164,7 +164,7 @@
     <OrtMitglieder id=4153, label=Mitgliedschaften, parent_id=2132>
     <OrtPraesidium id=4154, label=Partei, parent_id=2132>
   <Region id=638, label=Visp, parent_id=175>
-   <RegionArbeitsgruppe id=33119, label=Exekutive, parent_id=638>
+   <RegionGewaehlte id=33119, label=Exekutive, parent_id=638>
    <Ort id=2136, label=Baltschieder, parent_id=638>
     <OrtGewaehlte id=35242, label=Exekutive, parent_id=2136>
     <OrtMitglieder id=4158, label=Mitgliedschaften, parent_id=2136>
@@ -245,7 +245,7 @@
     <OrtMitglieder id=4174, label=Mitgliedschaften, parent_id=2152>
     <OrtPraesidium id=35322, label=Partei, parent_id=2152>
   <Region id=639, label=Westl. Raron, parent_id=175>
-   <RegionArbeitsgruppe id=33121, label=Exekutive, parent_id=639>
+   <RegionGewaehlte id=33121, label=Exekutive, parent_id=639>
    <RegionPraesidium id=33122, label=Partei, parent_id=639>
    <Ort id=2153, label=Ausserberg, parent_id=639>
     <OrtSympathisanten id=18159, label=Sympathisanten, parent_id=2153>

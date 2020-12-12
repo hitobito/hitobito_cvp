@@ -118,7 +118,7 @@
     <OrtPraesidium Partei [Adressverwalter 4, Praesident 3], id:3536, 1683>
   <Region Amteipartei Dorneck-Thierstein, id:553, 169>
    <RegionSympathisanten Sympathisanten [Sympathisant 4], id:18125, 553>
-   <RegionArbeitsgruppe Judikative [tbd:Amtsgerichtspräsident 1, tbd:Amtsrichter 1], id:33132, 553>
+   <RegionGewaehlte Judikative [RegionJudikative 2], id:33132, 553>
    <RegionMitglieder Mitgliedschaften [Mitglied 19], id:1695, 553>
    <RegionPraesidium Partei [Praesident 1], id:1697, 553>
    <Ort Beinwil, id:1685, 553>
@@ -226,7 +226,7 @@
     <OrtPraesidium Partei [Praesident 1], id:3552, 1701>
   <Region Amteipartei Olten-Gösgen, id:554, 169>
    <RegionSympathisanten Sympathisanten [Sympathisant 1], id:18151, 554>
-   <RegionArbeitsgruppe Judikative [tbd:Amtsrichter 1], id:33133, 554>
+   <RegionGewaehlte Judikative [RegionJudikative 1], id:33133, 554>
    <RegionMitglieder Mitgliedschaften [Mitglied 108], id:1711, 554>
    <RegionPraesidium Partei [Praesident 2], id:1715, 554>
    <Ort Boningen, id:14745, 554>
@@ -344,7 +344,7 @@
     <OrtPraesidium Partei [Praesident 1], id:14773, 14772>
   <Region Amteipartei Solothurn-Lebern, id:555, 169>
    <RegionSympathisanten Sympathisanten [Sympathisant 5], id:18179, 555>
-   <RegionArbeitsgruppe Judikative [tbd:Amtsrichter 1], id:33134, 555>
+   <RegionGewaehlte Judikative [RegionJudikative 1], id:33134, 555>
    <RegionMitglieder Mitgliedschaften [Mitglied 81], id:34742, 555>
    <RegionPraesidium Partei [Praesident 3], id:1728, 555>
    <Ort Balm bei Günsberg, id:14671, 555>
@@ -415,7 +415,7 @@
     <OrtPraesidium Partei [Adressverwalter 9, Praesident 2], id:14603, 14590>
   <Region Amteipartei Thal-Gäu, id:556, 169>
    <RegionSympathisanten Sympathisanten [Sympathisant 2], id:18198, 556>
-   <RegionArbeitsgruppe Judikative [tbd:Amtsrichter 1], id:33135, 556>
+   <RegionGewaehlte Judikative [RegionJudikative 1], id:33135, 556>
    <RegionMitglieder Mitgliedschaften [Mitglied 14], id:1739, 556>
    <RegionPraesidium Partei [Praesident 2], id:1743, 556>
    <Ort Aedermannsdorf, id:1732, 556>

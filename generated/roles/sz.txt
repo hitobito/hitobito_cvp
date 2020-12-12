@@ -60,17 +60,17 @@
   <KantonPraesidium Vorstandsausschuss [Mitglied 5], id:35665, 170>
   <Region Bezirk Einsiedeln, id:560, 170>
    <RegionSympathisanten Sympathisanten [Sympathisant 4], id:18096, 560>
-   <RegionArbeitsgruppe Exekutive [tbd:Mitglied 1, tbd:Vizepräsident 1], id:35603, 560>
-   <RegionArbeitsgruppe Judikative [tbd:Mitglied 4], id:35602, 560>
+   <RegionGewaehlte Exekutive [RegionExekutive 2], id:35603, 560>
+   <RegionGewaehlte Judikative [RegionJudikative 4], id:35602, 560>
    <RegionMitglieder Mitgliedschaften [Mitglied 171], id:1747, 560>
    <RegionPraesidium Partei [Praesident 3, tbd:Vorstandsmitglied 8, tbd:Zuzüger 7], id:35601, 560>
   <Region Bezirk Gersau, id:561, 170>
-   <RegionArbeitsgruppe Exekutive [tbd:Mitglied 4, tbd:Präsident 2], id:35598, 561>
+   <RegionGewaehlte Exekutive [RegionExekutive 6], id:35598, 561>
    <RegionMitglieder Mitgliedschaften [Mitglied 26], id:35600, 561>
    <RegionPraesidium Partei [Praesident 3, tbd:Vorstandsmitglied 5], id:35597, 561>
   <Region Bezirk Höfe, id:563, 170>
-   <RegionArbeitsgruppe Exekutive [tbd:Mitglied 2, tbd:Präsident 1], id:35625, 563>
-   <RegionArbeitsgruppe Judikative [tbd:Mitglied 1], id:35626, 563>
+   <RegionGewaehlte Exekutive [RegionExekutive 3], id:35625, 563>
+   <RegionGewaehlte Judikative [RegionJudikative 1], id:35626, 563>
    <RegionPraesidium Partei [Praesident 1], id:35624, 563>
    <Ort Feusisberg, id:1751, 563>
     <OrtSympathisanten Sympathisanten [Sympathisant 5], id:18099, 1751>
@@ -91,13 +91,13 @@
     <OrtPraesidium Partei [Adressverwalter 2, Mitglied 39, Praesident 3], id:3600, 1753>
   <Region Bezirk Küssnacht, id:562, 170>
    <RegionSympathisanten Sympathisanten [Sympathisant 129], id:18102, 562>
-   <RegionArbeitsgruppe Exekutive [tbd:Mitglied 3], id:35648, 562>
-   <RegionArbeitsgruppe Judikative [tbd:Mitglied 7, tbd:Präsident 1], id:35649, 562>
+   <RegionGewaehlte Exekutive [RegionExekutive 3], id:35648, 562>
+   <RegionGewaehlte Judikative [RegionExekutive 1, RegionJudikative 7], id:35649, 562>
    <RegionMitglieder Mitgliedschaften [Mitglied 183], id:35651, 562>
    <RegionPraesidium Partei [Praesident 1, tbd:Empfänger Umzugsmeldung 1, tbd:Vorstandsmitglied 6, tbd:Zuzüger 5], id:35647, 562>
   <Region Bezirk March, id:564, 170>
-   <RegionArbeitsgruppe Exekutive [tbd:Mitglied 2], id:35632, 564>
-   <RegionArbeitsgruppe Judikative [tbd:Mitglied 2], id:35633, 564>
+   <RegionGewaehlte Exekutive [RegionExekutive 2], id:35632, 564>
+   <RegionGewaehlte Judikative [RegionJudikative 2], id:35633, 564>
    <RegionPraesidium Partei [Praesident 3, tbd:Empfänger Umzugsmeldung 1, tbd:Vorstandsmitglied 3], id:35631, 564>
    <Ort Altendorf, id:1754, 564>
     <OrtSympathisanten Sympathisanten [Sympathisant 459], id:18104, 1754>
@@ -140,8 +140,8 @@
     <OrtMitglieder Mitgliedschaften [Mitglied 17], id:3613, 1762>
     <OrtPraesidium Partei [Mitglied 8, Praesident 1], id:3614, 1762>
   <Region Bezirk Schwyz, id:565, 170>
-   <RegionArbeitsgruppe Exekutive [tbd:Mitglied 5, tbd:Vizepräsident 1], id:35604, 565>
-   <RegionArbeitsgruppe Judikative [tbd:Präsident 1], id:35605, 565>
+   <RegionGewaehlte Exekutive [RegionExekutive 6], id:35604, 565>
+   <RegionGewaehlte Judikative [RegionExekutive 1], id:35605, 565>
    <RegionPraesidium Partei [Praesident 1, tbd:Vorstandsmitglied 1], id:1771, 565>
    <Ort Arth-Oberarth-Goldau, id:1764, 565>
     <OrtSympathisanten Sympathisanten [Sympathisant 120], id:18113, 1764>

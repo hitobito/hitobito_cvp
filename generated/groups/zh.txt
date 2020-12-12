@@ -73,9 +73,9 @@
     <OrtGewaehlte id=6089, label=Exekutive, parent_id=6085>
   <Region id=5225, label=Bezirk Bülach, parent_id=5181>
    <RegionSympathisanten id=18105, label=Sympathisanten, parent_id=5225>
-   <RegionArbeitsgruppe id=5235, label=Judikative, parent_id=5225>
-    <RegionArbeitsgruppe id=5236, label=Bezirksgericht, parent_id=5235>
    <RegionDelegierte id=5241, label=DV, parent_id=5225>
+   <RegionGewaehlte id=5235, label=Judikative, parent_id=5225>
+    <RegionGewaehlte id=5236, label=Bezirksgericht, parent_id=5235>
    <RegionMitglieder id=5237, label=Mitgliedschaften, parent_id=5225>
    <RegionPraesidium id=5240, label=Vorstand, parent_id=5225>
    <Ort id=6485, label=Bassersdorf, parent_id=5225>
@@ -137,8 +137,8 @@
     <OrtPraesidium id=6893, label=Vorstand, parent_id=6885>
     <OrtSekretariat id=6894, label=Sekretariat, parent_id=6885>
   <Region id=5603, label=Bezirk Dielsdorf, parent_id=5181>
-   <RegionArbeitsgruppe id=5616, label=Judikative, parent_id=5603>
-    <RegionArbeitsgruppe id=5617, label=Bezirksgericht, parent_id=5616>
+   <RegionGewaehlte id=5616, label=Judikative, parent_id=5603>
+    <RegionGewaehlte id=5617, label=Bezirksgericht, parent_id=5616>
    <RegionMitglieder id=5619, label=Mitgliedschaften, parent_id=5603>
    <RegionPraesidium id=5622, label=Vorstand, parent_id=5603>
    <Ort id=7085, label=Niederhasli-Niederglatt, parent_id=5603>
@@ -167,9 +167,9 @@
     <OrtGewaehlte id=5609, label=Exekutive, parent_id=5604>
   <Region id=5625, label=Bezirk Dietikon, parent_id=5181>
    <RegionSympathisanten id=18118, label=Sympathisanten, parent_id=5625>
-   <RegionArbeitsgruppe id=5633, label=Exekutive, parent_id=5625>
-    <RegionArbeitsgruppe id=5634, label=Bezirksrat, parent_id=5633>
    <RegionDelegierte id=5641, label=DV, parent_id=5625>
+   <RegionGewaehlte id=5633, label=Exekutive, parent_id=5625>
+    <RegionGewaehlte id=5634, label=Bezirksrat, parent_id=5633>
    <RegionPraesidium id=5640, label=Vorstand, parent_id=5625>
    <RegionSekretariat id=5642, label=Sekretariat, parent_id=5625>
    <Ort id=7485, label=Birmensdorf, parent_id=5625>
@@ -544,9 +544,9 @@
     <OrtSekretariat id=13894, label=Sekretariat, parent_id=13885>
   <Region id=6403, label=Bezirk Winterthur, parent_id=5181>
    <RegionSympathisanten id=18173, label=Sympathisanten, parent_id=6403>
-   <RegionArbeitsgruppe id=6416, label=Judikative, parent_id=6403>
-    <RegionArbeitsgruppe id=6417, label=Bezirksgericht, parent_id=6416>
    <RegionDelegierte id=6423, label=DV, parent_id=6403>
+   <RegionGewaehlte id=6416, label=Judikative, parent_id=6403>
+    <RegionGewaehlte id=6417, label=Bezirksgericht, parent_id=6416>
    <RegionMitglieder id=6419, label=Mitgliedschaften, parent_id=6403>
    <RegionPraesidium id=6422, label=Vorstand, parent_id=6403>
    <RegionSekretariat id=6424, label=Sekretariat, parent_id=6403>
@@ -590,14 +590,14 @@
     <OrtSekretariat id=14294, label=Sekretariat, parent_id=14285>
   <Region id=5243, label=Bezirk Zürich, parent_id=5181>
    <RegionSympathisanten id=18178, label=Sympathisanten, parent_id=5243>
-   <RegionArbeitsgruppe id=5252, label=Exekutive, parent_id=5243>
-    <RegionArbeitsgruppe id=5253, label=Stadtrat, parent_id=5252>
-   <RegionArbeitsgruppe id=5255, label=Judikative, parent_id=5243>
-    <RegionArbeitsgruppe id=5256, label=Bezirksgericht, parent_id=5255>
-   <RegionArbeitsgruppe id=5257, label=Legislative, parent_id=5243>
-    <RegionArbeitsgruppe id=5260, label=Büro, parent_id=5257>
-    <RegionArbeitsgruppe id=5261, label=Fraktion, parent_id=5257>
    <RegionDelegierte id=5266, label=DV, parent_id=5243>
+   <RegionGewaehlte id=5252, label=Exekutive, parent_id=5243>
+    <RegionGewaehlte id=5253, label=Stadtrat, parent_id=5252>
+   <RegionGewaehlte id=5255, label=Judikative, parent_id=5243>
+    <RegionGewaehlte id=5256, label=Bezirksgericht, parent_id=5255>
+   <RegionGewaehlte id=5257, label=Legislative, parent_id=5243>
+    <RegionGewaehlte id=5260, label=Büro, parent_id=5257>
+    <RegionGewaehlte id=5261, label=Fraktion, parent_id=5257>
    <RegionMitglieder id=5262, label=Mitgliedschaften, parent_id=5243>
    <RegionPraesidium id=5265, label=Vorstand, parent_id=5243>
    <RegionSekretariat id=5267, label=Sekretariat, parent_id=5243>

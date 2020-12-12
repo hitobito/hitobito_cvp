@@ -143,7 +143,6 @@
     <OrtPraesidium Partei [Adressverwalter 2], id:2801, 1182>
   <Region Sense, id:430, 158>
    <RegionSympathisanten Sympathisanten [Sympathisant 28], id:18128, 430>
-   <RegionArbeitsgruppe Legislative [tbd:Mitglied 7], id:1189, 430>
    <RegionDelegierte Delegiertenversammlung, id:14808, 430>
     <RegionDelegierte Alterswil [Delegierte 5], id:14809, 14808>
     <RegionDelegierte Bösingen [Delegierte 4], id:14810, 14808>
@@ -159,6 +158,7 @@
     <RegionDelegierte Tafers [Delegierte 6], id:14822, 14808>
     <RegionDelegierte Ueberstorf [Delegierte 5], id:14824, 14808>
     <RegionDelegierte Wünnewil-Flamatt [Delegierte 6], id:14825, 14808>
+   <RegionGewaehlte Legislative [RegionLegislative 7], id:1189, 430>
    <RegionMitglieder Mitgliedschaften [Mitglied 155], id:1190, 430>
    <RegionPraesidium Partei [Praesident 4, tbd:Delegierter 31, tbd:Empfänger Rechnung Jahresbeitrag CVP CH 3, tbd:Kassier 2, tbd:Sekretär 1, tbd:Sekretär Kantonalpartei/Vereinigung 2, tbd:Vorstandsmitglied 22], id:1192, 430>
    <Ort Alterswil, id:1183, 430>

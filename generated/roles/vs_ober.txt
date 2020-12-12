@@ -10,7 +10,7 @@
   <KantonPraesidium Fraktion [Mitglied 7, Praesident 2, tbd:Sekretär 1], id:34984, 175>
   <KantonPraesidium Partei [Mitglied 36, Praesident 3, tbd:Ansprechperson Finanzen 1, tbd:Bundesrat 1, tbd:Delegierter CVP Schweiz 8, tbd:Empfänger Rechnung Jahresbeitrag CVP CH 1, tbd:Ersatzdelegierter 5, tbd:Nationalrat 2, tbd:Sekretär Kantonalpartei/Vereinigung 1, tbd:Ständerat 1, tbd:Zuzüger 20], id:635, 175>
   <Region Brig, id:629, 175>
-   <RegionArbeitsgruppe Exekutive [tbd:Präfekt 1, tbd:Vizepräfekt 1], id:33111, 629>
+   <RegionGewaehlte Exekutive [RegionExekutive 2], id:33111, 629>
    <RegionPraesidium Partei [Praesident 2, tbd:Mitglied 100er Club 2], id:33112, 629>
    <Ort Brig-Glis-Gamsen-Brigerbad, id:2098, 629>
     <OrtSympathisanten Sympathisanten [Sympathisant 78], id:18097, 2098>
@@ -48,7 +48,7 @@
     <OrtMitglieder Mitgliedschaften [Mitglied 17], id:4125, 2106>
     <OrtPraesidium Partei [Mitglied 2, Praesident 1], id:35070, 2106>
   <Region Goms, id:630, 175>
-   <RegionArbeitsgruppe Exekutive [tbd:Präfekt 1, tbd:Vizepräfekt 1], id:33113, 630>
+   <RegionGewaehlte Exekutive [RegionExekutive 2], id:33113, 630>
    <RegionPraesidium Partei [Praesident 1], id:33114, 630>
    <Ort Bellwald, id:2107, 630>
     <OrtGewaehlte Exekutive [Fraktionschef 1], id:35113, 2107>
@@ -82,7 +82,7 @@
     <OrtGewaehlte Exekutive [Fraktionschef 2, KommunaleExekutive 1], id:35156, 2113>
     <OrtMitglieder Mitgliedschaften [Mitglied 4], id:4132, 2113>
   <Region Leuk, id:632, 175>
-   <RegionArbeitsgruppe Exekutive [tbd:Vizepräfekt 1], id:33115, 632>
+   <RegionGewaehlte Exekutive [RegionExekutive 1], id:33115, 632>
    <RegionPraesidium Partei [Praesident 2, tbd:Revisor 1, tbd:Vorstandsmitglied 3], id:33116, 632>
    <Ort Agarn, id:2116, 632>
     <OrtArbeitsgruppe Burgergemeinde [tbd:Burgerrat 1], id:35159, 2116>
@@ -141,7 +141,7 @@
     <OrtMitglieder Mitgliedschaften [Mitglied 15], id:4148, 2127>
     <OrtPraesidium Partei [tbd:Kontakt 1], id:35214, 2127>
   <Region Oestl. Raron, id:634, 175>
-   <RegionArbeitsgruppe Exekutive [tbd:Präfekt 1, tbd:Vizepräfekt 1], id:33117, 634>
+   <RegionGewaehlte Exekutive [RegionExekutive 2], id:33117, 634>
    <Ort Betten, id:2128, 634>
     <OrtSympathisanten Sympathisanten [Sympathisant 1], id:18132, 2128>
     <OrtGewaehlte Exekutive [Fraktionschef 3, KommunaleExekutive 1], id:35216, 2128>
@@ -164,7 +164,7 @@
     <OrtMitglieder Mitgliedschaften [Mitglied 14], id:4153, 2132>
     <OrtPraesidium Partei [Praesident 1], id:4154, 2132>
   <Region Visp, id:638, 175>
-   <RegionArbeitsgruppe Exekutive [tbd:Präfekt 1, tbd:Vizepräfekt 1], id:33119, 638>
+   <RegionGewaehlte Exekutive [RegionExekutive 2], id:33119, 638>
    <Ort Baltschieder, id:2136, 638>
     <OrtGewaehlte Exekutive [KommunaleExekutive 1], id:35242, 2136>
     <OrtMitglieder Mitgliedschaften [Mitglied 4], id:4158, 2136>
@@ -245,7 +245,7 @@
     <OrtMitglieder Mitgliedschaften [Mitglied 37], id:4174, 2152>
     <OrtPraesidium Partei [Praesident 1], id:35322, 2152>
   <Region Westl. Raron, id:639, 175>
-   <RegionArbeitsgruppe Exekutive [tbd:Präfekt 2, tbd:Vizepräfekt 1], id:33121, 639>
+   <RegionGewaehlte Exekutive [RegionExekutive 3], id:33121, 639>
    <RegionPraesidium Partei [Praesident 1, tbd:Kassier 1, tbd:Vorstandsmitglied 3], id:33122, 639>
    <Ort Ausserberg, id:2153, 639>
     <OrtSympathisanten Sympathisanten [Sympathisant 1], id:18159, 2153>

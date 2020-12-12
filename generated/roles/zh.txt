@@ -73,9 +73,9 @@
     <OrtGewaehlte Exekutive [KommunaleExekutive 1], id:6089, 6085>
   <Region Bezirk Bülach, id:5225, 5181>
    <RegionSympathisanten Sympathisanten [Sympathisant 9], id:18105, 5225>
-   <RegionArbeitsgruppe Judikative, id:5235, 5225>
-    <RegionArbeitsgruppe Bezirksgericht [tbd:Richter 1, tbd:Staatsanwalt 1], id:5236, 5235>
    <RegionDelegierte DV [Delegierte 15], id:5241, 5225>
+   <RegionGewaehlte Judikative, id:5235, 5225>
+    <RegionGewaehlte Bezirksgericht [RegionJudikative 2], id:5236, 5235>
    <RegionMitglieder Mitgliedschaften [Mitglied 9], id:5237, 5225>
    <RegionPraesidium Vorstand [tbd:Mitglied 1, tbd:Mitglied gewählt 2, tbd:Mitglied von Amtes wegen 1], id:5240, 5225>
    <Ort Bassersdorf, id:6485, 5225>
@@ -137,8 +137,8 @@
     <OrtPraesidium Vorstand [Mitglied 1, Praesident 1, tbd:Quästor 1], id:6893, 6885>
     <OrtSekretariat Sekretariat [tbd:OM ADMIN 1], id:6894, 6885>
   <Region Bezirk Dielsdorf, id:5603, 5181>
-   <RegionArbeitsgruppe Judikative, id:5616, 5603>
-    <RegionArbeitsgruppe Bezirksgericht [tbd:Richter 1], id:5617, 5616>
+   <RegionGewaehlte Judikative, id:5616, 5603>
+    <RegionGewaehlte Bezirksgericht [RegionJudikative 1], id:5617, 5616>
    <RegionMitglieder Mitgliedschaften [Mitglied 5], id:5619, 5603>
    <RegionPraesidium Vorstand [Praesident 1, tbd:Aktuar 2, tbd:Mitglied gewählt 2, tbd:Mitglied von Amtes wegen 2, tbd:Quästor 1], id:5622, 5603>
    <Ort Niederhasli-Niederglatt, id:7085, 5603>
@@ -167,9 +167,9 @@
     <OrtGewaehlte Exekutive [KommunaleExekutive 1], id:5609, 5604>
   <Region Bezirk Dietikon, id:5625, 5181>
    <RegionSympathisanten Sympathisanten [Sympathisant 1], id:18118, 5625>
-   <RegionArbeitsgruppe Exekutive, id:5633, 5625>
-    <RegionArbeitsgruppe Bezirksrat [tbd:Mitglied 1], id:5634, 5633>
    <RegionDelegierte DV [Delegierte 8], id:5641, 5625>
+   <RegionGewaehlte Exekutive, id:5633, 5625>
+    <RegionGewaehlte Bezirksrat [RegionExekutive 1], id:5634, 5633>
    <RegionPraesidium Vorstand [tbd:Mitglied gewählt 4, tbd:Mitglied von Amtes wegen 9], id:5640, 5625>
    <RegionSekretariat Sekretariat [tbd:OM ADMIN 1], id:5642, 5625>
    <Ort Birmensdorf, id:7485, 5625>
@@ -544,9 +544,9 @@
     <OrtSekretariat Sekretariat [tbd:OM ADMIN 1], id:13894, 13885>
   <Region Bezirk Winterthur, id:6403, 5181>
    <RegionSympathisanten Sympathisanten [Sympathisant 6], id:18173, 6403>
-   <RegionArbeitsgruppe Judikative, id:6416, 6403>
-    <RegionArbeitsgruppe Bezirksgericht [tbd:Richter 2], id:6417, 6416>
    <RegionDelegierte DV [Delegierte 3], id:6423, 6403>
+   <RegionGewaehlte Judikative, id:6416, 6403>
+    <RegionGewaehlte Bezirksgericht [RegionJudikative 2], id:6417, 6416>
    <RegionMitglieder Mitgliedschaften [Mitglied 14], id:6419, 6403>
    <RegionPraesidium Vorstand [Praesident 1, tbd:Aktuar 1, tbd:Mitglied gewählt 3, tbd:Mitglied von Amtes wegen 2, tbd:Quästor 1], id:6422, 6403>
    <RegionSekretariat Sekretariat [tbd:Mitglied 1, tbd:OM ADMIN 1], id:6424, 6403>
@@ -590,14 +590,14 @@
     <OrtSekretariat Sekretariat [tbd:OM ADMIN 1], id:14294, 14285>
   <Region Bezirk Zürich, id:5243, 5181>
    <RegionSympathisanten Sympathisanten [Sympathisant 8], id:18178, 5243>
-   <RegionArbeitsgruppe Exekutive, id:5252, 5243>
-    <RegionArbeitsgruppe Stadtrat [tbd:Mitglied 1], id:5253, 5252>
-   <RegionArbeitsgruppe Judikative, id:5255, 5243>
-    <RegionArbeitsgruppe Bezirksgericht [tbd:Richter 3, tbd:Staatsanwalt 2], id:5256, 5255>
-   <RegionArbeitsgruppe Legislative, id:5257, 5243>
-    <RegionArbeitsgruppe Büro [tbd:Mitglied 1], id:5260, 5257>
-    <RegionArbeitsgruppe Fraktion [tbd:Mitglied 9, tbd:Präsident 1], id:5261, 5257>
    <RegionDelegierte DV [Delegierte 84], id:5266, 5243>
+   <RegionGewaehlte Exekutive, id:5252, 5243>
+    <RegionGewaehlte Stadtrat [RegionExekutive 1], id:5253, 5252>
+   <RegionGewaehlte Judikative, id:5255, 5243>
+    <RegionGewaehlte Bezirksgericht [RegionJudikative 5], id:5256, 5255>
+   <RegionGewaehlte Legislative, id:5257, 5243>
+    <RegionGewaehlte Büro [RegionLegislative 1], id:5260, 5257>
+    <RegionGewaehlte Fraktion [RegionExekutive 1, RegionLegislative 9], id:5261, 5257>
    <RegionMitglieder Mitgliedschaften [Mitglied 4], id:5262, 5243>
    <RegionPraesidium Vorstand [tbd:Mitglied gewählt 8, tbd:Mitglied von Amtes wegen 16], id:5265, 5243>
    <RegionSekretariat Sekretariat [tbd:Empfänger Umzugsmeldung 3, tbd:Geschäftsführer 4], id:5267, 5243>

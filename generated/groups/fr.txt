@@ -143,7 +143,6 @@
     <OrtPraesidium id=2801, label=Partei, parent_id=1182>
   <Region id=430, label=Sense, parent_id=158>
    <RegionSympathisanten id=18128, label=Sympathisanten, parent_id=430>
-   <RegionArbeitsgruppe id=1189, label=Legislative, parent_id=430>
    <RegionDelegierte id=14808, label=Delegiertenversammlung, parent_id=430>
     <RegionDelegierte id=14809, label=Alterswil, parent_id=14808>
     <RegionDelegierte id=14810, label=Bösingen, parent_id=14808>
@@ -159,6 +158,7 @@
     <RegionDelegierte id=14822, label=Tafers, parent_id=14808>
     <RegionDelegierte id=14824, label=Ueberstorf, parent_id=14808>
     <RegionDelegierte id=14825, label=Wünnewil-Flamatt, parent_id=14808>
+   <RegionGewaehlte id=1189, label=Legislative, parent_id=430>
    <RegionMitglieder id=1190, label=Mitgliedschaften, parent_id=430>
    <RegionPraesidium id=1192, label=Partei, parent_id=430>
    <Ort id=1183, label=Alterswil, parent_id=430>

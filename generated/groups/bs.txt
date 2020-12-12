@@ -38,8 +38,8 @@
    <OrtPraesidium id=1049, label=Partei, parent_id=420>
   <Region id=34890, label=Stadt Basel, parent_id=157>
    <RegionArbeitsgruppe id=37319, label=Basler Bürger, parent_id=34890>
-   <RegionArbeitsgruppe id=34891, label=Exekutive, parent_id=34890>
-   <RegionArbeitsgruppe id=34892, label=Legislative, parent_id=34890>
+   <RegionGewaehlte id=34891, label=Exekutive, parent_id=34890>
+   <RegionGewaehlte id=34892, label=Legislative, parent_id=34890>
    <Ort id=413, label=Grossbasel-Ost, parent_id=34890>
     <OrtSympathisanten id=18098, label=Sympathisanten, parent_id=413>
     <OrtMitglieder id=1026, label=Mitgliedschaften, parent_id=413>

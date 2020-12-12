@@ -38,8 +38,8 @@
    <OrtPraesidium Partei [Adressverwalter 9, Kassier 1, Mitglied 10, Praesident 1], id:1049, 420>
   <Region Stadt Basel, id:34890, 157>
    <RegionArbeitsgruppe Basler Bürger [tbd:Mitglied 147], id:37319, 34890>
-   <RegionArbeitsgruppe Exekutive [tbd:Mitglied 1], id:34891, 34890>
-   <RegionArbeitsgruppe Legislative [tbd:Mitglied 7], id:34892, 34890>
+   <RegionGewaehlte Exekutive [RegionExekutive 1], id:34891, 34890>
+   <RegionGewaehlte Legislative [RegionLegislative 7], id:34892, 34890>
    <Ort Grossbasel-Ost, id:413, 34890>
     <OrtSympathisanten Sympathisanten [Sympathisant 55], id:18098, 413>
     <OrtMitglieder Mitgliedschaften [Mitglied 117], id:1026, 413>

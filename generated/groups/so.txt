@@ -118,7 +118,7 @@
     <OrtPraesidium id=3536, label=Partei, parent_id=1683>
   <Region id=553, label=Amteipartei Dorneck-Thierstein, parent_id=169>
    <RegionSympathisanten id=18125, label=Sympathisanten, parent_id=553>
-   <RegionArbeitsgruppe id=33132, label=Judikative, parent_id=553>
+   <RegionGewaehlte id=33132, label=Judikative, parent_id=553>
    <RegionMitglieder id=1695, label=Mitgliedschaften, parent_id=553>
    <RegionPraesidium id=1697, label=Partei, parent_id=553>
    <Ort id=1685, label=Beinwil, parent_id=553>
@@ -226,7 +226,7 @@
     <OrtPraesidium id=3552, label=Partei, parent_id=1701>
   <Region id=554, label=Amteipartei Olten-Gösgen, parent_id=169>
    <RegionSympathisanten id=18151, label=Sympathisanten, parent_id=554>
-   <RegionArbeitsgruppe id=33133, label=Judikative, parent_id=554>
+   <RegionGewaehlte id=33133, label=Judikative, parent_id=554>
    <RegionMitglieder id=1711, label=Mitgliedschaften, parent_id=554>
    <RegionPraesidium id=1715, label=Partei, parent_id=554>
    <Ort id=14745, label=Boningen, parent_id=554>
@@ -344,7 +344,7 @@
     <OrtPraesidium id=14773, label=Partei, parent_id=14772>
   <Region id=555, label=Amteipartei Solothurn-Lebern, parent_id=169>
    <RegionSympathisanten id=18179, label=Sympathisanten, parent_id=555>
-   <RegionArbeitsgruppe id=33134, label=Judikative, parent_id=555>
+   <RegionGewaehlte id=33134, label=Judikative, parent_id=555>
    <RegionMitglieder id=34742, label=Mitgliedschaften, parent_id=555>
    <RegionPraesidium id=1728, label=Partei, parent_id=555>
    <Ort id=14671, label=Balm bei Günsberg, parent_id=555>
@@ -415,7 +415,7 @@
     <OrtPraesidium id=14603, label=Partei, parent_id=14590>
   <Region id=556, label=Amteipartei Thal-Gäu, parent_id=169>
    <RegionSympathisanten id=18198, label=Sympathisanten, parent_id=556>
-   <RegionArbeitsgruppe id=33135, label=Judikative, parent_id=556>
+   <RegionGewaehlte id=33135, label=Judikative, parent_id=556>
    <RegionMitglieder id=1739, label=Mitgliedschaften, parent_id=556>
    <RegionPraesidium id=1743, label=Partei, parent_id=556>
    <Ort id=1732, label=Aedermannsdorf, parent_id=556>
