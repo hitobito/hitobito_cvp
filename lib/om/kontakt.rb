@@ -141,12 +141,16 @@ class Kontakt < SourceModel
     attrs = {
       first_name: vorname,
       last_name: name,
-      company_name: firma,
-      company: firma.present?
+      company_name: firma? ? firma : nil,
+      company: firma?
     }
 
     attrs.merge!(last_name: firma) if name.blank? && firma.present?
     attrs
+  end
+
+  def firma?
+    firma.present? && anrede_code == 5
   end
 
   def gender
