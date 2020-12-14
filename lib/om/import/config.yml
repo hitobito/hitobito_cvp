@@ -6,6 +6,8 @@ groups:
     - !ruby/regexp '/^Wettbewerb*?/'
     - !ruby/regexp '/^Papierkorb.*?/'
     - !ruby/regexp '/^Wahlen*?/'
+    - !ruby/regexp '/^Kantonsratswahlen/'
+    - !ruby/regexp '/^Gemeinderatswahlen/'
 
   deleted:
     - [29, 1] # Kantonalparteien
