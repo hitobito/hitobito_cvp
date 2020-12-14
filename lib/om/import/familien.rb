@@ -19,7 +19,7 @@ module Import
 
     Family = Struct.new(:nr, :members) do
       def attrs
-        return {} unless same_addresses?
+        return {} unless valid?
 
         members.collect do |member|
           { id: member.id, household_key: members.first.kunden_id }
@@ -32,9 +32,18 @@ module Import
           .update_all(household_key: household_key)
       end
 
+      def valid?
+        same_addresses? && same_name?
+      end
+
       def same_addresses?
         first_address = members.first.address_attrs
         members.all? { |member| member.address_attrs == first_address }
+      end
+
+      def same_name?
+        first_last_name = members.first.last_name
+        members.all? { |member| member.last_name == first_last_name }
       end
 
       def stale_id
@@ -48,11 +57,11 @@ module Import
     end
 
     def update_households
-      households = families.select(&:same_addresses?)
+      households = families.select(&:valid?)
       households.group_by(&:size).transform_values(&:size).each do |size, count|
         puts " Updating #{count} households of size #{size}"
       end
-      ::Person.upsert_all(families.collect(&:attrs).compact.flatten)
+      ::Person.upsert_all(households.collect(&:attrs).compact.flatten)
     end
 
     def delete_stale
