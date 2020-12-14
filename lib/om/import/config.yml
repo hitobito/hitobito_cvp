@@ -222,6 +222,7 @@ groups:
       - !ruby/regexp /^DV$/i
       RegionGewaehlte:
       - !ruby/regexp /Kreisgericht/i
+      - !ruby/regexp /Exekutive|Legislative|Judikative/i
       RegionSekretariat:
       - !ruby/regexp /Sekretariat/i
       RegionMitglieder:
@@ -241,6 +242,8 @@ groups:
       default: RegionDelegierte
     RegionArbeitsgruppe:
       default: RegionArbeitsgruppe
+    RegionGewaehlte:
+      default: RegionGewaehlte
     Ort:
       OrtPraesidium:
       - !ruby/regexp /Partei/i
@@ -395,6 +398,28 @@ roles_new:
       Delegierte:
       - !ruby/regexp /Delegierter|Mitglied/i
     RegionGewaehlte:
+      RegionLegislative:
+      - ['Legislative', 'Mitglied']
+      - ['Büro', 'Mitglied']
+      - ['Fraktion', 'Mitglied']
+      RegionJudikative:
+      - ['Judikative', 'Mitglied']
+      - ['Bezirksgericht', 'Mitglied']
+      - ['Kreisgericht', 'Präsident']
+      - ['Kreisgericht', 'Mitglied']
+      - ['Kreisgericht', 'Mitglied nebenamtlich']
+      - !ruby/regexp /^Richter$/
+      - !ruby/regexp /^Amtsrichter$/
+      - !ruby/regexp /^Amtsgerichtspräsident$/
+      - !ruby/regexp /^Staatsanwalt$/
+      RegionExekutive:
+      - ['Exekutive', 'Mitglied']
+      - ['Bezirksrat', 'Mitglied']
+      - ['Stadtrat', 'Mitglied']
+      - !ruby/regexp /^Präsident$/
+      - !ruby/regexp /^Vizepräsident$/
+      - !ruby/regexp /^Präfekt$/
+      - !ruby/regexp /^Vizepräfekt$/
       Delegierte:
       - !ruby/regexp /Delegierter|Mitglied/i
     RegionPraesidium:

@@ -169,7 +169,7 @@
   <KantonPraesidium Parteivorstand [Mitglied 56], id:35016, 167>
   <KantonSpender Sponsoren [Mitglied 21], id:35036, 167>
   <Region Regionalpartei Rheintal, id:537, 167>
-   <RegionGewaehlte Kreisgericht [tbd:Mitglied 5], id:35102, 537>
+   <RegionGewaehlte Kreisgericht [RegionJudikative 5], id:35102, 537>
    <RegionPraesidium Partei [Kassier 1, Mitglied 3, Praesident 3, tbd:Delegierter 120, tbd:Parteivorstand 7, tbd:Vorstandsmitglied 5, tbd:Weitere Vorstandsmitglieder 2], id:1572, 537>
    <Ort Altstätten (mit Lüchingen, Lienz und Eichberg), id:1561, 537>
     <OrtSympathisanten Sympathisanten [Sympathisant 50], id:18097, 1561>
@@ -228,7 +228,7 @@
     <OrtMitglieder Mitgliedschaften [Mitglied 120], id:3372, 1577>
     <OrtPraesidium Partei [Adressverwalter 1, Kassier 2, Mitglied 5, Praesident 2], id:3373, 1577>
   <Region Regionalpartei Rorschach, id:538, 167>
-   <RegionGewaehlte Kreisgericht [tbd:Mitglied 2, tbd:Mitglied nebenamtlich 1], id:35865, 538>
+   <RegionGewaehlte Kreisgericht [RegionJudikative 3], id:35865, 538>
    <RegionPraesidium Partei [Praesident 2, tbd:Delegierter 2, tbd:Parteivorstand 2, tbd:Weitere Vorstandsmitglieder 5], id:1581, 538>
    <Ort Goldach-Untereggen, id:1579, 538>
     <OrtSympathisanten Sympathisanten [Sympathisant 10], id:18110, 1579>
@@ -263,7 +263,7 @@
     <OrtMitglieder Mitgliedschaften [Mitglied 16], id:3388, 1586>
     <OrtPraesidium Partei [Praesident 1], id:3389, 1586>
   <Region Regionalpartei Sarganserland, id:539, 167>
-   <RegionGewaehlte Kreisgericht [tbd:Mitglied 3], id:35866, 539>
+   <RegionGewaehlte Kreisgericht [RegionJudikative 3], id:35866, 539>
    <RegionPraesidium Partei [Kassier 1, Mitglied 3, Praesident 3, tbd:Delegierter 12, tbd:Parteivorstand 1], id:1590, 539>
    <Ort Bad Ragaz-Taminatal, id:1587, 539>
     <OrtSympathisanten Sympathisanten [Sympathisant 3], id:18118, 1587>
@@ -297,7 +297,7 @@
     <OrtMitglieder Mitgliedschaften [Mitglied 81], id:3403, 1595>
     <OrtPraesidium Partei [Adressverwalter 1, Kassier 1, Mitglied 4, Praesident 2, tbd:Delegierter 2], id:3404, 1595>
   <Region Regionalpartei See-Gaster, id:540, 167>
-   <RegionGewaehlte Kreisgericht [tbd:Mitglied 2, tbd:Mitglied nebenamtlich 1, tbd:Präsident 1], id:35867, 540>
+   <RegionGewaehlte Kreisgericht [RegionJudikative 4], id:35867, 540>
    <RegionPraesidium Partei [Kassier 1, Mitglied 6, Praesident 4, tbd:Empfänger Umzugsmeldung 1, tbd:Weitere Vorstandsmitglieder 1], id:1603, 540>
    <Ort Amden, id:1596, 540>
     <OrtSympathisanten Sympathisanten [Sympathisant 1], id:18126, 1596>
@@ -384,7 +384,7 @@
     <RegionDelegierte Wittenbach, id:38195, 38186>
      <RegionDelegierte Delegierte aufgrund Mitgliederzahl [Delegierte 7], id:38255, 38195>
      <RegionDelegierte Ortsparteipräsident [Delegierte 2], id:38263, 38195>
-   <RegionGewaehlte Kreisgericht [tbd:Mitglied 6, tbd:Mitglied nebenamtlich 2, tbd:Präsident 1], id:35868, 541>
+   <RegionGewaehlte Kreisgericht [RegionJudikative 9], id:35868, 541>
    <RegionPraesidium Partei [Praesident 2], id:1617, 541>
    <RegionPraesidium Vorstand [Kassier 2, Mitglied 8, Praesident 2], id:38185, 541>
    <Ort Andwil, id:1611, 541>
@@ -435,7 +435,7 @@
     <OrtMitglieder Mitgliedschaften [Mitglied 163], id:3455, 1623>
     <OrtPraesidium Partei [Adressverwalter 4, Kassier 1, Mitglied 6, Praesident 6], id:3456, 1623>
   <Region Regionalpartei Toggenburg, id:542, 167>
-   <RegionGewaehlte Kreisgericht [tbd:Mitglied nebenamtlich 2, tbd:Präsident 1], id:35869, 542>
+   <RegionGewaehlte Kreisgericht [RegionJudikative 3], id:35869, 542>
    <RegionPraesidium Partei [Kassier 1, Mitglied 4, Praesident 3, tbd:Parteivorstand 7, tbd:Weitere Vorstandsmitglieder 5], id:1634, 542>
    <Ort Bütschwil-Ganterschwil, id:1624, 542>
     <OrtGewaehlte Exekutive [KommunaleExekutive 2], id:37257, 1624>
@@ -482,7 +482,7 @@
     <OrtMitglieder Mitgliedschaften [Mitglied 55], id:3482, 1637>
     <OrtPraesidium Partei [Kassier 1, Mitglied 1, Praesident 3], id:3483, 1637>
   <Region Regionalpartei Werdenberg, id:543, 167>
-   <RegionGewaehlte Kreisgericht [tbd:Mitglied 1], id:35870, 543>
+   <RegionGewaehlte Kreisgericht [RegionJudikative 1], id:35870, 543>
    <RegionPraesidium Partei [Kassier 1, Praesident 3, tbd:Parteivorstand 1, tbd:Weitere Vorstandsmitglieder 5], id:1641, 543>
    <Ort Buchs, id:1638, 543>
     <OrtSympathisanten Sympathisanten [Sympathisant 6], id:18158, 1638>
@@ -502,7 +502,7 @@
     <OrtMitglieder Mitgliedschaften [Mitglied 12], id:3491, 1642>
     <OrtPraesidium Partei [Mitglied 1, Praesident 1], id:3492, 1642>
   <Region Regionalpartei Wil-Untertoggenburg, id:544, 167>
-   <RegionGewaehlte Kreisgericht [tbd:Mitglied 3, tbd:Mitglied nebenamtlich 2], id:35871, 544>
+   <RegionGewaehlte Kreisgericht [RegionJudikative 5], id:35871, 544>
    <RegionPraesidium Partei [Praesident 2], id:1653, 544>
    <Ort Degersheim [mit Wolfertswil, Magdenau, Dicken], id:1645, 544>
     <OrtSympathisanten Sympathisanten [Sympathisant 4], id:18163, 1645>
