@@ -171,6 +171,8 @@ groups:
       - !ruby/regexp /Fraktion/i
       - !ruby/regexp /^Partei$/i
       - !ruby/regexp /Parteivorstand|Parteileitung|Vorstand/i
+      KantonParteigremium:
+      - !ruby/regexp /Schiedsgericht/
       KantonGewaehlte:
       - !ruby/regexp /Regionalpartei/i
       - !ruby/regexp /Exekutive|Legislative|Judikative/i
@@ -315,6 +317,9 @@ roles_new:
     KantonPraesidium:
       Praesident:
       - !ruby/regexp /Präsident/i
+      Mitglied:
+      - !ruby/regexp /Mitglied/i
+    KantonParteigremium:
       Mitglied:
       - !ruby/regexp /Mitglied/i
     KantonGewaehlte:

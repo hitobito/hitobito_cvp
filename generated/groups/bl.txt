@@ -22,8 +22,8 @@
    <KantonGewaehlte id=37665, label=Strafgericht, parent_id=403>
    <KantonGewaehlte id=37664, label=Zivilkreisgericht West, parent_id=403>
   <KantonGewaehlte id=404, label=Legislative, parent_id=156>
-  <KantonGewaehlte id=1008, label=Schiedsgericht, parent_id=156>
   <KantonMitglieder id=405, label=Mitgliedschaften, parent_id=156>
+  <KantonParteigremium id=1008, label=Schiedsgericht, parent_id=156>
   <KantonPraesidium id=409, label=Partei, parent_id=156>
   <KantonPraesidium id=1004, label=Parteivorstand, parent_id=156>
   <Ort id=399, label=Birsfelden, parent_id=156>

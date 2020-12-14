@@ -22,8 +22,8 @@
    <KantonGewaehlte Strafgericht [tbd:Mitglied 2, tbd:Präsident 1, tbd:Vizepräsident 1], id:37665, 403>
    <KantonGewaehlte Zivilkreisgericht West [tbd:Mitglied 2, tbd:Präsident 1], id:37664, 403>
   <KantonGewaehlte Legislative [KantonaleExekutive 3, KantonaleLegislative 20], id:404, 156>
-  <KantonGewaehlte Schiedsgericht [tbd:Mitglied 2], id:1008, 156>
   <KantonMitglieder Mitgliedschaften [Mitglied 172], id:405, 156>
+  <KantonParteigremium Schiedsgericht [Mitglied 2], id:1008, 156>
   <KantonPraesidium Partei [Mitglied 8, Praesident 2, tbd:Ansprechperson Finanzen 1, tbd:Botschafter 1, tbd:Delegierte Frauen 1, tbd:Gönner 2, tbd:Kader Mitgl. 263, tbd:Kassier 1, tbd:Landrat 03 Kandidat 43, tbd:Landrat 07 Kandidat 52, tbd:Medienverteiler 29, tbd:OM Ansprechperson 2, tbd:Plakatierer 4, tbd:Quästor 1, tbd:Sekretär Kantonalpartei/Vereinigung 4, tbd:Wahlkampfleiter 1, tbd:potentieller Wähler 867], id:409, 156>
   <KantonPraesidium Parteivorstand [Mitglied 30], id:1004, 156>
   <Ort Birsfelden, id:399, 156>

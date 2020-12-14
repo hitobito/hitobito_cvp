@@ -52,7 +52,7 @@
    <KantonGewaehlte id=35586, label=Strafgericht, parent_id=35583>
    <KantonGewaehlte id=35585, label=Verwaltungsgericht, parent_id=35583>
   <KantonGewaehlte id=566, label=Legislative, parent_id=170>
-  <KantonGewaehlte id=35578, label=Schiedsgericht, parent_id=170>
+  <KantonParteigremium id=35578, label=Schiedsgericht, parent_id=170>
   <KantonPraesidium id=36180, label=Fraktionsvorstand, parent_id=170>
   <KantonPraesidium id=568, label=Partei, parent_id=170>
   <KantonPraesidium id=1778, label=Vorstand, parent_id=170>

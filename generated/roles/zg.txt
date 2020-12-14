@@ -6,9 +6,9 @@
   <KantonDelegierte DV [Delegierte 324], id:2243, 177>
   <KantonGewaehlte Judikative [tbd:Richter 34], id:661, 177>
   <KantonGewaehlte Legislative [KantonaleLegislative 47], id:662, 177>
-  <KantonGewaehlte Schiedsgericht [tbd:Mitglied 5], id:2247, 177>
   <KantonKommission Kontrollkommission [Mitglied 5], id:2245, 177>
   <KantonMitglieder Mitgliedschaften [Mitglied 872], id:664, 177>
+  <KantonParteigremium Schiedsgericht [Mitglied 5], id:2247, 177>
   <KantonPraesidium Fraktion [Mitglied 44, Praesident 2], id:2244, 177>
   <KantonPraesidium Partei [Praesident 4, tbd:Ansprechperson Finanzen 1, tbd:Botschafter 2, tbd:Empfänger Rechnung Jahresbeitrag CVP CH 3, tbd:Empfänger Umzugsmeldung 1, tbd:Medien 8, tbd:OM Ansprechperson 2, tbd:Plakatierer 1, tbd:Sekretär Kantonalpartei/Vereinigung 1, tbd:Zuzüger 8], id:667, 177>
   <KantonPraesidium Zentralvorstand [Mitglied 66, Praesident 3], id:2249, 177>

@@ -52,7 +52,7 @@
    <KantonGewaehlte Strafgericht [tbd:Mitglied 1], id:35586, 35583>
    <KantonGewaehlte Verwaltungsgericht [MitgliedKantonalesGerichtErsteInstanz 3, tbd:Mitglied 2, tbd:Vizepräsident 2], id:35585, 35583>
   <KantonGewaehlte Legislative [KantonaleLegislative 76], id:566, 170>
-  <KantonGewaehlte Schiedsgericht [tbd:Mitglied 3], id:35578, 170>
+  <KantonParteigremium Schiedsgericht [Mitglied 3], id:35578, 170>
   <KantonPraesidium Fraktionsvorstand [Mitglied 10], id:36180, 170>
   <KantonPraesidium Partei [Praesident 8, tbd:Ansprechperson Finanzen 1, tbd:Empfänger Rechnung Jahresbeitrag CVP CH 1, tbd:Leserbriefschreiber/-in Verantw. 55, tbd:OM Ansprechperson 3, tbd:Sekretär Kantonalpartei/Vereinigung 1, tbd:Zuzüger 2], id:568, 170>
   <KantonPraesidium Vorstand [Mitglied 22], id:1778, 170>
