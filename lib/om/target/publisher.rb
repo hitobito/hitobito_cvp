@@ -7,22 +7,9 @@ module Target
     end
 
     def run
-      rebuild_groups
-      seed_devs
       dump_tables
       copy_to_production
       import_data
-    end
-
-    def rebuild_groups
-      if Group.where(lft: nil).exists?
-        puts "Rebuilding groups"
-        Group.rebuild!
-      end
-    end
-
-    def seed_devs
-      Seeder.new.run
     end
 
     def dump_tables
