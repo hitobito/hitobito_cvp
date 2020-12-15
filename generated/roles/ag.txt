@@ -22,7 +22,7 @@
   <KantonExterneKontakte Medien [Kontakt 105], id:39372, 151>
   <KantonExterneKontakte Medienverteiler [Kontakt 337], id:39275, 151>
   <KantonExterneKontakte Newsletter [Kontakt 9702], id:39373, 151>
-  <KantonGewaehlte Exekutive [KantonaleExekutive 3], id:347, 151>
+  <KantonGewaehlte Regierungsrat [KantonaleExekutive 3], id:347, 151>
   <KantonGewaehlte Judikative [Staatsanwaltschaft 2, tbd:Oberrichter 10], id:348, 151>
   <KantonGewaehlte Legislative [KantonaleLegislative 129], id:349, 151>
   <KantonGewaehlte Mandate [MitgliedKantonalesGerichtErsteInstanz 18, tbd:Bankrat 2, tbd:Bundesrat 1, tbd:Bundesrichter 2, tbd:Erziehungsrat 2, tbd:Fraktionspräsident 4, tbd:Nationalrat 9, tbd:Ständerat 1, tbd:Verwaltungsrat AKB-AEW-AVA-AGVA 2], id:898, 151>

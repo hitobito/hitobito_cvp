@@ -4,12 +4,12 @@
   <KantonArbeitsgruppe id=2246, label=Präsidium, parent_id=177>
   <KantonArbeitsgruppe id=2248, label=Wahlkampfteam, parent_id=177>
   <KantonDelegierte id=2243, label=DV, parent_id=177>
+  <KantonGewaehlte id=2244, label=Fraktion, parent_id=177>
   <KantonGewaehlte id=661, label=Judikative, parent_id=177>
   <KantonGewaehlte id=662, label=Legislative, parent_id=177>
   <KantonMitglieder id=664, label=Mitgliedschaften, parent_id=177>
   <KantonParteigremium id=2245, label=Kontrollkommission, parent_id=177>
   <KantonParteigremium id=2247, label=Schiedsgericht, parent_id=177>
-  <KantonPraesidium id=2244, label=Fraktion, parent_id=177>
   <KantonPraesidium id=667, label=Partei, parent_id=177>
   <KantonPraesidium id=2249, label=Zentralvorstand, parent_id=177>
   <Ort id=652, label=Baar, parent_id=177>

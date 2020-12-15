@@ -2,7 +2,7 @@
  <Kanton id=160, label=CVP GL, parent_id=1>
   <KantonSympathisanten id=18095, label=Sympathisanten, parent_id=160>
   <KantonArbeitsgruppe id=39450, label=Rechnung Sektionen, parent_id=160>
-  <KantonGewaehlte id=36706, label=Exekutive, parent_id=160>
+  <KantonGewaehlte id=36706, label=Regierungsrat, parent_id=160>
   <KantonGewaehlte id=443, label=Judikative, parent_id=160>
   <KantonGewaehlte id=444, label=Legislative, parent_id=160>
   <KantonMitglieder id=445, label=Mitgliedschaften, parent_id=160>

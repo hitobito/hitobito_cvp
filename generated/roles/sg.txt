@@ -142,9 +142,10 @@
   <KantonGewaehlte Ersatzrichter der Anklagekammer (720) [MitgliedKantonalesGerichtErsteInstanz 2], id:37886, 167>
   <KantonGewaehlte Ersatzrichter des Kantonsgerichts (720) [MitgliedKantonalesGerichtErsteInstanz 3], id:37884, 167>
   <KantonGewaehlte Ersatzrichter des Verwaltungsgerichts (360) [MitgliedKantonalesGerichtErsteInstanz 1], id:37897, 167>
-  <KantonGewaehlte Exekutive [KantonaleExekutive 9, tbd:Staatssekretär 1], id:35013, 167>
+  <KantonGewaehlte Regierungsrat [KantonaleExekutive 9, tbd:Staatssekretär 1], id:35013, 167>
   <KantonGewaehlte Fachrichter Versicherungsgericht (360) [MitgliedKantonalesGerichtErsteInstanz 3], id:37894, 167>
   <KantonGewaehlte Fachrichter der Verwaltungsrekurskommission (360) [MitgliedKantonalesGerichtErsteInstanz 7], id:37890, 167>
+  <KantonGewaehlte Fraktion [Fraktionschef 3, KantonaleLegislative 65, tbd:Gast 2, tbd:Vorstandsmitglied 25], id:35012, 167>
   <KantonGewaehlte Handelsrichter (360) [tbd:Mitglied 12], id:37887, 167>
   <KantonGewaehlte Hauptamtlicher Kantonsrichter (7200) [MitgliedKantonalesGerichtErsteInstanz 3], id:37883, 167>
   <KantonGewaehlte Judikative, id:533, 167>
@@ -164,7 +165,6 @@
   <KantonGewaehlte Vizepräsident Verwaltungsgericht (7200) [MitgliedKantonalesGerichtErsteInstanz 1], id:40385, 167>
   <KantonMitglieder Mitgliedschaften [Mitglied 52], id:535, 167>
   <KantonParteigremium Kontrollkommission [Mitglied 8, Praesident 1], id:35038, 167>
-  <KantonPraesidium Fraktion [Mitglied 90, Praesident 3, tbd:Gast 2], id:35012, 167>
   <KantonPraesidium Parteileitung [Mitglied 27], id:1557, 167>
   <KantonPraesidium Parteivorstand [Mitglied 56], id:35016, 167>
   <KantonSpender Sponsoren [Mitglied 21], id:35036, 167>

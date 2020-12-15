@@ -8,7 +8,7 @@
   <KantonArbeitsgruppe id=35540, label=Direttiva, parent_id=172>
   <KantonArbeitsgruppe id=35539, label=Ufficio presidenziale, parent_id=172>
   <KantonArbeitsgruppe id=2026, label=congresso, parent_id=172>
-  <KantonGewaehlte id=14766, label=Exekutive, parent_id=172>
+  <KantonGewaehlte id=14766, label=Regierungsrat, parent_id=172>
   <KantonGewaehlte id=35538, label=Judikative, parent_id=172>
   <KantonGewaehlte id=583, label=Legislative, parent_id=172>
   <KantonMitglieder id=588, label=Mitgliedschaften, parent_id=172>

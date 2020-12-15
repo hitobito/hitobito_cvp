@@ -5,7 +5,7 @@
   <KantonArbeitsgruppe id=2077, label=Parteitag, parent_id=173>
   <KantonDelegierte id=2074, label=DV, parent_id=173>
    <KantonDelegierte id=34921, label=Von Amtes wegen, parent_id=2074>
-  <KantonGewaehlte id=611, label=Exekutive, parent_id=173>
+  <KantonGewaehlte id=611, label=Regierungsrat, parent_id=173>
   <KantonGewaehlte id=612, label=Judikative, parent_id=173>
    <KantonGewaehlte id=34905, label=Landgericht Uri, parent_id=612>
    <KantonGewaehlte id=34906, label=Landgericht Ursern, parent_id=612>

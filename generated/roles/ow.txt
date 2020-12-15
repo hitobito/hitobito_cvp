@@ -1,7 +1,7 @@
 <Bund CVP Schweiz, id:1, 0>
  <Kanton CVP OW, id:166, 1>
   <KantonSympathisanten Sympathisanten [Sympathisant 1], id:18095, 166>
-  <KantonGewaehlte Exekutive [KantonaleExekutive 1], id:35079, 166>
+  <KantonGewaehlte Regierungsrat [KantonaleExekutive 1], id:35079, 166>
   <KantonGewaehlte Judikative, id:525, 166>
    <KantonGewaehlte Kantonsgericht [tbd:Mitglied 3], id:35080, 525>
    <KantonGewaehlte Obergericht [tbd:Mitglied 9], id:35081, 525>

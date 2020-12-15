@@ -34,7 +34,7 @@
   <KantonArbeitsgruppe id=36710, label=Ehemalige Beamte, parent_id=176>
   <KantonArbeitsgruppe id=36569, label=Übrige Funktionen, parent_id=176>
   <KantonExterneKontakte id=37956, label=Newsletter, parent_id=176>
-  <KantonGewaehlte id=33208, label=Exekutive, parent_id=176>
+  <KantonGewaehlte id=33208, label=Regierungsrat, parent_id=176>
   <KantonGewaehlte id=36709, label=Judikative, parent_id=176>
   <KantonGewaehlte id=643, label=Legislative, parent_id=176>
   <KantonMitglieder id=645, label=Mitgliedschaften, parent_id=176>

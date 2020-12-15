@@ -46,7 +46,7 @@
   <KantonArbeitsgruppe id=36521, label=Mail Ortsparteien, parent_id=170>
   <KantonArbeitsgruppe id=35666, label=Präsidenten der Vereinigungen, parent_id=170>
   <KantonArbeitsgruppe id=35579, label=Revisionsstelle, parent_id=170>
-  <KantonGewaehlte id=35582, label=Exekutive, parent_id=170>
+  <KantonGewaehlte id=35582, label=Regierungsrat, parent_id=170>
   <KantonGewaehlte id=35583, label=Judikative, parent_id=170>
    <KantonGewaehlte id=35584, label=Kantonsgericht, parent_id=35583>
    <KantonGewaehlte id=35586, label=Strafgericht, parent_id=35583>

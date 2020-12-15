@@ -113,7 +113,7 @@
   <KantonArbeitsgruppe id=37573, label=e. Kantonsrats-Wahlkreisgruppen, parent_id=163>
   <KantonArbeitsgruppe id=37577, label=i. Parteisekretär, parent_id=163>
   <KantonExterneKontakte id=38768, label=Newsletter CVP LU, parent_id=163>
-  <KantonGewaehlte id=498, label=Exekutive, parent_id=163>
+  <KantonGewaehlte id=498, label=Regierungsrat, parent_id=163>
   <KantonGewaehlte id=36092, label=Judikative, parent_id=163>
    <KantonGewaehlte id=36093, label=Arbeitsgericht, parent_id=36092>
    <KantonGewaehlte id=36094, label=Bezirksgericht, parent_id=36092>

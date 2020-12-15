@@ -25,7 +25,7 @@
    <KantonDelegierte id=5076, label=Wolfenschiessen, parent_id=5071>
   <KantonExterneKontakte id=39514, label=Medienverteiler, parent_id=165>
   <KantonExterneKontakte id=39513, label=Newsletter, parent_id=165>
-  <KantonGewaehlte id=511, label=Exekutive, parent_id=165>
+  <KantonGewaehlte id=511, label=Regierungsrat, parent_id=165>
   <KantonGewaehlte id=36101, label=Judikative, parent_id=165>
    <KantonGewaehlte id=36102, label=Kantonsgericht, parent_id=36101>
    <KantonGewaehlte id=36103, label=Obergericht, parent_id=36101>

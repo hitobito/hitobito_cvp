@@ -2,7 +2,7 @@
  <Kanton CVP GL, id:160, 1>
   <KantonSympathisanten Sympathisanten [Sympathisant 2], id:18095, 160>
   <KantonArbeitsgruppe Rechnung Sektionen [tbd:Empfänger 2], id:39450, 160>
-  <KantonGewaehlte Exekutive [KantonaleExekutive 1], id:36706, 160>
+  <KantonGewaehlte Regierungsrat [KantonaleExekutive 1], id:36706, 160>
   <KantonGewaehlte Judikative [Staatsanwaltschaft 1, tbd:Richter 6], id:443, 160>
   <KantonGewaehlte Legislative [KantonaleLegislative 42], id:444, 160>
   <KantonMitglieder Mitgliedschaften [Mitglied 4], id:445, 160>

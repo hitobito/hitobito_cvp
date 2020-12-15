@@ -18,7 +18,7 @@
    <KantonArbeitsgruppe Verwaltungsrat BVB [Mitglied 1], id:37323, 37321>
   <KantonExterneKontakte Medienverteiler [Kontakt 61], id:39525, 157>
   <KantonExterneKontakte Newsletter [Kontakt 657], id:39524, 157>
-  <KantonGewaehlte Exekutive [KantonaleExekutive 2], id:33169, 157>
+  <KantonGewaehlte Regierungsrat [KantonaleExekutive 2], id:33169, 157>
   <KantonGewaehlte Judikative, id:415, 157>
    <KantonGewaehlte Appellationsgericht [tbd:Ersatzrichter 1, tbd:Richter 3], id:1030, 415>
    <KantonGewaehlte Sozialversicherungsgericht [tbd:Richter 4], id:1031, 415>

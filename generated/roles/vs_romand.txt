@@ -34,7 +34,7 @@
   <KantonArbeitsgruppe Ehemalige Beamte [Mitglied 8], id:36710, 176>
   <KantonArbeitsgruppe Übrige Funktionen [Praesident 10, tbd:Ansprechperson Finanzen 2, tbd:Botschafter 9, tbd:Comité Exécutif 14, tbd:Empfänger Rechnung Jahresbeitrag CVP CH 1, tbd:Nationalrat 3, tbd:Newsletter 548, tbd:OM Ansprechperson 1, tbd:Staatsanwalt 5, tbd:Ständerat 1, tbd:Vorstandsmitglied 123, tbd:administrativer Sekretär 2], id:36569, 176>
   <KantonExterneKontakte Newsletter [Kontakt 2210], id:37956, 176>
-  <KantonGewaehlte Exekutive [KantonaleExekutive 13, tbd:Präsident 5, tbd:Vizepräsident 10], id:33208, 176>
+  <KantonGewaehlte Regierungsrat [KantonaleExekutive 13, tbd:Präsident 5, tbd:Vizepräsident 10], id:33208, 176>
   <KantonGewaehlte Judikative [tbd:Ersatzrichter 2, tbd:Richter 2], id:36709, 176>
   <KantonGewaehlte Legislative [KantonaleLegislative 103, tbd:Ersatzmitglied 49, tbd:Suppleant 31, tbd:Vizepräsident 2], id:643, 176>
   <KantonMitglieder Mitgliedschaften [Mitglied 3802], id:645, 176>

@@ -8,7 +8,7 @@
   <KantonArbeitsgruppe Direttiva [Mitglied 25], id:35540, 172>
   <KantonArbeitsgruppe Ufficio presidenziale [Mitglied 16], id:35539, 172>
   <KantonArbeitsgruppe congresso [tbd:Delegierter 6482], id:2026, 172>
-  <KantonGewaehlte Exekutive [KantonaleExekutive 1], id:14766, 172>
+  <KantonGewaehlte Regierungsrat [KantonaleExekutive 1], id:14766, 172>
   <KantonGewaehlte Judikative [tbd:Mitglied 138], id:35538, 172>
   <KantonGewaehlte Legislative [KantonaleLegislative 24, tbd:Präsident 1], id:583, 172>
   <KantonMitglieder Mitgliedschaften [Mitglied 9968], id:588, 172>

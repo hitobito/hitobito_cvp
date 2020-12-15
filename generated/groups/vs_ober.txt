@@ -3,11 +3,11 @@
   <KantonSympathisanten id=18095, label=Sympathisanten, parent_id=175>
   <KantonArbeitsgruppe id=36255, label=Club, parent_id=175>
   <KantonExterneKontakte id=40307, label=Newsletter, parent_id=175>
-  <KantonGewaehlte id=33109, label=Exekutive, parent_id=175>
+  <KantonGewaehlte id=33109, label=Regierungsrat, parent_id=175>
+  <KantonGewaehlte id=34984, label=Fraktion, parent_id=175>
   <KantonGewaehlte id=34978, label=Judikative, parent_id=175>
   <KantonGewaehlte id=631, label=Legislative, parent_id=175>
   <KantonMitglieder id=633, label=Mitgliedschaften, parent_id=175>
-  <KantonPraesidium id=34984, label=Fraktion, parent_id=175>
   <KantonPraesidium id=635, label=Partei, parent_id=175>
   <Region id=629, label=Brig, parent_id=175>
    <RegionGewaehlte id=33111, label=Exekutive, parent_id=629>

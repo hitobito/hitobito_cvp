@@ -113,7 +113,7 @@
   <KantonArbeitsgruppe e. Kantonsrats-Wahlkreisgruppen [Mitglied 1], id:37573, 163>
   <KantonArbeitsgruppe i. Parteisekretär [Mitglied 1], id:37577, 163>
   <KantonExterneKontakte Newsletter CVP LU [Kontakt 4762], id:38768, 163>
-  <KantonGewaehlte Exekutive [KantonaleExekutive 19, tbd:Gemeinderat 468], id:498, 163>
+  <KantonGewaehlte Regierungsrat [KantonaleExekutive 19, tbd:Gemeinderat 468], id:498, 163>
   <KantonGewaehlte Judikative, id:36092, 163>
    <KantonGewaehlte Arbeitsgericht [tbd:Mitglied 2, tbd:Präsident 1], id:36093, 36092>
    <KantonGewaehlte Bezirksgericht [tbd:Mitglied 15, tbd:Präsident 8], id:36094, 36092>

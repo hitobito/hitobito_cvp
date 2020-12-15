@@ -3,11 +3,11 @@
   <KantonSympathisanten Sympathisanten [Sympathisant 96], id:18095, 175>
   <KantonArbeitsgruppe Club [Mitglied 30], id:36255, 175>
   <KantonExterneKontakte Newsletter [Kontakt 669], id:40307, 175>
-  <KantonGewaehlte Exekutive [KantonaleExekutive 1], id:33109, 175>
+  <KantonGewaehlte Regierungsrat [KantonaleExekutive 1], id:33109, 175>
+  <KantonGewaehlte Fraktion [Fraktionschef 2, tbd:Sekretär 1, tbd:Vorstandsmitglied 7], id:34984, 175>
   <KantonGewaehlte Judikative [MitgliedKantonalesGerichtErsteInstanz 2, Staatsanwaltschaft 5, tbd:Bezirksrichter 1, tbd:Bundesrichter 1, tbd:Ersatzrichter 1], id:34978, 175>
   <KantonGewaehlte Legislative [KantonaleLegislative 43, tbd:Suppleant 37], id:631, 175>
   <KantonMitglieder Mitgliedschaften [Mitglied 1130], id:633, 175>
-  <KantonPraesidium Fraktion [Mitglied 7, Praesident 2, tbd:Sekretär 1], id:34984, 175>
   <KantonPraesidium Partei [Mitglied 36, Praesident 3, tbd:Ansprechperson Finanzen 1, tbd:Bundesrat 1, tbd:Delegierter CVP Schweiz 8, tbd:Empfänger Rechnung Jahresbeitrag CVP CH 1, tbd:Ersatzdelegierter 5, tbd:Nationalrat 2, tbd:Sekretär Kantonalpartei/Vereinigung 1, tbd:Ständerat 1, tbd:Zuzüger 20], id:635, 175>
   <Region Brig, id:629, 175>
    <RegionGewaehlte Exekutive [RegionExekutive 2], id:33111, 629>

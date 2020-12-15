@@ -17,7 +17,7 @@
    <KantonDelegierte id=33142, label=von Amtes wegen, parent_id=33136>
   <KantonDelegierte id=33144, label=Gäste Delegiertenversammlung, parent_id=169>
   <KantonExterneKontakte id=39288, label=Newsletter, parent_id=169>
-  <KantonGewaehlte id=33129, label=Exekutive, parent_id=169>
+  <KantonGewaehlte id=33129, label=Regierungsrat, parent_id=169>
   <KantonGewaehlte id=557, label=Legislative, parent_id=169>
   <KantonMitglieder id=558, label=Mitgliedschaften, parent_id=169>
   <KantonPraesidium id=36574, label=Erweiterte Parteileitung, parent_id=169>

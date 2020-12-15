@@ -5,7 +5,7 @@
   <KantonArbeitsgruppe Parteitag [tbd:Einladung 20], id:2077, 173>
   <KantonDelegierte DV [tbd:Einladung 32], id:2074, 173>
    <KantonDelegierte Von Amtes wegen [Delegierte 28], id:34921, 2074>
-  <KantonGewaehlte Exekutive [KantonaleExekutive 6, tbd:Kanzleidirektor 1], id:611, 173>
+  <KantonGewaehlte Regierungsrat [KantonaleExekutive 6, tbd:Kanzleidirektor 1], id:611, 173>
   <KantonGewaehlte Judikative, id:612, 173>
    <KantonGewaehlte Landgericht Uri [tbd:Präsident 1, tbd:Richter 3], id:34905, 612>
    <KantonGewaehlte Landgericht Ursern [tbd:Richter 1], id:34906, 612>

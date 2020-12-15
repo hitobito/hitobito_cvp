@@ -14,7 +14,7 @@
   <KantonArbeitsgruppe Sektionskonferenz [Mitglied 31], id:1003, 156>
   <KantonArbeitsgruppe Wahlkampfteam [Mitglied 9], id:1011, 156>
   <KantonExterneKontakte Newsletter [Kontakt 698], id:37659, 156>
-  <KantonGewaehlte Exekutive [KantonaleExekutive 6], id:402, 156>
+  <KantonGewaehlte Regierungsrat [KantonaleExekutive 6], id:402, 156>
   <KantonGewaehlte Judikative, id:403, 156>
    <KantonGewaehlte Jugendgericht [tbd:Mitglied 1], id:37666, 403>
    <KantonGewaehlte Kantonsgericht [MitgliedKantonalesGerichtErsteInstanz 1, tbd:Mitglied 2, tbd:Vizepräsident 1], id:37663, 403>

@@ -53,7 +53,7 @@
    <KantonDelegierte id=35906, label=Veyrier, parent_id=35880>
    <KantonDelegierte id=35907, label=Ville de Genève, parent_id=35880>
   <KantonExterneKontakte id=40003, label=Newsletter, parent_id=159>
-  <KantonGewaehlte id=34887, label=Exekutive, parent_id=159>
+  <KantonGewaehlte id=34887, label=Regierungsrat, parent_id=159>
   <KantonGewaehlte id=433, label=Legislative, parent_id=159>
   <KantonMitglieder id=435, label=Mitgliedschaften, parent_id=159>
   <KantonPraesidium id=437, label=Partei, parent_id=159>

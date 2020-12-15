@@ -32,7 +32,7 @@
   <KantonExterneKontakte Medienverteiler [Kontakt 79], id:1296, 161>
   <KantonExterneKontakte Newsletter [Kontakt 903], id:39263, 161>
   <KantonGewaehlte Empfänger Jahresrechnung Kreis/Regionalpartei [tbd:Empfänger 16], id:37180, 161>
-  <KantonGewaehlte Exekutive [KantonaleExekutive 5], id:454, 161>
+  <KantonGewaehlte Regierungsrat [KantonaleExekutive 5], id:454, 161>
   <KantonGewaehlte Judikative, id:455, 161>
    <KantonGewaehlte Kantonsgericht [MitgliedKantonalesGerichtErsteInstanz 1, tbd:Mitglied 2], id:1240, 455>
    <KantonGewaehlte Regionalgericht [tbd:Mitglied 30, tbd:Präsident 4, tbd:Vizepräsident 6], id:1239, 455>

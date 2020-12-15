@@ -46,7 +46,7 @@
   <KantonArbeitsgruppe Mail Ortsparteien [tbd:Empfänger 24], id:36521, 170>
   <KantonArbeitsgruppe Präsidenten der Vereinigungen [Mitglied 4], id:35666, 170>
   <KantonArbeitsgruppe Revisionsstelle [Mitglied 3], id:35579, 170>
-  <KantonGewaehlte Exekutive [KantonaleExekutive 4], id:35582, 170>
+  <KantonGewaehlte Regierungsrat [KantonaleExekutive 4], id:35582, 170>
   <KantonGewaehlte Judikative [Staatsanwaltschaft 1], id:35583, 170>
    <KantonGewaehlte Kantonsgericht [MitgliedKantonalesGerichtErsteInstanz 2, tbd:Mitglied 4, tbd:Vizepräsident 1], id:35584, 35583>
    <KantonGewaehlte Strafgericht [tbd:Mitglied 1], id:35586, 35583>

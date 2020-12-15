@@ -142,9 +142,10 @@
   <KantonGewaehlte id=37886, label=Ersatzrichter der Anklagekammer (720), parent_id=167>
   <KantonGewaehlte id=37884, label=Ersatzrichter des Kantonsgerichts (720), parent_id=167>
   <KantonGewaehlte id=37897, label=Ersatzrichter des Verwaltungsgerichts (360), parent_id=167>
-  <KantonGewaehlte id=35013, label=Exekutive, parent_id=167>
+  <KantonGewaehlte id=35013, label=Regierungsrat, parent_id=167>
   <KantonGewaehlte id=37894, label=Fachrichter Versicherungsgericht (360), parent_id=167>
   <KantonGewaehlte id=37890, label=Fachrichter der Verwaltungsrekurskommission (360), parent_id=167>
+  <KantonGewaehlte id=35012, label=Fraktion, parent_id=167>
   <KantonGewaehlte id=37887, label=Handelsrichter (360), parent_id=167>
   <KantonGewaehlte id=37883, label=Hauptamtlicher Kantonsrichter (7200), parent_id=167>
   <KantonGewaehlte id=533, label=Judikative, parent_id=167>
@@ -164,7 +165,6 @@
   <KantonGewaehlte id=40385, label=Vizepräsident Verwaltungsgericht (7200), parent_id=167>
   <KantonMitglieder id=535, label=Mitgliedschaften, parent_id=167>
   <KantonParteigremium id=35038, label=Kontrollkommission, parent_id=167>
-  <KantonPraesidium id=35012, label=Fraktion, parent_id=167>
   <KantonPraesidium id=1557, label=Parteileitung, parent_id=167>
   <KantonPraesidium id=35016, label=Parteivorstand, parent_id=167>
   <KantonSpender id=35036, label=Sponsoren, parent_id=167>

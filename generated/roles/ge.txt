@@ -53,7 +53,7 @@
    <KantonDelegierte Veyrier [Delegierte 8, tbd:Ersatzdelegierter 7], id:35906, 35880>
    <KantonDelegierte Ville de Genève [Delegierte 48, tbd:Ersatzdelegierter 7], id:35907, 35880>
   <KantonExterneKontakte Newsletter [Kontakt 938], id:40003, 159>
-  <KantonGewaehlte Exekutive [KantonaleExekutive 1], id:34887, 159>
+  <KantonGewaehlte Regierungsrat [KantonaleExekutive 1], id:34887, 159>
   <KantonGewaehlte Legislative [KantonaleLegislative 1], id:433, 159>
   <KantonMitglieder Mitgliedschaften [Mitglied 74], id:435, 159>
   <KantonPraesidium Partei [Mitglied 19, Praesident 12, tbd:Ansprechperson Finanzen 1, tbd:Botschafter 1, tbd:Empfänger Rechnung Jahresbeitrag CVP CH 1, tbd:Membre d'une CODOF 53, tbd:OM Ansprechperson 1, tbd:Plakatierer 3], id:437, 159>

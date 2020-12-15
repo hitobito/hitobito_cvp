@@ -25,7 +25,7 @@
    <KantonDelegierte Wolfenschiessen [Delegierte 9, tbd:Ersatzdelegierter 3], id:5076, 5071>
   <KantonExterneKontakte Medienverteiler [Kontakt 5], id:39514, 165>
   <KantonExterneKontakte Newsletter [Kontakt 483], id:39513, 165>
-  <KantonGewaehlte Exekutive [KantonaleExekutive 6], id:511, 165>
+  <KantonGewaehlte Regierungsrat [KantonaleExekutive 6], id:511, 165>
   <KantonGewaehlte Judikative, id:36101, 165>
    <KantonGewaehlte Kantonsgericht [MitgliedKantonalesGerichtErsteInstanz 1, tbd:Mitglied 6], id:36102, 36101>
    <KantonGewaehlte Obergericht [tbd:Mitglied 6], id:36103, 36101>

@@ -2,9 +2,9 @@ module Structure
   class GroupRow
     include Comparable
 
-    attr_reader :id, :label
+    attr_reader :id
     attr_writer :parent_id
-    attr_accessor :type, :parent
+    attr_accessor :label, :type, :parent
     attr_accessor :roles, :children
 
     def initialize(id, label, parent_id, parent = nil)

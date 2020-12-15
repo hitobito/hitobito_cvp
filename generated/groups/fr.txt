@@ -32,7 +32,7 @@
    <KantonDelegierte id=14835, label=Vivisbach, parent_id=14793>
   <KantonExterneKontakte id=40006, label=Newsletter Forum F, parent_id=158>
   <KantonExterneKontakte id=40005, label=Newsletter f, parent_id=158>
-  <KantonGewaehlte id=36238, label=Exekutive, parent_id=158>
+  <KantonGewaehlte id=36238, label=Regierungsrat, parent_id=158>
   <KantonGewaehlte id=425, label=Legislative, parent_id=158>
   <KantonMitglieder id=426, label=Mitgliedschaften, parent_id=158>
   <KantonPraesidium id=427, label=Partei, parent_id=158>

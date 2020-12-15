@@ -32,7 +32,7 @@
    <KantonDelegierte Vivisbach [Delegierte 49, tbd:Delegierter von Amtes wegen 7], id:14835, 14793>
   <KantonExterneKontakte Newsletter Forum F [Kontakt 2], id:40006, 158>
   <KantonExterneKontakte Newsletter f [Kontakt 2], id:40005, 158>
-  <KantonGewaehlte Exekutive [KantonaleExekutive 5], id:36238, 158>
+  <KantonGewaehlte Regierungsrat [KantonaleExekutive 5], id:36238, 158>
   <KantonGewaehlte Legislative [KantonaleLegislative 82], id:425, 158>
   <KantonMitglieder Mitgliedschaften [Mitglied 185], id:426, 158>
   <KantonPraesidium Partei [Praesident 7, tbd:Ansprechperson Finanzen 3, tbd:Botschafter 3, tbd:Empfänger Rechnung Jahresbeitrag CVP CH 2, tbd:Empfänger Umzugsmeldung 1, tbd:Leserbriefschreiber/-in Verantw. 1, tbd:Plakatierer 1, tbd:Sekretär (administrativ) 2, tbd:Sekretär Kantonalpartei/Vereinigung 2], id:427, 158>

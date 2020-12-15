@@ -14,7 +14,7 @@
   <KantonArbeitsgruppe id=1003, label=Sektionskonferenz, parent_id=156>
   <KantonArbeitsgruppe id=1011, label=Wahlkampfteam, parent_id=156>
   <KantonExterneKontakte id=37659, label=Newsletter, parent_id=156>
-  <KantonGewaehlte id=402, label=Exekutive, parent_id=156>
+  <KantonGewaehlte id=402, label=Regierungsrat, parent_id=156>
   <KantonGewaehlte id=403, label=Judikative, parent_id=156>
    <KantonGewaehlte id=37666, label=Jugendgericht, parent_id=403>
    <KantonGewaehlte id=37663, label=Kantonsgericht, parent_id=403>

@@ -28,15 +28,15 @@
    <KantonDelegierte Winterthur-Land [tbd:Mitglied gewählt 3], id:33525, 5199>
   <KantonExterneKontakte Medienverteiler [Kontakt 201], id:39302, 5181>
   <KantonExterneKontakte Newsletter [Kontakt 1517], id:38569, 5181>
-  <KantonGewaehlte Exekutive [KantonaleExekutive 1], id:5185, 5181>
+  <KantonGewaehlte Regierungsrat [KantonaleExekutive 1], id:5185, 5181>
   <KantonGewaehlte Judikative, id:5186, 5181>
    <KantonGewaehlte Obergericht [tbd:Richter 1], id:5187, 5186>
   <KantonGewaehlte Legislative, id:5189, 5181>
-   <KantonGewaehlte Fraktion [tbd:Mitglied 15, tbd:Präsident 2], id:5193, 5189>
+   <KantonGewaehlte Fraktion [Fraktionschef 2, KantonaleLegislative 15], id:5193, 5189>
+  <KantonGewaehlte Newsletter Fraktion [tbd:Empfänger 409], id:39304, 5181>
   <KantonMitglieder Mitgliedschaften [Mitglied 27], id:5194, 5181>
   <KantonParteigremium Kontrollkommission [Mitglied 4], id:5200, 5181>
   <KantonParteigremium Schiedsgericht [Mitglied 5], id:5201, 5181>
-  <KantonPraesidium Newsletter Fraktion [tbd:Empfänger 409], id:39304, 5181>
   <KantonPraesidium Vorstand [Mitglied 50, tbd:Ansprechperson Finanzen 1], id:5198, 5181>
   <Region Bezirk Affoltern, id:5203, 5181>
    <RegionSympathisanten Sympathisanten [Sympathisant 8], id:18096, 5203>

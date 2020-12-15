@@ -32,7 +32,7 @@
   <KantonExterneKontakte id=1296, label=Medienverteiler, parent_id=161>
   <KantonExterneKontakte id=39263, label=Newsletter, parent_id=161>
   <KantonGewaehlte id=37180, label=Empfänger Jahresrechnung Kreis/Regionalpartei, parent_id=161>
-  <KantonGewaehlte id=454, label=Exekutive, parent_id=161>
+  <KantonGewaehlte id=454, label=Regierungsrat, parent_id=161>
   <KantonGewaehlte id=455, label=Judikative, parent_id=161>
    <KantonGewaehlte id=1240, label=Kantonsgericht, parent_id=455>
    <KantonGewaehlte id=1239, label=Regionalgericht, parent_id=455>

@@ -42,6 +42,11 @@ groups:
 
     - [150, 40284] # CSP Oberwallis
 
+  renames:
+    KantonGewaehlte:
+      from: Exekutive
+      to: Regierungsrat
+
   types:
     Bund:
       Kanton:
@@ -168,7 +173,6 @@ groups:
       - !ruby/regexp /Fraktions-AG/i
       - !ruby/regexp /Fraktionsausflug/i
       KantonPraesidium:
-      - !ruby/regexp /Fraktion/i
       - !ruby/regexp /^Partei$/i
       - !ruby/regexp /Parteivorstand|Parteileitung|Vorstand/i
       KantonParteigremium:
@@ -176,6 +180,7 @@ groups:
       - !ruby/regexp /Kontrollkommission/i
       KantonGewaehlte:
       - !ruby/regexp /Regionalpartei/i
+      - !ruby/regexp /Fraktion/i
       - !ruby/regexp /Exekutive|Legislative|Judikative/i
       - !ruby/regexp /Richter|Ersatzrichter|Gericht/i
       - !ruby/regexp /^Mandate$/i
@@ -359,6 +364,10 @@ roles_new:
       - ['Ersatzrichter', 'Mitglied']
       KantonaleLegislative:
       - ['Legislative', 'Mitglied']
+      - ['Fraktion', 'Mitglied']
+      Fraktionschef:
+      - ['Fraktion', 'Fraktionspräsident']
+      - ['Fraktion', 'Präsident']
       Staatsanwaltschaft:
       - !ruby/regexp /Staatsanwalt/i
       KantonaleExekutive:

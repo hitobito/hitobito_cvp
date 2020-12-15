@@ -56,7 +56,8 @@
     <KantonDelegierte id=39130, label=JCVP 3, parent_id=39128>
   <KantonExterneKontakte id=14845, label=Medienverteiler, parent_id=171>
   <KantonExterneKontakte id=38952, label=Newsletter, parent_id=171>
-  <KantonGewaehlte id=14849, label=Exekutive, parent_id=171>
+  <KantonGewaehlte id=14849, label=Regierungsrat, parent_id=171>
+  <KantonGewaehlte id=14844, label=Fraktion, parent_id=171>
   <KantonGewaehlte id=14702, label=Judikative, parent_id=171>
    <KantonGewaehlte id=37526, label=Obergericht, parent_id=14702>
    <KantonGewaehlte id=37527, label=Staatsanwalt Region, parent_id=14702>
@@ -64,7 +65,6 @@
    <KantonGewaehlte id=37524, label=Zwangsmassnahmengericht, parent_id=14702>
   <KantonGewaehlte id=578, label=Legislative, parent_id=171>
   <KantonMitglieder id=579, label=Mitgliedschaften, parent_id=171>
-  <KantonPraesidium id=14844, label=Fraktion, parent_id=171>
   <KantonPraesidium id=580, label=Partei, parent_id=171>
   <KantonPraesidium id=1835, label=Parteileitung, parent_id=171>
   <KantonPraesidium id=1837, label=Parteivorstand, parent_id=171>

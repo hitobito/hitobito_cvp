@@ -17,7 +17,7 @@
    <KantonDelegierte von Amtes wegen [Delegierte 71], id:33142, 33136>
   <KantonDelegierte Gäste Delegiertenversammlung [tbd:Gast 44], id:33144, 169>
   <KantonExterneKontakte Newsletter [Kontakt 1129], id:39288, 169>
-  <KantonGewaehlte Exekutive [KantonaleExekutive 4, tbd:Präsident 3], id:33129, 169>
+  <KantonGewaehlte Regierungsrat [KantonaleExekutive 4, tbd:Präsident 3], id:33129, 169>
   <KantonGewaehlte Legislative [KantonaleLegislative 74, tbd:Präsident 3], id:557, 169>
   <KantonMitglieder Mitgliedschaften [Mitglied 3941], id:558, 169>
   <KantonPraesidium Erweiterte Parteileitung [Mitglied 18], id:36574, 169>

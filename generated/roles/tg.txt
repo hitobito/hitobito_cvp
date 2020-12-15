@@ -56,7 +56,8 @@
     <KantonDelegierte JCVP 3 [Delegierte 8], id:39130, 39128>
   <KantonExterneKontakte Medienverteiler [Kontakt 29], id:14845, 171>
   <KantonExterneKontakte Newsletter [Kontakt 539], id:38952, 171>
-  <KantonGewaehlte Exekutive [KantonaleExekutive 2], id:14849, 171>
+  <KantonGewaehlte Regierungsrat [KantonaleExekutive 2], id:14849, 171>
+  <KantonGewaehlte Fraktion [Fraktionschef 2, tbd:Fraktionsausflug 154], id:14844, 171>
   <KantonGewaehlte Judikative, id:14702, 171>
    <KantonGewaehlte Obergericht [tbd:Ersatzrichter 1, tbd:Richter 2], id:37526, 14702>
    <KantonGewaehlte Staatsanwalt Region [Staatsanwaltschaft 2], id:37527, 14702>
@@ -64,7 +65,6 @@
    <KantonGewaehlte Zwangsmassnahmengericht [tbd:Richter 2], id:37524, 14702>
   <KantonGewaehlte Legislative [KantonaleLegislative 91, tbd:Präsident 2], id:578, 171>
   <KantonMitglieder Mitgliedschaften [Mitglied 2], id:579, 171>
-  <KantonPraesidium Fraktion [Praesident 2, tbd:Fraktionsausflug 154], id:14844, 171>
   <KantonPraesidium Partei [Praesident 3, tbd:Ansprechperson Finanzen 1, tbd:Plakatierer 3], id:580, 171>
   <KantonPraesidium Parteileitung [Mitglied 21, Praesident 7], id:1835, 171>
   <KantonPraesidium Parteivorstand [Mitglied 46], id:1837, 171>

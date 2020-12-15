@@ -12,6 +12,7 @@ module Structure
       Structure::Steps::Hierarchy,
       Structure::Steps::GroupCreate,
       Structure::Steps::RoleType,
+      Structure::Steps::GroupRename,
     ]
 
     MAPPINGS = {

@@ -22,7 +22,7 @@
   <KantonExterneKontakte id=39372, label=Medien, parent_id=151>
   <KantonExterneKontakte id=39275, label=Medienverteiler, parent_id=151>
   <KantonExterneKontakte id=39373, label=Newsletter, parent_id=151>
-  <KantonGewaehlte id=347, label=Exekutive, parent_id=151>
+  <KantonGewaehlte id=347, label=Regierungsrat, parent_id=151>
   <KantonGewaehlte id=348, label=Judikative, parent_id=151>
   <KantonGewaehlte id=349, label=Legislative, parent_id=151>
   <KantonGewaehlte id=898, label=Mandate, parent_id=151>

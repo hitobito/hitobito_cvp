@@ -18,7 +18,7 @@
    <KantonArbeitsgruppe id=37323, label=Verwaltungsrat BVB, parent_id=37321>
   <KantonExterneKontakte id=39525, label=Medienverteiler, parent_id=157>
   <KantonExterneKontakte id=39524, label=Newsletter, parent_id=157>
-  <KantonGewaehlte id=33169, label=Exekutive, parent_id=157>
+  <KantonGewaehlte id=33169, label=Regierungsrat, parent_id=157>
   <KantonGewaehlte id=415, label=Judikative, parent_id=157>
    <KantonGewaehlte id=1030, label=Appellationsgericht, parent_id=415>
    <KantonGewaehlte id=1031, label=Sozialversicherungsgericht, parent_id=415>

@@ -1,7 +1,7 @@
 <Bund id=1, label=CVP Schweiz, parent_id=>
  <Kanton id=166, label=CVP OW, parent_id=1>
   <KantonSympathisanten id=18095, label=Sympathisanten, parent_id=166>
-  <KantonGewaehlte id=35079, label=Exekutive, parent_id=166>
+  <KantonGewaehlte id=35079, label=Regierungsrat, parent_id=166>
   <KantonGewaehlte id=525, label=Judikative, parent_id=166>
    <KantonGewaehlte id=35080, label=Kantonsgericht, parent_id=525>
    <KantonGewaehlte id=35081, label=Obergericht, parent_id=525>
