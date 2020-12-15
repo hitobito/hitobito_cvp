@@ -6,8 +6,8 @@
   <KantonDelegierte id=2243, label=DV, parent_id=177>
   <KantonGewaehlte id=661, label=Judikative, parent_id=177>
   <KantonGewaehlte id=662, label=Legislative, parent_id=177>
-  <KantonKommission id=2245, label=Kontrollkommission, parent_id=177>
   <KantonMitglieder id=664, label=Mitgliedschaften, parent_id=177>
+  <KantonParteigremium id=2245, label=Kontrollkommission, parent_id=177>
   <KantonParteigremium id=2247, label=Schiedsgericht, parent_id=177>
   <KantonPraesidium id=2244, label=Fraktion, parent_id=177>
   <KantonPraesidium id=667, label=Partei, parent_id=177>

@@ -31,7 +31,7 @@
    <KantonGewaehlte id=36103, label=Obergericht, parent_id=36101>
    <KantonGewaehlte id=36104, label=Verwaltungsgericht, parent_id=36101>
   <KantonGewaehlte id=514, label=Legislative, parent_id=165>
-  <KantonKommission id=5069, label=Kontrollkommission, parent_id=165>
+  <KantonParteigremium id=5069, label=Kontrollkommission, parent_id=165>
   <KantonPraesidium id=517, label=Partei, parent_id=165>
   <KantonPraesidium id=1526, label=Vorstand, parent_id=165>
   <Ort id=505, label=Beckenried, parent_id=165>

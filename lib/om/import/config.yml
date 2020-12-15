@@ -173,6 +173,7 @@ groups:
       - !ruby/regexp /Parteivorstand|Parteileitung|Vorstand/i
       KantonParteigremium:
       - !ruby/regexp /Schiedsgericht/
+      - !ruby/regexp /Kontrollkommission/i
       KantonGewaehlte:
       - !ruby/regexp /Regionalpartei/i
       - !ruby/regexp /Exekutive|Legislative|Judikative/i
@@ -180,7 +181,6 @@ groups:
       - !ruby/regexp /^Mandate$/i
       - !ruby/regexp /^Législatif$/i
       KantonKommission:
-      - !ruby/regexp /Kontrollkommission/i
       - !ruby/regexp /^Kommissionen$/i
       KantonDelegierte:
       - !ruby/regexp /Delegiertenversammlung/i
@@ -323,6 +323,8 @@ roles_new:
       Mitglied:
       - !ruby/regexp /Mitglied/i
     KantonParteigremium:
+      Praesident:
+      - !ruby/regexp /Präsident/i
       Mitglied:
       - !ruby/regexp /Mitglied/i
     KantonGewaehlte:

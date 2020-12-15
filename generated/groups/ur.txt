@@ -11,8 +11,8 @@
    <KantonGewaehlte id=34906, label=Landgericht Ursern, parent_id=612>
    <KantonGewaehlte id=34904, label=Obergericht, parent_id=612>
   <KantonGewaehlte id=613, label=Legislative, parent_id=173>
-  <KantonKommission id=38863, label=Kontrollkommission, parent_id=173>
   <KantonMitglieder id=614, label=Mitgliedschaften, parent_id=173>
+  <KantonParteigremium id=38863, label=Kontrollkommission, parent_id=173>
   <KantonPraesidium id=2073, label=Parteivorstand, parent_id=173>
   <Ort id=600, label=Altdorf, parent_id=173>
    <OrtSympathisanten id=18096, label=Sympathisanten, parent_id=600>

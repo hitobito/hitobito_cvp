@@ -31,7 +31,7 @@
    <KantonGewaehlte Obergericht [tbd:Mitglied 6], id:36103, 36101>
    <KantonGewaehlte Verwaltungsgericht [tbd:Mitglied 5], id:36104, 36101>
   <KantonGewaehlte Legislative [KantonaleLegislative 101], id:514, 165>
-  <KantonKommission Kontrollkommission [Mitglied 8, Praesident 2, tbd:Delegierter von Amtes wegen 1, tbd:Revisor 3], id:5069, 165>
+  <KantonParteigremium Kontrollkommission [Mitglied 8, Praesident 2, tbd:Delegierter von Amtes wegen 1, tbd:Revisor 3], id:5069, 165>
   <KantonPraesidium Partei [Praesident 6, tbd:Ansprechperson Finanzen 1, tbd:Delegierter 22, tbd:Empfänger Rechnung Jahresbeitrag CVP CH 1, tbd:Ersatzdelegierter 2, tbd:OM Ansprechperson 1, tbd:Plakatierer 2, tbd:Revisor 1, tbd:Vorstand 1, tbd:Zuzüger 1], id:517, 165>
   <KantonPraesidium Vorstand [Mitglied 17, Praesident 3, tbd:Kassier 3, tbd:Sekretär 2, tbd:Wahlkampfleiter 2], id:1526, 165>
   <Ort Beckenried, id:505, 165>

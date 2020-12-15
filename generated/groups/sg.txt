@@ -162,8 +162,8 @@
   <KantonGewaehlte id=37888, label=Richter Verwaltungsrekurskommission (6480), parent_id=167>
   <KantonGewaehlte id=37895, label=Verwaltungsgerichtspräsident (7560), parent_id=167>
   <KantonGewaehlte id=40385, label=Vizepräsident Verwaltungsgericht (7200), parent_id=167>
-  <KantonKommission id=35038, label=Kontrollkommission, parent_id=167>
   <KantonMitglieder id=535, label=Mitgliedschaften, parent_id=167>
+  <KantonParteigremium id=35038, label=Kontrollkommission, parent_id=167>
   <KantonPraesidium id=35012, label=Fraktion, parent_id=167>
   <KantonPraesidium id=1557, label=Parteileitung, parent_id=167>
   <KantonPraesidium id=35016, label=Parteivorstand, parent_id=167>

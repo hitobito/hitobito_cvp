@@ -162,8 +162,8 @@
   <KantonGewaehlte Richter Verwaltungsrekurskommission (6480) [MitgliedKantonalesGerichtErsteInstanz 1], id:37888, 167>
   <KantonGewaehlte Verwaltungsgerichtspräsident (7560) [MitgliedKantonalesGerichtErsteInstanz 1], id:37895, 167>
   <KantonGewaehlte Vizepräsident Verwaltungsgericht (7200) [MitgliedKantonalesGerichtErsteInstanz 1], id:40385, 167>
-  <KantonKommission Kontrollkommission [Mitglied 8, Praesident 1], id:35038, 167>
   <KantonMitglieder Mitgliedschaften [Mitglied 52], id:535, 167>
+  <KantonParteigremium Kontrollkommission [Mitglied 8, Praesident 1], id:35038, 167>
   <KantonPraesidium Fraktion [Mitglied 90, Praesident 3, tbd:Gast 2], id:35012, 167>
   <KantonPraesidium Parteileitung [Mitglied 27], id:1557, 167>
   <KantonPraesidium Parteivorstand [Mitglied 56], id:35016, 167>

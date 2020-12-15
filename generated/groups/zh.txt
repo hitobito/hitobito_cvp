@@ -33,8 +33,8 @@
    <KantonGewaehlte id=5187, label=Obergericht, parent_id=5186>
   <KantonGewaehlte id=5189, label=Legislative, parent_id=5181>
    <KantonGewaehlte id=5193, label=Fraktion, parent_id=5189>
-  <KantonKommission id=5200, label=Kontrollkommission, parent_id=5181>
   <KantonMitglieder id=5194, label=Mitgliedschaften, parent_id=5181>
+  <KantonParteigremium id=5200, label=Kontrollkommission, parent_id=5181>
   <KantonParteigremium id=5201, label=Schiedsgericht, parent_id=5181>
   <KantonPraesidium id=39304, label=Newsletter Fraktion, parent_id=5181>
   <KantonPraesidium id=5198, label=Vorstand, parent_id=5181>

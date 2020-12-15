@@ -11,8 +11,8 @@
    <KantonGewaehlte Landgericht Ursern [tbd:Richter 1], id:34906, 612>
    <KantonGewaehlte Obergericht [tbd:Präsident 1, tbd:Richter 4, tbd:Vizepräsident 1], id:34904, 612>
   <KantonGewaehlte Legislative [KantonaleLegislative 33], id:613, 173>
-  <KantonKommission Kontrollkommission [Mitglied 3], id:38863, 173>
   <KantonMitglieder Mitgliedschaften [Mitglied 167], id:614, 173>
+  <KantonParteigremium Kontrollkommission [Mitglied 3], id:38863, 173>
   <KantonPraesidium Parteivorstand [Mitglied 4, Praesident 1, tbd:Kassier 1], id:2073, 173>
   <Ort Altdorf, id:600, 173>
    <OrtSympathisanten Sympathisanten [Sympathisant 1], id:18096, 600>
