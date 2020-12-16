@@ -16,4 +16,6 @@ class Group::KantonDelegierte < Group
   end
 
   roles Delegierte, Ersatzdelegierte
+
+  children Group::KantonDelegierte
 end

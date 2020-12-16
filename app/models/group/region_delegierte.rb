@@ -16,4 +16,6 @@ class Group::RegionDelegierte < Group
   end
 
   roles Delegierte, Ersatzdelegierte
+
+  children Group::RegionDelegierte
 end

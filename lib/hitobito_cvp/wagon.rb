@@ -32,32 +32,9 @@ module HitobitoCvp
       PeopleController.prepend Cvp::PeopleController
       FilterNavigation::People.prepend Cvp::FilterNavigation::People
 
-      ::Group::BundPraesidium.possible_children += [::Group::BundPraesidium]
-      ::Group::BundDelegierte.possible_children += [::Group::BundDelegierte]
-
-      ::Group::KantonPraesidium.possible_children += [::Group::KantonPraesidium]
-      ::Group::RegionPraesidium.possible_children += [::Group::RegionPraesidium]
-      ::Group::OrtPraesidium.possible_children += [::Group::OrtPraesidium]
-
-      # CVP SG > Partei (536) > Delegiertenversammlung (35775) (ordner)
-      ::Group::KantonDelegierte.possible_children += [::Group::KantonDelegierte]
-
-      # CVP SG > Gossau > Partei (1617) > Delegiertenversammlung (1617) (ordner)
-      ::Group::RegionDelegierte.possible_children += [::Group::RegionDelegierte]
-
-      # CVP SG > Regionalpartei Werdenberg 543 > Gams 1639 > Mitgliedschaften 3486 > Mitgliedschaften 40384,
-      ::Group::OrtMitglieder.possible_children += [::Group::OrtMitglieder]
-
-      # CVP BL 156 > Group::Region(5) Wahlkreis Allschwil/Schönenbuch 386 > TBD(2) Exekutive 950
-      class ::Group::RegionGewaehlte < Group; end
-      ::Group::Region.possible_children += [::Group::RegionGewaehlte]
-
       # CVP LU 163 > Group::Region(5) Wahlkreis Willisau 34710 > TBD(2) Newsletter 38774",
       class ::Group::RegionExterneKontakte < Group; end
       ::Group::Region.possible_children += [::Group::RegionExterneKontakte]
-
-      # CVP ZH 5181 > Group::Region(5) Bezirk Affoltern 5203 > Group::RegionGewaehlte(2) Exekutive 5214 > TBD(2) Bezirksrat 5215",
-      ::Group::RegionGewaehlte.possible_children += [::Group::RegionGewaehlte]
 
       #  CVP AG 151 > Group::Region(5) Bezirk Bremgarten 338 > Group::Ort(5) Villmergen 800 > Group::OrtArbeitsgruppe(2) Partei 2487 > TBD(2) Vorstand 4508",
       class Group::OrtDelegierte < Group; end
@@ -67,6 +44,7 @@ module HitobitoCvp
       class ::Group::VereinigungDelegierte < Group; end
       ::Group::Vereinigung.possible_children += [::Group::VereinigungDelegierte]
 
+      # hat keine Mitglieder aber verbindungen
       # CVP Schweiz 1 > Group::Vereinigung(5) AWG 5 > TBD(1) Mitgliedschaften 36294
       class ::Group::VereinigungMitglieder < Group; end
       ::Group::Vereinigung.possible_children += [::Group::VereinigungMitglieder]

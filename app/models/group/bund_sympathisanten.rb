@@ -5,8 +5,9 @@
 #  or later. See the COPYING file at the top-level directory or at
 #  https://github.com/hitobito/hitobito_cvp.
 
-class Group::VereinigungMitglieder < Group
+class Group::BundSympathisanten < Group
 
-  class Mitglied < Role::Mitglied; end
-  roles Mitglied
+  class Sympathisant < Role::Mitglied; end
+
+  roles Sympathisant
 end

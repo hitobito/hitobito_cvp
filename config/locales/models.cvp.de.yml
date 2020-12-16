@@ -39,6 +39,9 @@ de:
       group/bund_mitglieder:
         one: Mitglieder
         other: Mitglieder
+      group/bund_sympathisanten:
+        one: Sympathisanten
+        other: Sympathisanten
 
       group/kanton:
         one: Kanton
@@ -101,11 +104,16 @@ de:
       group/vereinigung_mitglieder:
         one: Mitglieder
         other: Mitglieder
-
+      group/vereinigung_sympathisanten:
+        one: Sympathisanten
+        other: Sympathisanten
 
       group/region:
         one: Region
         other: Regionen
+      group/region_gewaehlte:
+        one: Gewählte
+        other: Gewählte
       group/region_parteigremium:
         one: Parteigremium
         other: Parteigremium
@@ -124,6 +132,9 @@ de:
       group/region_mitglieder:
         one: Mitglieder
         other: Mitglieder
+      group/region_sympathisanten:
+        one: Sympathisanten
+        other: Sympathisanten
 
       group/ort:
         one: Ortspartei
@@ -232,7 +243,7 @@ de:
         one: Kontakt
       group/bund_mitglieder/mitglied:
         one: Mitglied
-      group/bund_mitglieder/sympathisant:
+      group/bund_sympathisanten/sympathisant:
         one: Sympathisant
 
       group/kanton_gewaehlte/fraktionschef:
@@ -307,7 +318,6 @@ de:
         one: Sympathisant nach kant. Statut
       group/kanton_sympathisanten/sympathisant:
         one: Sympathisant
-        other: Sympathisanten
 
       group/vereinigung_gewaehlte/fraktionschef:
         one: Fraktionschef
@@ -357,9 +367,17 @@ de:
         one: Kontakt
       group/vereinigung_mitglieder/mitglied:
         one: Mitglieder
-      group/vereinigung_mitglieder/sympathisant:
+      group/vereinigung_sympathisanten/sympathisant:
         one: Sympathisant
 
+      group/region_gewaehlte/fraktionschef:
+        one: Fraktionschef
+      group/region_gewaehlte/region_exekutive:
+        one: Region Exekutive
+        other: Region Exekutiven
+      group/region_gewaehlte/region_legislative:
+        one: Region Legislative
+        other: Region Legislativen
       group/region_parteigremium/praesident:
         one: Präsident
       group/region_parteigremium/leitung:
@@ -398,7 +416,7 @@ de:
         one: Ersatzdelegierte
       group/region_mitglieder/mitglied:
         one: Mitglieder
-      group/region_mitglieder/sympathisant:
+      group/region_sympathisanten/sympathisant:
         one: Sympathisant
 
       group/ort_gewaehlte/fraktionschef:
@@ -464,7 +482,6 @@ de:
         one: Sympathisant nach kant. Statut
       group/ort_sympathisanten/sympathisant:
         one: Sympathisant
-        other: Sympathisanten
 
       salutation:
         one: Anrede

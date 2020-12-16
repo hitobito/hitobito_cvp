@@ -16,4 +16,6 @@ class Group::BundDelegierte < Group
   end
 
   roles Delegierte, Ersatzdelegierte
+
+  children Group::BundDelegierte
 end

@@ -8,7 +8,6 @@
 class Group::KantonMitglieder < Group
 
   class Mitglied < Role::Mitglied; end
-  class SympathisantNachKantonalemStatut < Role::Mitglied; end
 
-  roles Mitglied, SympathisantNachKantonalemStatut
+  roles Mitglied
 end
