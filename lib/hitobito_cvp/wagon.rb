@@ -32,23 +32,6 @@ module HitobitoCvp
       PeopleController.prepend Cvp::PeopleController
       FilterNavigation::People.prepend Cvp::FilterNavigation::People
 
-      # CVP LU 163 > Group::Region(5) Wahlkreis Willisau 34710 > TBD(2) Newsletter 38774",
-      class ::Group::RegionExterneKontakte < Group; end
-      ::Group::Region.possible_children += [::Group::RegionExterneKontakte]
-
-      #  CVP AG 151 > Group::Region(5) Bezirk Bremgarten 338 > Group::Ort(5) Villmergen 800 > Group::OrtArbeitsgruppe(2) Partei 2487 > TBD(2) Vorstand 4508",
-      class Group::OrtDelegierte < Group; end
-      ::Group::Ort.possible_children += [::Group::OrtDelegierte]
-
-      # CVP Schweiz 1 > Group::Vereinigung(5) 60+ 4 > TBD(2) Vorstand 36625
-      class ::Group::VereinigungDelegierte < Group; end
-      ::Group::Vereinigung.possible_children += [::Group::VereinigungDelegierte]
-
-      # hat keine Mitglieder aber verbindungen
-      # CVP Schweiz 1 > Group::Vereinigung(5) AWG 5 > TBD(1) Mitgliedschaften 36294
-      class ::Group::VereinigungMitglieder < Group; end
-      ::Group::Vereinigung.possible_children += [::Group::VereinigungMitglieder]
-
       ## Customizations for migration
       Group.all_types.each do |type|
         merkmal = Class.new(Role)

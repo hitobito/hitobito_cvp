@@ -166,6 +166,9 @@ de:
       group/ort_sympathisanten:
         one: Sympathisanten
         other: Sympathisanten
+      group/ort_spender:
+        one: Spender
+        other: Spender
 
 
       ### ROLES
@@ -487,6 +490,8 @@ de:
         one: Sympathisant nach kant. Statut
       group/ort_sympathisanten/sympathisant:
         one: Sympathisant
+      group/ort_spender/mitglied:
+        one: Mitglied
 
       salutation:
         one: Anrede
