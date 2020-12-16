@@ -49,6 +49,10 @@ module Import
       def stale_id
         members.find(&:stale?)&.id
       end
+
+      def size
+        members.size
+      end
     end
 
     def run
