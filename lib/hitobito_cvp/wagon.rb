@@ -34,9 +34,11 @@ module HitobitoCvp
 
       ## Customizations for migration
       Group.all_types.each do |type|
-        merkmal = Class.new(Role)
-        type.const_set('Merkmal', merkmal)
-        type.role_types += [merkmal]
+        unless type.const_defined?("#{type}::Merkmal")
+          merkmal = Class.new(Role)
+          type.const_set('Merkmal', merkmal)
+          type.role_types += [merkmal]
+        end
       end
     end
 
