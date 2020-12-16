@@ -76,6 +76,9 @@ de:
       group/kanton_mitglieder:
         one: Mitglieder
         other: Mitglieder
+      group/kanton_spender:
+        one: Spender
+        other: Spender
 
       group/vereinigung:
         one: Vereinigung
@@ -318,6 +321,8 @@ de:
         one: Sympathisant nach kant. Statut
       group/kanton_sympathisanten/sympathisant:
         one: Sympathisant
+      group/kanton_spender/mitglied:
+        one: Mitglied
 
       group/vereinigung_gewaehlte/fraktionschef:
         one: Fraktionschef
