@@ -14,6 +14,7 @@ module Import
             group_id: group_id,
             sequence_number: next_number(group_id),
             esr_number: '',
+            reference: '',
             title: list&.title || 'Unbekannt',
             recipient_id: fetch_person_id(row['kunden_id']),
             invoice_list_id: list&.id,
