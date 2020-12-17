@@ -71,8 +71,9 @@ module Import
         end
         consolidate_families
         rebuild_groups
+        update_primary_groups
       end
-      # set_primary_group_id_on_person
+      set_primary_group_id_on_person
     end
 
     # saves about 10%
@@ -117,6 +118,10 @@ module Import
 
     def import_roles
       Import::Roles.run(groups)
+    end
+
+    def update_primary_groups
+      Import::PrimaryGroups.run
     end
 
     def kunden_ids
