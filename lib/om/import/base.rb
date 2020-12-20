@@ -61,8 +61,8 @@ module Import
     end
 
     def fetch_person_id(uuid)
-      @people ||= ::Person.pluck(:kunden_id, :id).to_h
-      @people.fetch(uuid)
+      @@people ||= ::Person.pluck(:kunden_id, :id).to_h
+      @@people.fetch(uuid)
     end
   end
 end

@@ -13,7 +13,7 @@ module Import
 
       # scheint zuverlässiger als kontaktnummer == 0
       def stale?
-        gender.nil?
+        gender.nil? || first_name =~ /\set|und\s/
       end
     end
 
@@ -33,7 +33,7 @@ module Import
       end
 
       def valid?
-        same_addresses? && same_name?
+        same_addresses? && (same_name? || similar_name?)
       end
 
       def same_addresses?
@@ -46,8 +46,19 @@ module Import
         members.all? { |member| member.last_name == first_last_name }
       end
 
+      # für Doppelnamen, zb. 'Maier' && 'Müller-Maier'
+      def similar_name?
+        last_names = members.collect(&:last_name)
+        shortest_last_name = last_names.min_by(&:length)
+        last_names.all? { |name| name.include?(shortest_last_name) }
+      end
+
       def stale_id
         members.find(&:stale?)&.id
+      end
+
+      def stale?
+        members.select(&:stale?).one?
       end
 
       def size
@@ -57,6 +68,7 @@ module Import
 
     def run
       update_households
+      update_people_memo
       delete_stale
     end
 
@@ -66,6 +78,15 @@ module Import
         puts " Updating #{count} households of size #{size}"
       end
       ::Person.upsert_all(households.collect(&:attrs).compact.flatten)
+    end
+
+    def update_people_memo
+      fetch_person_id  '1cf7f88d-b3d9-4215-95a3-1a4073b8e970' # initialze memo
+      families.select(&:valid?).select(&:stale?).each do |family|
+        stale_person = family.members.find(&:stale?)
+        substitute_id = family.members.reject(&:stale?).first&.id
+        @@people[stale_person.kunden_id] = substitute_id
+      end
     end
 
     def delete_stale
