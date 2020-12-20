@@ -4,6 +4,11 @@ module Import
 
     def run
       upsert(::Person, rows)
+      without_roles = ::Person.where(primary_group_id: nil)
+      if without_roles.present?
+        puts " WARN #{without_roles.count} people without roles"
+        without_roles.update_all(primary_group_id: 1)
+      end
     end
 
     def rows
