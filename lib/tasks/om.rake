@@ -26,7 +26,7 @@ namespace :om do
     desc "Import into local database"
     task :import, [:tree] do |_t, args|
       tree = args[:tree]&.to_sym
-      Import::Runner.run(tree)
+      Import::Runner.run(tree: tree, validate: true)
     end
 
     desc "Publish import to production"

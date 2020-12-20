@@ -16,20 +16,20 @@ module Import
       cvp_sg_gossau: [1, 29, 167, [541]],
     }
 
-    def self.run(tree = nil, depth = nil)
-      new(tree, depth).run
+    def self.run(tree: nil, depth: nil, validate: nil)
+      new(tree, depth, validate: validate).run
     end
 
-    def initialize(tree, depth)
+    def initialize(tree, depth, validate: true)
       @tree = tree
       @depth = depth
+      @validate = validate
     end
 
     def prepare
       ActiveSupport::Deprecation.debug = true
       ActiveSupport::Deprecation.silenced = true
       ActiveRecord::Base.logger.level = 1
-      ActiveRecord::Base.logger = nil
       Group.all_types.each { |type| type.default_children = [] }
 
       models.each do |model|
@@ -52,9 +52,14 @@ module Import
         Group,
         PhoneNumber,
         InvoiceConfig,
-        Invoice
+        Invoice,
+        PersonDuplicate,
+        ActsAsTaggableOn::Tag,
+        ActsAsTaggableOn::Tagging
       ].tap do |list|
-        list << InvoiceList if defined?(InvoiceList)
+        next unless defined?(InvoiceList)
+        list << InvoiceList
+        list << Invoice
       end
 
     end
@@ -62,19 +67,32 @@ module Import
     def run
       prepare
       with_disabled_indices do
-        import_groups
-        import_people
-        import_roles
-
-        if defined?(InvoiceList)
-          import_kampagnen
-          import_spenden
-        end
-        consolidate_families
-        rebuild_groups
-        update_primary_groups
+        core_data_import
+        invoice_data_import
+        run_validations if @validate
       end
-      set_primary_group_id_on_person
+    end
+
+    def core_data_import
+      import_groups
+      import_people
+      import_roles
+      consolidate_families
+      rebuild_groups
+      update_primary_groups
+    end
+
+    def invoice_data_import
+      if defined?(InvoiceList)
+        import_kampagnen
+        import_spenden
+      end
+    end
+
+    def run_validations
+      mark_invalid_addresses
+      mark_invalid_emails
+      mark_duplicates
     end
 
     # saves about 10%
@@ -95,6 +113,22 @@ module Import
         Group.rebuild!
         Target::Seeder.run
       end
+    end
+
+    def mark_invalid_addresses
+      measured "Mark invalid addresses" do
+        Contactable::AddressValidator.new.validate_people
+      end
+    end
+
+    def mark_invalid_emails
+      measured "Mark invalid emails" do
+        Contactable::EmailValidator.new.validate_people
+      end
+    end
+
+    def mark_duplicates
+      Import::Duplicates.run
     end
 
     def import_kampagnen
