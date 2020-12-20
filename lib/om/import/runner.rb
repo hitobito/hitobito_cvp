@@ -35,6 +35,7 @@ module Import
       models.each do |model|
         ActiveRecord::Base.connection.truncate(model.table_name)
       end
+      load 'db/seeds/root.rb'
     end
 
     def groups

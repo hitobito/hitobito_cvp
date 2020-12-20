@@ -47,7 +47,7 @@ module Import
     end
 
     def ensure_all_imported
-      fail " expected #{@total} Person, got #{::Person.count}" unless @total == ::Person.count
+      fail " expected #{@total} Person, got #{::Person.count}" unless @total == (::Person.count - 1)
     end
 
     def uniq?(email)
