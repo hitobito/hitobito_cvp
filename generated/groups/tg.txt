@@ -5,7 +5,6 @@
   <KantonArbeitsgruppe id=40184, label=Eidgenössische Parlamentarier, parent_id=171>
   <KantonArbeitsgruppe id=1833, label=Freundeskreis, parent_id=171>
   <KantonArbeitsgruppe id=1834, label=Mandatsträger übrige, parent_id=171>
-  <KantonArbeitsgruppe id=39802, label=Rechnungsprüfungskommission, parent_id=171>
   <KantonDelegierte id=36523, label=DV Schweiz, parent_id=171>
   <KantonDelegierte id=39827, label=Delegierte Weinfelden DV TG, parent_id=171>
    <KantonDelegierte id=39828, label=Gruppe 1, parent_id=39827>
@@ -65,9 +64,10 @@
    <KantonGewaehlte id=37524, label=Zwangsmassnahmengericht, parent_id=14702>
   <KantonGewaehlte id=578, label=Legislative, parent_id=171>
   <KantonMitglieder id=579, label=Mitgliedschaften, parent_id=171>
+  <KantonParteigremium id=1837, label=Parteivorstand, parent_id=171>
+  <KantonParteigremium id=39802, label=Rechnungsprüfungskommission, parent_id=171>
   <KantonPraesidium id=580, label=Partei, parent_id=171>
   <KantonPraesidium id=1835, label=Parteileitung, parent_id=171>
-  <KantonPraesidium id=1837, label=Parteivorstand, parent_id=171>
   <Region id=569, label=Bezirk Arbon, parent_id=171>
    <RegionPraesidium id=1782, label=Partei, parent_id=569>
    <Ort id=1785, label=Amriswil, parent_id=569>

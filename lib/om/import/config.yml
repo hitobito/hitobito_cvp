@@ -186,6 +186,8 @@ groups:
         - 35665 # SZ Vorstandsausschuss
         - 35666 # SZ Präsidenten der Vereinigung
         - 36180 # SZ Fraktionsvorstand
+        - 1837  # TG Parteivorstand
+        - 39802 # TG Rechnungsprüfungskommission
       - !ruby/regexp /Schiedsgericht/
       - !ruby/regexp /Kontrollkommission/i
       - !ruby/regexp /^Sektionskonferenz|Parteirat|Personalkommission$/i # BL

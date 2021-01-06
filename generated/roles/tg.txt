@@ -5,7 +5,6 @@
   <KantonArbeitsgruppe Eidgenössische Parlamentarier [tbd:Nationalrat 1, tbd:Ständerat 1], id:40184, 171>
   <KantonArbeitsgruppe Freundeskreis [tbd:Einladung 412], id:1833, 171>
   <KantonArbeitsgruppe Mandatsträger übrige [tbd:Nationalrat 1, tbd:Sympathisant 18, tbd:Zahlender 37], id:1834, 171>
-  <KantonArbeitsgruppe Rechnungsprüfungskommission [Mitglied 2], id:39802, 171>
   <KantonDelegierte DV Schweiz [Delegierte 15, tbd:Ersatzdelegierter 11], id:36523, 171>
   <KantonDelegierte Delegierte Weinfelden DV TG, id:39827, 171>
    <KantonDelegierte Gruppe 1 [Delegierte 8], id:39828, 39827>
@@ -65,9 +64,10 @@
    <KantonGewaehlte Zwangsmassnahmengericht [tbd:Richter 2], id:37524, 14702>
   <KantonGewaehlte Legislative [KantonaleLegislative 91, tbd:Präsident 2], id:578, 171>
   <KantonMitglieder Mitgliedschaften [Mitglied 2], id:579, 171>
+  <KantonParteigremium Parteivorstand [Mitglied 46], id:1837, 171>
+  <KantonParteigremium Rechnungsprüfungskommission [Mitglied 2], id:39802, 171>
   <KantonPraesidium Partei [Praesident 3, tbd:Ansprechperson Finanzen 1, tbd:Plakatierer 3], id:580, 171>
   <KantonPraesidium Parteileitung [Mitglied 21, Praesident 7], id:1835, 171>
-  <KantonPraesidium Parteivorstand [Mitglied 46], id:1837, 171>
   <Region Bezirk Arbon, id:569, 171>
    <RegionPraesidium Partei [Praesident 4, tbd:Kantonsrat Kandidat 08 39, tbd:Kassier 2, tbd:Vorstandsmitglied 4], id:1782, 569>
    <Ort Amriswil, id:1785, 569>
