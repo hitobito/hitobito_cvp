@@ -182,6 +182,10 @@ groups:
         - 35083 # OW Vorstand
         - 35016 # SG Parteivorstand
         - 33657 # SO Erweiterte Parteileitung
+        - 35579 # SZ Revisionsstelle
+        - 35665 # SZ Vorstandsausschuss
+        - 35666 # SZ Präsidenten der Vereinigung
+        - 36180 # SZ Fraktionsvorstand
       - !ruby/regexp /Schiedsgericht/
       - !ruby/regexp /Kontrollkommission/i
       - !ruby/regexp /^Sektionskonferenz|Parteirat|Personalkommission$/i # BL

@@ -44,20 +44,20 @@
    <KantonArbeitsgruppe id=35575, label=JCVP, parent_id=35546>
    <KantonArbeitsgruppe id=35565, label=KVP Altendorf, parent_id=35546>
   <KantonArbeitsgruppe id=36521, label=Mail Ortsparteien, parent_id=170>
-  <KantonArbeitsgruppe id=35666, label=Präsidenten der Vereinigungen, parent_id=170>
-  <KantonArbeitsgruppe id=35579, label=Revisionsstelle, parent_id=170>
   <KantonGewaehlte id=35582, label=Regierungsrat, parent_id=170>
   <KantonGewaehlte id=35583, label=Judikative, parent_id=170>
    <KantonGewaehlte id=35584, label=Kantonsgericht, parent_id=35583>
    <KantonGewaehlte id=35586, label=Strafgericht, parent_id=35583>
    <KantonGewaehlte id=35585, label=Verwaltungsgericht, parent_id=35583>
   <KantonGewaehlte id=566, label=Legislative, parent_id=170>
+  <KantonParteigremium id=36180, label=Fraktionsvorstand, parent_id=170>
+  <KantonParteigremium id=35666, label=Präsidenten der Vereinigungen, parent_id=170>
+  <KantonParteigremium id=35579, label=Revisionsstelle, parent_id=170>
   <KantonParteigremium id=35578, label=Schiedsgericht, parent_id=170>
-  <KantonPraesidium id=36180, label=Fraktionsvorstand, parent_id=170>
+  <KantonParteigremium id=35665, label=Vorstandsausschuss, parent_id=170>
   <KantonPraesidium id=568, label=Partei, parent_id=170>
   <KantonPraesidium id=1778, label=Vorstand, parent_id=170>
   <KantonPraesidium id=35668, label=Vorstand CVP Schweiz, parent_id=170>
-  <KantonPraesidium id=35665, label=Vorstandsausschuss, parent_id=170>
   <Region id=560, label=Bezirk Einsiedeln, parent_id=170>
    <RegionSympathisanten id=18096, label=Sympathisanten, parent_id=560>
    <RegionGewaehlte id=35603, label=Exekutive, parent_id=560>
