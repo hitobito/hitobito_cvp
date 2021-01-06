@@ -23,42 +23,44 @@ namespace :om do
   end
 
   namespace :target do
-    desc "Import into local database"
+    desc 'Import into local database'
     task :import, [:tree] do |_t, args|
       tree = args[:tree]&.to_sym
       Import::Runner.run(tree: tree, validate: true)
     end
 
-    desc "Publish import to production"
+    desc 'Publish import to production'
     task :publish do
       Target::Publisher.new.run
     end
-
-    desc "Merkmale"
-    task :merkmale do
-      counts = Role.where('type LIKE "%Merkmal"').group(:type, :label).count
-      rows = counts.sort_by(&:second).reverse.collect do |list, count|
-        [*list, count]
-      end
-      CSV.open("merkmale.csv", "wb") do |csv|
-        csv << %W(Gruppe Merkmal Anzahl)
-        rows.each { |row| csv << row }
-      end
-    end
   end
 
-  desc "Render Groups (tree_ids)"
-  task :structure, [:key] do |_t, args|
-    selected = { all: [1] }.to_h if args[:key] == 'all'
-    selected ||= Structure::Groups::MAPPINGS.stringify_keys.slice(args[:key]).presence ||
-      Structure::Groups::MAPPINGS
+  namespace :structure do
+    desc 'Render Groups and Roles for (tree_ids)'
+    task :render, [:key] do |_t, args|
+      selected = { all: [1] }.to_h if args[:key] == 'all'
+      selected ||= Structure::Groups::MAPPINGS.stringify_keys.slice(args[:key]).presence ||
+        Structure::Groups::MAPPINGS
 
-    selected.each do |key, group_ids|
-      dir = File.join(File.dirname(__FILE__), '../../generated')
-      renderer = Structure::Groups::Hierarchy.new(group_ids: group_ids)
-      puts "Rendering #{key} - #{renderer.rows.size}"
-      File.write("#{dir}/groups/#{key}.txt", renderer.formatted.join("\n"))
-      File.write("#{dir}/roles/#{key}.txt", renderer.formatted(:detail).join("\n"))
+      selected.each do |key, group_ids|
+        dir = File.join(File.dirname(__FILE__), '../../generated')
+        renderer = Structure::Groups::Hierarchy.new(group_ids: group_ids)
+        puts "Rendering #{key} - #{renderer.rows.size}"
+        File.write("#{dir}/groups/#{key}.txt", renderer.formatted.join("\n"))
+        File.write("#{dir}/roles/#{key}.txt", renderer.formatted(:detail).join("\n"))
+      end
+    end
+
+    desc 'Render Undefined Roles as CSV'
+    task :merkmale do |_t, args|
+      groups = Structure::Groups.new(group_ids: [1]).build
+      roles = groups.flat_map { |g| g.roles }.compact.select(&:tbd?)
+      simple = roles.collect { |role| [role.type.gsub('tbd:', ''), role.group.type] }
+      rows = simple.uniq.collect { |row| row + [simple.count(row)] }.sort_by(&:first)
+      CSV.open('merkmale.csv', 'wb') do |csv|
+        csv << %w(Merkmal Gruppen Anzahl)
+        rows.each { |row| csv << row }
+      end
     end
   end
 
