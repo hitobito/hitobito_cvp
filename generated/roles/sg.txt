@@ -8,14 +8,6 @@
    <KantonArbeitsgruppe AG 3 Organisation [Mitglied 11], id:5055, 1555>
    <KantonArbeitsgruppe Ausschuss [Mitglied 5], id:5057, 1555>
    <KantonArbeitsgruppe OP/RP [tbd:Ansprechperson 42], id:5056, 1555>
-  <KantonArbeitsgruppe Fachkommissionen, id:1558, 167>
-   <KantonArbeitsgruppe Baudepartement (BD) [Mitglied 9, Praesident 2], id:3336, 1558>
-   <KantonArbeitsgruppe Bildung (BLD) [Mitglied 7, Praesident 2], id:3330, 1558>
-   <KantonArbeitsgruppe Departement des Innern (DI) [Mitglied 6, Praesident 3], id:3334, 1558>
-   <KantonArbeitsgruppe Finanzen (FD) [Mitglied 12, Praesident 3], id:3337, 1558>
-   <KantonArbeitsgruppe Gesundheit (GD) [Mitglied 9, Praesident 3], id:3332, 1558>
-   <KantonArbeitsgruppe Sicherheit (SJD) [Mitglied 12, Praesident 2], id:3335, 1558>
-   <KantonArbeitsgruppe Volkswirtschaftsdepartement (VD) [Mitglied 7, Praesident 2], id:3333, 1558>
   <KantonArbeitsgruppe Freundeskreis [Gast 8, Mitglied 146, Praesident 1], id:35035, 167>
   <KantonArbeitsgruppe Gesinnungskreis [Mitglied 82], id:35037, 167>
    <KantonArbeitsgruppe Eidgenössische Räte, id:37873, 35037>
@@ -163,6 +155,14 @@
   <KantonGewaehlte Richter Verwaltungsrekurskommission (6480) [MitgliedKantonalesGerichtErsteInstanz 1], id:37888, 167>
   <KantonGewaehlte Verwaltungsgerichtspräsident (7560) [MitgliedKantonalesGerichtErsteInstanz 1], id:37895, 167>
   <KantonGewaehlte Vizepräsident Verwaltungsgericht (7200) [MitgliedKantonalesGerichtErsteInstanz 1], id:40385, 167>
+  <KantonKommission Fachkommissionen, id:1558, 167>
+   <KantonKommission Baudepartement (BD) [Mitglied 9, Praesident 2], id:3336, 1558>
+   <KantonKommission Bildung (BLD) [Mitglied 7, Praesident 2], id:3330, 1558>
+   <KantonKommission Departement des Innern (DI) [Mitglied 6, Praesident 3], id:3334, 1558>
+   <KantonKommission Finanzen (FD) [Mitglied 12, Praesident 3], id:3337, 1558>
+   <KantonKommission Gesundheit (GD) [Mitglied 9, Praesident 3], id:3332, 1558>
+   <KantonKommission Sicherheit (SJD) [Mitglied 12, Praesident 2], id:3335, 1558>
+   <KantonKommission Volkswirtschaftsdepartement (VD) [Mitglied 7, Praesident 2], id:3333, 1558>
   <KantonMitglieder Mitgliedschaften [Mitglied 52], id:535, 167>
   <KantonParteigremium Kontrollkommission [Mitglied 8, Praesident 1], id:35038, 167>
   <KantonPraesidium Parteileitung [Mitglied 27], id:1557, 167>

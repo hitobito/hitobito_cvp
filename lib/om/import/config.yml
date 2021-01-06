@@ -190,6 +190,10 @@ groups:
       - !ruby/regexp /^Législatif$/i
       KantonKommission:
       - !ruby/regexp /^Kommissionen$/i
+      - !ruby/regexp /^Politische Kommissionen$/i
+      - !ruby/regexp /^Politikkommission$/i
+      - !ruby/regexp /^Fachkommissionen$/i
+      - !ruby/regexp /^Commissions$/i
       KantonDelegierte:
       - !ruby/regexp /Delegiertenversammlung/i
       - !ruby/regexp /^DV$/i

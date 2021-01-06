@@ -1,17 +1,6 @@
 <Bund id=1, label=CVP Schweiz, parent_id=>
  <Kanton id=159, label=CVP GE, parent_id=1>
   <KantonSympathisanten id=18095, label=Sympathisanten, parent_id=159>
-  <KantonArbeitsgruppe id=34747, label=Commissions, parent_id=159>
-   <KantonArbeitsgruppe id=34879, label=Aménagement-logement, parent_id=34747>
-   <KantonArbeitsgruppe id=34880, label=Economie-Finances-Fiscalité, parent_id=34747>
-   <KantonArbeitsgruppe id=34881, label=Enseignement, parent_id=34747>
-   <KantonArbeitsgruppe id=34878, label=Environnement-Agriculture, parent_id=34747>
-   <KantonArbeitsgruppe id=37495, label=Intégration et droits de la personne, parent_id=34747>
-   <KantonArbeitsgruppe id=34883, label=Judiciaire, parent_id=34747>
-   <KantonArbeitsgruppe id=34884, label=Santé-Social, parent_id=34747>
-   <KantonArbeitsgruppe id=35103, label=Sécurité, parent_id=34747>
-   <KantonArbeitsgruppe id=36520, label=Transfrontalière, parent_id=34747>
-   <KantonArbeitsgruppe id=34885, label=Transports, parent_id=34747>
   <KantonArbeitsgruppe id=34745, label=Groupements, parent_id=159>
    <KantonArbeitsgruppe id=34872, label=Chrétien-Social, parent_id=34745>
    <KantonArbeitsgruppe id=34874, label=Femmes Dc, parent_id=34745>
@@ -55,6 +44,17 @@
   <KantonExterneKontakte id=40003, label=Newsletter, parent_id=159>
   <KantonGewaehlte id=34887, label=Regierungsrat, parent_id=159>
   <KantonGewaehlte id=433, label=Legislative, parent_id=159>
+  <KantonKommission id=34747, label=Commissions, parent_id=159>
+   <KantonKommission id=34879, label=Aménagement-logement, parent_id=34747>
+   <KantonKommission id=34880, label=Economie-Finances-Fiscalité, parent_id=34747>
+   <KantonKommission id=34881, label=Enseignement, parent_id=34747>
+   <KantonKommission id=34878, label=Environnement-Agriculture, parent_id=34747>
+   <KantonKommission id=37495, label=Intégration et droits de la personne, parent_id=34747>
+   <KantonKommission id=34883, label=Judiciaire, parent_id=34747>
+   <KantonKommission id=34884, label=Santé-Social, parent_id=34747>
+   <KantonKommission id=35103, label=Sécurité, parent_id=34747>
+   <KantonKommission id=36520, label=Transfrontalière, parent_id=34747>
+   <KantonKommission id=34885, label=Transports, parent_id=34747>
   <KantonMitglieder id=435, label=Mitgliedschaften, parent_id=159>
   <KantonPraesidium id=437, label=Partei, parent_id=159>
   <Ort id=36513, label=Aire-La-Ville, parent_id=159>

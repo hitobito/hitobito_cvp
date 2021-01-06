@@ -1,11 +1,11 @@
 <Bund CVP Schweiz, id:1, 0>
  <Kanton CVP JU, id:162, 1>
   <KantonSympathisanten Sympathisanten [Sympathisant 1], id:18095, 162>
-  <KantonArbeitsgruppe Politikkommission [Mitglied 23, Praesident 4], id:35531, 162>
   <KantonExterneKontakte Newsletter [Kontakt 610], id:39969, 162>
   <KantonGewaehlte Regierungsrat [KantonaleExekutive 2, Staatsanwaltschaft 2, tbd:Juge de 1re instance 3, tbd:Privatsekretär 2, tbd:Präsident 1], id:35530, 162>
   <KantonGewaehlte Judikative [tbd:Juge au tribunal 4], id:488, 162>
   <KantonGewaehlte Legislative [KantonaleLegislative 47], id:489, 162>
+  <KantonKommission Politikkommission [Mitglied 23, Praesident 4], id:35531, 162>
   <KantonMitglieder Mitgliedschaften [Mitglied 33], id:36340, 162>
   <KantonPraesidium Partei [Praesident 11, tbd:Ansprechperson Finanzen 3, tbd:Botschafter 1, tbd:Delegierte CVP Frauen CH 1, tbd:Empfänger Rechnung Jahresbeitrag CVP CH 6, tbd:Kanzler kantonal 1, tbd:Membre de AIJ 5, tbd:Membre de la Présidence 18, tbd:Nationalrat 1, tbd:OM Ansprechperson 1, tbd:Présidence élargie 19, tbd:Sekretär Kantonalpartei/Vereinigung 2, tbd:Ständerat 1, tbd:administrativer Sekretär 1], id:491, 162>
   <Region Ajoie, id:485, 162>

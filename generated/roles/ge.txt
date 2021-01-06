@@ -1,17 +1,6 @@
 <Bund CVP Schweiz, id:1, 0>
  <Kanton CVP GE, id:159, 1>
   <KantonSympathisanten Sympathisanten [Sympathisant 1], id:18095, 159>
-  <KantonArbeitsgruppe Commissions, id:34747, 159>
-   <KantonArbeitsgruppe Aménagement-logement [Mitglied 36, Praesident 1], id:34879, 34747>
-   <KantonArbeitsgruppe Economie-Finances-Fiscalité [Mitglied 41, Praesident 1], id:34880, 34747>
-   <KantonArbeitsgruppe Enseignement [Mitglied 9, Praesident 1], id:34881, 34747>
-   <KantonArbeitsgruppe Environnement-Agriculture [Mitglied 34, Praesident 2], id:34878, 34747>
-   <KantonArbeitsgruppe Intégration et droits de la personne [Mitglied 7, Praesident 1], id:37495, 34747>
-   <KantonArbeitsgruppe Judiciaire [Mitglied 126, Praesident 1], id:34883, 34747>
-   <KantonArbeitsgruppe Santé-Social [Mitglied 38, Praesident 1], id:34884, 34747>
-   <KantonArbeitsgruppe Sécurité [Mitglied 11, Praesident 1], id:35103, 34747>
-   <KantonArbeitsgruppe Transfrontalière [Mitglied 10, Praesident 1], id:36520, 34747>
-   <KantonArbeitsgruppe Transports [Mitglied 14, Praesident 1], id:34885, 34747>
   <KantonArbeitsgruppe Groupements, id:34745, 159>
    <KantonArbeitsgruppe Chrétien-Social [Mitglied 43, Praesident 1], id:34872, 34745>
    <KantonArbeitsgruppe Femmes Dc [Mitglied 66, Praesident 2, tbd:Kassier 1], id:34874, 34745>
@@ -55,6 +44,17 @@
   <KantonExterneKontakte Newsletter [Kontakt 938], id:40003, 159>
   <KantonGewaehlte Regierungsrat [KantonaleExekutive 1], id:34887, 159>
   <KantonGewaehlte Legislative [KantonaleLegislative 1], id:433, 159>
+  <KantonKommission Commissions, id:34747, 159>
+   <KantonKommission Aménagement-logement [Mitglied 36, Praesident 1], id:34879, 34747>
+   <KantonKommission Economie-Finances-Fiscalité [Mitglied 41, Praesident 1], id:34880, 34747>
+   <KantonKommission Enseignement [Mitglied 9, Praesident 1], id:34881, 34747>
+   <KantonKommission Environnement-Agriculture [Mitglied 34, Praesident 2], id:34878, 34747>
+   <KantonKommission Intégration et droits de la personne [Mitglied 7, Praesident 1], id:37495, 34747>
+   <KantonKommission Judiciaire [Mitglied 126, Praesident 1], id:34883, 34747>
+   <KantonKommission Santé-Social [Mitglied 38, Praesident 1], id:34884, 34747>
+   <KantonKommission Sécurité [Mitglied 11, Praesident 1], id:35103, 34747>
+   <KantonKommission Transfrontalière [Mitglied 10, Praesident 1], id:36520, 34747>
+   <KantonKommission Transports [Mitglied 14, Praesident 1], id:34885, 34747>
   <KantonMitglieder Mitgliedschaften [Mitglied 74], id:435, 159>
   <KantonPraesidium Partei [Mitglied 19, Praesident 12, tbd:Ansprechperson Finanzen 1, tbd:Botschafter 1, tbd:Empfänger Rechnung Jahresbeitrag CVP CH 1, tbd:Membre d'une CODOF 53, tbd:OM Ansprechperson 1, tbd:Plakatierer 3], id:437, 159>
   <Ort Aire-La-Ville, id:36513, 159>

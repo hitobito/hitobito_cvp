@@ -6,15 +6,6 @@
    <KantonArbeitsgruppe id=14853, label=Wahlkommission, parent_id=14852>
   <KantonArbeitsgruppe id=36236, label=Comité Directeur, parent_id=158>
   <KantonArbeitsgruppe id=36239, label=Magistrats, parent_id=158>
-  <KantonArbeitsgruppe id=14857, label=Politische Kommissionen, parent_id=158>
-   <KantonArbeitsgruppe id=33167, label=Agriculture, parent_id=14857>
-   <KantonArbeitsgruppe id=33165, label=Aménagements environnement transports, parent_id=14857>
-   <KantonArbeitsgruppe id=33163, label=Economie - finances - fiscalité, parent_id=14857>
-   <KantonArbeitsgruppe id=14858, label=Education  formation sport jeunesse, parent_id=14857>
-   <KantonArbeitsgruppe id=33162, label=Famille affaires sociales sécurté, parent_id=14857>
-   <KantonArbeitsgruppe id=33166, label=Institutions fonctions publiques Personnel, parent_id=14857>
-   <KantonArbeitsgruppe id=33168, label=Justice, parent_id=14857>
-   <KantonArbeitsgruppe id=33164, label=Santé publique, parent_id=14857>
   <KantonDelegierte id=14793, label=Delegiertenversammlung, parent_id=158>
    <KantonDelegierte id=37434, label=60+, parent_id=14793>
    <KantonDelegierte id=37436, label=AWG, parent_id=14793>
@@ -33,6 +24,15 @@
   <KantonExterneKontakte id=40005, label=Newsletter f, parent_id=158>
   <KantonGewaehlte id=36238, label=Regierungsrat, parent_id=158>
   <KantonGewaehlte id=425, label=Legislative, parent_id=158>
+  <KantonKommission id=14857, label=Politische Kommissionen, parent_id=158>
+   <KantonKommission id=33167, label=Agriculture, parent_id=14857>
+   <KantonKommission id=33165, label=Aménagements environnement transports, parent_id=14857>
+   <KantonKommission id=33163, label=Economie - finances - fiscalité, parent_id=14857>
+   <KantonKommission id=14858, label=Education  formation sport jeunesse, parent_id=14857>
+   <KantonKommission id=33162, label=Famille affaires sociales sécurté, parent_id=14857>
+   <KantonKommission id=33166, label=Institutions fonctions publiques Personnel, parent_id=14857>
+   <KantonKommission id=33168, label=Justice, parent_id=14857>
+   <KantonKommission id=33164, label=Santé publique, parent_id=14857>
   <KantonMitglieder id=426, label=Mitgliedschaften, parent_id=158>
   <KantonPraesidium id=427, label=Partei, parent_id=158>
   <KantonPraesidium id=36225, label=Präsidium, parent_id=158>

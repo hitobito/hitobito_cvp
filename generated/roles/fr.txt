@@ -6,15 +6,6 @@
    <KantonArbeitsgruppe Wahlkommission [Mitglied 16, Praesident 1, tbd:Kassier 1], id:14853, 14852>
   <KantonArbeitsgruppe Comité Directeur [Mitglied 63], id:36236, 158>
   <KantonArbeitsgruppe Magistrats [Praesident 3, tbd:Bundesrichter 2, tbd:Bundesverwaltungsrichter 1, tbd:Juge itinérant 2, tbd:Kantonsrichter 7, tbd:Kanzler kantonal 1, tbd:Membre CA de l'OCN 2, tbd:Membre du CA de l'ECAB 1, tbd:Membre du CA de la BCF 2, tbd:Membre du CA des TPF 1, tbd:Membre du CA du HFR 1, tbd:Nationalrat 1, tbd:Präfekt 3, tbd:Président TA Glâne 1, tbd:Président TA Sarine 2, tbd:Président TA de la Boye 1, tbd:Président TA du Lac 1, tbd:Président du TA Gruyère 1, tbd:Regierungsrat 4, tbd:Staatsanwalt 3, tbd:Ständerat 1, tbd:Untersuchungsrichter 1, tbd:Vizekanzler 1], id:36239, 158>
-  <KantonArbeitsgruppe Politische Kommissionen, id:14857, 158>
-   <KantonArbeitsgruppe Agriculture [Mitglied 21, Praesident 1], id:33167, 14857>
-   <KantonArbeitsgruppe Aménagements environnement transports [Mitglied 36, Praesident 2], id:33165, 14857>
-   <KantonArbeitsgruppe Economie - finances - fiscalité [Mitglied 28, Praesident 2], id:33163, 14857>
-   <KantonArbeitsgruppe Education  formation sport jeunesse [Mitglied 37, Praesident 3], id:14858, 14857>
-   <KantonArbeitsgruppe Famille affaires sociales sécurté [Mitglied 24, Praesident 2], id:33162, 14857>
-   <KantonArbeitsgruppe Institutions fonctions publiques Personnel [Mitglied 13, Praesident 2], id:33166, 14857>
-   <KantonArbeitsgruppe Justice [Mitglied 28, Praesident 3], id:33168, 14857>
-   <KantonArbeitsgruppe Santé publique [Mitglied 21, Praesident 2], id:33164, 14857>
   <KantonDelegierte Delegiertenversammlung, id:14793, 158>
    <KantonDelegierte 60+ [Delegierte 11, tbd:Delegierter von Amtes wegen 1], id:37434, 14793>
    <KantonDelegierte AWG [Delegierte 8], id:37436, 14793>
@@ -33,6 +24,15 @@
   <KantonExterneKontakte Newsletter f [Kontakt 2], id:40005, 158>
   <KantonGewaehlte Regierungsrat [KantonaleExekutive 5], id:36238, 158>
   <KantonGewaehlte Legislative [KantonaleLegislative 82], id:425, 158>
+  <KantonKommission Politische Kommissionen, id:14857, 158>
+   <KantonKommission Agriculture [Mitglied 21, Praesident 1], id:33167, 14857>
+   <KantonKommission Aménagements environnement transports [Mitglied 36, Praesident 2], id:33165, 14857>
+   <KantonKommission Economie - finances - fiscalité [Mitglied 28, Praesident 2], id:33163, 14857>
+   <KantonKommission Education  formation sport jeunesse [Mitglied 37, Praesident 3], id:14858, 14857>
+   <KantonKommission Famille affaires sociales sécurté [Mitglied 24, Praesident 2], id:33162, 14857>
+   <KantonKommission Institutions fonctions publiques Personnel [Mitglied 13, Praesident 2], id:33166, 14857>
+   <KantonKommission Justice [Mitglied 28, Praesident 3], id:33168, 14857>
+   <KantonKommission Santé publique [Mitglied 21, Praesident 2], id:33164, 14857>
   <KantonMitglieder Mitgliedschaften [Mitglied 185], id:426, 158>
   <KantonPraesidium Partei [Praesident 7, tbd:Ansprechperson Finanzen 3, tbd:Botschafter 3, tbd:Empfänger Rechnung Jahresbeitrag CVP CH 2, tbd:Empfänger Umzugsmeldung 1, tbd:Leserbriefschreiber/-in Verantw. 1, tbd:Plakatierer 1, tbd:Sekretär (administrativ) 2, tbd:Sekretär Kantonalpartei/Vereinigung 2], id:427, 158>
   <KantonPraesidium Präsidium [Praesident 17, tbd:Beisitzer 9, tbd:Sekretär 1], id:36225, 158>

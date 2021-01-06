@@ -1,13 +1,5 @@
 <Bund id=1, label=CVP Schweiz, parent_id=>
  <Kanton id=165, label=CVP NW, parent_id=1>
-  <KantonArbeitsgruppe id=1524, label=Fachkommissionen, parent_id=165>
-   <KantonArbeitsgruppe id=3316, label=Baudirektion, parent_id=1524>
-   <KantonArbeitsgruppe id=3317, label=Bildungsdirektion, parent_id=1524>
-   <KantonArbeitsgruppe id=3318, label=Finanzdirektion, parent_id=1524>
-   <KantonArbeitsgruppe id=3319, label=Gesundheits- und Sozialdirektion, parent_id=1524>
-   <KantonArbeitsgruppe id=3320, label=Justiz- und Sicherheitsdirektion, parent_id=1524>
-   <KantonArbeitsgruppe id=3321, label=Landwirtschafts- und Umweltdirektion, parent_id=1524>
-   <KantonArbeitsgruppe id=3322, label=Volkswirtschaftsdirektion, parent_id=1524>
   <KantonArbeitsgruppe id=33148, label=Info- und Kontaktgruppe, parent_id=165>
   <KantonDelegierte id=5071, label=Delegiertenversammlung, parent_id=165>
    <KantonDelegierte id=5077, label=Beckenried, parent_id=5071>
@@ -31,6 +23,14 @@
    <KantonGewaehlte id=36103, label=Obergericht, parent_id=36101>
    <KantonGewaehlte id=36104, label=Verwaltungsgericht, parent_id=36101>
   <KantonGewaehlte id=514, label=Legislative, parent_id=165>
+  <KantonKommission id=1524, label=Fachkommissionen, parent_id=165>
+   <KantonKommission id=3316, label=Baudirektion, parent_id=1524>
+   <KantonKommission id=3317, label=Bildungsdirektion, parent_id=1524>
+   <KantonKommission id=3318, label=Finanzdirektion, parent_id=1524>
+   <KantonKommission id=3319, label=Gesundheits- und Sozialdirektion, parent_id=1524>
+   <KantonKommission id=3320, label=Justiz- und Sicherheitsdirektion, parent_id=1524>
+   <KantonKommission id=3321, label=Landwirtschafts- und Umweltdirektion, parent_id=1524>
+   <KantonKommission id=3322, label=Volkswirtschaftsdirektion, parent_id=1524>
   <KantonParteigremium id=5069, label=Kontrollkommission, parent_id=165>
   <KantonPraesidium id=517, label=Partei, parent_id=165>
   <KantonPraesidium id=1526, label=Vorstand, parent_id=165>

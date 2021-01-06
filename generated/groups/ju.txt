@@ -1,11 +1,11 @@
 <Bund id=1, label=CVP Schweiz, parent_id=>
  <Kanton id=162, label=CVP JU, parent_id=1>
   <KantonSympathisanten id=18095, label=Sympathisanten, parent_id=162>
-  <KantonArbeitsgruppe id=35531, label=Politikkommission, parent_id=162>
   <KantonExterneKontakte id=39969, label=Newsletter, parent_id=162>
   <KantonGewaehlte id=35530, label=Regierungsrat, parent_id=162>
   <KantonGewaehlte id=488, label=Judikative, parent_id=162>
   <KantonGewaehlte id=489, label=Legislative, parent_id=162>
+  <KantonKommission id=35531, label=Politikkommission, parent_id=162>
   <KantonMitglieder id=36340, label=Mitgliedschaften, parent_id=162>
   <KantonPraesidium id=491, label=Partei, parent_id=162>
   <Region id=485, label=Ajoie, parent_id=162>
