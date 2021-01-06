@@ -177,6 +177,7 @@ groups:
       KantonPraesidium:
       - !ruby/regexp /^Partei$/i
       - !ruby/regexp /Parteivorstand|Parteileitung|Vorstand/i
+      - !ruby/regexp /^Präsidium$/i
       KantonParteigremium:
       - !ruby/regexp /Schiedsgericht/
       - !ruby/regexp /Kontrollkommission/i
@@ -224,6 +225,7 @@ groups:
       RegionPraesidium:
       - !ruby/regexp /^Partei/i
       - !ruby/regexp /^Vorstand/i
+      - !ruby/regexp /^Präsidium/i
       RegionDelegierte:
       - !ruby/regexp /Delegiertenversammlung/i
       - !ruby/regexp /^DV$/i

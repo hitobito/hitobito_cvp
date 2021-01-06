@@ -15,7 +15,6 @@
    <KantonArbeitsgruppe id=33166, label=Institutions fonctions publiques Personnel, parent_id=14857>
    <KantonArbeitsgruppe id=33168, label=Justice, parent_id=14857>
    <KantonArbeitsgruppe id=33164, label=Santé publique, parent_id=14857>
-  <KantonArbeitsgruppe id=36225, label=Präsidium, parent_id=158>
   <KantonDelegierte id=14793, label=Delegiertenversammlung, parent_id=158>
    <KantonDelegierte id=37434, label=60+, parent_id=14793>
    <KantonDelegierte id=37436, label=AWG, parent_id=14793>
@@ -36,6 +35,7 @@
   <KantonGewaehlte id=425, label=Legislative, parent_id=158>
   <KantonMitglieder id=426, label=Mitgliedschaften, parent_id=158>
   <KantonPraesidium id=427, label=Partei, parent_id=158>
+  <KantonPraesidium id=36225, label=Präsidium, parent_id=158>
   <Region id=421, label=Broye, parent_id=158>
    <RegionSympathisanten id=18096, label=Sympathisanten, parent_id=421>
    <RegionMitglieder id=1063, label=Mitgliedschaften, parent_id=421>
