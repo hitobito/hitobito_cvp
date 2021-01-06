@@ -165,8 +165,8 @@
    <KantonKommission Volkswirtschaftsdepartement (VD) [Mitglied 7, Praesident 2], id:3333, 1558>
   <KantonMitglieder Mitgliedschaften [Mitglied 52], id:535, 167>
   <KantonParteigremium Kontrollkommission [Mitglied 8, Praesident 1], id:35038, 167>
+  <KantonParteigremium Parteivorstand [Mitglied 56], id:35016, 167>
   <KantonPraesidium Parteileitung [Mitglied 27], id:1557, 167>
-  <KantonPraesidium Parteivorstand [Mitglied 56], id:35016, 167>
   <KantonSpender Sponsoren [Mitglied 21], id:35036, 167>
   <Region Regionalpartei Rheintal, id:537, 167>
    <RegionGewaehlte Kreisgericht [RegionJudikative 5], id:35102, 537>

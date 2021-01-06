@@ -8,8 +8,8 @@
    <KantonGewaehlte Verwaltungsgericht [tbd:Mitglied 3], id:1543, 525>
   <KantonGewaehlte Legislative [KantonaleLegislative 43, tbd:Fraktionspräsident 2, tbd:Präsident 1], id:527, 166>
   <KantonMitglieder Mitgliedschaften [Mitglied 5], id:529, 166>
+  <KantonParteigremium Vorstand [Mitglied 3, Praesident 2, tbd:Sekretär 2], id:35083, 166>
   <KantonPraesidium Partei [Mitglied 8, Praesident 5, tbd:Ansprechperson Finanzen 1, tbd:Empfänger Rechnung Jahresbeitrag CVP CH 2, tbd:Leserbriefschreiber/-in Verantw. 1, tbd:OM Ansprechperson 2, tbd:Sekretär (administrativ) 1, tbd:Sekretär Kantonalpartei/Vereinigung 3], id:530, 166>
-  <KantonPraesidium Vorstand [Mitglied 3, Praesident 2, tbd:Sekretär 2], id:35083, 166>
   <Ort Alpnach, id:522, 166>
    <OrtGewaehlte Exekutive [KommunaleExekutive 6], id:1537, 522>
    <OrtMitglieder Mitgliedschaften [Mitglied 94], id:1538, 522>

@@ -165,8 +165,8 @@
    <KantonKommission id=3333, label=Volkswirtschaftsdepartement (VD), parent_id=1558>
   <KantonMitglieder id=535, label=Mitgliedschaften, parent_id=167>
   <KantonParteigremium id=35038, label=Kontrollkommission, parent_id=167>
+  <KantonParteigremium id=35016, label=Parteivorstand, parent_id=167>
   <KantonPraesidium id=1557, label=Parteileitung, parent_id=167>
-  <KantonPraesidium id=35016, label=Parteivorstand, parent_id=167>
   <KantonSpender id=35036, label=Sponsoren, parent_id=167>
   <Region id=537, label=Regionalpartei Rheintal, parent_id=167>
    <RegionGewaehlte id=35102, label=Kreisgericht, parent_id=537>

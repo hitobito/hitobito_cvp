@@ -4,7 +4,6 @@
   <KantonArbeitsgruppe Arbeitskommissionen, id:14852, 158>
    <KantonArbeitsgruppe Politische Kommission [Mitglied 2], id:14854, 14852>
    <KantonArbeitsgruppe Wahlkommission [Mitglied 16, Praesident 1, tbd:Kassier 1], id:14853, 14852>
-  <KantonArbeitsgruppe Comité Directeur [Mitglied 63], id:36236, 158>
   <KantonDelegierte Delegiertenversammlung, id:14793, 158>
    <KantonDelegierte 60+ [Delegierte 11, tbd:Delegierter von Amtes wegen 1], id:37434, 14793>
    <KantonDelegierte AWG [Delegierte 8], id:37436, 14793>
@@ -34,6 +33,7 @@
    <KantonKommission Justice [Mitglied 28, Praesident 3], id:33168, 14857>
    <KantonKommission Santé publique [Mitglied 21, Praesident 2], id:33164, 14857>
   <KantonMitglieder Mitgliedschaften [Mitglied 185], id:426, 158>
+  <KantonParteigremium Comité Directeur [Mitglied 63], id:36236, 158>
   <KantonPraesidium Partei [Praesident 7, tbd:Ansprechperson Finanzen 3, tbd:Botschafter 3, tbd:Empfänger Rechnung Jahresbeitrag CVP CH 2, tbd:Empfänger Umzugsmeldung 1, tbd:Leserbriefschreiber/-in Verantw. 1, tbd:Plakatierer 1, tbd:Sekretär (administrativ) 2, tbd:Sekretär Kantonalpartei/Vereinigung 2], id:427, 158>
   <KantonPraesidium Präsidium [Praesident 17, tbd:Beisitzer 9, tbd:Sekretär 1], id:36225, 158>
   <Region Broye, id:421, 158>

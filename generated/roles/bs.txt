@@ -27,8 +27,8 @@
    <KantonGewaehlte Zivilgericht [tbd:Präsident 2, tbd:Richter 3], id:1033, 415>
   <KantonGewaehlte Legislative [KantonaleLegislative 15, tbd:Fraktionspräsident 1, tbd:Präsident 1], id:417, 157>
   <KantonMitglieder Mitgliedschaften [Mitglied 24], id:418, 157>
+  <KantonParteigremium Vorstand [Mitglied 24], id:1045, 157>
   <KantonPraesidium Parteileitung [Mitglied 15], id:1043, 157>
-  <KantonPraesidium Vorstand [Mitglied 24], id:1045, 157>
   <KantonSekretariat Partei [Mitarbeiter 1], id:419, 157>
   <Ort Riehen, id:420, 157>
    <OrtSympathisanten Sympathisanten [Sympathisant 23], id:18096, 420>

@@ -8,8 +8,8 @@
    <KantonGewaehlte id=1543, label=Verwaltungsgericht, parent_id=525>
   <KantonGewaehlte id=527, label=Legislative, parent_id=166>
   <KantonMitglieder id=529, label=Mitgliedschaften, parent_id=166>
+  <KantonParteigremium id=35083, label=Vorstand, parent_id=166>
   <KantonPraesidium id=530, label=Partei, parent_id=166>
-  <KantonPraesidium id=35083, label=Vorstand, parent_id=166>
   <Ort id=522, label=Alpnach, parent_id=166>
    <OrtGewaehlte id=1537, label=Exekutive, parent_id=522>
    <OrtMitglieder id=1538, label=Mitgliedschaften, parent_id=522>

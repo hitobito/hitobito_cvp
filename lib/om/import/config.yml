@@ -178,11 +178,16 @@ groups:
       KantonParteigremium:
       - ids:
         - 37548 # AG Parteivorstand
+        - 1045  # BS Vorstand
+        - 35083 # OW Vorstand
+        - 35016 # SG Parteivorstand
+        - 33657 # SO Erweiterte Parteileitung
       - !ruby/regexp /Schiedsgericht/
       - !ruby/regexp /Kontrollkommission/i
       - !ruby/regexp /^Sektionskonferenz|Parteirat|Personalkommission$/i # BL
       - !ruby/regexp /^Wahlkampfteam$/i # BL #ZG
       - !ruby/regexp /^Parteirat$/i # BL
+      - !ruby/regexp /^Comité Directeur$/i # FR
       KantonPraesidium:
       - !ruby/regexp /^Partei$/i
       - !ruby/regexp /Parteivorstand|Parteileitung|Vorstand/i
