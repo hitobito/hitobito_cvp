@@ -11,7 +11,6 @@
    <KantonArbeitsgruppe id=40033, label=Spenden, parent_id=39959>
    <KantonArbeitsgruppe id=39966, label=Telefonaktion, parent_id=39959>
    <KantonArbeitsgruppe id=39961, label=Unterschriften sammeln, parent_id=39959>
-  <KantonArbeitsgruppe id=40042, label=Firmen, parent_id=154>
   <KantonArbeitsgruppe id=40204, label=Komitees, parent_id=154>
    <KantonArbeitsgruppe id=40285, label=Fabian Stocker, parent_id=40204>
    <KantonArbeitsgruppe id=40205, label=Reto Nause, parent_id=40204>
@@ -23,6 +22,7 @@
    <KantonDelegierte id=2641, label=Delegierte von Amtes wegen, parent_id=937>
    <KantonDelegierte id=37523, label=Email-Einladung, parent_id=937>
    <KantonDelegierte id=40068, label=Ersatzdelegierte, parent_id=937>
+  <KantonExterneKontakte id=40042, label=Firmen, parent_id=154>
   <KantonExterneKontakte id=38413, label=KMU-Adressen, parent_id=154>
    <KantonExterneKontakte id=38973, label=Adressen November 2016, parent_id=38413>
    <KantonExterneKontakte id=38414, label=Versand für Nationalratswahlen 2015, parent_id=38413>

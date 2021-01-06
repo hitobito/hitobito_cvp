@@ -2,7 +2,6 @@
  <Kanton CVP GR, id:161, 1>
   <KantonSympathisanten Sympathisanten [Sympathisant 75], id:18095, 161>
   <KantonArbeitsgruppe Alt-Mandatsträger/-innen [tbd:CVP Alt-Grossrat Deleg. Art.23 Ziff.1 lit.f 59], id:1293, 161>
-  <KantonArbeitsgruppe Bettelbrief [tbd:Empfänger 512, tbd:Zuzüger 1], id:40268, 161>
   <KantonDelegierte Delegiertenversammlung, id:35426, 161>
    <KantonDelegierte Delegierte der Regional- und Kreisparteien, id:35428, 35426>
     <KantonDelegierte CVP Frauen [tbd:Delegierter von Amtes wegen 14], id:35449, 35428>
@@ -28,6 +27,7 @@
     <KantonDelegierte Regionalpartei Moesa [Delegierte 11, tbd:Delegierte CVP Frauen 4, tbd:Delegierter von Amtes wegen 10, tbd:Ersatzdelegierter 10], id:35446, 35428>
     <KantonDelegierte Regionalpartei Valposchiavo [Delegierte 13, tbd:Delegierte CVP Frauen 4, tbd:Delegierter von Amtes wegen 11, tbd:Ersatzdelegierter 7], id:35444, 35428>
    <KantonDelegierte Gäste [tbd:Gast 4], id:35472, 35426>
+  <KantonExterneKontakte Bettelbrief [Kontakt 512, tbd:Zuzüger 1], id:40268, 161>
   <KantonExterneKontakte Communiqués [Kontakt 142], id:39264, 161>
   <KantonExterneKontakte Medienverteiler [Kontakt 79], id:1296, 161>
   <KantonExterneKontakte Newsletter [Kontakt 903], id:39263, 161>

@@ -210,6 +210,10 @@ groups:
       - !ruby/regexp /Communiqués/i
       - !ruby/regexp /Medienverteiler/i
       - !ruby/regexp /^Medien$/i
+      - !ruby/regexp /^Firmen$/i
+      - !ruby/regexp /^Fundraising$/i
+      - !ruby/regexp /^Donatoren$/i
+      - !ruby/regexp /^Bettelbrief$/i
       KantonSpender:
       - !ruby/regexp /Sponsoren/i
       - !ruby/regexp /Donatoren/i
@@ -282,6 +286,7 @@ groups:
       - !ruby/regexp /Sponsoren/i
       OrtExterneKontakte:
       - !ruby/regexp /Helfer-Pool|Newsletter|Club96/i
+      - !ruby/regexp /^Firmen$/
       default: OrtArbeitsgruppe
     OrtGewaehlte:
       default: OrtGewaehlte
@@ -397,6 +402,11 @@ roles_new:
       Mitglied:
       - !ruby/regexp /Mitglied/i
     KantonExterneKontakte:
+      Spender:
+        - ['Firmen', 'Spender Firmen']
+        - ['Fundraising', 'Kontakt']
+        - ['Bettelbrief', 'Kontakt']
+        - ['Donatoren', 'Kontakt']
       Kontakt:
       - !ruby/regexp /Kontakt/i
       - !ruby/regexp /Empfänger/i

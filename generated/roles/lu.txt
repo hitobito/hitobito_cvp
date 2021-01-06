@@ -358,8 +358,8 @@
      <OrtArbeitsgruppe CVP Kanton Luzern [tbd:Delegierter 54, tbd:Delegierter Vereinigung 7, tbd:Delegierter von Amtes wegen 30], id:38703, 38701>
      <OrtArbeitsgruppe CVP Schweiz [tbd:Delegierter 6, tbd:Ersatzdelegierter 7], id:38704, 38701>
     <OrtArbeitsgruppe Donatoren [tbd:Kontakt 69], id:38700, 1443>
-    <OrtArbeitsgruppe Firmen [tbd:Kontakt 526], id:37734, 1443>
     <OrtArbeitsgruppe Keine E-Mail [tbd:Kontakt 159], id:39666, 1443>
+    <OrtExterneKontakte Firmen [Kontakt 526], id:37734, 1443>
     <OrtExterneKontakte Newsletter [Kontakt 854], id:38772, 1443>
     <OrtGewaehlte Exekutive [Fraktionschef 2, KommunaleExekutive 3, tbd:Gemeindeschreiber 2, tbd:Sozialvorsteher 1], id:3154, 1443>
     <OrtGewaehlte Legislative [KommunaleExekutive 14], id:3155, 1443>
@@ -439,8 +439,8 @@
     <OrtPraesidium Partei [Adressverwalter 2, Kassier 2, Mitglied 7, Praesident 3, tbd:Bildungskommission 4, tbd:Einbürgerungskommission 3, tbd:Plakatierer 2, tbd:Rechnungsprüfungskommission Mitgl. 1], id:3204, 1460>
    <Ort Ruswil, id:1461, 34510>
     <OrtSympathisanten Sympathisanten [Sympathisant 628], id:18160, 1461>
-    <OrtArbeitsgruppe Firmen [tbd:Kontakt 158], id:39837, 1461>
     <OrtArbeitsgruppe Übrige Kontakte [tbd:Kontakt 1], id:39939, 1461>
+    <OrtExterneKontakte Firmen [Kontakt 158], id:39837, 1461>
     <OrtGewaehlte Exekutive [Fraktionschef 2, KommunaleExekutive 6, tbd:Sozialvorsteher 1], id:3205, 1461>
     <OrtMitglieder Mitgliedschaften [Mitglied 92], id:3207, 1461>
     <OrtPraesidium Partei [Adressverwalter 4, Kassier 1, Mitglied 17, Praesident 4, tbd:Baukommission 4, tbd:Bildungskommission 5, tbd:Bürgerrechtskommission 4, tbd:Delegierte SOBZ 2, tbd:Delegierter Kanton 15, tbd:Einbürgerungskommission 1, tbd:Ersatzdelegierte Kanton 4, tbd:Kirchenrat 2, tbd:Kommission für Altersfragen 5, tbd:Rechnungsprüfungskommission Mitgl. 5, tbd:Umweltkommission 2, tbd:Urnenbüro Mitgl. 15], id:3208, 1461>

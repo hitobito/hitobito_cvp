@@ -2,7 +2,6 @@
  <Kanton id=161, label=CVP GR, parent_id=1>
   <KantonSympathisanten id=18095, label=Sympathisanten, parent_id=161>
   <KantonArbeitsgruppe id=1293, label=Alt-Mandatsträger/-innen, parent_id=161>
-  <KantonArbeitsgruppe id=40268, label=Bettelbrief, parent_id=161>
   <KantonDelegierte id=35426, label=Delegiertenversammlung, parent_id=161>
    <KantonDelegierte id=35428, label=Delegierte der Regional- und Kreisparteien, parent_id=35426>
     <KantonDelegierte id=35449, label=CVP Frauen, parent_id=35428>
@@ -28,6 +27,7 @@
     <KantonDelegierte id=35446, label=Regionalpartei Moesa, parent_id=35428>
     <KantonDelegierte id=35444, label=Regionalpartei Valposchiavo, parent_id=35428>
    <KantonDelegierte id=35472, label=Gäste, parent_id=35426>
+  <KantonExterneKontakte id=40268, label=Bettelbrief, parent_id=161>
   <KantonExterneKontakte id=39264, label=Communiqués, parent_id=161>
   <KantonExterneKontakte id=1296, label=Medienverteiler, parent_id=161>
   <KantonExterneKontakte id=39263, label=Newsletter, parent_id=161>

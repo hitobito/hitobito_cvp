@@ -8,14 +8,15 @@
   <KantonArbeitsgruppe id=37320, label=Diverse Funktionen, parent_id=157>
   <KantonArbeitsgruppe id=1041, label=Finanzen, parent_id=157>
    <KantonArbeitsgruppe id=2697, label=Patronat, parent_id=1041>
-  <KantonArbeitsgruppe id=38198, label=Fundraising, parent_id=157>
-   <KantonArbeitsgruppe id=39182, label=Grossunternehmen, parent_id=38198>
-   <KantonArbeitsgruppe id=39183, label=KMU, parent_id=38198>
-   <KantonArbeitsgruppe id=39184, label=Verbände, parent_id=38198>
-   <KantonArbeitsgruppe id=39185, label=Zünfte, parent_id=38198>
   <KantonArbeitsgruppe id=37321, label=Ratsexterne Kommissionen, parent_id=157>
    <KantonArbeitsgruppe id=37322, label=Erziehungsrat, parent_id=37321>
    <KantonArbeitsgruppe id=37323, label=Verwaltungsrat BVB, parent_id=37321>
+  <KantonExterneKontakte id=38316, label=Donatoren, parent_id=157>
+  <KantonExterneKontakte id=38198, label=Fundraising, parent_id=157>
+   <KantonExterneKontakte id=39182, label=Grossunternehmen, parent_id=38198>
+   <KantonExterneKontakte id=39183, label=KMU, parent_id=38198>
+   <KantonExterneKontakte id=39184, label=Verbände, parent_id=38198>
+   <KantonExterneKontakte id=39185, label=Zünfte, parent_id=38198>
   <KantonExterneKontakte id=39525, label=Medienverteiler, parent_id=157>
   <KantonExterneKontakte id=39524, label=Newsletter, parent_id=157>
   <KantonGewaehlte id=33169, label=Regierungsrat, parent_id=157>
@@ -29,7 +30,6 @@
   <KantonPraesidium id=1043, label=Parteileitung, parent_id=157>
   <KantonPraesidium id=1045, label=Vorstand, parent_id=157>
   <KantonSekretariat id=419, label=Partei, parent_id=157>
-  <KantonSpender id=38316, label=Donatoren, parent_id=157>
   <Ort id=420, label=Riehen, parent_id=157>
    <OrtSympathisanten id=18096, label=Sympathisanten, parent_id=420>
    <OrtGewaehlte id=36219, label=Exekutive, parent_id=420>

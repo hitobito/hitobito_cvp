@@ -358,8 +358,8 @@
      <OrtArbeitsgruppe id=38703, label=CVP Kanton Luzern, parent_id=38701>
      <OrtArbeitsgruppe id=38704, label=CVP Schweiz, parent_id=38701>
     <OrtArbeitsgruppe id=38700, label=Donatoren, parent_id=1443>
-    <OrtArbeitsgruppe id=37734, label=Firmen, parent_id=1443>
     <OrtArbeitsgruppe id=39666, label=Keine E-Mail, parent_id=1443>
+    <OrtExterneKontakte id=37734, label=Firmen, parent_id=1443>
     <OrtExterneKontakte id=38772, label=Newsletter, parent_id=1443>
     <OrtGewaehlte id=3154, label=Exekutive, parent_id=1443>
     <OrtGewaehlte id=3155, label=Legislative, parent_id=1443>
@@ -439,8 +439,8 @@
     <OrtPraesidium id=3204, label=Partei, parent_id=1460>
    <Ort id=1461, label=Ruswil, parent_id=34510>
     <OrtSympathisanten id=18160, label=Sympathisanten, parent_id=1461>
-    <OrtArbeitsgruppe id=39837, label=Firmen, parent_id=1461>
     <OrtArbeitsgruppe id=39939, label=Übrige Kontakte, parent_id=1461>
+    <OrtExterneKontakte id=39837, label=Firmen, parent_id=1461>
     <OrtGewaehlte id=3205, label=Exekutive, parent_id=1461>
     <OrtMitglieder id=3207, label=Mitgliedschaften, parent_id=1461>
     <OrtPraesidium id=3208, label=Partei, parent_id=1461>

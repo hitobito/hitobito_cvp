@@ -11,7 +11,6 @@
    <KantonArbeitsgruppe Spenden [Mitglied 5], id:40033, 39959>
    <KantonArbeitsgruppe Telefonaktion [Mitglied 3], id:39966, 39959>
    <KantonArbeitsgruppe Unterschriften sammeln [Mitglied 9], id:39961, 39959>
-  <KantonArbeitsgruppe Firmen [tbd:Spender Firmen 1], id:40042, 154>
   <KantonArbeitsgruppe Komitees, id:40204, 154>
    <KantonArbeitsgruppe Fabian Stocker [Mitglied 91], id:40285, 40204>
    <KantonArbeitsgruppe Reto Nause, id:40205, 40204>
@@ -23,6 +22,7 @@
    <KantonDelegierte Delegierte von Amtes wegen [tbd:von Amtes wegen 43], id:2641, 937>
    <KantonDelegierte Email-Einladung [tbd:Empfänger Email Einladung 56], id:37523, 937>
    <KantonDelegierte Ersatzdelegierte [tbd:Ersatzdelegierte Kanton 2], id:40068, 937>
+  <KantonExterneKontakte Firmen [Spender 1], id:40042, 154>
   <KantonExterneKontakte KMU-Adressen, id:38413, 154>
    <KantonExterneKontakte Adressen November 2016 [Kontakt 36], id:38973, 38413>
    <KantonExterneKontakte Versand für Nationalratswahlen 2015 [Kontakt 2581], id:38414, 38413>

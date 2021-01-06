@@ -8,14 +8,15 @@
   <KantonArbeitsgruppe Diverse Funktionen [Praesident 2, tbd:Ansprechperson Finanzen 1, tbd:Empfänger Einladung 110, tbd:Empfänger Rechnung Jahresbeitrag CVP CH 1, tbd:Kassier 1, tbd:Medienverteiler 22, tbd:Plakatierer 2, tbd:Sekretär Kantonalpartei/Vereinigung 1], id:37320, 157>
   <KantonArbeitsgruppe Finanzen, id:1041, 157>
    <KantonArbeitsgruppe Patronat [Mitglied 3, tbd:Sympathisant 70], id:2697, 1041>
-  <KantonArbeitsgruppe Fundraising [Mitglied 40], id:38198, 157>
-   <KantonArbeitsgruppe Grossunternehmen [Mitglied 86], id:39182, 38198>
-   <KantonArbeitsgruppe KMU [Mitglied 121], id:39183, 38198>
-   <KantonArbeitsgruppe Verbände [Mitglied 30], id:39184, 38198>
-   <KantonArbeitsgruppe Zünfte [Mitglied 29], id:39185, 38198>
   <KantonArbeitsgruppe Ratsexterne Kommissionen, id:37321, 157>
    <KantonArbeitsgruppe Erziehungsrat [Mitglied 1], id:37322, 37321>
    <KantonArbeitsgruppe Verwaltungsrat BVB [Mitglied 1], id:37323, 37321>
+  <KantonExterneKontakte Donatoren [Spender 132, tbd:Gast 11], id:38316, 157>
+  <KantonExterneKontakte Fundraising [Spender 40], id:38198, 157>
+   <KantonExterneKontakte Grossunternehmen [Kontakt 86], id:39182, 38198>
+   <KantonExterneKontakte KMU [Kontakt 121], id:39183, 38198>
+   <KantonExterneKontakte Verbände [Kontakt 30], id:39184, 38198>
+   <KantonExterneKontakte Zünfte [Kontakt 29], id:39185, 38198>
   <KantonExterneKontakte Medienverteiler [Kontakt 61], id:39525, 157>
   <KantonExterneKontakte Newsletter [Kontakt 657], id:39524, 157>
   <KantonGewaehlte Regierungsrat [KantonaleExekutive 2], id:33169, 157>
@@ -29,7 +30,6 @@
   <KantonPraesidium Parteileitung [Mitglied 15], id:1043, 157>
   <KantonPraesidium Vorstand [Mitglied 24], id:1045, 157>
   <KantonSekretariat Partei [Mitarbeiter 1], id:419, 157>
-  <KantonSpender Donatoren [tbd:Gast 11, tbd:Kontakt 132], id:38316, 157>
   <Ort Riehen, id:420, 157>
    <OrtSympathisanten Sympathisanten [Sympathisant 23], id:18096, 420>
    <OrtGewaehlte Exekutive [KommunaleExekutive 2], id:36219, 420>
