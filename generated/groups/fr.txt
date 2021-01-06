@@ -5,7 +5,6 @@
    <KantonArbeitsgruppe id=14854, label=Politische Kommission, parent_id=14852>
    <KantonArbeitsgruppe id=14853, label=Wahlkommission, parent_id=14852>
   <KantonArbeitsgruppe id=36236, label=Comité Directeur, parent_id=158>
-  <KantonArbeitsgruppe id=36239, label=Magistrats, parent_id=158>
   <KantonDelegierte id=14793, label=Delegiertenversammlung, parent_id=158>
    <KantonDelegierte id=37434, label=60+, parent_id=14793>
    <KantonDelegierte id=37436, label=AWG, parent_id=14793>
@@ -24,6 +23,7 @@
   <KantonExterneKontakte id=40005, label=Newsletter f, parent_id=158>
   <KantonGewaehlte id=36238, label=Regierungsrat, parent_id=158>
   <KantonGewaehlte id=425, label=Legislative, parent_id=158>
+  <KantonGewaehlte id=36239, label=Magistrats, parent_id=158>
   <KantonKommission id=14857, label=Politische Kommissionen, parent_id=158>
    <KantonKommission id=33167, label=Agriculture, parent_id=14857>
    <KantonKommission id=33165, label=Aménagements environnement transports, parent_id=14857>

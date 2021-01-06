@@ -184,6 +184,7 @@ groups:
       KantonGewaehlte:
       - !ruby/regexp /Regionalpartei/i
       - !ruby/regexp /Fraktion/i
+      - !ruby/regexp /^Magistrats$/i
       - !ruby/regexp /Exekutive|Legislative|Judikative/i
       - !ruby/regexp /Richter|Ersatzrichter|Gericht/i
       - !ruby/regexp /^Mandate$/i
