@@ -188,12 +188,14 @@ groups:
         - 36180 # SZ Fraktionsvorstand
         - 1837  # TG Parteivorstand
         - 39802 # TG Rechnungsprüfungskommission
+        - 5198  # ZH Vorstand
       - !ruby/regexp /Schiedsgericht/
       - !ruby/regexp /Kontrollkommission/i
       - !ruby/regexp /^Sektionskonferenz|Parteirat|Personalkommission$/i # BL
       - !ruby/regexp /^Wahlkampfteam$/i # BL #ZG
       - !ruby/regexp /^Parteirat$/i # BL
       - !ruby/regexp /^Comité Directeur$/i # FR
+      - !ruby/regexp /^Zentralvorstand$/i # ZG
       KantonPraesidium:
       - !ruby/regexp /^Partei$/i
       - !ruby/regexp /Parteivorstand|Parteileitung|Vorstand/i

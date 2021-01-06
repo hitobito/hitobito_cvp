@@ -9,9 +9,9 @@
   <KantonParteigremium id=2245, label=Kontrollkommission, parent_id=177>
   <KantonParteigremium id=2247, label=Schiedsgericht, parent_id=177>
   <KantonParteigremium id=2248, label=Wahlkampfteam, parent_id=177>
+  <KantonParteigremium id=2249, label=Zentralvorstand, parent_id=177>
   <KantonPraesidium id=667, label=Partei, parent_id=177>
   <KantonPraesidium id=2246, label=Präsidium, parent_id=177>
-  <KantonPraesidium id=2249, label=Zentralvorstand, parent_id=177>
   <Ort id=652, label=Baar, parent_id=177>
    <OrtSympathisanten id=18096, label=Sympathisanten, parent_id=652>
    <OrtGewaehlte id=40191, label=Exekutive, parent_id=652>

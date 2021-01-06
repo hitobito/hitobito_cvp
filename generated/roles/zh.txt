@@ -36,8 +36,8 @@
   <KantonMitglieder Mitgliedschaften [Mitglied 27], id:5194, 5181>
   <KantonParteigremium Kontrollkommission [Mitglied 4], id:5200, 5181>
   <KantonParteigremium Schiedsgericht [Mitglied 5], id:5201, 5181>
+  <KantonParteigremium Vorstand [Mitglied 50, tbd:Ansprechperson Finanzen 1], id:5198, 5181>
   <KantonPraesidium Präsidium [Mitglied 7, Praesident 2, tbd:Quästor 1], id:5197, 5181>
-  <KantonPraesidium Vorstand [Mitglied 50, tbd:Ansprechperson Finanzen 1], id:5198, 5181>
   <Region Bezirk Affoltern, id:5203, 5181>
    <RegionSympathisanten Sympathisanten [Sympathisant 8], id:18096, 5203>
    <RegionMitglieder Mitgliedschaften [Mitglied 8], id:5219, 5203>

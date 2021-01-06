@@ -36,8 +36,8 @@
   <KantonMitglieder id=5194, label=Mitgliedschaften, parent_id=5181>
   <KantonParteigremium id=5200, label=Kontrollkommission, parent_id=5181>
   <KantonParteigremium id=5201, label=Schiedsgericht, parent_id=5181>
+  <KantonParteigremium id=5198, label=Vorstand, parent_id=5181>
   <KantonPraesidium id=5197, label=Präsidium, parent_id=5181>
-  <KantonPraesidium id=5198, label=Vorstand, parent_id=5181>
   <Region id=5203, label=Bezirk Affoltern, parent_id=5181>
    <RegionSympathisanten id=18096, label=Sympathisanten, parent_id=5203>
    <RegionMitglieder id=5219, label=Mitgliedschaften, parent_id=5203>
