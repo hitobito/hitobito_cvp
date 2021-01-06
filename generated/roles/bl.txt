@@ -7,12 +7,8 @@
    <KantonArbeitsgruppe KAB Grossbasel-West [Mitglied 1], id:2671, 1000>
    <KantonArbeitsgruppe Mittelstandsvereinigung Basel [Mitglied 22, tbd:Sympathisant 10, tbd:Vorstandsmitglied 9], id:2674, 1000>
    <KantonArbeitsgruppe Vereinigung Christlicher Unternehmer Basel [Mitglied 41], id:2675, 1000>
-  <KantonArbeitsgruppe Parteirat [Mitglied 52], id:1005, 156>
-  <KantonArbeitsgruppe Personalkommission [Mitglied 1], id:1006, 156>
   <KantonArbeitsgruppe Petition, id:38498, 156>
    <KantonArbeitsgruppe 2015 [Mitglied 231], id:38499, 38498>
-  <KantonArbeitsgruppe Sektionskonferenz [Mitglied 31], id:1003, 156>
-  <KantonArbeitsgruppe Wahlkampfteam [Mitglied 9], id:1011, 156>
   <KantonExterneKontakte Newsletter [Kontakt 698], id:37659, 156>
   <KantonGewaehlte Regierungsrat [KantonaleExekutive 6], id:402, 156>
   <KantonGewaehlte Judikative, id:403, 156>
@@ -23,7 +19,11 @@
    <KantonGewaehlte Zivilkreisgericht West [tbd:Mitglied 2, tbd:Präsident 1], id:37664, 403>
   <KantonGewaehlte Legislative [KantonaleExekutive 3, KantonaleLegislative 20], id:404, 156>
   <KantonMitglieder Mitgliedschaften [Mitglied 172], id:405, 156>
+  <KantonParteigremium Parteirat [Mitglied 52], id:1005, 156>
+  <KantonParteigremium Personalkommission [Mitglied 1], id:1006, 156>
   <KantonParteigremium Schiedsgericht [Mitglied 2], id:1008, 156>
+  <KantonParteigremium Sektionskonferenz [Mitglied 31], id:1003, 156>
+  <KantonParteigremium Wahlkampfteam [Mitglied 9], id:1011, 156>
   <KantonPraesidium Partei [Mitglied 8, Praesident 2, tbd:Ansprechperson Finanzen 1, tbd:Botschafter 1, tbd:Delegierte Frauen 1, tbd:Gönner 2, tbd:Kader Mitgl. 263, tbd:Kassier 1, tbd:Landrat 03 Kandidat 43, tbd:Landrat 07 Kandidat 52, tbd:Medienverteiler 29, tbd:OM Ansprechperson 2, tbd:Plakatierer 4, tbd:Quästor 1, tbd:Sekretär Kantonalpartei/Vereinigung 4, tbd:Wahlkampfleiter 1, tbd:potentieller Wähler 867], id:409, 156>
   <KantonPraesidium Parteivorstand [Mitglied 30], id:1004, 156>
   <Ort Birsfelden, id:399, 156>

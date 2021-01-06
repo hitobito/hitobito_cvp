@@ -7,12 +7,8 @@
    <KantonArbeitsgruppe id=2671, label=KAB Grossbasel-West, parent_id=1000>
    <KantonArbeitsgruppe id=2674, label=Mittelstandsvereinigung Basel, parent_id=1000>
    <KantonArbeitsgruppe id=2675, label=Vereinigung Christlicher Unternehmer Basel, parent_id=1000>
-  <KantonArbeitsgruppe id=1005, label=Parteirat, parent_id=156>
-  <KantonArbeitsgruppe id=1006, label=Personalkommission, parent_id=156>
   <KantonArbeitsgruppe id=38498, label=Petition, parent_id=156>
    <KantonArbeitsgruppe id=38499, label=2015, parent_id=38498>
-  <KantonArbeitsgruppe id=1003, label=Sektionskonferenz, parent_id=156>
-  <KantonArbeitsgruppe id=1011, label=Wahlkampfteam, parent_id=156>
   <KantonExterneKontakte id=37659, label=Newsletter, parent_id=156>
   <KantonGewaehlte id=402, label=Regierungsrat, parent_id=156>
   <KantonGewaehlte id=403, label=Judikative, parent_id=156>
@@ -23,7 +19,11 @@
    <KantonGewaehlte id=37664, label=Zivilkreisgericht West, parent_id=403>
   <KantonGewaehlte id=404, label=Legislative, parent_id=156>
   <KantonMitglieder id=405, label=Mitgliedschaften, parent_id=156>
+  <KantonParteigremium id=1005, label=Parteirat, parent_id=156>
+  <KantonParteigremium id=1006, label=Personalkommission, parent_id=156>
   <KantonParteigremium id=1008, label=Schiedsgericht, parent_id=156>
+  <KantonParteigremium id=1003, label=Sektionskonferenz, parent_id=156>
+  <KantonParteigremium id=1011, label=Wahlkampfteam, parent_id=156>
   <KantonPraesidium id=409, label=Partei, parent_id=156>
   <KantonPraesidium id=1004, label=Parteivorstand, parent_id=156>
   <Ort id=399, label=Birsfelden, parent_id=156>

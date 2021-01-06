@@ -180,6 +180,9 @@ groups:
         - 37548 # AG Parteivorstand
       - !ruby/regexp /Schiedsgericht/
       - !ruby/regexp /Kontrollkommission/i
+      - !ruby/regexp /^Sektionskonferenz|Parteirat|Personalkommission$/i # BL
+      - !ruby/regexp /^Wahlkampfteam$/i # BL #ZG
+      - !ruby/regexp /^Parteirat$/i # BL
       KantonPraesidium:
       - !ruby/regexp /^Partei$/i
       - !ruby/regexp /Parteivorstand|Parteileitung|Vorstand/i
