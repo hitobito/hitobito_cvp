@@ -34,8 +34,8 @@
    <KantonKommission id=2627, label=UBV, parent_id=897>
    <KantonKommission id=2626, label=WiFi, parent_id=897>
   <KantonMitglieder id=350, label=Mitgliedschaften, parent_id=151>
+  <KantonParteigremium id=37548, label=Parteivorstand, parent_id=151>
   <KantonPraesidium id=37549, label=Parteileitung, parent_id=151>
-  <KantonPraesidium id=37548, label=Parteivorstand, parent_id=151>
   <Region id=336, label=Bezirk Aarau, parent_id=151>
    <RegionSympathisanten id=18096, label=Sympathisanten, parent_id=336>
    <RegionMitglieder id=753, label=Mitgliedschaften, parent_id=336>

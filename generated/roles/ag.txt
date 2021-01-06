@@ -34,8 +34,8 @@
    <KantonKommission UBV [Mitglied 11, Praesident 1], id:2627, 897>
    <KantonKommission WiFi [Mitglied 11, Praesident 2], id:2626, 897>
   <KantonMitglieder Mitgliedschaften [Mitglied 364], id:350, 151>
+  <KantonParteigremium Parteivorstand [Mitglied 76], id:37548, 151>
   <KantonPraesidium Parteileitung [Mitglied 35], id:37549, 151>
-  <KantonPraesidium Parteivorstand [Mitglied 76], id:37548, 151>
   <Region Bezirk Aarau, id:336, 151>
    <RegionSympathisanten Sympathisanten [Sympathisant 28], id:18096, 336>
    <RegionMitglieder Mitgliedschaften [Mitglied 254], id:753, 336>

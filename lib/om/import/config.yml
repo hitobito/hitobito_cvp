@@ -175,13 +175,15 @@ groups:
       KantonArbeitsgruppe:
       - !ruby/regexp /Fraktions-AG/i
       - !ruby/regexp /Fraktionsausflug/i
+      KantonParteigremium:
+      - ids:
+        - 37548 # AG Parteivorstand
+      - !ruby/regexp /Schiedsgericht/
+      - !ruby/regexp /Kontrollkommission/i
       KantonPraesidium:
       - !ruby/regexp /^Partei$/i
       - !ruby/regexp /Parteivorstand|Parteileitung|Vorstand/i
       - !ruby/regexp /^Präsidium$/i
-      KantonParteigremium:
-      - !ruby/regexp /Schiedsgericht/
-      - !ruby/regexp /Kontrollkommission/i
       KantonGewaehlte:
       - !ruby/regexp /Regionalpartei/i
       - !ruby/regexp /Fraktion/i
