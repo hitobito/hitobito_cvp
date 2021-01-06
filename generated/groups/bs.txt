@@ -26,9 +26,9 @@
    <KantonGewaehlte id=1033, label=Zivilgericht, parent_id=415>
   <KantonGewaehlte id=417, label=Legislative, parent_id=157>
   <KantonMitglieder id=418, label=Mitgliedschaften, parent_id=157>
-  <KantonPraesidium id=419, label=Partei, parent_id=157>
   <KantonPraesidium id=1043, label=Parteileitung, parent_id=157>
   <KantonPraesidium id=1045, label=Vorstand, parent_id=157>
+  <KantonSekretariat id=419, label=Partei, parent_id=157>
   <KantonSpender id=38316, label=Donatoren, parent_id=157>
   <Ort id=420, label=Riehen, parent_id=157>
    <OrtSympathisanten id=18096, label=Sympathisanten, parent_id=420>

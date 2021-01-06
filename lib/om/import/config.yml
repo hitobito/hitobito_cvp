@@ -169,6 +169,8 @@ groups:
             37857, 616, 617, 624, 620, 36301, 36298, 618, 36304, 626, 628, # VD
             652, 658, 660, 663, 665, 666, 668, 669, 670, 671, 672, # ZG
           ]
+      KantonSekretariat:
+        - ids: [419]
       KantonArbeitsgruppe:
       - !ruby/regexp /Fraktions-AG/i
       - !ruby/regexp /Fraktionsausflug/i
@@ -332,6 +334,9 @@ roles_new:
       - !ruby/regexp /Präsident/i
       Mitglied:
       - !ruby/regexp /Mitglied/i
+    KantonSekretariat:
+      Mitarbeiter:
+        - !ruby/regexp /^Empfänger/i
     KantonGewaehlte:
       MitgliedKantonalesGerichtErsteInstanz:
       - ['Ersatzrichter', 'Mitglied']
