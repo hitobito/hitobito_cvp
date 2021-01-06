@@ -5,6 +5,6 @@
  <BundGewaehlte Kantonale Fraktionen [tbd:Kantonaler Fraktionspräsident 39], id:14615, 1>
  <BundGewaehlte Nationalrat [Nationalrat 132, tbd:Nationalrat Partner 11], id:14860, 1>
  <BundGewaehlte Ständerat [Staenderat 46, tbd:Ständerat Partner 2], id:14861, 1>
+ <BundParteigremium Fraktionsvorstand [Mitglied 28], id:40, 1>
  <BundPraesidium Fraktions-Präsidium [tbd:Präsident 3, tbd:Vizepräsident 3], id:14870, 1>
- <BundPraesidium Fraktionsvorstand [tbd:Mitglied 28], id:40, 1>
  <BundSekretariat Fraktionssekretariat [tbd:Fraktionssekretär 2, tbd:Mitarbeiter 1, tbd:administrativer Fraktionssekretär 3], id:39, 1>

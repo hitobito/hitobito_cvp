@@ -96,6 +96,7 @@ groups:
       BundPraesidium:
       - !ruby/regexp /^Präsidium/i
       - !ruby/regexp /^Fraktions-Präsidium/i
+      BundParteigremium:
       - !ruby/regexp /^Fraktionsvorstand/i
       BundSekretariat:
       - !ruby/regexp /^Generalsekretariat/i
@@ -318,6 +319,9 @@ roles_new:
     BundSympathisanten:
       Sympathisant:
       - !ruby/regexp /symp/i
+    BundParteigremium:
+      Mitglied:
+      - !ruby/regexp /^Mitglied$/i
     VereinigungPraesidium:
       Praesident:
       - !ruby/regexp /Präsident/i

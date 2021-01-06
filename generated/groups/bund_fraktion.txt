@@ -5,6 +5,6 @@
  <BundGewaehlte id=14615, label=Kantonale Fraktionen, parent_id=1>
  <BundGewaehlte id=14860, label=Nationalrat, parent_id=1>
  <BundGewaehlte id=14861, label=Ständerat, parent_id=1>
+ <BundParteigremium id=40, label=Fraktionsvorstand, parent_id=1>
  <BundPraesidium id=14870, label=Fraktions-Präsidium, parent_id=1>
- <BundPraesidium id=40, label=Fraktionsvorstand, parent_id=1>
  <BundSekretariat id=39, label=Fraktionssekretariat, parent_id=1>
