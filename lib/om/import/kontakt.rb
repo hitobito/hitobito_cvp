@@ -31,7 +31,10 @@ module Import
         rows = batch.collect do |kontakt|
           row = kontakt.prepare
           phone_numbers.track(kontakt)
-          email = row[:email]
+
+          email = row[:email].to_s.delete('()')
+          email = nil unless email =~ /@/
+
           next row if uniq?(email)
           next row.merge(email: nil) if duplicate?(email)
           row.tap { duplicate_emails[email] = :seen }
