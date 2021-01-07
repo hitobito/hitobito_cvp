@@ -11,18 +11,38 @@ module Import
     end
 
     def merge
-      FileUtils.rm_rf(logfile)
-      PersonDuplicate.find_each do |duplicate|
-        process(duplicate)
+      PersonDuplicate.includes(:person_1, :person_2).find_each do |duplicate|
+        if email?(duplicate)
+          process(duplicate)
+        else
+          logger.warn "No email for #{details(duplicate)}"
+        end
       end
     end
 
     def process(duplicate)
-      People::Merger.new(duplicate.person_1_id, duplicate.person_2_id, actor).merge! do
-        logger.info "Merging #{duplicate.person_1} (#{duplicate.person_1_id})"
+      source, target = *sorted(duplicate)
+      People::Merger.new(source, target, actor).merge! do
+        logger.info "Merging #{details(duplicate)}"
       end
     rescue => e
-      logger.warn "#{e.message}: #{duplicate.person_1} (#{duplicate.person_1_id})"
+      logger.warn "#{e.message}: #{details(duplicate)}"
+    end
+
+    def email?(duplicate)
+      [duplicate.person_1, duplicate.person_2].any?(&:email?)
+    end
+
+    # returns duplicate without email first
+    def sorted(duplicate)
+      [duplicate.person_2, duplicate.person_1].sort_by {|x| x.email.to_s }.reverse
+    end
+
+    def details(duplicate)
+      [duplicate.person_1, duplicate.person_2].collect do |person|
+        infos = [person.zip_code, person.birthday, person.email]
+        "#{person}(#{person.id}) #{infos}"
+      end.join(' - ')
     end
 
     def logger
@@ -30,7 +50,9 @@ module Import
     end
 
     def logfile
-      Rails.root.join('duplicates.txt')
+      @logfile ||= Rails.root.join('duplicates.txt').tap do |file|
+        FileUtils.rm_rf(file)
+      end
     end
 
     def actor
