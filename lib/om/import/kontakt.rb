@@ -31,18 +31,23 @@ module Import
         rows = batch.collect do |kontakt|
           row = kontakt.prepare
           phone_numbers.track(kontakt)
-
-          email = row[:email].to_s.delete('()')
-          email = nil unless email =~ /@/
-
-          next row if uniq?(email)
-          next row.merge(email: nil) if duplicate?(email)
-          row.tap { duplicate_emails[email] = :seen }
+          handle_email(row)
+          row
         end
         upsert(::Person, rows)
       end
       ensure_all_imported
       phone_numbers.run
+    end
+
+    def handle_email(row)
+      email = row[:email].to_s.delete('()')
+      if email =~ /@/
+        row[:email] = nil if duplicate?(email)
+        duplicate_emails[email] = :seen
+      else
+        row[:email] = nil
+      end
     end
 
     def phone_numbers
@@ -51,10 +56,6 @@ module Import
 
     def ensure_all_imported
       fail " expected #{@total} Person, got #{::Person.count}" unless @total == (::Person.count - 1)
-    end
-
-    def uniq?(email)
-      !duplicate_emails.key?(email)
     end
 
     def duplicate?(email)
