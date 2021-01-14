@@ -32,6 +32,9 @@ module Import
       ActiveRecord::Base.logger.level = 1
       Group.all_types.each { |type| type.default_children = [] }
 
+      fail "no nested set -> Verband.rebuild!" if ::Verband.where(lft: nil).exists?
+      fail "no depth set  -> Verband.set_depth!" unless ::Verband.where(depth: 0).one?
+
       models.each do |model|
         ActiveRecord::Base.connection.truncate(model.table_name)
       end
