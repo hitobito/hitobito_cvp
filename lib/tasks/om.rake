@@ -1,5 +1,11 @@
 namespace :om do
 
+  desc "Import to postgres and then to mysql"
+  task :import do
+    Rake::Task['om:source:run'].invoke
+    Rake::Task['om:target:publish'].invoke
+  end
+
   namespace :source do
     desc 'Runs all steps necessary'
     task :run, [:file] do |_t, args|

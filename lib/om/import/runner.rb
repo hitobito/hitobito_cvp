@@ -7,14 +7,14 @@ module Import
       cvp_be_muri: [1, 29, 154, 376],
       cvp_ag_lu_sg: [1, 29, [151, 163, 167]],
       cvp_ag: [1, 29, 151],
-      cvp_lu: [1, 29, 163, 34110, 1422],
+      cvp_lu: [1, 29, 163, 34_110, 1422],
       cvp_sg: [1, 29, 167],
       cvp_ag_aarau: [1, 29, 151, [336]],
       cvp_ag_baden: [1, 29, 151, [337]],
       cvp_ag_zurzach: [1, 29, 151, [346]],
       cvp_sg_rheintal: [1, 29, 167, [537]],
-      cvp_sg_gossau: [1, 29, 167, [541]],
-    }
+      cvp_sg_gossau: [1, 29, 167, [541]]
+    }.freeze
 
     def self.run(tree: nil, depth: nil, validate: nil)
       new(tree, depth, validate: validate).run
@@ -26,21 +26,6 @@ module Import
       @validate = validate
     end
 
-    def prepare
-      ActiveSupport::Deprecation.debug = true
-      ActiveSupport::Deprecation.silenced = true
-      ActiveRecord::Base.logger.level = 1
-      Group.all_types.each { |type| type.default_children = [] }
-
-      fail "no nested set -> Verband.rebuild!" if ::Verband.where(lft: nil).exists?
-      fail "no depth set  -> Verband.set_depth!" unless ::Verband.where(depth: 0).one?
-
-      models.each do |model|
-        ActiveRecord::Base.connection.truncate(model.table_name)
-      end
-      load 'db/seeds/root.rb'
-    end
-
     def groups
       @groups ||= measured "Reading #{@tree || 'all'}" do
         group_ids = Structure::Groups::MAPPINGS.merge(SUBTREES).fetch(@tree, [1])
@@ -48,7 +33,7 @@ module Import
       end
     end
 
-    def models
+    def models # rubocop:disable Metrics/MethodLength
       [
         ::Person,
         Role,
@@ -58,13 +43,10 @@ module Import
         Invoice,
         PersonDuplicate,
         ActsAsTaggableOn::Tag,
-        ActsAsTaggableOn::Tagging
-      ].tap do |list|
-        next unless defined?(InvoiceList)
-        list << InvoiceList
-        list << Invoice
-      end
-
+        ActsAsTaggableOn::Tagging,
+        InvoiceList,
+        Invoice
+      ]
     end
 
     def run
@@ -86,10 +68,8 @@ module Import
     end
 
     def invoice_data_import
-      if defined?(InvoiceList)
-        import_kampagnen
-        import_spenden
-      end
+      import_kampagnen
+      import_spenden
     end
 
     def run_validations
@@ -112,20 +92,20 @@ module Import
     end
 
     def rebuild_groups
-      measured "Rebuilding groups, seeding data" do
+      measured 'Rebuilding groups, seeding data' do
         Group.rebuild!
         Target::Seeder.run
       end
     end
 
     def mark_invalid_addresses
-      measured "Mark invalid addresses" do
+      measured 'Mark invalid addresses' do
         Contactable::AddressValidator.new.validate_people
       end
     end
 
     def mark_invalid_emails
-      measured "Mark invalid emails" do
+      measured 'Mark invalid emails' do
         Contactable::EmailValidator.new.validate_people
       end
     end
@@ -162,8 +142,10 @@ module Import
       Import::PrimaryGroups.run
     end
 
-    def kunden_ids
-      groups.flat_map { |g| g.roles.collect(&:kunden_id) }
+    def prepare
+      measured 'Preperations' do
+        Prepare.new(models).run
+      end
     end
   end
 end
