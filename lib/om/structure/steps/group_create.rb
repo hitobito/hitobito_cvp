@@ -11,10 +11,10 @@ module Structure::Steps
     end
 
     def build(parent, mapping)
-       group = Structure::GroupRow.new(next_id, mapping[:child], parent.id, parent)
-       group.type = "#{parent.type}#{mapping[:child]}"
-       parent.children += [group]
-       group
+      group = Structure::GroupRow.new(next_id, mapping[:child], parent.id, parent)
+      group.type = "#{parent.type}#{mapping[:child]}"
+      parent.children += [group]
+      group
     end
 
     def missing?(children, mapping)
@@ -26,7 +26,7 @@ module Structure::Steps
     end
 
     def next_id
-      @next_id ||= Verband.maximum(:lft) || 20_000
+      @next_id ||= Verband.maximum(:verbandstruktur_id)
       @next_id += 1
     end
 
