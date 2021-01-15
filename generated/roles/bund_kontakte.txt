@@ -20,7 +20,7 @@
    <BundExterneKontakte Rechtsfragen (SE) [Kontakt 6], id:39423, 39415>
    <BundExterneKontakte Religion (SE) [Kontakt 2], id:39424, 39415>
    <BundExterneKontakte Service Public (IC) [Kontakt 1], id:39425, 39415>
-   <BundExterneKontakte Sicherheit (SE) [Kontakt 7], id:39426, 39415>
+   <BundExterneKontakte Sicherheit (SE) [Kontakt 6], id:39426, 39415>
    <BundExterneKontakte Staatsfinanzen (IC) [Kontakt 3], id:39427, 39415>
    <BundExterneKontakte Strassenverkehr (IC) [Kontakt 2], id:39428, 39415>
    <BundExterneKontakte Tabak (JP) [Kontakt 2], id:39429, 39415>

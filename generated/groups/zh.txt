@@ -1,6 +1,6 @@
 <Bund id=1, label=CVP Schweiz, parent_id=>
  <Kanton id=5181, label=CVP ZH, parent_id=1>
-  <KantonSympathisanten id=18095, label=Sympathisanten, parent_id=5181>
+  <KantonSympathisanten id=40419, label=Sympathisanten, parent_id=5181>
   <KantonArbeitsgruppe id=39303, label=Anlasseinladungen, parent_id=5181>
   <KantonArbeitsgruppe id=5202, label=Sekretariat, parent_id=5181>
   <KantonArbeitsgruppe id=37415, label=Sekretär Kantonalpartei, parent_id=5181>
@@ -39,12 +39,12 @@
   <KantonParteigremium id=5198, label=Vorstand, parent_id=5181>
   <KantonPraesidium id=5197, label=Präsidium, parent_id=5181>
   <Region id=5203, label=Bezirk Affoltern, parent_id=5181>
-   <RegionSympathisanten id=18096, label=Sympathisanten, parent_id=5203>
+   <RegionSympathisanten id=40420, label=Sympathisanten, parent_id=5203>
    <RegionMitglieder id=5219, label=Mitgliedschaften, parent_id=5203>
    <RegionPraesidium id=5222, label=Vorstand, parent_id=5203>
    <RegionSekretariat id=5224, label=Sekretariat, parent_id=5203>
    <Ort id=5485, label=Affoltern, parent_id=5203>
-    <OrtSympathisanten id=18097, label=Sympathisanten, parent_id=5485>
+    <OrtSympathisanten id=40421, label=Sympathisanten, parent_id=5485>
     <OrtMitglieder id=5491, label=Mitgliedschaften, parent_id=5485>
     <OrtPraesidium id=5493, label=Vorstand, parent_id=5485>
     <OrtSekretariat id=5494, label=Sekretariat, parent_id=5485>
@@ -54,7 +54,7 @@
     <OrtPraesidium id=5693, label=Vorstand, parent_id=5685>
     <OrtSekretariat id=5694, label=Sekretariat, parent_id=5685>
    <Ort id=5885, label=Obfelden, parent_id=5203>
-    <OrtSympathisanten id=18099, label=Sympathisanten, parent_id=5885>
+    <OrtSympathisanten id=40423, label=Sympathisanten, parent_id=5885>
     <OrtGewaehlte id=5886, label=Bildung, parent_id=5885>
      <OrtGewaehlte id=5887, label=Schulpflege, parent_id=5886>
     <OrtGewaehlte id=5889, label=Exekutive, parent_id=5885>
@@ -62,7 +62,7 @@
     <OrtPraesidium id=5893, label=Vorstand, parent_id=5885>
     <OrtSekretariat id=5894, label=Sekretariat, parent_id=5885>
   <Region id=5403, label=Bezirk Andelfingen, parent_id=5181>
-   <RegionSympathisanten id=18100, label=Sympathisanten, parent_id=5403>
+   <RegionSympathisanten id=40424, label=Sympathisanten, parent_id=5403>
    <RegionDelegierte id=5423, label=DV, parent_id=5403>
    <RegionMitglieder id=5419, label=Mitgliedschaften, parent_id=5403>
    <RegionPraesidium id=5422, label=Vorstand, parent_id=5403>
@@ -72,7 +72,7 @@
      <OrtGewaehlte id=6087, label=Schulpflege, parent_id=6086>
     <OrtGewaehlte id=6089, label=Exekutive, parent_id=6085>
   <Region id=5225, label=Bezirk Bülach, parent_id=5181>
-   <RegionSympathisanten id=18104, label=Sympathisanten, parent_id=5225>
+   <RegionSympathisanten id=40428, label=Sympathisanten, parent_id=5225>
    <RegionDelegierte id=5241, label=DV, parent_id=5225>
    <RegionGewaehlte id=5235, label=Judikative, parent_id=5225>
     <RegionGewaehlte id=5236, label=Bezirksgericht, parent_id=5235>
@@ -80,19 +80,19 @@
    <RegionPraesidium id=5239, label=Präsidium, parent_id=5225>
    <RegionPraesidium id=5240, label=Vorstand, parent_id=5225>
    <Ort id=6485, label=Bassersdorf, parent_id=5225>
-    <OrtSympathisanten id=18105, label=Sympathisanten, parent_id=6485>
+    <OrtSympathisanten id=40429, label=Sympathisanten, parent_id=6485>
     <OrtMitglieder id=6491, label=Mitgliedschaften, parent_id=6485>
     <OrtPraesidium id=6493, label=Vorstand, parent_id=6485>
     <OrtSekretariat id=6494, label=Sekretariat, parent_id=6485>
    <Ort id=5269, label=Bülach, parent_id=5225>
-    <OrtSympathisanten id=18106, label=Sympathisanten, parent_id=5269>
+    <OrtSympathisanten id=40430, label=Sympathisanten, parent_id=5269>
     <OrtGewaehlte id=5270, label=Bildung, parent_id=5269>
      <OrtGewaehlte id=5271, label=Schulpflege, parent_id=5270>
     <OrtMitglieder id=5280, label=Mitgliedschaften, parent_id=5269>
     <OrtPraesidium id=5283, label=Vorstand, parent_id=5269>
     <OrtSekretariat id=5284, label=Sekretariat, parent_id=5269>
    <Ort id=6685, label=Embrach, parent_id=5225>
-    <OrtSympathisanten id=18107, label=Sympathisanten, parent_id=6685>
+    <OrtSympathisanten id=40431, label=Sympathisanten, parent_id=6685>
     <OrtArbeitsgruppe id=14525, label=Übrige Behörden, parent_id=6685>
      <OrtArbeitsgruppe id=38012, label=Sozialbehörde, parent_id=14525>
     <OrtGewaehlte id=6686, label=Bildung, parent_id=6685>
@@ -102,7 +102,7 @@
     <OrtPraesidium id=6693, label=Vorstand, parent_id=6685>
     <OrtSekretariat id=6694, label=Sekretariat, parent_id=6685>
    <Ort id=5469, label=Kloten, parent_id=5225>
-    <OrtSympathisanten id=18108, label=Sympathisanten, parent_id=5469>
+    <OrtSympathisanten id=40432, label=Sympathisanten, parent_id=5469>
     <OrtArbeitsgruppe id=14504, label=Übrige Behörden, parent_id=5469>
     <OrtGewaehlte id=5470, label=Bildung, parent_id=5469>
      <OrtGewaehlte id=5471, label=Schulpflege, parent_id=5470>
@@ -114,7 +114,7 @@
     <OrtPraesidium id=5483, label=Vorstand, parent_id=5469>
     <OrtSekretariat id=5484, label=Sekretariat, parent_id=5469>
    <Ort id=5669, label=Opfikon-Glattbrugg, parent_id=5225>
-    <OrtSympathisanten id=18109, label=Sympathisanten, parent_id=5669>
+    <OrtSympathisanten id=40433, label=Sympathisanten, parent_id=5669>
     <OrtArbeitsgruppe id=14508, label=Übrige Behörden, parent_id=5669>
      <OrtArbeitsgruppe id=15055, label=Sozialbehörden, parent_id=14508>
      <OrtArbeitsgruppe id=33210, label=Vormundschaftsbehörden, parent_id=14508>
@@ -130,7 +130,7 @@
     <OrtPraesidium id=5683, label=Vorstand, parent_id=5669>
     <OrtSekretariat id=5684, label=Sekretariat, parent_id=5669>
    <Ort id=6885, label=Wallisellen, parent_id=5225>
-    <OrtSympathisanten id=18110, label=Sympathisanten, parent_id=6885>
+    <OrtSympathisanten id=40434, label=Sympathisanten, parent_id=6885>
     <OrtGewaehlte id=6886, label=Bildung, parent_id=6885>
      <OrtGewaehlte id=6887, label=Schulpflege, parent_id=6886>
     <OrtMitglieder id=6891, label=Mitgliedschaften, parent_id=6885>
@@ -142,7 +142,7 @@
    <RegionMitglieder id=5619, label=Mitgliedschaften, parent_id=5603>
    <RegionPraesidium id=5622, label=Vorstand, parent_id=5603>
    <Ort id=7085, label=Niederhasli-Niederglatt, parent_id=5603>
-    <OrtSympathisanten id=18113, label=Sympathisanten, parent_id=7085>
+    <OrtSympathisanten id=40437, label=Sympathisanten, parent_id=7085>
     <OrtArbeitsgruppe id=14529, label=Übrige Behörden, parent_id=7085>
      <OrtArbeitsgruppe id=15038, label=RPK, parent_id=14529>
     <OrtGewaehlte id=7086, label=Bildung, parent_id=7085>
@@ -152,7 +152,7 @@
     <OrtPraesidium id=7093, label=Vorstand, parent_id=7085>
     <OrtSekretariat id=7094, label=Sekretariat, parent_id=7085>
    <Ort id=7285, label=Regensdorf-Furttal, parent_id=5603>
-    <OrtSympathisanten id=18114, label=Sympathisanten, parent_id=7285>
+    <OrtSympathisanten id=40438, label=Sympathisanten, parent_id=7285>
     <OrtArbeitsgruppe id=14530, label=Übrige Behörden, parent_id=7285>
      <OrtArbeitsgruppe id=15037, label=RPK, parent_id=14530>
     <OrtGewaehlte id=7286, label=Bildung, parent_id=7285>
@@ -162,19 +162,18 @@
     <OrtPraesidium id=7293, label=Vorstand, parent_id=7285>
     <OrtSekretariat id=7294, label=Sekretariat, parent_id=7285>
    <Ort id=5604, label=zz-Orte ohne CVP Partei, parent_id=5603>
-    <OrtGewaehlte id=5606, label=Bildung, parent_id=5604>
-     <OrtGewaehlte id=5607, label=Schulpflege, parent_id=5606>
     <OrtGewaehlte id=5609, label=Exekutive, parent_id=5604>
   <Region id=5625, label=Bezirk Dietikon, parent_id=5181>
-   <RegionSympathisanten id=18116, label=Sympathisanten, parent_id=5625>
+   <RegionSympathisanten id=40440, label=Sympathisanten, parent_id=5625>
    <RegionDelegierte id=5641, label=DV, parent_id=5625>
    <RegionGewaehlte id=5633, label=Exekutive, parent_id=5625>
     <RegionGewaehlte id=5634, label=Bezirksrat, parent_id=5633>
+   <RegionMitglieder id=5637, label=Mitgliedschaften, parent_id=5625>
    <RegionPraesidium id=5639, label=Präsidium, parent_id=5625>
    <RegionPraesidium id=5640, label=Vorstand, parent_id=5625>
    <RegionSekretariat id=5642, label=Sekretariat, parent_id=5625>
    <Ort id=7485, label=Birmensdorf, parent_id=5625>
-    <OrtSympathisanten id=18117, label=Sympathisanten, parent_id=7485>
+    <OrtSympathisanten id=40441, label=Sympathisanten, parent_id=7485>
     <OrtArbeitsgruppe id=14531, label=Übrige Behörden, parent_id=7485>
     <OrtGewaehlte id=7486, label=Bildung, parent_id=7485>
      <OrtGewaehlte id=7487, label=Schulpflege, parent_id=7486>
@@ -183,7 +182,7 @@
     <OrtPraesidium id=7493, label=Vorstand, parent_id=7485>
     <OrtSekretariat id=7494, label=Sekretariat, parent_id=7485>
    <Ort id=5869, label=Dietikon, parent_id=5625>
-    <OrtSympathisanten id=18118, label=Sympathisanten, parent_id=5869>
+    <OrtSympathisanten id=40442, label=Sympathisanten, parent_id=5869>
     <OrtGewaehlte id=5870, label=Bildung, parent_id=5869>
      <OrtGewaehlte id=5871, label=Schulpflege, parent_id=5870>
     <OrtGewaehlte id=5875, label=Legislative, parent_id=5869>
@@ -195,7 +194,7 @@
     <OrtPraesidium id=5883, label=Vorstand, parent_id=5869>
     <OrtSekretariat id=5884, label=Sekretariat, parent_id=5869>
    <Ort id=7685, label=Geroldswil, parent_id=5625>
-    <OrtSympathisanten id=18119, label=Sympathisanten, parent_id=7685>
+    <OrtSympathisanten id=40443, label=Sympathisanten, parent_id=7685>
     <OrtGewaehlte id=7686, label=Bildung, parent_id=7685>
      <OrtGewaehlte id=7687, label=Schulpflege, parent_id=7686>
     <OrtGewaehlte id=7689, label=Exekutive, parent_id=7685>
@@ -203,15 +202,13 @@
     <OrtPraesidium id=7693, label=Vorstand, parent_id=7685>
     <OrtSekretariat id=7694, label=Sekretariat, parent_id=7685>
    <Ort id=7885, label=Oberengstringen, parent_id=5625>
-    <OrtSympathisanten id=18120, label=Sympathisanten, parent_id=7885>
-    <OrtGewaehlte id=7886, label=Bildung, parent_id=7885>
-     <OrtGewaehlte id=7887, label=Schulpflege, parent_id=7886>
+    <OrtSympathisanten id=40444, label=Sympathisanten, parent_id=7885>
     <OrtGewaehlte id=7889, label=Exekutive, parent_id=7885>
     <OrtMitglieder id=7891, label=Mitgliedschaften, parent_id=7885>
     <OrtPraesidium id=7893, label=Vorstand, parent_id=7885>
     <OrtSekretariat id=7894, label=Sekretariat, parent_id=7885>
    <Ort id=6069, label=Schlieren, parent_id=5625>
-    <OrtSympathisanten id=18121, label=Sympathisanten, parent_id=6069>
+    <OrtSympathisanten id=40445, label=Sympathisanten, parent_id=6069>
     <OrtArbeitsgruppe id=14516, label=Übrige Behörden, parent_id=6069>
     <OrtGewaehlte id=6070, label=Bildung, parent_id=6069>
      <OrtGewaehlte id=6071, label=Schulpflege, parent_id=6070>
@@ -222,14 +219,14 @@
     <OrtPraesidium id=6083, label=Vorstand, parent_id=6069>
     <OrtSekretariat id=6084, label=Sekretariat, parent_id=6069>
    <Ort id=8085, label=Uitikon, parent_id=5625>
-    <OrtSympathisanten id=18122, label=Sympathisanten, parent_id=8085>
+    <OrtSympathisanten id=40446, label=Sympathisanten, parent_id=8085>
     <OrtGewaehlte id=8086, label=Bildung, parent_id=8085>
      <OrtGewaehlte id=8087, label=Schulpflege, parent_id=8086>
     <OrtMitglieder id=8091, label=Mitgliedschaften, parent_id=8085>
     <OrtPraesidium id=8093, label=Vorstand, parent_id=8085>
     <OrtSekretariat id=8094, label=Sekretariat, parent_id=8085>
    <Ort id=8285, label=Urdorf, parent_id=5625>
-    <OrtSympathisanten id=18123, label=Sympathisanten, parent_id=8285>
+    <OrtSympathisanten id=40447, label=Sympathisanten, parent_id=8285>
     <OrtGewaehlte id=8286, label=Bildung, parent_id=8285>
      <OrtGewaehlte id=8287, label=Schulpflege, parent_id=8286>
     <OrtMitglieder id=8291, label=Mitgliedschaften, parent_id=8285>
@@ -241,7 +238,7 @@
    <RegionPraesidium id=5822, label=Vorstand, parent_id=5803>
    <RegionSekretariat id=5824, label=Sekretariat, parent_id=5803>
    <Ort id=8485, label=Bubikon, parent_id=5803>
-    <OrtSympathisanten id=18125, label=Sympathisanten, parent_id=8485>
+    <OrtSympathisanten id=40449, label=Sympathisanten, parent_id=8485>
     <OrtGewaehlte id=8486, label=Bildung, parent_id=8485>
      <OrtGewaehlte id=8487, label=Schulpflege, parent_id=8486>
     <OrtGewaehlte id=8489, label=Exekutive, parent_id=8485>
@@ -256,7 +253,7 @@
     <OrtPraesidium id=8693, label=Vorstand, parent_id=8685>
     <OrtSekretariat id=8694, label=Sekretariat, parent_id=8685>
    <Ort id=8885, label=Gossau, parent_id=5803>
-    <OrtSympathisanten id=18127, label=Sympathisanten, parent_id=8885>
+    <OrtSympathisanten id=40451, label=Sympathisanten, parent_id=8885>
     <OrtArbeitsgruppe id=14538, label=Übrige Behörden, parent_id=8885>
     <OrtGewaehlte id=8886, label=Bildung, parent_id=8885>
      <OrtGewaehlte id=8887, label=Schulpflege, parent_id=8886>
@@ -264,14 +261,14 @@
     <OrtPraesidium id=8893, label=Vorstand, parent_id=8885>
     <OrtSekretariat id=8894, label=Sekretariat, parent_id=8885>
    <Ort id=9085, label=Hinwil, parent_id=5803>
-    <OrtSympathisanten id=18128, label=Sympathisanten, parent_id=9085>
+    <OrtSympathisanten id=40452, label=Sympathisanten, parent_id=9085>
     <OrtGewaehlte id=9086, label=Bildung, parent_id=9085>
      <OrtGewaehlte id=9087, label=Schulpflege, parent_id=9086>
     <OrtMitglieder id=9091, label=Mitgliedschaften, parent_id=9085>
     <OrtPraesidium id=9093, label=Vorstand, parent_id=9085>
     <OrtSekretariat id=9094, label=Sekretariat, parent_id=9085>
    <Ort id=9285, label=Rüti, parent_id=5803>
-    <OrtSympathisanten id=18129, label=Sympathisanten, parent_id=9285>
+    <OrtSympathisanten id=40453, label=Sympathisanten, parent_id=9285>
     <OrtArbeitsgruppe id=36353, label=Club 21, parent_id=9285>
     <OrtArbeitsgruppe id=36620, label=Ehrenmitglieder, parent_id=9285>
     <OrtArbeitsgruppe id=39681, label=Streuadressen, parent_id=9285>
@@ -288,7 +285,7 @@
     <OrtMitglieder id=9291, label=Mitgliedschaften, parent_id=9285>
     <OrtPraesidium id=9293, label=Vorstand, parent_id=9285>
    <Ort id=9485, label=Wald, parent_id=5803>
-    <OrtSympathisanten id=18130, label=Sympathisanten, parent_id=9485>
+    <OrtSympathisanten id=40454, label=Sympathisanten, parent_id=9485>
     <OrtGewaehlte id=9486, label=Bildung, parent_id=9485>
      <OrtGewaehlte id=9487, label=Schulpflege, parent_id=9486>
     <OrtMitglieder id=9491, label=Mitgliedschaften, parent_id=9485>
@@ -307,7 +304,7 @@
    <RegionPraesidium id=5840, label=Vorstand, parent_id=5825>
    <RegionSekretariat id=5842, label=Sekretariat, parent_id=5825>
    <Ort id=6269, label=Adliswil, parent_id=5825>
-    <OrtSympathisanten id=18133, label=Sympathisanten, parent_id=6269>
+    <OrtSympathisanten id=40457, label=Sympathisanten, parent_id=6269>
     <OrtArbeitsgruppe id=14519, label=Übrige Behörden, parent_id=6269>
      <OrtArbeitsgruppe id=15052, label=Sozialbehörden, parent_id=14519>
     <OrtGewaehlte id=6270, label=Bildung, parent_id=6269>
@@ -321,7 +318,7 @@
     <OrtPraesidium id=6283, label=Vorstand, parent_id=6269>
     <OrtSekretariat id=6284, label=Sekretariat, parent_id=6269>
    <Ort id=9885, label=Horgen, parent_id=5825>
-    <OrtSympathisanten id=18134, label=Sympathisanten, parent_id=9885>
+    <OrtSympathisanten id=40458, label=Sympathisanten, parent_id=9885>
     <OrtArbeitsgruppe id=38203, label=Gönner, parent_id=9885>
     <OrtArbeitsgruppe id=38642, label=Rentner, parent_id=9885>
     <OrtArbeitsgruppe id=14543, label=Übrige Behörden, parent_id=9885>
@@ -335,13 +332,13 @@
     <OrtPraesidium id=9893, label=Vorstand, parent_id=9885>
     <OrtSekretariat id=9894, label=Sekretariat, parent_id=9885>
    <Ort id=10085, label=Kilchberg, parent_id=5825>
-    <OrtSympathisanten id=18135, label=Sympathisanten, parent_id=10085>
+    <OrtSympathisanten id=40459, label=Sympathisanten, parent_id=10085>
     <OrtGewaehlte id=10089, label=Exekutive, parent_id=10085>
     <OrtMitglieder id=10091, label=Mitgliedschaften, parent_id=10085>
     <OrtPraesidium id=10093, label=Vorstand, parent_id=10085>
     <OrtSekretariat id=10094, label=Sekretariat, parent_id=10085>
    <Ort id=10285, label=Langnau, parent_id=5825>
-    <OrtSympathisanten id=18136, label=Sympathisanten, parent_id=10285>
+    <OrtSympathisanten id=40460, label=Sympathisanten, parent_id=10285>
     <OrtArbeitsgruppe id=14545, label=Übrige Behörden, parent_id=10285>
      <OrtArbeitsgruppe id=15022, label=RPK, parent_id=14545>
     <OrtGewaehlte id=10286, label=Bildung, parent_id=10285>
@@ -351,7 +348,7 @@
     <OrtPraesidium id=10293, label=Vorstand, parent_id=10285>
     <OrtSekretariat id=10294, label=Sekretariat, parent_id=10285>
    <Ort id=10485, label=Oberrieden, parent_id=5825>
-    <OrtSympathisanten id=18137, label=Sympathisanten, parent_id=10485>
+    <OrtSympathisanten id=40461, label=Sympathisanten, parent_id=10485>
     <OrtArbeitsgruppe id=14546, label=Übrige Behörden, parent_id=10485>
      <OrtArbeitsgruppe id=15021, label=RPK, parent_id=14546>
     <OrtGewaehlte id=10486, label=Bildung, parent_id=10485>
@@ -369,13 +366,13 @@
     <OrtPraesidium id=10693, label=Vorstand, parent_id=10685>
     <OrtSekretariat id=10694, label=Sekretariat, parent_id=10685>
    <Ort id=10885, label=Rüschlikon, parent_id=5825>
-    <OrtSympathisanten id=18139, label=Sympathisanten, parent_id=10885>
+    <OrtSympathisanten id=40463, label=Sympathisanten, parent_id=10885>
     <OrtGewaehlte id=10889, label=Exekutive, parent_id=10885>
     <OrtMitglieder id=10891, label=Mitgliedschaften, parent_id=10885>
     <OrtPraesidium id=10893, label=Vorstand, parent_id=10885>
     <OrtSekretariat id=10894, label=Sekretariat, parent_id=10885>
    <Ort id=11085, label=Thalwil, parent_id=5825>
-    <OrtSympathisanten id=18140, label=Sympathisanten, parent_id=11085>
+    <OrtSympathisanten id=40464, label=Sympathisanten, parent_id=11085>
     <OrtGewaehlte id=11086, label=Bildung, parent_id=11085>
      <OrtGewaehlte id=11087, label=Schulpflege, parent_id=11086>
     <OrtGewaehlte id=11089, label=Exekutive, parent_id=11085>
@@ -383,7 +380,7 @@
     <OrtPraesidium id=11093, label=Vorstand, parent_id=11085>
     <OrtSekretariat id=11094, label=Sekretariat, parent_id=11085>
    <Ort id=6469, label=Wädenswil, parent_id=5825>
-    <OrtSympathisanten id=18141, label=Sympathisanten, parent_id=6469>
+    <OrtSympathisanten id=40465, label=Sympathisanten, parent_id=6469>
     <OrtArbeitsgruppe id=14522, label=Übrige Behörden, parent_id=6469>
      <OrtArbeitsgruppe id=15051, label=Sozialbehörden, parent_id=14522>
     <OrtGewaehlte id=6470, label=Bildung, parent_id=6469>
@@ -398,40 +395,40 @@
     <OrtPraesidium id=6483, label=Vorstand, parent_id=6469>
     <OrtSekretariat id=6484, label=Sekretariat, parent_id=6469>
   <Region id=6025, label=Bezirk Meilen, parent_id=5181>
-   <RegionSympathisanten id=18142, label=Sympathisanten, parent_id=6025>
+   <RegionSympathisanten id=40466, label=Sympathisanten, parent_id=6025>
    <RegionDelegierte id=6041, label=DV, parent_id=6025>
    <RegionMitglieder id=6037, label=Mitgliedschaften, parent_id=6025>
    <RegionPraesidium id=6039, label=Präsidium, parent_id=6025>
    <RegionPraesidium id=6040, label=Vorstand, parent_id=6025>
    <RegionSekretariat id=6042, label=Sekretariat, parent_id=6025>
    <Ort id=11285, label=Erlenbach-Küsnacht, parent_id=6025>
-    <OrtSympathisanten id=18143, label=Sympathisanten, parent_id=11285>
+    <OrtSympathisanten id=40467, label=Sympathisanten, parent_id=11285>
     <OrtGewaehlte id=11286, label=Bildung, parent_id=11285>
      <OrtGewaehlte id=11287, label=Schulpflege, parent_id=11286>
     <OrtMitglieder id=11291, label=Mitgliedschaften, parent_id=11285>
     <OrtPraesidium id=11293, label=Vorstand, parent_id=11285>
     <OrtSekretariat id=11294, label=Sekretariat, parent_id=11285>
    <Ort id=11485, label=Herrliberg, parent_id=6025>
-    <OrtSympathisanten id=18144, label=Sympathisanten, parent_id=11485>
+    <OrtSympathisanten id=40468, label=Sympathisanten, parent_id=11485>
     <OrtGewaehlte id=11486, label=Bildung, parent_id=11485>
      <OrtGewaehlte id=11487, label=Schulpflege, parent_id=11486>
     <OrtMitglieder id=11491, label=Mitgliedschaften, parent_id=11485>
    <Ort id=11685, label=Hombrechtikon, parent_id=6025>
-    <OrtSympathisanten id=18145, label=Sympathisanten, parent_id=11685>
+    <OrtSympathisanten id=40469, label=Sympathisanten, parent_id=11685>
     <OrtGewaehlte id=11686, label=Bildung, parent_id=11685>
      <OrtGewaehlte id=11687, label=Schulpflege, parent_id=11686>
     <OrtMitglieder id=11691, label=Mitgliedschaften, parent_id=11685>
     <OrtPraesidium id=11693, label=Vorstand, parent_id=11685>
     <OrtSekretariat id=11694, label=Sekretariat, parent_id=11685>
    <Ort id=12085, label=Meilen, parent_id=6025>
-    <OrtSympathisanten id=18146, label=Sympathisanten, parent_id=12085>
+    <OrtSympathisanten id=40470, label=Sympathisanten, parent_id=12085>
     <OrtGewaehlte id=12086, label=Bildung, parent_id=12085>
      <OrtGewaehlte id=12087, label=Schulpflege, parent_id=12086>
     <OrtMitglieder id=12091, label=Mitgliedschaften, parent_id=12085>
     <OrtPraesidium id=12093, label=Vorstand, parent_id=12085>
     <OrtSekretariat id=12094, label=Sekretariat, parent_id=12085>
    <Ort id=11885, label=Männedorf, parent_id=6025>
-    <OrtSympathisanten id=18147, label=Sympathisanten, parent_id=11885>
+    <OrtSympathisanten id=40471, label=Sympathisanten, parent_id=11885>
     <OrtGewaehlte id=11886, label=Bildung, parent_id=11885>
      <OrtGewaehlte id=11887, label=Schulpflege, parent_id=11886>
     <OrtGewaehlte id=11889, label=Exekutive, parent_id=11885>
@@ -439,12 +436,12 @@
     <OrtPraesidium id=11893, label=Vorstand, parent_id=11885>
     <OrtSekretariat id=11894, label=Sekretariat, parent_id=11885>
    <Ort id=12285, label=Oetwil am See, parent_id=6025>
-    <OrtSympathisanten id=18148, label=Sympathisanten, parent_id=12285>
+    <OrtSympathisanten id=40472, label=Sympathisanten, parent_id=12285>
     <OrtGewaehlte id=12286, label=Bildung, parent_id=12285>
      <OrtGewaehlte id=12287, label=Schulpflege, parent_id=12286>
     <OrtMitglieder id=12291, label=Mitgliedschaften, parent_id=12285>
    <Ort id=12485, label=Stäfa, parent_id=6025>
-    <OrtSympathisanten id=18149, label=Sympathisanten, parent_id=12485>
+    <OrtSympathisanten id=40473, label=Sympathisanten, parent_id=12485>
     <OrtGewaehlte id=12486, label=Bildung, parent_id=12485>
      <OrtGewaehlte id=12487, label=Schulpflege, parent_id=12486>
     <OrtGewaehlte id=12489, label=Exekutive, parent_id=12485>
@@ -452,25 +449,25 @@
     <OrtPraesidium id=12493, label=Vorstand, parent_id=12485>
     <OrtSekretariat id=12494, label=Sekretariat, parent_id=12485>
    <Ort id=12685, label=Uetikon am See, parent_id=6025>
-    <OrtSympathisanten id=18150, label=Sympathisanten, parent_id=12685>
+    <OrtSympathisanten id=40474, label=Sympathisanten, parent_id=12685>
     <OrtMitglieder id=12691, label=Mitgliedschaften, parent_id=12685>
     <OrtPraesidium id=12693, label=Vorstand, parent_id=12685>
     <OrtSekretariat id=12694, label=Sekretariat, parent_id=12685>
    <Ort id=38655, label=Zollikon, parent_id=6025>
-    <OrtSympathisanten id=18151, label=Sympathisanten, parent_id=38655>
+    <OrtSympathisanten id=40475, label=Sympathisanten, parent_id=38655>
     <OrtMitglieder id=38667, label=Mitgliedschaften, parent_id=38655>
    <Ort id=12885, label=Zumikon, parent_id=6025>
-    <OrtSympathisanten id=18152, label=Sympathisanten, parent_id=12885>
+    <OrtSympathisanten id=40476, label=Sympathisanten, parent_id=12885>
     <OrtMitglieder id=12891, label=Mitgliedschaften, parent_id=12885>
     <OrtPraesidium id=12893, label=Vorstand, parent_id=12885>
     <OrtSekretariat id=12894, label=Sekretariat, parent_id=12885>
   <Region id=6003, label=Bezirk Pfäffikon, parent_id=5181>
-   <RegionSympathisanten id=18154, label=Sympathisanten, parent_id=6003>
+   <RegionSympathisanten id=40478, label=Sympathisanten, parent_id=6003>
    <RegionDelegierte id=6023, label=DV, parent_id=6003>
    <RegionMitglieder id=6019, label=Mitgliedschaften, parent_id=6003>
    <RegionPraesidium id=6022, label=Vorstand, parent_id=6003>
    <Ort id=6669, label=Effretikon, parent_id=6003>
-    <OrtSympathisanten id=18155, label=Sympathisanten, parent_id=6669>
+    <OrtSympathisanten id=40479, label=Sympathisanten, parent_id=6669>
     <OrtGewaehlte id=6670, label=Bildung, parent_id=6669>
      <OrtGewaehlte id=6671, label=Schulpflege, parent_id=6670>
     <OrtGewaehlte id=6672, label=Exekutive, parent_id=6669>
@@ -486,14 +483,12 @@
     <OrtGewaehlte id=6006, label=Bildung, parent_id=6004>
      <OrtGewaehlte id=6007, label=Schulpflege, parent_id=6006>
   <Region id=6203, label=Bezirk Uster, parent_id=5181>
-   <RegionSympathisanten id=18158, label=Sympathisanten, parent_id=6203>
+   <RegionSympathisanten id=40482, label=Sympathisanten, parent_id=6203>
    <RegionDelegierte id=6223, label=DV, parent_id=6203>
    <RegionMitglieder id=6219, label=Mitgliedschaften, parent_id=6203>
    <RegionPraesidium id=6222, label=Vorstand, parent_id=6203>
    <Ort id=6869, label=Dübendorf, parent_id=6203>
-    <OrtSympathisanten id=18159, label=Sympathisanten, parent_id=6869>
-    <OrtArbeitsgruppe id=14526, label=Übrige Behörden, parent_id=6869>
-     <OrtArbeitsgruppe id=15049, label=Sozialbehörden, parent_id=14526>
+    <OrtSympathisanten id=40483, label=Sympathisanten, parent_id=6869>
     <OrtGewaehlte id=6872, label=Exekutive, parent_id=6869>
     <OrtGewaehlte id=6875, label=Legislative, parent_id=6869>
      <OrtGewaehlte id=6878, label=Büro, parent_id=6875>
@@ -506,7 +501,7 @@
     <OrtPraesidium id=6883, label=Vorstand, parent_id=6869>
     <OrtSekretariat id=6884, label=Sekretariat, parent_id=6869>
    <Ort id=13285, label=Fällanden, parent_id=6203>
-    <OrtSympathisanten id=18160, label=Sympathisanten, parent_id=13285>
+    <OrtSympathisanten id=40484, label=Sympathisanten, parent_id=13285>
     <OrtMitglieder id=13291, label=Mitgliedschaften, parent_id=13285>
     <OrtPraesidium id=13293, label=Vorstand, parent_id=13285>
     <OrtSekretariat id=13294, label=Sekretariat, parent_id=13285>
@@ -516,17 +511,16 @@
     <OrtPraesidium id=13493, label=Vorstand, parent_id=13485>
     <OrtSekretariat id=13494, label=Sekretariat, parent_id=13485>
    <Ort id=34934, label=Maur-Egg, parent_id=6203>
-    <OrtSympathisanten id=18162, label=Sympathisanten, parent_id=34934>
+    <OrtSympathisanten id=40486, label=Sympathisanten, parent_id=34934>
     <OrtMitglieder id=35011, label=Mitgliedschaften, parent_id=34934>
     <OrtPraesidium id=34935, label=Partei, parent_id=34934>
    <Ort id=13685, label=Schwerzenbach, parent_id=6203>
-    <OrtSympathisanten id=18164, label=Sympathisanten, parent_id=13685>
+    <OrtSympathisanten id=40488, label=Sympathisanten, parent_id=13685>
     <OrtGewaehlte id=13689, label=Exekutive, parent_id=13685>
     <OrtMitglieder id=13691, label=Mitgliedschaften, parent_id=13685>
     <OrtPraesidium id=13693, label=Vorstand, parent_id=13685>
-    <OrtSekretariat id=13694, label=Sekretariat, parent_id=13685>
    <Ort id=7069, label=Uster, parent_id=6203>
-    <OrtSympathisanten id=18165, label=Sympathisanten, parent_id=7069>
+    <OrtSympathisanten id=40489, label=Sympathisanten, parent_id=7069>
     <OrtGewaehlte id=7070, label=Bildung, parent_id=7069>
      <OrtGewaehlte id=7071, label=Schulpflege, parent_id=7070>
     <OrtGewaehlte id=7075, label=Legislative, parent_id=7069>
@@ -535,7 +529,7 @@
     <OrtPraesidium id=7083, label=Vorstand, parent_id=7069>
     <OrtSekretariat id=7084, label=Sekretariat, parent_id=7069>
    <Ort id=13885, label=Volketswil, parent_id=6203>
-    <OrtSympathisanten id=18166, label=Sympathisanten, parent_id=13885>
+    <OrtSympathisanten id=40490, label=Sympathisanten, parent_id=13885>
     <OrtArbeitsgruppe id=14563, label=Übrige Behörden, parent_id=13885>
      <OrtArbeitsgruppe id=15004, label=RPK, parent_id=14563>
     <OrtGewaehlte id=13889, label=Exekutive, parent_id=13885>
@@ -543,7 +537,7 @@
     <OrtPraesidium id=13893, label=Vorstand, parent_id=13885>
     <OrtSekretariat id=13894, label=Sekretariat, parent_id=13885>
   <Region id=6403, label=Bezirk Winterthur, parent_id=5181>
-   <RegionSympathisanten id=18168, label=Sympathisanten, parent_id=6403>
+   <RegionSympathisanten id=40492, label=Sympathisanten, parent_id=6403>
    <RegionDelegierte id=6423, label=DV, parent_id=6403>
    <RegionGewaehlte id=6416, label=Judikative, parent_id=6403>
     <RegionGewaehlte id=6417, label=Bezirksgericht, parent_id=6416>
@@ -564,7 +558,7 @@
     <OrtPraesidium id=14093, label=Vorstand, parent_id=14085>
     <OrtSekretariat id=14094, label=Sekretariat, parent_id=14085>
    <Ort id=5295, label=Winterthur, parent_id=6403>
-    <OrtSympathisanten id=18171, label=Sympathisanten, parent_id=5295>
+    <OrtSympathisanten id=40495, label=Sympathisanten, parent_id=5295>
     <OrtArbeitsgruppe id=39481, label=100er, parent_id=5295>
     <OrtArbeitsgruppe id=39480, label=60plus, parent_id=5295>
     <OrtArbeitsgruppe id=39482, label=Behördenmitglieder, parent_id=5295>
@@ -584,12 +578,12 @@
     <OrtMitglieder id=5306, label=Mitgliedschaften, parent_id=5295>
     <OrtSekretariat id=5309, label=Sekretariat, parent_id=5295>
    <Ort id=14285, label=Zell, parent_id=6403>
-    <OrtSympathisanten id=18172, label=Sympathisanten, parent_id=14285>
+    <OrtSympathisanten id=40496, label=Sympathisanten, parent_id=14285>
     <OrtMitglieder id=14291, label=Mitgliedschaften, parent_id=14285>
     <OrtPraesidium id=14293, label=Vorstand, parent_id=14285>
     <OrtSekretariat id=14294, label=Sekretariat, parent_id=14285>
   <Region id=5243, label=Bezirk Zürich, parent_id=5181>
-   <RegionSympathisanten id=18173, label=Sympathisanten, parent_id=5243>
+   <RegionSympathisanten id=40497, label=Sympathisanten, parent_id=5243>
    <RegionDelegierte id=5266, label=DV, parent_id=5243>
    <RegionGewaehlte id=5252, label=Exekutive, parent_id=5243>
     <RegionGewaehlte id=5253, label=Stadtrat, parent_id=5252>
@@ -606,32 +600,32 @@
    <Ort id=39306, label=Medienverteiler, parent_id=5243>
    <Ort id=39305, label=Newsletter, parent_id=5243>
    <Ort id=5311, label=Zürich 1 + 2, parent_id=5243>
-    <OrtSympathisanten id=18177, label=Sympathisanten, parent_id=5311>
+    <OrtSympathisanten id=40501, label=Sympathisanten, parent_id=5311>
     <OrtMitglieder id=5316, label=Mitgliedschaften, parent_id=5311>
     <OrtPraesidium id=5318, label=Vorstand, parent_id=5311>
     <OrtSekretariat id=5319, label=Sekretariat, parent_id=5311>
    <Ort id=5711, label=Zürich 11, parent_id=5243>
-    <OrtSympathisanten id=18178, label=Sympathisanten, parent_id=5711>
+    <OrtSympathisanten id=40502, label=Sympathisanten, parent_id=5711>
     <OrtGewaehlte id=5712, label=Bildung, parent_id=5711>
      <OrtGewaehlte id=5713, label=Schulpflege, parent_id=5712>
     <OrtMitglieder id=5716, label=Mitgliedschaften, parent_id=5711>
     <OrtPraesidium id=5718, label=Vorstand, parent_id=5711>
     <OrtSekretariat id=5719, label=Sekretariat, parent_id=5711>
    <Ort id=5911, label=Zürich 12, parent_id=5243>
-    <OrtSympathisanten id=18179, label=Sympathisanten, parent_id=5911>
+    <OrtSympathisanten id=40503, label=Sympathisanten, parent_id=5911>
     <OrtGewaehlte id=5912, label=Bildung, parent_id=5911>
      <OrtGewaehlte id=5913, label=Schulpflege, parent_id=5912>
     <OrtMitglieder id=5916, label=Mitgliedschaften, parent_id=5911>
     <OrtPraesidium id=5918, label=Vorstand, parent_id=5911>
    <Ort id=6911, label=Zürich 3+9, parent_id=5243>
-    <OrtSympathisanten id=18180, label=Sympathisanten, parent_id=6911>
+    <OrtSympathisanten id=40504, label=Sympathisanten, parent_id=6911>
     <OrtGewaehlte id=6912, label=Bildung, parent_id=6911>
      <OrtGewaehlte id=6913, label=Schulpflege, parent_id=6912>
     <OrtMitglieder id=6916, label=Mitgliedschaften, parent_id=6911>
     <OrtPraesidium id=6918, label=Vorstand, parent_id=6911>
     <OrtSekretariat id=6919, label=Sekretariat, parent_id=6911>
    <Ort id=6311, label=Zürich 4+5, parent_id=5243>
-    <OrtSympathisanten id=18181, label=Sympathisanten, parent_id=6311>
+    <OrtSympathisanten id=40505, label=Sympathisanten, parent_id=6311>
     <OrtGewaehlte id=6312, label=Bildung, parent_id=6311>
      <OrtGewaehlte id=6313, label=Schulpflege, parent_id=6312>
     <OrtGewaehlte id=6314, label=Judikative, parent_id=6311>
@@ -640,12 +634,12 @@
     <OrtPraesidium id=6318, label=Vorstand, parent_id=6311>
     <OrtSekretariat id=6319, label=Sekretariat, parent_id=6311>
    <Ort id=6511, label=Zürich 6 + 10, parent_id=5243>
-    <OrtSympathisanten id=18182, label=Sympathisanten, parent_id=6511>
+    <OrtSympathisanten id=40506, label=Sympathisanten, parent_id=6511>
     <OrtMitglieder id=6516, label=Mitgliedschaften, parent_id=6511>
     <OrtPraesidium id=6518, label=Vorstand, parent_id=6511>
     <OrtSekretariat id=6519, label=Sekretariat, parent_id=6511>
    <Ort id=6711, label=Zürich 7+8, parent_id=5243>
-    <OrtSympathisanten id=18183, label=Sympathisanten, parent_id=6711>
+    <OrtSympathisanten id=40507, label=Sympathisanten, parent_id=6711>
     <OrtGewaehlte id=6712, label=Bildung, parent_id=6711>
      <OrtGewaehlte id=6713, label=Schulpflege, parent_id=6712>
     <OrtMitglieder id=6716, label=Mitgliedschaften, parent_id=6711>

@@ -1,18 +1,17 @@
 <Bund CVP Schweiz, id:1, 0>
  <Kanton CVP TI, id:172, 1>
-  <KantonSympathisanten Sympathisanten [Sympathisant 1], id:18095, 172>
   <KantonArbeitsgruppe Adressen ohne Merkmale (aus Liste PPD) [Mitglied 682], id:39901, 172>
   <KantonArbeitsgruppe Altri contributi secondo direttive [Mitglied 11], id:35542, 172>
   <KantonArbeitsgruppe Aziende e liberi professionisti [Mitglied 26], id:35537, 172>
-  <KantonArbeitsgruppe Comitato cantonale [Mitglied 445], id:35541, 172>
+  <KantonArbeitsgruppe Comitato cantonale [Mitglied 444], id:35541, 172>
   <KantonArbeitsgruppe Direttiva [Mitglied 25], id:35540, 172>
   <KantonArbeitsgruppe Ufficio presidenziale [Mitglied 16], id:35539, 172>
-  <KantonArbeitsgruppe congresso [tbd:Delegierter 6482], id:2026, 172>
+  <KantonArbeitsgruppe congresso [tbd:Delegierter 6438], id:2026, 172>
   <KantonGewaehlte Regierungsrat [KantonaleExekutive 1], id:14766, 172>
-  <KantonGewaehlte Judikative [tbd:Mitglied 138], id:35538, 172>
+  <KantonGewaehlte Judikative [tbd:Mitglied 137], id:35538, 172>
   <KantonGewaehlte Legislative [KantonaleLegislative 24, tbd:Präsident 1], id:583, 172>
-  <KantonMitglieder Mitgliedschaften [Mitglied 9968], id:588, 172>
-  <KantonPraesidium Partei [Praesident 7, tbd:Ansprechperson Finanzen 2, tbd:Delegierter 2, tbd:Empfänger Rechnung Jahresbeitrag CVP CH 2, tbd:Nationalrat 2, tbd:Plakatierer 1, tbd:Sekretär Kantonalpartei/Vereinigung 1, tbd:Ständerat 1, tbd:Zuzüger 143], id:589, 172>
+  <KantonMitglieder Mitgliedschaften [Mitglied 9780], id:588, 172>
+  <KantonPraesidium Partei [Praesident 7, tbd:Ansprechperson Finanzen 2, tbd:Delegierter 1, tbd:Empfänger Rechnung Jahresbeitrag CVP CH 2, tbd:Nationalrat 2, tbd:Plakatierer 1, tbd:Sekretär Kantonalpartei/Vereinigung 1, tbd:Ständerat 1, tbd:Zuzüger 150], id:589, 172>
   <Region Bellinzona, id:581, 172>
    <RegionPraesidium Partei [Praesident 4, tbd:Delegierter 86], id:1851, 581>
    <Ort Arbedo-Castione, id:1838, 581>
@@ -23,7 +22,7 @@
    <Ort Bellinzona, id:1839, 581>
     <OrtGewaehlte Exekutive [KommunaleExekutive 1], id:36588, 1839>
     <OrtGewaehlte Legislative [KommunaleExekutive 8], id:36587, 1839>
-    <OrtMitglieder Mitgliedschaften [Mitglied 289], id:3744, 1839>
+    <OrtMitglieder Mitgliedschaften [Mitglied 285], id:3744, 1839>
     <OrtPraesidium Partei [Mitglied 1, Praesident 1, tbd:Vorstand 1], id:3745, 1839>
    <Ort Cadenazzo, id:1840, 581>
     <OrtGewaehlte Exekutive [KommunaleExekutive 2], id:36589, 1840>
@@ -37,7 +36,7 @@
    <Ort Lumino, id:1848, 581>
     <OrtGewaehlte Exekutive [KommunaleExekutive 1], id:36601, 1848>
     <OrtGewaehlte Legislative [KommunaleExekutive 8], id:36602, 1848>
-    <OrtMitglieder Mitgliedschaften [Mitglied 14], id:3759, 1848>
+    <OrtMitglieder Mitgliedschaften [Mitglied 13], id:3759, 1848>
     <OrtPraesidium Partei [Kassier 1, Mitglied 6, Praesident 1, tbd:Sekretär 2, tbd:Vorstand 1], id:3760, 1848>
    <Ort S. Antonino, id:1855, 581>
     <OrtGewaehlte Exekutive [KommunaleExekutive 1], id:36611, 1855>
@@ -47,15 +46,15 @@
   <Region Blenio, id:582, 172>
    <RegionPraesidium Partei [Praesident 4, tbd:Ausschussmitglied 12, tbd:Delegierter 12, tbd:Sekretär 1], id:1865, 582>
    <Ort Acquarossa, id:1857, 582>
-    <OrtMitglieder Mitgliedschaften [Mitglied 45], id:3775, 1857>
+    <OrtMitglieder Mitgliedschaften [Mitglied 44], id:3775, 1857>
    <Ort Blenio, id:1858, 582>
     <OrtMitglieder Mitgliedschaften [Mitglied 11], id:3777, 1858>
     <OrtPraesidium Partei [Praesident 1], id:3778, 1858>
    <Ort Serravalle, id:1861, 582>
     <OrtGewaehlte Exekutive [KommunaleExekutive 2], id:36476, 1861>
     <OrtGewaehlte Legislative [KommunaleExekutive 7], id:36477, 1861>
-    <OrtMitglieder Mitgliedschaften [Mitglied 27], id:3780, 1861>
-    <OrtPraesidium Partei [Mitglied 6, Praesident 2], id:3781, 1861>
+    <OrtMitglieder Mitgliedschaften [Mitglied 25], id:3780, 1861>
+    <OrtPraesidium Partei [Mitglied 6, Praesident 1], id:3781, 1861>
   <Region Leventina, id:584, 172>
    <RegionPraesidium Partei [Praesident 12, tbd:Ausschussmitglied 25, tbd:Delegierter 24, tbd:Sekretär 1], id:1884, 584>
    <Ort Airolo, id:1868, 584>
@@ -77,7 +76,7 @@
     <OrtPraesidium Partei [tbd:Sekretär 2, tbd:Vorstand 3], id:3811, 1879>
    <Ort Giornico, id:1880, 584>
     <OrtGewaehlte Legislative [KommunaleExekutive 1], id:36724, 1880>
-    <OrtMitglieder Mitgliedschaften [Mitglied 13], id:3812, 1880>
+    <OrtMitglieder Mitgliedschaften [Mitglied 12], id:3812, 1880>
     <OrtPraesidium Partei [Praesident 1], id:3813, 1880>
    <Ort Personico, id:1885, 584>
     <OrtMitglieder Mitgliedschaften [Mitglied 9], id:3818, 1885>
@@ -101,10 +100,10 @@
    <Ort Ascona, id:1891, 585>
     <OrtGewaehlte Exekutive [KommunaleExekutive 1], id:36735, 1891>
     <OrtGewaehlte Legislative [KommunaleExekutive 3], id:36736, 1891>
-    <OrtMitglieder Mitgliedschaften [Mitglied 22], id:3830, 1891>
+    <OrtMitglieder Mitgliedschaften [Mitglied 21], id:3830, 1891>
     <OrtPraesidium Partei [tbd:Sekretär 1], id:3831, 1891>
    <Ort Brione S/Minusio, id:1894, 585>
-    <OrtMitglieder Mitgliedschaften [Mitglied 16], id:3836, 1894>
+    <OrtMitglieder Mitgliedschaften [Mitglied 15], id:3836, 1894>
     <OrtPraesidium Partei [Praesident 1, tbd:Vorstand 2], id:3837, 1894>
    <Ort Brione Verzasca, id:1895, 585>
     <OrtMitglieder Mitgliedschaften [Mitglied 2], id:3838, 1895>
@@ -121,10 +120,10 @@
     <OrtMitglieder Mitgliedschaften [Mitglied 33], id:3849, 1902>
     <OrtPraesidium Partei [Kassier 2, Mitglied 9, Praesident 2, tbd:Sekretär 3], id:3850, 1902>
    <Ort Gambarogno, id:1904, 585>
-    <OrtMitglieder Mitgliedschaften [Mitglied 44], id:3851, 1904>
+    <OrtMitglieder Mitgliedschaften [Mitglied 43], id:3851, 1904>
     <OrtPraesidium Partei [Praesident 2], id:3852, 1904>
    <Ort Gordola, id:1908, 585>
-    <OrtMitglieder Mitgliedschaften [Mitglied 29], id:3858, 1908>
+    <OrtMitglieder Mitgliedschaften [Mitglied 28], id:3858, 1908>
     <OrtPraesidium Partei [Mitglied 1, Praesident 1], id:3859, 1908>
    <Ort Gresso, id:1897, 585>
     <OrtPraesidium Partei [Praesident 1], id:3842, 1897>
@@ -151,13 +150,13 @@
     <OrtMitglieder Mitgliedschaften [Mitglied 1], id:3875, 1917>
    <Ort Muralto, id:1918, 585>
     <OrtGewaehlte Legislative [KommunaleExekutive 4], id:36774, 1918>
-    <OrtMitglieder Mitgliedschaften [Mitglied 35], id:3877, 1918>
+    <OrtMitglieder Mitgliedschaften [Mitglied 34], id:3877, 1918>
     <OrtPraesidium Partei [Praesident 1, tbd:Sekretär 1, tbd:Vorstand 1], id:3878, 1918>
    <Ort Onsernone, id:1919, 585>
     <OrtMitglieder Mitgliedschaften [Mitglied 2], id:3879, 1919>
     <OrtPraesidium Partei [Praesident 1], id:3880, 1919>
    <Ort Orselina, id:1920, 585>
-    <OrtMitglieder Mitgliedschaften [Mitglied 14], id:3881, 1920>
+    <OrtMitglieder Mitgliedschaften [Mitglied 13], id:3881, 1920>
     <OrtPraesidium Partei [Praesident 2, tbd:Sekretär 1], id:3882, 1920>
    <Ort Ronco S. Ascona, id:1924, 585>
     <OrtMitglieder Mitgliedschaften [Mitglied 4], id:3887, 1924>
@@ -176,7 +175,7 @@
    <Ort Vogorno, id:1933, 585>
     <OrtMitglieder Mitgliedschaften [Mitglied 2], id:3903, 1933>
   <Region Lugano, id:586, 172>
-   <RegionPraesidium Partei [Praesident 26, tbd:Ausschussmitglied 205, tbd:Delegierter 198], id:1986, 586>
+   <RegionPraesidium Partei [Praesident 26, tbd:Ausschussmitglied 204, tbd:Delegierter 196], id:1986, 586>
    <Ort Agno, id:1934, 586>
     <OrtGewaehlte Exekutive [KommunaleExekutive 2], id:36855, 1934>
     <OrtGewaehlte Legislative [KommunaleExekutive 4], id:36854, 1934>
@@ -205,7 +204,7 @@
    <Ort Bioggio, id:1947, 586>
     <OrtGewaehlte Exekutive [KommunaleExekutive 2], id:36868, 1947>
     <OrtGewaehlte Legislative [KommunaleExekutive 5], id:36867, 1947>
-    <OrtMitglieder Mitgliedschaften [Mitglied 23], id:3929, 1947>
+    <OrtMitglieder Mitgliedschaften [Mitglied 22], id:3929, 1947>
     <OrtPraesidium Partei [Praesident 1, tbd:Vorstand 1], id:3930, 1947>
    <Ort Bissone, id:1949, 586>
     <OrtGewaehlte Legislative [KommunaleExekutive 4], id:36869, 1949>
@@ -236,7 +235,7 @@
     <OrtArbeitsgruppe Ausschuss [tbd:Mitglied 1], id:4680, 1956>
     <OrtGewaehlte Exekutive [Fraktionschef 1], id:36880, 1956>
     <OrtGewaehlte Legislative [KommunaleExekutive 9], id:36879, 1956>
-    <OrtMitglieder Mitgliedschaften [Mitglied 77], id:3947, 1956>
+    <OrtMitglieder Mitgliedschaften [Mitglied 75], id:3947, 1956>
     <OrtPraesidium Partei [tbd:Sekretär 2, tbd:Vorstand 5], id:3948, 1956>
    <Ort Carabietta, id:1958, 586>
     <OrtMitglieder Mitgliedschaften [Mitglied 1], id:3950, 1958>
@@ -259,7 +258,7 @@
     <OrtMitglieder Mitgliedschaften [Mitglied 14], id:3960, 1963>
     <OrtPraesidium Partei [Praesident 1, tbd:Sekretär 1, tbd:Vorstand 1], id:3961, 1963>
    <Ort Grancia, id:1966, 586>
-    <OrtMitglieder Mitgliedschaften [Mitglied 11], id:3964, 1966>
+    <OrtMitglieder Mitgliedschaften [Mitglied 10], id:3964, 1966>
     <OrtPraesidium Partei [Praesident 1], id:3965, 1966>
    <Ort Gravesano, id:1967, 586>
     <OrtMitglieder Mitgliedschaften [Mitglied 9], id:3966, 1967>
@@ -269,7 +268,7 @@
     <OrtMitglieder Mitgliedschaften [Mitglied 18], id:3969, 1969>
     <OrtPraesidium Partei [Praesident 1, tbd:Sekretär 1], id:3970, 1969>
    <Ort Lugano, id:1983, 586>
-    <OrtMitglieder Mitgliedschaften [Mitglied 247], id:3997, 1983>
+    <OrtMitglieder Mitgliedschaften [Mitglied 241], id:3997, 1983>
     <OrtPraesidium Partei [Praesident 9, tbd:Sekretär 3, tbd:Vorstand 3], id:3998, 1983>
    <Ort Magliaso, id:1948, 586>
     <OrtGewaehlte Exekutive [KommunaleExekutive 2], id:36907, 1948>
@@ -282,7 +281,7 @@
     <OrtPraesidium Partei [Praesident 1], id:3978, 1973>
    <Ort Massagno, id:1974, 586>
     <OrtGewaehlte Legislative [KommunaleExekutive 1], id:36912, 1974>
-    <OrtMitglieder Mitgliedschaften [Mitglied 41], id:3979, 1974>
+    <OrtMitglieder Mitgliedschaften [Mitglied 40], id:3979, 1974>
     <OrtPraesidium Partei [Praesident 1], id:3980, 1974>
    <Ort Melano, id:1975, 586>
     <OrtMitglieder Mitgliedschaften [Mitglied 16], id:3981, 1975>
@@ -330,7 +329,7 @@
     <OrtMitglieder Mitgliedschaften [Mitglied 2], id:4007, 1989>
    <Ort Savosa, id:1991, 586>
     <OrtGewaehlte Exekutive [Fraktionschef 1], id:36954, 1991>
-    <OrtMitglieder Mitgliedschaften [Mitglied 31], id:4009, 1991>
+    <OrtMitglieder Mitgliedschaften [Mitglied 30], id:4009, 1991>
     <OrtPraesidium Partei [Kassier 2, Praesident 1, tbd:Sekretär 1, tbd:Vorstand 10], id:4010, 1991>
    <Ort Sessa, id:1992, 586>
     <OrtMitglieder Mitgliedschaften [Mitglied 10], id:4011, 1992>
@@ -350,7 +349,7 @@
    <Ort Vico Morcote, id:1971, 586>
     <OrtPraesidium Partei [tbd:Delegierter 35], id:3974, 1971>
   <Region Mendrisio, id:587, 172>
-   <RegionPraesidium Partei [Praesident 7, tbd:Ausschussmitglied 145, tbd:Delegierter 132, tbd:Präsidiumsmitglied 1], id:2020, 587>
+   <RegionPraesidium Partei [Praesident 7, tbd:Ausschussmitglied 145, tbd:Delegierter 131, tbd:Präsidiumsmitglied 1], id:2020, 587>
    <Ort Arzo, id:2001, 587>
     <OrtArbeitsgruppe Ausschuss [tbd:Mitglied 1], id:4682, 2001>
    <Ort Balerna, id:2002, 587>
@@ -385,7 +384,7 @@
     <OrtPraesidium Partei [Praesident 1], id:4052, 2014>
    <Ort Mendrisio, id:2016, 587>
     <OrtGewaehlte Legislative [KommunaleExekutive 1], id:35543, 2016>
-    <OrtMitglieder Mitgliedschaften [Mitglied 179], id:4055, 2016>
+    <OrtMitglieder Mitgliedschaften [Mitglied 177], id:4055, 2016>
     <OrtPraesidium Partei [Praesident 2, tbd:Sekretär 1, tbd:Vorstand 20], id:4056, 2016>
    <Ort Morbio Inferiore, id:2018, 587>
     <OrtGewaehlte Exekutive [KommunaleExekutive 2], id:36478, 2018>
@@ -403,7 +402,7 @@
     <OrtMitglieder Mitgliedschaften [Mitglied 36], id:4065, 2022>
    <Ort Stabio, id:2023, 587>
     <OrtGewaehlte Legislative [KommunaleExekutive 1], id:36994, 2023>
-    <OrtMitglieder Mitgliedschaften [Mitglied 22], id:4067, 2023>
+    <OrtMitglieder Mitgliedschaften [Mitglied 21], id:4067, 2023>
     <OrtPraesidium Partei [Mitglied 1, Praesident 2, tbd:Sekretär 1], id:4068, 2023>
    <Ort Tremona, id:2024, 587>
     <OrtPraesidium Partei [Praesident 1], id:4070, 2024>
@@ -420,7 +419,7 @@
     <OrtMitglieder Mitgliedschaften [Mitglied 21], id:4076, 2028>
     <OrtPraesidium Partei [tbd:Sekretär 1], id:4077, 2028>
    <Ort Riviera, id:2033, 590>
-    <OrtMitglieder Mitgliedschaften [Mitglied 55], id:4084, 2033>
+    <OrtMitglieder Mitgliedschaften [Mitglied 54], id:4084, 2033>
     <OrtPraesidium Partei [Praesident 1, tbd:Vorstand 6], id:4085, 2033>
   <Region Vallemaggia, id:591, 172>
    <RegionPraesidium Partei [Praesident 9, tbd:Ausschussmitglied 8, tbd:Delegierter 8, tbd:Sekretär 1], id:2048, 591>

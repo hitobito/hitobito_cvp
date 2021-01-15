@@ -1,91 +1,90 @@
 <Bund CVP Schweiz, id:1, 0>
  <Vereinigung JCVP, id:2, 1>
   <VereinigungArbeitsgruppe Delegiertenversammlung [tbd:Delegierter 2], id:234, 2>
-  <VereinigungExterneKontakte JCVPSchweiz [tbd:Medienverteiler 10, tbd:Newsletter (nicht erwünscht) 13, tbd:OM Ansprechperson 1, tbd:PAZ 61, tbd:Präsident Kantonalpartei oder Vereinigung 3, tbd:Sekretär 3, tbd:Sekretär Kantonalpartei/Vereinigung 3], id:14620, 2>
+  <VereinigungExterneKontakte JCVPSchweiz [tbd:Medienverteiler 10, tbd:Newsletter (nicht erwünscht) 13, tbd:OM Ansprechperson 1, tbd:PAZ 60, tbd:Präsident Kantonalpartei oder Vereinigung 3, tbd:Sekretär 3, tbd:Sekretär Kantonalpartei/Vereinigung 3], id:14620, 2>
    <VereinigungExterneKontakte Medienverteiler [tbd:Empfänger 5], id:39412, 14620>
-   <VereinigungExterneKontakte Newsletter [tbd:Empfänger 1679], id:39411, 14620>
+   <VereinigungExterneKontakte Newsletter [tbd:Empfänger 1677], id:39411, 14620>
   <VereinigungPraesidium Parteileitung [Mitglied 16, Praesident 3], id:235, 2>
   <Kanton JCVP AG, id:236, 2>
-   <KantonMitglieder Mitgliedschaften [Mitglied 99], id:36463, 236>
+   <KantonMitglieder Mitgliedschaften [Mitglied 97], id:36463, 236>
   <Kanton JCVP AI [tbd:Kontakt 1], id:237, 2>
   <Kanton JCVP BE, id:238, 2>
-   <KantonSympathisanten Sympathisanten [Sympathisant 15], id:18099, 238>
-   <KantonMitglieder Mitgliedschaften [Mitglied 28], id:36267, 238>
+   <KantonSympathisanten Sympathisanten [Sympathisant 15], id:40423, 238>
+   <KantonMitglieder Mitgliedschaften [Mitglied 52], id:36267, 238>
   <Kanton JCVP BL [tbd:Mitglied 1, tbd:Sympathisant 2, tbd:potentieller Wähler 6], id:239, 2>
-   <KantonSympathisanten Sympathisanten [Sympathisant 9], id:18100, 239>
-   <KantonMitglieder Mitgliedschaften [Mitglied 35], id:36565, 239>
+   <KantonSympathisanten Sympathisanten [Sympathisant 8], id:40424, 239>
+   <KantonMitglieder Mitgliedschaften [Mitglied 37], id:36565, 239>
   <Kanton JCVP BS, id:240, 2>
-   <KantonSympathisanten Sympathisanten [Sympathisant 5], id:18101, 240>
-   <KantonMitglieder Mitgliedschaften [Mitglied 34], id:36673, 240>
+   <KantonSympathisanten Sympathisanten [Sympathisant 5], id:40425, 240>
+   <KantonMitglieder Mitgliedschaften [Mitglied 32], id:36673, 240>
   <Kanton JCVP FR, id:241, 2>
-   <KantonSympathisanten Sympathisanten [Sympathisant 147], id:18102, 241>
-   <KantonMitglieder Mitgliedschaften [Mitglied 218], id:36658, 241>
+   <KantonSympathisanten Sympathisanten [Sympathisant 241], id:40426, 241>
+   <KantonMitglieder Mitgliedschaften [Mitglied 214], id:36658, 241>
   <Kanton JCVP GE, id:38742, 2>
-   <KantonSympathisanten Sympathisanten [Sympathisant 3], id:18103, 38742>
+   <KantonSympathisanten Sympathisanten [Sympathisant 3], id:40427, 38742>
    <KantonMitglieder Mitgliedschaften [Mitglied 32], id:38744, 38742>
   <Kanton JCVP GL, id:243, 2>
-   <KantonSympathisanten Sympathisanten [Sympathisant 2], id:18104, 243>
-   <KantonMitglieder Mitgliedschaften [Mitglied 10], id:39699, 243>
+   <KantonSympathisanten Sympathisanten [Sympathisant 2], id:40428, 243>
+   <KantonMitglieder Mitgliedschaften [Mitglied 16], id:39699, 243>
   <Kanton JCVP GR, id:244, 2>
-   <KantonSympathisanten Sympathisanten [Sympathisant 26], id:18105, 244>
+   <KantonSympathisanten Sympathisanten [Sympathisant 26], id:40429, 244>
    <KantonArbeitsgruppe JCVP Surselva [tbd:Sympathisant 11], id:690, 244>
    <KantonArbeitsgruppe Verschiedene Funktionen [Mitglied 36, Praesident 1, tbd:Medien Graubünden 64, tbd:Newsletterempfänger 56, tbd:Passivmitglied 23, tbd:Revisor 2, tbd:Vorstandsmitglied 6], id:36321, 244>
    <KantonMitglieder Mitgliedschaften [Mitglied 96], id:36316, 244>
    <KantonPraesidium Vorstand [Praesident 2, tbd:Aktuar 2, tbd:Kassier 1, tbd:Medien 1, tbd:Webadministrator 1], id:39062, 244>
   <Kanton JCVP JU, id:38800, 2>
-   <KantonSympathisanten Sympathisanten [Sympathisant 52], id:18106, 38800>
+   <KantonSympathisanten Sympathisanten [Sympathisant 51], id:40430, 38800>
    <KantonArbeitsgruppe Funktion [Praesident 5, tbd:Vorstandsmitglied 11], id:38801, 38800>
-   <KantonMitglieder Mitgliedschaften [Mitglied 186], id:38802, 38800>
+   <KantonMitglieder Mitgliedschaften [Mitglied 184], id:38802, 38800>
   <Kanton JCVP LU, id:246, 2>
-   <KantonSympathisanten Sympathisanten [Sympathisant 148], id:18107, 246>
-   <KantonArbeitsgruppe Info [tbd:Jmpuls 1432, tbd:Newsletter (CVP online Info) 157], id:695, 246>
+   <KantonSympathisanten Sympathisanten [Sympathisant 143], id:40431, 246>
+   <KantonArbeitsgruppe Info [tbd:Jmpuls 1408, tbd:Newsletter (CVP online Info) 153], id:695, 246>
    <KantonArbeitsgruppe JCVP Wahlkreis Luzern-Land, id:693, 246>
     <KantonArbeitsgruppe Kriens, id:2365, 693>
-     <KantonArbeitsgruppe Freunde [Mitglied 72], id:39146, 2365>
-     <KantonArbeitsgruppe Spender [Mitglied 169], id:39148, 2365>
-     <KantonArbeitsgruppe bärebiss [tbd:Empfänger 1419], id:39147, 2365>
-   <KantonExterneKontakte Newsletter [Kontakt 277], id:38782, 246>
-   <KantonMitglieder Mitgliedschaften [Mitglied 145], id:36530, 246>
+     <KantonArbeitsgruppe Freunde [Mitglied 71], id:39146, 2365>
+     <KantonArbeitsgruppe Spender [Mitglied 166], id:39148, 2365>
+     <KantonArbeitsgruppe bärebiss [tbd:Empfänger 1416], id:39147, 2365>
+   <KantonExterneKontakte Newsletter [Kontakt 266], id:38782, 246>
+   <KantonMitglieder Mitgliedschaften [Mitglied 139], id:36530, 246>
   <Kanton JCVP NE, id:247, 2>
    <KantonMitglieder Mitgliedschaften [Mitglied 2], id:36851, 247>
   <Kanton JCVP NW, id:248, 2>
    <KantonMitglieder Mitgliedschaften [Mitglied 19], id:36558, 248>
   <Kanton JCVP OW, id:40378, 2>
-   <KantonMitglieder Mitgliedschaften [Mitglied 25], id:40380, 40378>
+   <KantonMitglieder Mitgliedschaften [Mitglied 24], id:40380, 40378>
   <Kanton JCVP Oberwallis, id:258, 2>
-   <KantonSympathisanten Sympathisanten [Sympathisant 12], id:18111, 258>
-   <KantonMitglieder Mitgliedschaften [Mitglied 64], id:36537, 258>
+   <KantonSympathisanten Sympathisanten [Sympathisant 12], id:40435, 258>
+   <KantonMitglieder Mitgliedschaften [Mitglied 66], id:36537, 258>
   <Kanton JCVP SG, id:250, 2>
-   <KantonSympathisanten Sympathisanten [Sympathisant 49], id:18112, 250>
-   <KantonArbeitsgruppe Alte Funktionen [tbd:Kassier 1, tbd:Mitglied nicht zahlend 19, tbd:Vorstandsmitglied 7], id:37044, 250>
+   <KantonSympathisanten Sympathisanten [Sympathisant 47], id:40436, 250>
+   <KantonArbeitsgruppe Alte Funktionen [tbd:Kassier 1, tbd:Mitglied nicht zahlend 21, tbd:Vorstandsmitglied 7], id:37044, 250>
    <KantonExterneKontakte Newsletter [Kontakt 1], id:39234, 250>
-   <KantonMitglieder Mitgliedschaften [Mitglied 200], id:37031, 250>
+   <KantonMitglieder Mitgliedschaften [Mitglied 204], id:37031, 250>
    <KantonPraesidium Parteileitung [Mitglied 10, Praesident 4], id:35770, 250>
    <KantonPraesidium Parteivorstand [Mitglied 4], id:35769, 250>
   <Kanton JCVP SH [tbd:Mitglied 3, tbd:Präsident 1, tbd:Sympathisant 1], id:251, 2>
   <Kanton JCVP SO, id:252, 2>
-   <KantonSympathisanten Sympathisanten [Sympathisant 20], id:18114, 252>
-   <KantonExterneKontakte Newsletter [Kontakt 48], id:39287, 252>
-   <KantonMitglieder Mitgliedschaften [Mitglied 47], id:37589, 252>
+   <KantonSympathisanten Sympathisanten [Sympathisant 21], id:40438, 252>
+   <KantonExterneKontakte Newsletter [Kontakt 46], id:39287, 252>
+   <KantonMitglieder Mitgliedschaften [Mitglied 51], id:37589, 252>
   <Kanton JCVP SZ, id:253, 2>
-   <KantonSympathisanten Sympathisanten [Sympathisant 8], id:18115, 253>
+   <KantonSympathisanten Sympathisanten [Sympathisant 7], id:40439, 253>
    <KantonMitglieder Mitgliedschaften [Mitglied 48], id:36367, 253>
   <Kanton JCVP TG, id:254, 2>
-   <KantonSympathisanten Sympathisanten [Sympathisant 405], id:18116, 254>
-   <KantonArbeitsgruppe Gönner [Mitglied 82], id:37383, 254>
-   <KantonMitglieder Mitgliedschaften [Mitglied 74], id:37001, 254>
-   <KantonPraesidium Vorstand [Mitglied 3, Praesident 1, tbd:Kassier 1, tbd:Sekretär 1], id:37000, 254>
-  <Kanton JCVP TI [tbd:Mitglied 254, tbd:Präsident 2, tbd:Sympathisant 427], id:255, 2>
+   <KantonSympathisanten Sympathisanten [Sympathisant 401], id:40440, 254>
+   <KantonArbeitsgruppe Gönner [Mitglied 81], id:37383, 254>
+   <KantonMitglieder Mitgliedschaften [Mitglied 72], id:37001, 254>
+   <KantonPraesidium Vorstand [Mitglied 2, Praesident 1, tbd:Kassier 1, tbd:Sekretär 1], id:37000, 254>
+  <Kanton JCVP TI [tbd:Mitglied 260, tbd:Präsident 2, tbd:Sympathisant 425], id:255, 2>
   <Kanton JCVP UR, id:256, 2>
-   <KantonMitglieder Mitgliedschaften [Mitglied 68], id:36117, 256>
+   <KantonMitglieder Mitgliedschaften [Mitglied 67], id:36117, 256>
   <Kanton JCVP VD, id:257, 2>
-   <KantonSympathisanten Sympathisanten [Sympathisant 1], id:18119, 257>
    <KantonArbeitsgruppe Parti [Praesident 1], id:36210, 257>
-   <KantonMitglieder Mitgliedschaften [Mitglied 13], id:38307, 257>
-  <Kanton JCVP VS-Romand [tbd:Mitglied 75, tbd:Präsident 1], id:259, 2>
+  <Kanton JCVP VS-Romand [tbd:Mitglied 73, tbd:Präsident 1], id:259, 2>
   <Kanton JCVP Valais romand, id:39310, 2>
-   <KantonMitglieder Mitgliedschaften [Mitglied 2], id:39312, 39310>
-  <Kanton JCVP ZG [tbd:Mitglied 50], id:260, 2>
+   <KantonMitglieder Mitgliedschaften [Mitglied 3], id:39312, 39310>
+  <Kanton JCVP ZG, id:40413, 2>
+   <KantonMitglieder Mitgliedschaften [Mitglied 59], id:40415, 40413>
   <Kanton JCVP ZH, id:261, 2>
-   <KantonSympathisanten Sympathisanten [Sympathisant 41], id:18123, 261>
-   <KantonMitglieder Mitgliedschaften [Mitglied 88], id:36838, 261>
+   <KantonSympathisanten Sympathisanten [Sympathisant 41], id:40447, 261>
+   <KantonMitglieder Mitgliedschaften [Mitglied 93], id:36838, 261>

@@ -1,6 +1,5 @@
 <Bund id=1, label=CVP Schweiz, parent_id=>
  <Kanton id=172, label=CVP TI, parent_id=1>
-  <KantonSympathisanten id=18095, label=Sympathisanten, parent_id=172>
   <KantonArbeitsgruppe id=39901, label=Adressen ohne Merkmale (aus Liste PPD), parent_id=172>
   <KantonArbeitsgruppe id=35542, label=Altri contributi secondo direttive, parent_id=172>
   <KantonArbeitsgruppe id=35537, label=Aziende e liberi professionisti, parent_id=172>

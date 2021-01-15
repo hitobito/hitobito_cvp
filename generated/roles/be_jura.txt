@@ -1,5 +1,5 @@
 <Bund CVP Schweiz, id:1, 0>
  <Kanton CVP BE Jura Sud, id:155, 1>
-  <KantonSympathisanten Sympathisanten [Sympathisant 7], id:18095, 155>
-  <KantonMitglieder Mitgliedschaften [Mitglied 21], id:383, 155>
+  <KantonSympathisanten Sympathisanten [Sympathisant 6], id:40419, 155>
+  <KantonMitglieder Mitgliedschaften [Mitglied 20], id:383, 155>
   <KantonPraesidium Partei [Mitglied 5, Praesident 3, tbd:Ansprechperson Finanzen 2, tbd:Empfänger Rechnung Jahresbeitrag CVP CH 2, tbd:Empfänger Umzugsmeldung 1, tbd:Kassier 1, tbd:Sekretär Kantonalpartei/Vereinigung 1], id:384, 155>

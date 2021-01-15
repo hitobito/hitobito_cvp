@@ -1,6 +1,6 @@
 <Bund id=1, label=CVP Schweiz, parent_id=>
  <Kanton id=40284, label=CSP Oberwallis, parent_id=1>
-  <KantonSympathisanten id=18095, label=Sympathisanten, parent_id=40284>
+  <KantonSympathisanten id=40419, label=Sympathisanten, parent_id=40284>
   <KantonArbeitsgruppe id=36662, label=60+ CSPO, parent_id=40284>
    <KantonArbeitsgruppe id=36663, label=Kernteam, parent_id=36662>
   <KantonArbeitsgruppe id=40392, label=CSPO Frauen, parent_id=40284>

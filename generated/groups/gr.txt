@@ -1,6 +1,6 @@
 <Bund id=1, label=CVP Schweiz, parent_id=>
  <Kanton id=161, label=CVP GR, parent_id=1>
-  <KantonSympathisanten id=18095, label=Sympathisanten, parent_id=161>
+  <KantonSympathisanten id=40419, label=Sympathisanten, parent_id=161>
   <KantonArbeitsgruppe id=1293, label=Alt-Mandatsträger/-innen, parent_id=161>
   <KantonDelegierte id=35426, label=Delegiertenversammlung, parent_id=161>
    <KantonDelegierte id=35428, label=Delegierte der Regional- und Kreisparteien, parent_id=35426>
@@ -41,7 +41,7 @@
   <KantonMitglieder id=478, label=Mitgliedschaften, parent_id=161>
   <KantonPraesidium id=479, label=Partei, parent_id=161>
   <Ort id=459, label=Kreispartei Chur, parent_id=161>
-   <OrtSympathisanten id=18096, label=Sympathisanten, parent_id=459>
+   <OrtSympathisanten id=40420, label=Sympathisanten, parent_id=459>
    <OrtGewaehlte id=14728, label=Legislative, parent_id=459>
    <OrtMitglieder id=1247, label=Mitgliedschaften, parent_id=459>
    <OrtPraesidium id=1248, label=Partei, parent_id=459>
@@ -49,14 +49,14 @@
    <OrtMitglieder id=1249, label=Mitgliedschaften, parent_id=460>
    <OrtPraesidium id=1250, label=Partei, parent_id=460>
   <Ort id=461, label=Kreispartei Davos, parent_id=161>
-   <OrtSympathisanten id=18098, label=Sympathisanten, parent_id=461>
+   <OrtSympathisanten id=40422, label=Sympathisanten, parent_id=461>
    <OrtMitglieder id=1251, label=Mitgliedschaften, parent_id=461>
    <OrtPraesidium id=1252, label=Partei, parent_id=461>
   <Ort id=472, label=Kreispartei Ramosch, parent_id=161>
    <OrtMitglieder id=1282, label=Mitgliedschaften, parent_id=472>
    <OrtPraesidium id=1283, label=Partei, parent_id=472>
   <Ort id=475, label=Kreispartei Schanfigg, parent_id=161>
-   <OrtSympathisanten id=18100, label=Sympathisanten, parent_id=475>
+   <OrtSympathisanten id=40424, label=Sympathisanten, parent_id=475>
    <OrtMitglieder id=1287, label=Mitgliedschaften, parent_id=475>
    <OrtPraesidium id=1288, label=Partei, parent_id=475>
   <Ort id=469, label=Kreispartei Val Mustair, parent_id=161>
@@ -68,9 +68,9 @@
     <OrtMitglieder id=2864, label=Mitgliedschaften, parent_id=1278>
     <OrtPraesidium id=2865, label=Partei, parent_id=1278>
    <Ort id=1279, label=Ortspartei Zuoz, parent_id=470>
-    <OrtSympathisanten id=18105, label=Sympathisanten, parent_id=1279>
+    <OrtSympathisanten id=40429, label=Sympathisanten, parent_id=1279>
   <Region id=456, label=Regionalpartei Albula / Surses, parent_id=161>
-   <RegionSympathisanten id=18106, label=Sympathisanten, parent_id=456>
+   <RegionSympathisanten id=40430, label=Sympathisanten, parent_id=456>
    <RegionMitglieder id=1241, label=Mitgliedschaften, parent_id=456>
    <RegionPraesidium id=1242, label=Partei, parent_id=456>
    <Ort id=39193, label=Kreispartei Alvaschein, parent_id=456>
@@ -79,11 +79,11 @@
    <Ort id=40290, label=Mandatsträger, parent_id=456>
    <Ort id=39194, label=Ortspartei Vaz/Obervaz, parent_id=456>
   <Region id=480, label=Regionalpartei Imboden, parent_id=161>
-   <RegionSympathisanten id=18112, label=Sympathisanten, parent_id=480>
+   <RegionSympathisanten id=40436, label=Sympathisanten, parent_id=480>
    <RegionMitglieder id=1298, label=Mitgliedschaften, parent_id=480>
    <RegionPraesidium id=1302, label=Partei, parent_id=480>
    <Ort id=1299, label=Ortspartei Bonaduz, parent_id=480>
-    <OrtSympathisanten id=18113, label=Sympathisanten, parent_id=1299>
+    <OrtSympathisanten id=40437, label=Sympathisanten, parent_id=1299>
     <OrtMitglieder id=2874, label=Mitgliedschaften, parent_id=1299>
     <OrtPraesidium id=2875, label=Partei, parent_id=1299>
    <Ort id=1300, label=Ortspartei Domat/Ems, parent_id=480>
@@ -93,22 +93,22 @@
     <OrtMitglieder id=2878, label=Mitgliedschaften, parent_id=1301>
     <OrtPraesidium id=2879, label=Partei, parent_id=1301>
   <Region id=464, label=Regionalpartei Landquart, parent_id=161>
-   <RegionSympathisanten id=18116, label=Sympathisanten, parent_id=464>
+   <RegionSympathisanten id=40440, label=Sympathisanten, parent_id=464>
    <RegionMitglieder id=1259, label=Mitgliedschaften, parent_id=464>
    <RegionPraesidium id=1264, label=Partei, parent_id=464>
    <Ort id=1260, label=Ortspartei Landquart, parent_id=464>
     <OrtMitglieder id=2853, label=Mitgliedschaften, parent_id=1260>
     <OrtPraesidium id=2854, label=Partei, parent_id=1260>
    <Ort id=1261, label=Ortspartei Trimmis, parent_id=464>
-    <OrtSympathisanten id=18118, label=Sympathisanten, parent_id=1261>
+    <OrtSympathisanten id=40442, label=Sympathisanten, parent_id=1261>
     <OrtMitglieder id=2855, label=Mitgliedschaften, parent_id=1261>
     <OrtPraesidium id=2856, label=Partei, parent_id=1261>
    <Ort id=1262, label=Ortspartei Untervaz, parent_id=464>
-    <OrtSympathisanten id=18119, label=Sympathisanten, parent_id=1262>
+    <OrtSympathisanten id=40443, label=Sympathisanten, parent_id=1262>
     <OrtMitglieder id=2857, label=Mitgliedschaften, parent_id=1262>
     <OrtPraesidium id=2858, label=Partei, parent_id=1262>
    <Ort id=1263, label=Ortspartei Zizers, parent_id=464>
-    <OrtSympathisanten id=18120, label=Sympathisanten, parent_id=1263>
+    <OrtSympathisanten id=40444, label=Sympathisanten, parent_id=1263>
     <OrtMitglieder id=2859, label=Mitgliedschaften, parent_id=1263>
     <OrtPraesidium id=2860, label=Partei, parent_id=1263>
   <Region id=481, label=Regionalpartei Moesa, parent_id=161>
@@ -121,25 +121,24 @@
     <OrtMitglieder id=1253, label=Mitgliedschaften, parent_id=462>
     <OrtPraesidium id=1256, label=Partei, parent_id=462>
    <Ort id=466, label=Kreispartei Ilanz/Foppa, parent_id=482>
-    <OrtSympathisanten id=18124, label=Sympathisanten, parent_id=466>
+    <OrtSympathisanten id=40448, label=Sympathisanten, parent_id=466>
     <OrtMitglieder id=1267, label=Mitgliedschaften, parent_id=466>
     <OrtPraesidium id=1269, label=Partei, parent_id=466>
    <Ort id=467, label=Kreispartei Lugnez/Lumnezia, parent_id=482>
-    <OrtSympathisanten id=18125, label=Sympathisanten, parent_id=467>
+    <OrtSympathisanten id=40449, label=Sympathisanten, parent_id=467>
     <OrtMitglieder id=1270, label=Mitgliedschaften, parent_id=467>
     <OrtPraesidium id=1271, label=Partei, parent_id=467>
   <Region id=483, label=Regionalpartei Valposchiavo, parent_id=161>
-   <RegionSympathisanten id=18126, label=Sympathisanten, parent_id=483>
+   <RegionSympathisanten id=40450, label=Sympathisanten, parent_id=483>
    <RegionMitglieder id=1307, label=Mitgliedschaften, parent_id=483>
    <RegionPraesidium id=1308, label=Partei, parent_id=483>
   <Region id=476, label=Regionalpartei Viamala, parent_id=161>
-   <RegionSympathisanten id=18128, label=Sympathisanten, parent_id=476>
+   <RegionSympathisanten id=40452, label=Sympathisanten, parent_id=476>
    <RegionMitglieder id=1289, label=Mitgliedschaften, parent_id=476>
    <RegionPraesidium id=1292, label=Partei, parent_id=476>
    <Ort id=1290, label=Ortspartei Cazis, parent_id=476>
     <OrtMitglieder id=2868, label=Mitgliedschaften, parent_id=1290>
     <OrtPraesidium id=2869, label=Partei, parent_id=1290>
    <Ort id=1291, label=Ortspartei Thusis, parent_id=476>
-    <OrtSympathisanten id=18130, label=Sympathisanten, parent_id=1291>
     <OrtMitglieder id=2870, label=Mitgliedschaften, parent_id=1291>
     <OrtPraesidium id=2871, label=Partei, parent_id=1291>

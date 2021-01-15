@@ -1,24 +1,24 @@
 <Bund CVP Schweiz, id:1, 0>
  <Kanton CVP BS, id:157, 1>
-  <KantonSympathisanten Sympathisanten [Sympathisant 20], id:18095, 157>
+  <KantonSympathisanten Sympathisanten [Sympathisant 18], id:40419, 157>
   <KantonArbeitsgruppe Arbeitsgruppe Schule, Erziehung, Bildung (SEB) [Mitglied 18, tbd:Sympathisant 12, tbd:Vorstandsmitglied 3], id:1036, 157>
   <KantonArbeitsgruppe BL/BS Organisationen, id:1037, 157>
-   <KantonArbeitsgruppe KAB [Mitglied 24, tbd:Sympathisant 1], id:2694, 1037>
-   <KantonArbeitsgruppe Mittelstandsvereinigung Basel [Mitglied 100, Praesident 1, tbd:Kassier 1, tbd:Sympathisant 33], id:2695, 1037>
-  <KantonArbeitsgruppe Diverse Funktionen [Praesident 2, tbd:Ansprechperson Finanzen 1, tbd:Empfänger Einladung 110, tbd:Empfänger Rechnung Jahresbeitrag CVP CH 1, tbd:Kassier 1, tbd:Medienverteiler 22, tbd:Plakatierer 2, tbd:Sekretär Kantonalpartei/Vereinigung 1], id:37320, 157>
+   <KantonArbeitsgruppe KAB [Mitglied 23, tbd:Sympathisant 1], id:2694, 1037>
+   <KantonArbeitsgruppe Mittelstandsvereinigung Basel [Mitglied 97, Praesident 1, tbd:Kassier 1, tbd:Sympathisant 33], id:2695, 1037>
+  <KantonArbeitsgruppe Diverse Funktionen [Praesident 2, tbd:Ansprechperson Finanzen 1, tbd:Empfänger Einladung 109, tbd:Empfänger Rechnung Jahresbeitrag CVP CH 1, tbd:Kassier 1, tbd:Medienverteiler 22, tbd:Plakatierer 2, tbd:Sekretär Kantonalpartei/Vereinigung 1], id:37320, 157>
   <KantonArbeitsgruppe Finanzen, id:1041, 157>
-   <KantonArbeitsgruppe Patronat [Mitglied 3, tbd:Sympathisant 70], id:2697, 1041>
+   <KantonArbeitsgruppe Patronat [Mitglied 3, tbd:Sympathisant 68], id:2697, 1041>
   <KantonArbeitsgruppe Ratsexterne Kommissionen, id:37321, 157>
    <KantonArbeitsgruppe Erziehungsrat [Mitglied 1], id:37322, 37321>
    <KantonArbeitsgruppe Verwaltungsrat BVB [Mitglied 1], id:37323, 37321>
-  <KantonExterneKontakte Donatoren [Spender 132, tbd:Gast 11], id:38316, 157>
+  <KantonExterneKontakte Donatoren [Spender 129, tbd:Gast 11], id:38316, 157>
   <KantonExterneKontakte Fundraising [Spender 40], id:38198, 157>
    <KantonExterneKontakte Grossunternehmen [Kontakt 86], id:39182, 38198>
    <KantonExterneKontakte KMU [Kontakt 121], id:39183, 38198>
-   <KantonExterneKontakte Verbände [Kontakt 30], id:39184, 38198>
+   <KantonExterneKontakte Verbände [Kontakt 29], id:39184, 38198>
    <KantonExterneKontakte Zünfte [Kontakt 29], id:39185, 38198>
-  <KantonExterneKontakte Medienverteiler [Kontakt 61], id:39525, 157>
-  <KantonExterneKontakte Newsletter [Kontakt 657], id:39524, 157>
+  <KantonExterneKontakte Medienverteiler [Kontakt 62], id:39525, 157>
+  <KantonExterneKontakte Newsletter [Kontakt 650], id:39524, 157>
   <KantonGewaehlte Regierungsrat [KantonaleExekutive 2], id:33169, 157>
   <KantonGewaehlte Judikative, id:415, 157>
    <KantonGewaehlte Appellationsgericht [tbd:Ersatzrichter 1, tbd:Richter 3], id:1030, 415>
@@ -31,25 +31,25 @@
   <KantonPraesidium Parteileitung [Mitglied 15], id:1043, 157>
   <KantonSekretariat Partei [Mitarbeiter 1], id:419, 157>
   <Ort Riehen, id:420, 157>
-   <OrtSympathisanten Sympathisanten [Sympathisant 23], id:18096, 420>
+   <OrtSympathisanten Sympathisanten [Sympathisant 23], id:40420, 420>
    <OrtGewaehlte Exekutive [KommunaleExekutive 2], id:36219, 420>
    <OrtGewaehlte Legislative [KommunaleExekutive 4], id:1047, 420>
-   <OrtMitglieder Mitgliedschaften [Mitglied 90], id:1048, 420>
-   <OrtPraesidium Partei [Adressverwalter 9, Kassier 1, Mitglied 10, Praesident 1], id:1049, 420>
+   <OrtMitglieder Mitgliedschaften [Mitglied 89], id:1048, 420>
+   <OrtPraesidium Partei [Adressverwalter 10, Kassier 1, Mitglied 10, Praesident 1], id:1049, 420>
   <Region Stadt Basel, id:34890, 157>
-   <RegionArbeitsgruppe Basler Bürger [tbd:Mitglied 147], id:37319, 34890>
+   <RegionArbeitsgruppe Basler Bürger [tbd:Mitglied 141], id:37319, 34890>
    <RegionGewaehlte Exekutive [RegionExekutive 1], id:34891, 34890>
    <RegionGewaehlte Legislative [RegionLegislative 7], id:34892, 34890>
    <Ort Grossbasel-Ost, id:413, 34890>
-    <OrtSympathisanten Sympathisanten [Sympathisant 55], id:18098, 413>
+    <OrtSympathisanten Sympathisanten [Sympathisant 56], id:40422, 413>
     <OrtMitglieder Mitgliedschaften [Mitglied 117], id:1026, 413>
-    <OrtPraesidium Partei [Adressverwalter 12, Kassier 4, Mitglied 14, Praesident 1], id:1027, 413>
+    <OrtPraesidium Partei [Adressverwalter 11, Kassier 3, Mitglied 14, Praesident 1], id:1027, 413>
    <Ort Grossbasel-West, id:414, 34890>
-    <OrtSympathisanten Sympathisanten [Sympathisant 67], id:18099, 414>
-    <OrtMitglieder Mitgliedschaften [Mitglied 128], id:1028, 414>
-    <OrtPraesidium Partei [Adressverwalter 10, Kassier 1, Mitglied 9, Praesident 1], id:1029, 414>
+    <OrtSympathisanten Sympathisanten [Sympathisant 65], id:40423, 414>
+    <OrtMitglieder Mitgliedschaften [Mitglied 126], id:1028, 414>
+    <OrtPraesidium Partei [Adressverwalter 11, Kassier 1, Mitglied 8, Praesident 1], id:1029, 414>
    <Ort Kleinbasel, id:416, 34890>
-    <OrtSympathisanten Sympathisanten [Sympathisant 30], id:18100, 416>
-    <OrtMitglieder Mitgliedschaften [Mitglied 90], id:1034, 416>
-    <OrtPraesidium Partei [Adressverwalter 7, Kassier 2, Mitglied 13, Praesident 3], id:1035, 416>
+    <OrtSympathisanten Sympathisanten [Sympathisant 32], id:40424, 416>
+    <OrtMitglieder Mitgliedschaften [Mitglied 89], id:1034, 416>
+    <OrtPraesidium Partei [Adressverwalter 6, Kassier 2, Mitglied 13, Praesident 3], id:1035, 416>
    <Ort Stiftungskommission [tbd:Mitglied 1], id:37324, 34890>

@@ -1,6 +1,6 @@
 <Bund CVP Schweiz, id:1, 0>
  <Kanton CVP OW, id:166, 1>
-  <KantonSympathisanten Sympathisanten [Sympathisant 1], id:18095, 166>
+  <KantonSympathisanten Sympathisanten [Sympathisant 1], id:40419, 166>
   <KantonGewaehlte Regierungsrat [KantonaleExekutive 1], id:35079, 166>
   <KantonGewaehlte Judikative, id:525, 166>
    <KantonGewaehlte Kantonsgericht [tbd:Mitglied 3], id:35080, 525>
@@ -12,33 +12,33 @@
   <KantonPraesidium Partei [Mitglied 8, Praesident 5, tbd:Ansprechperson Finanzen 1, tbd:Empfänger Rechnung Jahresbeitrag CVP CH 2, tbd:Leserbriefschreiber/-in Verantw. 1, tbd:OM Ansprechperson 2, tbd:Sekretär (administrativ) 1, tbd:Sekretär Kantonalpartei/Vereinigung 3], id:530, 166>
   <Ort Alpnach, id:522, 166>
    <OrtGewaehlte Exekutive [KommunaleExekutive 6], id:1537, 522>
-   <OrtMitglieder Mitgliedschaften [Mitglied 94], id:1538, 522>
+   <OrtMitglieder Mitgliedschaften [Mitglied 95], id:1538, 522>
    <OrtPraesidium Partei [Adressverwalter 3, Kassier 1, Mitglied 9, Praesident 2, tbd:Interessent 154, tbd:Sekretär 1], id:35097, 522>
   <Ort Engelberg [mit Grafenort], id:523, 166>
-   <OrtSympathisanten Sympathisanten [Sympathisant 1], id:18097, 523>
+   <OrtSympathisanten Sympathisanten [Sympathisant 1], id:40421, 523>
    <OrtGewaehlte Exekutive [KommunaleExekutive 1], id:35096, 523>
-   <OrtMitglieder Mitgliedschaften [Mitglied 90], id:1539, 523>
+   <OrtMitglieder Mitgliedschaften [Mitglied 91], id:1539, 523>
    <OrtPraesidium Partei [Adressverwalter 1, Praesident 3], id:1540, 523>
   <Ort Giswil, id:524, 166>
-   <OrtSympathisanten Sympathisanten [Sympathisant 1], id:18098, 524>
+   <OrtSympathisanten Sympathisanten [Sympathisant 1], id:40422, 524>
    <OrtGewaehlte Exekutive [KommunaleExekutive 2], id:35098, 524>
-   <OrtMitglieder Mitgliedschaften [Mitglied 52], id:1541, 524>
+   <OrtMitglieder Mitgliedschaften [Mitglied 50], id:1541, 524>
    <OrtPraesidium Partei [Adressverwalter 1, Kassier 1, Mitglied 7, Praesident 3], id:1542, 524>
   <Ort Kerns [mit Melchtal], id:526, 166>
    <OrtGewaehlte Exekutive [Fraktionschef 1, KommunaleExekutive 5], id:1544, 526>
-   <OrtMitglieder Mitgliedschaften [Mitglied 126], id:1545, 526>
+   <OrtMitglieder Mitgliedschaften [Mitglied 125], id:1545, 526>
    <OrtPraesidium Partei [Adressverwalter 2, Mitglied 5, Praesident 2], id:1546, 526>
   <Ort Lungern [mit Bürglen], id:528, 166>
    <OrtGewaehlte Exekutive [Fraktionschef 1, KommunaleExekutive 4], id:35099, 528>
-   <OrtMitglieder Mitgliedschaften [Mitglied 58], id:1547, 528>
+   <OrtMitglieder Mitgliedschaften [Mitglied 57], id:1547, 528>
    <OrtPraesidium Partei [Adressverwalter 1, Mitglied 2, Praesident 2], id:1548, 528>
   <Ort Sachseln [mit Flüeli Ranft], id:531, 166>
-   <OrtSympathisanten Sympathisanten [Sympathisant 1], id:18101, 531>
+   <OrtSympathisanten Sympathisanten [Sympathisant 1], id:40425, 531>
    <OrtGewaehlte Exekutive [Fraktionschef 1, KommunaleExekutive 1], id:1549, 531>
    <OrtMitglieder Mitgliedschaften [Mitglied 154], id:1550, 531>
    <OrtPraesidium Partei [Adressverwalter 1, Praesident 1], id:1551, 531>
   <Ort Sarnen [mit Ramersberg, Wilen, Stalden & Kägiswil], id:532, 166>
-   <OrtSympathisanten Sympathisanten [Sympathisant 3], id:18102, 532>
+   <OrtSympathisanten Sympathisanten [Sympathisant 4], id:40426, 532>
    <OrtGewaehlte Exekutive [Fraktionschef 2, KommunaleExekutive 5], id:35100, 532>
-   <OrtMitglieder Mitgliedschaften [Mitglied 153], id:1552, 532>
-   <OrtPraesidium Partei [Adressverwalter 4, Kassier 1, Mitglied 12, Praesident 3, tbd:Revisor 3, tbd:Sekretär 1], id:1553, 532>
+   <OrtMitglieder Mitgliedschaften [Mitglied 154], id:1552, 532>
+   <OrtPraesidium Partei [Adressverwalter 6, Kassier 1, Mitglied 13, Praesident 3, tbd:Revisor 3, tbd:Sekretär 1], id:1553, 532>

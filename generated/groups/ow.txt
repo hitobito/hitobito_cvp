@@ -1,6 +1,6 @@
 <Bund id=1, label=CVP Schweiz, parent_id=>
  <Kanton id=166, label=CVP OW, parent_id=1>
-  <KantonSympathisanten id=18095, label=Sympathisanten, parent_id=166>
+  <KantonSympathisanten id=40419, label=Sympathisanten, parent_id=166>
   <KantonGewaehlte id=35079, label=Regierungsrat, parent_id=166>
   <KantonGewaehlte id=525, label=Judikative, parent_id=166>
    <KantonGewaehlte id=35080, label=Kantonsgericht, parent_id=525>
@@ -15,12 +15,12 @@
    <OrtMitglieder id=1538, label=Mitgliedschaften, parent_id=522>
    <OrtPraesidium id=35097, label=Partei, parent_id=522>
   <Ort id=523, label=Engelberg [mit Grafenort], parent_id=166>
-   <OrtSympathisanten id=18097, label=Sympathisanten, parent_id=523>
+   <OrtSympathisanten id=40421, label=Sympathisanten, parent_id=523>
    <OrtGewaehlte id=35096, label=Exekutive, parent_id=523>
    <OrtMitglieder id=1539, label=Mitgliedschaften, parent_id=523>
    <OrtPraesidium id=1540, label=Partei, parent_id=523>
   <Ort id=524, label=Giswil, parent_id=166>
-   <OrtSympathisanten id=18098, label=Sympathisanten, parent_id=524>
+   <OrtSympathisanten id=40422, label=Sympathisanten, parent_id=524>
    <OrtGewaehlte id=35098, label=Exekutive, parent_id=524>
    <OrtMitglieder id=1541, label=Mitgliedschaften, parent_id=524>
    <OrtPraesidium id=1542, label=Partei, parent_id=524>
@@ -33,12 +33,12 @@
    <OrtMitglieder id=1547, label=Mitgliedschaften, parent_id=528>
    <OrtPraesidium id=1548, label=Partei, parent_id=528>
   <Ort id=531, label=Sachseln [mit Flüeli Ranft], parent_id=166>
-   <OrtSympathisanten id=18101, label=Sympathisanten, parent_id=531>
+   <OrtSympathisanten id=40425, label=Sympathisanten, parent_id=531>
    <OrtGewaehlte id=1549, label=Exekutive, parent_id=531>
    <OrtMitglieder id=1550, label=Mitgliedschaften, parent_id=531>
    <OrtPraesidium id=1551, label=Partei, parent_id=531>
   <Ort id=532, label=Sarnen [mit Ramersberg, Wilen, Stalden & Kägiswil], parent_id=166>
-   <OrtSympathisanten id=18102, label=Sympathisanten, parent_id=532>
+   <OrtSympathisanten id=40426, label=Sympathisanten, parent_id=532>
    <OrtGewaehlte id=35100, label=Exekutive, parent_id=532>
    <OrtMitglieder id=1552, label=Mitgliedschaften, parent_id=532>
    <OrtPraesidium id=1553, label=Partei, parent_id=532>

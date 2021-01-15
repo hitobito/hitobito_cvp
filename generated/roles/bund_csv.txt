@@ -1,8 +1,8 @@
 <Bund CVP Schweiz, id:1, 0>
  <Vereinigung CSV, id:6, 1>
-  <VereinigungPraesidium CSV Schweiz [Kassier 1, Mitglied 337, Praesident 8, tbd:Delegierter 5, tbd:Sekretär 3, tbd:Sekretär Kantonalpartei/Vereinigung 1], id:14618, 6>
+  <VereinigungPraesidium CSV Schweiz [Kassier 1, Mitglied 334, Praesident 8, tbd:Delegierter 7, tbd:Sekretär 3, tbd:Sekretär Kantonalpartei/Vereinigung 1], id:14618, 6>
   <Kanton AG, id:59, 6>
-   <KantonSympathisanten Sympathisanten [Sympathisant 293], id:18096, 59>
+   <KantonSympathisanten Sympathisanten [Sympathisant 288], id:40420, 59>
    <KantonMitglieder Mitgliedschaften [Mitglied 91], id:36461, 59>
   <Kanton FR CSU, id:37651, 6>
    <KantonArbeitsgruppe Funktion [Praesident 1], id:37652, 37651>
@@ -10,7 +10,7 @@
   <Kanton LU, id:39992, 6>
    <KantonMitglieder Mitgliedschaften [Mitglied 63], id:39994, 39992>
   <Kanton SG, id:40187, 6>
-   <KantonMitglieder Mitgliedschaften [Mitglied 343], id:40189, 40187>
+   <KantonMitglieder Mitgliedschaften [Mitglied 335], id:40189, 40187>
   <Kanton ZH, id:39875, 6>
-   <KantonSympathisanten Sympathisanten [Sympathisant 10], id:18102, 39875>
+   <KantonSympathisanten Sympathisanten [Sympathisant 9], id:40426, 39875>
    <KantonMitglieder Mitgliedschaften [Mitglied 55], id:39877, 39875>

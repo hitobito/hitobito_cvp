@@ -1,6 +1,6 @@
 <Bund id=1, label=CVP Schweiz, parent_id=>
  <Kanton id=176, label=CVP VS. Romand, parent_id=1>
-  <KantonSympathisanten id=18095, label=Sympathisanten, parent_id=176>
+  <KantonSympathisanten id=40419, label=Sympathisanten, parent_id=176>
   <KantonArbeitsgruppe id=33488, label=Bureau, parent_id=176>
   <KantonArbeitsgruppe id=39902, label=Candidats à la constituante, parent_id=176>
   <KantonArbeitsgruppe id=39143, label=Candidats à la députation, parent_id=176>
@@ -10,7 +10,10 @@
    <KantonArbeitsgruppe id=38945, label=Candidature conseiller général, parent_id=38880>
   <KantonArbeitsgruppe id=40341, label=Candidats élections communales 2020, parent_id=176>
    <KantonArbeitsgruppe id=40343, label=Candidature Vice-Présidence, parent_id=40341>
+   <KantonArbeitsgruppe id=40403, label=Candidature conseil bourgeoisial, parent_id=40341>
    <KantonArbeitsgruppe id=40344, label=Candidature conseiller général, parent_id=40341>
+   <KantonArbeitsgruppe id=40401, label=Candidature juge, parent_id=40341>
+   <KantonArbeitsgruppe id=40402, label=Candidature vice-juge, parent_id=40341>
    <KantonArbeitsgruppe id=40342, label=Cantidature Présidence, parent_id=40341>
   <KantonArbeitsgruppe id=36361, label=CoPoVr, parent_id=176>
   <KantonArbeitsgruppe id=33486, label=Commission Energie, parent_id=176>
@@ -75,7 +78,7 @@
     <OrtMitglieder id=33462, label=Mitgliedschaften, parent_id=2168>
     <OrtPraesidium id=4191, label=Partei, parent_id=2168>
    <Ort id=2170, label=Sembrancher, parent_id=641>
-    <OrtSympathisanten id=18106, label=Sympathisanten, parent_id=2170>
+    <OrtSympathisanten id=40430, label=Sympathisanten, parent_id=2170>
     <OrtGewaehlte id=37050, label=Exekutive, parent_id=2170>
     <OrtMitglieder id=33463, label=Mitgliedschaften, parent_id=2170>
     <OrtPraesidium id=4192, label=Partei, parent_id=2170>
@@ -195,7 +198,7 @@
     <OrtMitglieder id=4226, label=Mitgliedschaften, parent_id=2201>
     <OrtPraesidium id=33206, label=Partei, parent_id=2201>
    <Ort id=2198, label=Chalais, parent_id=648>
-    <OrtSympathisanten id=18139, label=Sympathisanten, parent_id=2198>
+    <OrtSympathisanten id=40463, label=Sympathisanten, parent_id=2198>
     <OrtMitglieder id=33456, label=Mitgliedschaften, parent_id=2198>
     <OrtPraesidium id=4223, label=Partei, parent_id=2198>
    <Ort id=2200, label=Chippis, parent_id=648>
@@ -229,12 +232,12 @@
     <OrtMitglieder id=33507, label=Mitgliedschaften, parent_id=33475>
     <OrtPraesidium id=33476, label=Partei, parent_id=33475>
    <Ort id=2207, label=Venthone, parent_id=648>
-    <OrtSympathisanten id=18147, label=Sympathisanten, parent_id=2207>
+    <OrtSympathisanten id=40471, label=Sympathisanten, parent_id=2207>
     <OrtGewaehlte id=37090, label=Exekutive, parent_id=2207>
     <OrtMitglieder id=4234, label=Mitgliedschaften, parent_id=2207>
     <OrtPraesidium id=4235, label=Partei, parent_id=2207>
    <Ort id=2208, label=Veyras, parent_id=648>
-    <OrtSympathisanten id=18148, label=Sympathisanten, parent_id=2208>
+    <OrtSympathisanten id=40472, label=Sympathisanten, parent_id=2208>
     <OrtGewaehlte id=37076, label=Exekutive, parent_id=2208>
     <OrtMitglieder id=4236, label=Mitgliedschaften, parent_id=2208>
     <OrtPraesidium id=4237, label=Partei, parent_id=2208>
@@ -250,12 +253,12 @@
     <OrtMitglieder id=33430, label=Mitgliedschaften, parent_id=33170>
     <OrtPraesidium id=33171, label=Partei, parent_id=33170>
    <Ort id=2210, label=Saviese, parent_id=649>
-    <OrtSympathisanten id=18152, label=Sympathisanten, parent_id=2210>
+    <OrtSympathisanten id=40476, label=Sympathisanten, parent_id=2210>
     <OrtGewaehlte id=37078, label=Exekutive, parent_id=2210>
     <OrtMitglieder id=33428, label=Mitgliedschaften, parent_id=2210>
     <OrtPraesidium id=4239, label=Partei, parent_id=2210>
    <Ort id=2211, label=Sion, parent_id=649>
-    <OrtSympathisanten id=18153, label=Sympathisanten, parent_id=2211>
+    <OrtSympathisanten id=40477, label=Sympathisanten, parent_id=2211>
     <OrtGewaehlte id=37079, label=Exekutive, parent_id=2211>
     <OrtGewaehlte id=36805, label=Legislative, parent_id=2211>
     <OrtMitglieder id=4240, label=Mitgliedschaften, parent_id=2211>
@@ -283,7 +286,7 @@
     <OrtMitglieder id=33435, label=Mitgliedschaften, parent_id=33187>
     <OrtPraesidium id=33188, label=Partei, parent_id=33187>
    <Ort id=33185, label=Massongex, parent_id=650>
-    <OrtSympathisanten id=18160, label=Sympathisanten, parent_id=33185>
+    <OrtSympathisanten id=40484, label=Sympathisanten, parent_id=33185>
     <OrtGewaehlte id=37102, label=Exekutive, parent_id=33185>
     <OrtMitglieder id=33436, label=Mitgliedschaften, parent_id=33185>
     <OrtPraesidium id=33186, label=Partei, parent_id=33185>
@@ -300,7 +303,7 @@
     <OrtMitglieder id=4248, label=Mitgliedschaften, parent_id=2220>
     <OrtPraesidium id=4249, label=Partei, parent_id=2220>
    <Ort id=2221, label=Verossaz, parent_id=650>
-    <OrtSympathisanten id=18164, label=Sympathisanten, parent_id=2221>
+    <OrtSympathisanten id=40488, label=Sympathisanten, parent_id=2221>
     <OrtGewaehlte id=37092, label=Exekutive, parent_id=2221>
     <OrtMitglieder id=33508, label=Mitgliedschaften, parent_id=2221>
     <OrtPraesidium id=4250, label=Partei, parent_id=2221>

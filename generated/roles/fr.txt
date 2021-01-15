@@ -1,44 +1,44 @@
 <Bund CVP Schweiz, id:1, 0>
  <Kanton CVP FR, id:158, 1>
-  <KantonSympathisanten Sympathisanten [Sympathisant 91], id:18095, 158>
+  <KantonSympathisanten Sympathisanten [Sympathisant 92], id:40419, 158>
   <KantonArbeitsgruppe Arbeitskommissionen, id:14852, 158>
    <KantonArbeitsgruppe Politische Kommission [Mitglied 2], id:14854, 14852>
    <KantonArbeitsgruppe Wahlkommission [Mitglied 16, Praesident 1, tbd:Kassier 1], id:14853, 14852>
   <KantonDelegierte Delegiertenversammlung, id:14793, 158>
-   <KantonDelegierte 60+ [Delegierte 11, tbd:Delegierter von Amtes wegen 1], id:37434, 14793>
-   <KantonDelegierte AWG [Delegierte 8], id:37436, 14793>
+   <KantonDelegierte 60+ [Delegierte 11], id:37434, 14793>
+   <KantonDelegierte AWG [Delegierte 7], id:37436, 14793>
    <KantonDelegierte Broye [Delegierte 51, tbd:Delegierter von Amtes wegen 7], id:14827, 14793>
-   <KantonDelegierte Delegierte von Amtes wegen [Delegierte 85], id:14832, 14793>
-   <KantonDelegierte Glâne [Delegierte 88, tbd:Delegierter von Amtes wegen 8], id:14829, 14793>
-   <KantonDelegierte Greyerz [Delegierte 148, tbd:Delegierter von Amtes wegen 17], id:14830, 14793>
-   <KantonDelegierte JDC [Delegierte 10, tbd:Delegierter von Amtes wegen 1], id:37438, 14793>
-   <KantonDelegierte Sarine [Delegierte 149, tbd:Delegierter von Amtes wegen 17], id:14831, 14793>
+   <KantonDelegierte Delegierte von Amtes wegen [Delegierte 84], id:14832, 14793>
+   <KantonDelegierte Glâne [Delegierte 86, tbd:Delegierter von Amtes wegen 8], id:14829, 14793>
+   <KantonDelegierte Greyerz [Delegierte 145, tbd:Delegierter von Amtes wegen 17], id:14830, 14793>
+   <KantonDelegierte JDC [Delegierte 13, tbd:Delegierter von Amtes wegen 1], id:37438, 14793>
+   <KantonDelegierte Sarine [Delegierte 146, tbd:Delegierter von Amtes wegen 18], id:14831, 14793>
    <KantonDelegierte See [Delegierte 66, tbd:Delegierter von Amtes wegen 9], id:14833, 14793>
-   <KantonDelegierte Sense [Delegierte 147, tbd:Delegierter von Amtes wegen 13], id:14834, 14793>
+   <KantonDelegierte Sense [Delegierte 144, tbd:Delegierter von Amtes wegen 13], id:14834, 14793>
    <KantonDelegierte UCS [Delegierte 7], id:37439, 14793>
-   <KantonDelegierte Ville de Fribourg [Delegierte 129, tbd:Delegierter von Amtes wegen 21], id:14828, 14793>
-   <KantonDelegierte Vivisbach [Delegierte 49, tbd:Delegierter von Amtes wegen 7], id:14835, 14793>
+   <KantonDelegierte Ville de Fribourg [Delegierte 127, tbd:Delegierter von Amtes wegen 20], id:14828, 14793>
+   <KantonDelegierte Vivisbach [Delegierte 47, tbd:Delegierter von Amtes wegen 7], id:14835, 14793>
   <KantonExterneKontakte Newsletter Forum F [Kontakt 2], id:40006, 158>
-  <KantonExterneKontakte Newsletter f [Kontakt 2], id:40005, 158>
+  <KantonExterneKontakte Newsletter f [Kontakt 7], id:40005, 158>
   <KantonGewaehlte Regierungsrat [KantonaleExekutive 5], id:36238, 158>
   <KantonGewaehlte Legislative [KantonaleLegislative 82], id:425, 158>
-  <KantonGewaehlte Magistrats [MitgliedKantonalesGerichtErsteInstanz 7, Staatsanwaltschaft 3, tbd:Bundesrichter 2, tbd:Bundesverwaltungsrichter 1, tbd:Gerichtspräsident 3, tbd:Juge itinérant 2, tbd:Kanzler kantonal 1, tbd:Membre CA de l'OCN 2, tbd:Membre du CA de l'ECAB 1, tbd:Membre du CA de la BCF 2, tbd:Membre du CA des TPF 1, tbd:Membre du CA du HFR 1, tbd:Nationalrat 1, tbd:Präfekt 3, tbd:Président TA Glâne 1, tbd:Président TA Sarine 2, tbd:Président TA de la Boye 1, tbd:Président TA du Lac 1, tbd:Président du TA Gruyère 1, tbd:Regierungsrat 4, tbd:Ständerat 1, tbd:Untersuchungsrichter 1, tbd:Vizekanzler 1], id:36239, 158>
+  <KantonGewaehlte Magistrats [MitgliedKantonalesGerichtErsteInstanz 7, Staatsanwaltschaft 3, tbd:Bundesrichter 2, tbd:Bundesverwaltungsrichter 1, tbd:Gerichtspräsident 3, tbd:Juge itinérant 2, tbd:Kanzler kantonal 1, tbd:Membre CA de l'OCN 2, tbd:Membre du CA de l'ECAB 1, tbd:Membre du CA de la BCF 2, tbd:Membre du CA des TPF 1, tbd:Nationalrat 1, tbd:Präfekt 3, tbd:Président TA Glâne 1, tbd:Président TA Sarine 2, tbd:Président TA de la Boye 1, tbd:Président TA du Lac 1, tbd:Président du TA Gruyère 1, tbd:Regierungsrat 4, tbd:Ständerat 1, tbd:Untersuchungsrichter 1, tbd:Vizekanzler 1], id:36239, 158>
   <KantonKommission Politische Kommissionen, id:14857, 158>
-   <KantonKommission Agriculture [Mitglied 21, Praesident 1], id:33167, 14857>
-   <KantonKommission Aménagements environnement transports [Mitglied 36, Praesident 2], id:33165, 14857>
+   <KantonKommission Agriculture [Mitglied 20, Praesident 1], id:33167, 14857>
+   <KantonKommission Aménagements environnement transports [Mitglied 35, Praesident 2], id:33165, 14857>
    <KantonKommission Economie - finances - fiscalité [Mitglied 28, Praesident 2], id:33163, 14857>
-   <KantonKommission Education  formation sport jeunesse [Mitglied 37, Praesident 3], id:14858, 14857>
-   <KantonKommission Famille affaires sociales sécurté [Mitglied 24, Praesident 2], id:33162, 14857>
+   <KantonKommission Education  formation sport jeunesse [Mitglied 36, Praesident 3], id:14858, 14857>
+   <KantonKommission Famille affaires sociales sécurté [Mitglied 23, Praesident 2], id:33162, 14857>
    <KantonKommission Institutions fonctions publiques Personnel [Mitglied 13, Praesident 2], id:33166, 14857>
    <KantonKommission Justice [Mitglied 28, Praesident 3], id:33168, 14857>
    <KantonKommission Santé publique [Mitglied 21, Praesident 2], id:33164, 14857>
-  <KantonMitglieder Mitgliedschaften [Mitglied 185], id:426, 158>
-  <KantonParteigremium Comité Directeur [Mitglied 63], id:36236, 158>
+  <KantonMitglieder Mitgliedschaften [Mitglied 183], id:426, 158>
+  <KantonParteigremium Comité Directeur [Mitglied 62], id:36236, 158>
   <KantonPraesidium Partei [Praesident 7, tbd:Ansprechperson Finanzen 3, tbd:Botschafter 3, tbd:Empfänger Rechnung Jahresbeitrag CVP CH 2, tbd:Empfänger Umzugsmeldung 1, tbd:Leserbriefschreiber/-in Verantw. 1, tbd:Plakatierer 1, tbd:Sekretär (administrativ) 2, tbd:Sekretär Kantonalpartei/Vereinigung 2], id:427, 158>
-  <KantonPraesidium Präsidium [Praesident 17, tbd:Beisitzer 9, tbd:Sekretär 1], id:36225, 158>
+  <KantonPraesidium Präsidium [Praesident 17, tbd:Beisitzer 8, tbd:Sekretär 1], id:36225, 158>
   <Region Broye, id:421, 158>
-   <RegionSympathisanten Sympathisanten [Sympathisant 2], id:18096, 421>
-   <RegionMitglieder Mitgliedschaften [Mitglied 373], id:1063, 421>
+   <RegionSympathisanten Sympathisanten [Sympathisant 2], id:40420, 421>
+   <RegionMitglieder Mitgliedschaften [Mitglied 366], id:1063, 421>
    <RegionPraesidium Partei [Praesident 1, tbd:Delegierter 4, tbd:Kassier 2, tbd:Sekretär 1, tbd:Zuzüger 7], id:1066, 421>
    <Ort Bussy, id:14707, 421>
     <OrtMitglieder Mitgliedschaften [Mitglied 31], id:14720, 14707>
@@ -46,53 +46,57 @@
     <OrtMitglieder Mitgliedschaften [Mitglied 8], id:14721, 14714>
     <OrtPraesidium Partei [tbd:Delegierter 2], id:14715, 14714>
    <Ort Domdidier, id:14712, 421>
-    <OrtMitglieder Mitgliedschaften [Mitglied 8], id:14722, 14712>
+    <OrtMitglieder Mitgliedschaften [Mitglied 9], id:14722, 14712>
+   <Ort Estavayer-le-Lac, id:40404, 421>
+    <OrtSympathisanten Sympathisanten [Sympathisant 1], id:40424, 40404>
+    <OrtMitglieder Mitgliedschaften [Mitglied 1], id:40409, 40404>
    <Ort Les Montets, id:14709, 421>
     <OrtMitglieder Mitgliedschaften [Mitglied 1], id:14723, 14709>
   <Region Glâne, id:423, 158>
    <Ort PDC Glane, id:14647, 423>
-    <OrtSympathisanten Sympathisanten [Sympathisant 1], id:18103, 14647>
-    <OrtMitglieder Mitgliedschaften [Mitglied 188], id:14649, 14647>
-    <OrtPraesidium Partei [Adressverwalter 1, Kassier 2, Mitglied 17, Praesident 5, tbd:Delegierter 3, tbd:Sekretär 1], id:14648, 14647>
+    <OrtSympathisanten Sympathisanten [Sympathisant 1], id:40428, 14647>
+    <OrtMitglieder Mitgliedschaften [Mitglied 185], id:14649, 14647>
+    <OrtPraesidium Partei [Adressverwalter 1, Kassier 2, Mitglied 16, Praesident 5, tbd:Delegierter 3, tbd:Sekretär 1], id:14648, 14647>
    <Ort PDC Romont, id:1094, 423>
-    <OrtSympathisanten Sympathisanten [Sympathisant 1], id:18104, 1094>
-    <OrtMitglieder Mitgliedschaften [Mitglied 95], id:2715, 1094>
-    <OrtPraesidium Partei [Adressverwalter 3, Mitglied 7, Praesident 2], id:14650, 1094>
+    <OrtSympathisanten Sympathisanten [Sympathisant 1], id:40429, 1094>
+    <OrtMitglieder Mitgliedschaften [Mitglied 94], id:2715, 1094>
+    <OrtPraesidium Partei [Adressverwalter 4, Mitglied 7, Praesident 2], id:14650, 1094>
    <Ort Syndics [tbd:Mitglied 8], id:36237, 423>
   <Region Greyerz, id:424, 158>
-   <RegionSympathisanten Sympathisanten [Sympathisant 5], id:18106, 424>
-   <RegionMitglieder Mitgliedschaften [Mitglied 33], id:1125, 424>
+   <RegionSympathisanten Sympathisanten [Sympathisant 5], id:40431, 424>
+   <RegionMitglieder Mitgliedschaften [Mitglied 31], id:1125, 424>
    <RegionPraesidium Partei [Praesident 7, tbd:Empfänger Umzugsmeldung 1, tbd:Kassier 2, tbd:Sekretär 1, tbd:Vorstandsmitglied 20], id:1127, 424>
    <Ort BGI, id:1107, 424>
-    <OrtSympathisanten Sympathisanten [Sympathisant 98], id:18107, 1107>
-    <OrtMitglieder Mitgliedschaften [Mitglied 353], id:2728, 1107>
+    <OrtSympathisanten Sympathisanten [Sympathisant 97], id:40432, 1107>
+    <OrtMitglieder Mitgliedschaften [Mitglied 349], id:2728, 1107>
     <OrtPraesidium Partei [Adressverwalter 1, Mitglied 2, Praesident 1], id:14786, 1107>
    <Ort Bulle, id:1110, 424>
-    <OrtSympathisanten Sympathisanten [Sympathisant 25], id:18108, 1110>
-    <OrtMitglieder Mitgliedschaften [Mitglied 208], id:2731, 1110>
-    <OrtPraesidium Partei [Adressverwalter 14, Praesident 1], id:14785, 1110>
+    <OrtSympathisanten Sympathisanten [Sympathisant 21], id:40433, 1110>
+    <OrtMitglieder Mitgliedschaften [Mitglied 182], id:2731, 1110>
+    <OrtPraesidium Partei [Adressverwalter 13, Praesident 1], id:14785, 1110>
    <Ort La Jogne, id:1111, 424>
-    <OrtSympathisanten Sympathisanten [Sympathisant 3], id:18109, 1111>
-    <OrtMitglieder Mitgliedschaften [Mitglied 124], id:2732, 1111>
+    <OrtSympathisanten Sympathisanten [Sympathisant 3], id:40434, 1111>
+    <OrtMitglieder Mitgliedschaften [Mitglied 123], id:2732, 1111>
     <OrtPraesidium Partei [Adressverwalter 1, Praesident 2], id:14787, 1111>
    <Ort La Sionge, id:1131, 424>
-    <OrtSympathisanten Sympathisanten [Sympathisant 1], id:18110, 1131>
-    <OrtMitglieder Mitgliedschaften [Mitglied 235], id:2750, 1131>
+    <OrtSympathisanten Sympathisanten [Sympathisant 1], id:40435, 1131>
+    <OrtMitglieder Mitgliedschaften [Mitglied 257], id:2750, 1131>
     <OrtPraesidium Partei [Adressverwalter 4, Praesident 3], id:14788, 1131>
    <Ort Rive droite, id:1108, 424>
-    <OrtSympathisanten Sympathisanten [Sympathisant 135], id:18111, 1108>
-    <OrtMitglieder Mitgliedschaften [Mitglied 224], id:2729, 1108>
+    <OrtSympathisanten Sympathisanten [Sympathisant 135], id:40436, 1108>
+    <OrtMitglieder Mitgliedschaften [Mitglied 221], id:2729, 1108>
     <OrtPraesidium Partei [Adressverwalter 2, Praesident 1], id:14790, 1108>
    <Ort Rive gauche, id:1116, 424>
-    <OrtSympathisanten Sympathisanten [Sympathisant 22], id:18112, 1116>
-    <OrtMitglieder Mitgliedschaften [Mitglied 113], id:2737, 1116>
+    <OrtSympathisanten Sympathisanten [Sympathisant 22], id:40437, 1116>
+    <OrtMitglieder Mitgliedschaften [Mitglied 114], id:2737, 1116>
     <OrtPraesidium Partei [Adressverwalter 6], id:14791, 1116>
   <Region Sarine-Campagne, id:428, 158>
-   <RegionSympathisanten Sympathisanten [Sympathisant 87], id:18113, 428>
+   <RegionSympathisanten Sympathisanten [Sympathisant 85], id:40438, 428>
    <RegionArbeitsgruppe Députés cantonaux [tbd:Kantonsrat 1], id:39045, 428>
-   <RegionMitglieder Mitgliedschaften [Mitglied 350], id:1154, 428>
-   <RegionPraesidium Partei [Praesident 3, tbd:Delegierter 2, tbd:Empfänger Umzugsmeldung 2, tbd:Kassier 4, tbd:Sekretär 2, tbd:Vorstandsmitglied 34, tbd:Zuzüger 11], id:14851, 428>
+   <RegionMitglieder Mitgliedschaften [Mitglied 346], id:1154, 428>
+   <RegionPraesidium Partei [Praesident 3, tbd:Delegierter 2, tbd:Empfänger Umzugsmeldung 2, tbd:Kassier 4, tbd:Sekretär 2, tbd:Vorstandsmitglied 34, tbd:Zuzüger 12], id:14851, 428>
    <Ort Belfaux, id:1140, 428>
+    <OrtGewaehlte Exécutif [KommunaleExekutive 1], id:39044, 1140>
     <OrtMitglieder Mitgliedschaften [Mitglied 17], id:2759, 1140>
     <OrtPraesidium Partei [Mitglied 1, Praesident 2], id:2760, 1140>
    <Ort Corminboeuf, id:1142, 428>
@@ -104,45 +108,45 @@
     <OrtMitglieder Mitgliedschaften [Mitglied 4], id:36313, 36311>
     <OrtPraesidium Partei [Mitglied 1, Praesident 1], id:36312, 36311>
    <Ort Marly, id:1152, 428>
-    <OrtSympathisanten Sympathisanten [Sympathisant 2], id:18118, 1152>
-    <OrtMitglieder Mitgliedschaften [Mitglied 26], id:2772, 1152>
+    <OrtSympathisanten Sympathisanten [Sympathisant 1], id:40443, 1152>
+    <OrtMitglieder Mitgliedschaften [Mitglied 28], id:2772, 1152>
     <OrtPraesidium Partei [Mitglied 1, Praesident 1], id:14795, 1152>
    <Ort Sarine Nord, id:39038, 428>
     <OrtMitglieder Mitgliedschaften [Mitglied 2], id:39042, 39038>
    <Ort Treyvaux, id:1163, 428>
-    <OrtSympathisanten Sympathisanten [Sympathisant 1], id:18120, 1163>
+    <OrtSympathisanten Sympathisanten [Sympathisant 1], id:40445, 1163>
     <OrtMitglieder Mitgliedschaften [Mitglied 7], id:2781, 1163>
     <OrtPraesidium Partei [Mitglied 1, Praesident 1], id:14796, 1163>
    <Ort Villars-sur-Glâne, id:1165, 428>
-    <OrtSympathisanten Sympathisanten [Sympathisant 9], id:18121, 1165>
+    <OrtSympathisanten Sympathisanten [Sympathisant 9], id:40446, 1165>
     <OrtGewaehlte Exécutif [KommunaleExekutive 1], id:39061, 1165>
     <OrtGewaehlte Législatif [KommunaleExekutive 3], id:39060, 1165>
-    <OrtMitglieder Mitgliedschaften [Mitglied 108], id:2783, 1165>
+    <OrtMitglieder Mitgliedschaften [Mitglied 102], id:2783, 1165>
     <OrtPraesidium Partei [Adressverwalter 7, Praesident 1], id:14797, 1165>
   <Region See, id:429, 158>
-   <RegionSympathisanten Sympathisanten [Sympathisant 1], id:18122, 429>
-   <RegionMitglieder Mitgliedschaften [Mitglied 190], id:1178, 429>
+   <RegionSympathisanten Sympathisanten [Sympathisant 1], id:40447, 429>
+   <RegionMitglieder Mitgliedschaften [Mitglied 186], id:1178, 429>
    <RegionPraesidium Partei [Praesident 2, tbd:Delegierter 2, tbd:Empfänger Umzugsmeldung 1, tbd:Kassier 2, tbd:Sekretär 1, tbd:Vorstandsmitglied 2, tbd:Zuzüger 5], id:1181, 429>
    <Ort Gurmels, id:1170, 429>
-    <OrtSympathisanten Sympathisanten [Sympathisant 1], id:18123, 1170>
-    <OrtMitglieder Mitgliedschaften [Mitglied 80], id:2788, 1170>
+    <OrtSympathisanten Sympathisanten [Sympathisant 1], id:40448, 1170>
+    <OrtMitglieder Mitgliedschaften [Mitglied 77], id:2788, 1170>
     <OrtPraesidium Partei [Praesident 1], id:2789, 1170>
    <Ort Haut Lac, id:1168, 429>
-    <OrtMitglieder Mitgliedschaften [Mitglied 51], id:2786, 1168>
+    <OrtMitglieder Mitgliedschaften [Mitglied 48], id:2786, 1168>
     <OrtPraesidium Partei [Praesident 1, tbd:Sekretär 1], id:14798, 1168>
    <Ort Kerzers, id:1173, 429>
     <OrtMitglieder Mitgliedschaften [Mitglied 31], id:2792, 1173>
     <OrtPraesidium Partei [Adressverwalter 1, Praesident 1, tbd:Delegierter 1], id:2793, 1173>
    <Ort Murten, id:1180, 429>
-    <OrtSympathisanten Sympathisanten [Sympathisant 38], id:18126, 1180>
-    <OrtMitglieder Mitgliedschaften [Mitglied 57], id:2799, 1180>
+    <OrtSympathisanten Sympathisanten [Sympathisant 37], id:40451, 1180>
+    <OrtMitglieder Mitgliedschaften [Mitglied 55], id:2799, 1180>
     <OrtPraesidium Partei [Adressverwalter 4, Kassier 1, Mitglied 2, Praesident 1], id:14799, 1180>
    <Ort Vully, id:1182, 429>
-    <OrtSympathisanten Sympathisanten [Sympathisant 4], id:18127, 1182>
+    <OrtSympathisanten Sympathisanten [Sympathisant 4], id:40452, 1182>
     <OrtMitglieder Mitgliedschaften [Mitglied 20], id:2800, 1182>
     <OrtPraesidium Partei [Adressverwalter 2], id:2801, 1182>
   <Region Sense, id:430, 158>
-   <RegionSympathisanten Sympathisanten [Sympathisant 28], id:18128, 430>
+   <RegionSympathisanten Sympathisanten [Sympathisant 28], id:40453, 430>
    <RegionDelegierte Delegiertenversammlung, id:14808, 430>
     <RegionDelegierte Alterswil [Delegierte 5], id:14809, 14808>
     <RegionDelegierte Bösingen [Delegierte 4], id:14810, 14808>
@@ -150,7 +154,7 @@
     <RegionDelegierte Giffers-Tentlingen [Delegierte 4], id:14813, 14808>
     <RegionDelegierte Heitenried [Delegierte 4], id:14814, 14808>
     <RegionDelegierte Oberland [Delegierte 10], id:14816, 14808>
-    <RegionDelegierte Rechthalten [Delegierte 2], id:14817, 14808>
+    <RegionDelegierte Rechthalten [Delegierte 3], id:14817, 14808>
     <RegionDelegierte Schmitten [Delegierte 6], id:14818, 14808>
     <RegionDelegierte St. Antoni [Delegierte 5], id:14819, 14808>
     <RegionDelegierte St. Sivester [Delegierte 3], id:14820, 14808>
@@ -159,18 +163,18 @@
     <RegionDelegierte Ueberstorf [Delegierte 5], id:14824, 14808>
     <RegionDelegierte Wünnewil-Flamatt [Delegierte 6], id:14825, 14808>
    <RegionGewaehlte Legislative [RegionLegislative 7], id:1189, 430>
-   <RegionMitglieder Mitgliedschaften [Mitglied 155], id:1190, 430>
+   <RegionMitglieder Mitgliedschaften [Mitglied 153], id:1190, 430>
    <RegionPraesidium Partei [Praesident 4, tbd:Delegierter 31, tbd:Empfänger Rechnung Jahresbeitrag CVP CH 3, tbd:Kassier 2, tbd:Sekretär 1, tbd:Sekretär Kantonalpartei/Vereinigung 2, tbd:Vorstandsmitglied 22], id:1192, 430>
    <Ort Alterswil, id:1183, 430>
-    <OrtSympathisanten Sympathisanten [Sympathisant 24], id:18129, 1183>
+    <OrtSympathisanten Sympathisanten [Sympathisant 24], id:40454, 1183>
     <OrtMitglieder Mitgliedschaften [Mitglied 124], id:2802, 1183>
     <OrtPraesidium Partei [Adressverwalter 1, Mitglied 3, Praesident 2], id:14800, 1183>
    <Ort Bösingen, id:1184, 430>
     <OrtMitglieder Mitgliedschaften [Mitglied 62], id:2803, 1184>
     <OrtPraesidium Partei [Adressverwalter 2, Kassier 1, Mitglied 4, Praesident 2, tbd:Vorstand 2], id:2804, 1184>
    <Ort Düdingen, id:1186, 430>
-    <OrtMitglieder Mitgliedschaften [Mitglied 183], id:2806, 1186>
-    <OrtPraesidium Partei [Adressverwalter 4, Kassier 2, Mitglied 8, Praesident 5, tbd:Vorstand 4], id:2807, 1186>
+    <OrtMitglieder Mitgliedschaften [Mitglied 178], id:2806, 1186>
+    <OrtPraesidium Partei [Adressverwalter 5, Kassier 2, Mitglied 6, Praesident 4, tbd:Vorstand 4], id:2807, 1186>
    <Ort Giffers-Tentlingen, id:1201, 430>
     <OrtMitglieder Mitgliedschaften [Mitglied 43], id:2828, 1201>
     <OrtPraesidium Partei [Praesident 2, tbd:Vorstand 1], id:2829, 1201>
@@ -181,7 +185,7 @@
     <OrtMitglieder Mitgliedschaften [Mitglied 45], id:2812, 1191>
     <OrtPraesidium Partei [Mitglied 5, Praesident 2, tbd:Vorstand 1], id:2813, 1191>
    <Ort Rechthalten, id:1195, 430>
-    <OrtMitglieder Mitgliedschaften [Mitglied 7], id:2817, 1195>
+    <OrtMitglieder Mitgliedschaften [Mitglied 9], id:2817, 1195>
     <OrtPraesidium Partei [Praesident 1, tbd:Vorstand 1], id:2818, 1195>
    <Ort Schmitten, id:1196, 430>
     <OrtMitglieder Mitgliedschaften [Mitglied 89], id:2819, 1196>
@@ -193,35 +197,35 @@
     <OrtMitglieder Mitgliedschaften [Mitglied 9], id:2823, 1198>
     <OrtPraesidium Partei [Adressverwalter 1, Mitglied 3, Praesident 1, tbd:Vorstand 1], id:2824, 1198>
    <Ort St. Ursen, id:1199, 430>
-    <OrtMitglieder Mitgliedschaften [Mitglied 62], id:2825, 1199>
+    <OrtMitglieder Mitgliedschaften [Mitglied 61], id:2825, 1199>
     <OrtPraesidium Partei [Adressverwalter 1, Praesident 1, tbd:Vorstand 1], id:2826, 1199>
    <Ort Tafers, id:1200, 430>
-    <OrtSympathisanten Sympathisanten [Sympathisant 172], id:18141, 1200>
-    <OrtMitglieder Mitgliedschaften [Mitglied 33], id:2827, 1200>
+    <OrtSympathisanten Sympathisanten [Sympathisant 171], id:40466, 1200>
+    <OrtMitglieder Mitgliedschaften [Mitglied 31], id:2827, 1200>
     <OrtPraesidium Partei [Adressverwalter 2, Kassier 1, Mitglied 4, Praesident 2, tbd:Delegierter 1], id:14803, 1200>
    <Ort Ueberstorf, id:1202, 430>
-    <OrtMitglieder Mitgliedschaften [Mitglied 59], id:2830, 1202>
+    <OrtMitglieder Mitgliedschaften [Mitglied 58], id:2830, 1202>
     <OrtPraesidium Partei [Kassier 2, Mitglied 3, Praesident 3, tbd:Vorstand 1], id:2831, 1202>
    <Ort Wünnewil-Flamatt, id:1203, 430>
-    <OrtMitglieder Mitgliedschaften [Mitglied 113], id:2832, 1203>
+    <OrtMitglieder Mitgliedschaften [Mitglied 107], id:2832, 1203>
     <OrtPraesidium Partei [Adressverwalter 5, Mitglied 7, Praesident 3], id:2833, 1203>
   <Region Ville de Fribourg, id:422, 158>
-   <RegionSympathisanten Sympathisanten [Sympathisant 21], id:18144, 422>
-   <RegionMitglieder Mitgliedschaften [Mitglied 573], id:1073, 422>
-   <RegionPraesidium Partei [Praesident 5, tbd:Empfänger Umzugsmeldung 3, tbd:Kassier 1, tbd:Sekretär 2, tbd:Vorstandsmitglied 11, tbd:Zuzüger 16], id:1074, 422>
+   <RegionSympathisanten Sympathisanten [Sympathisant 21], id:40469, 422>
+   <RegionMitglieder Mitgliedschaften [Mitglied 585], id:1073, 422>
+   <RegionPraesidium Partei [Praesident 5, tbd:Empfänger Umzugsmeldung 3, tbd:Kassier 1, tbd:Sekretär 2, tbd:Vorstandsmitglied 11, tbd:Zuzüger 18], id:1074, 422>
    <Ort Conseil politique [tbd:Mitglied 14], id:39413, 422>
   <Region Vivisbach, id:431, 158>
-   <RegionSympathisanten Sympathisanten [Sympathisant 1], id:18146, 431>
-   <RegionMitglieder Mitgliedschaften [Mitglied 31], id:1210, 431>
+   <RegionSympathisanten Sympathisanten [Sympathisant 1], id:40471, 431>
+   <RegionMitglieder Mitgliedschaften [Mitglied 30], id:1210, 431>
    <RegionPraesidium Partei [Praesident 4, tbd:Empfänger Umzugsmeldung 1, tbd:Kassier 3, tbd:Sekretär 2, tbd:Vorstandsmitglied 8], id:1211, 431>
    <Ort Attalens, id:1205, 431>
-    <OrtMitglieder Mitgliedschaften [Mitglied 45], id:2836, 1205>
+    <OrtMitglieder Mitgliedschaften [Mitglied 44], id:2836, 1205>
     <OrtPraesidium Partei [Praesident 1, tbd:Vorstand 1], id:2837, 1205>
    <Ort Bossonnens, id:1206, 431>
     <OrtMitglieder Mitgliedschaften [Mitglied 6], id:2838, 1206>
    <Ort Châtel-Saint-Denis, id:1207, 431>
-    <OrtMitglieder Mitgliedschaften [Mitglied 117], id:2839, 1207>
-    <OrtPraesidium Partei [Adressverwalter 3, Praesident 1, tbd:Vorstand 1], id:2840, 1207>
+    <OrtMitglieder Mitgliedschaften [Mitglied 115], id:2839, 1207>
+    <OrtPraesidium Partei [Adressverwalter 5, Praesident 1, tbd:Vorstand 1], id:2840, 1207>
    <Ort Granges, id:1208, 431>
     <OrtMitglieder Mitgliedschaften [Mitglied 9], id:2841, 1208>
     <OrtPraesidium Partei [Adressverwalter 1, Praesident 1, tbd:Vorstand 1], id:2842, 1208>
@@ -229,7 +233,7 @@
     <OrtMitglieder Mitgliedschaften [Mitglied 18], id:2843, 1209>
     <OrtPraesidium Partei [Praesident 1, tbd:Vorstand 1], id:2844, 1209>
    <Ort Le Flon, id:14705, 431>
-    <OrtMitglieder Mitgliedschaften [Mitglied 14], id:14805, 14705>
+    <OrtMitglieder Mitgliedschaften [Mitglied 13], id:14805, 14705>
    <Ort Remaufens, id:1212, 431>
     <OrtMitglieder Mitgliedschaften [Mitglied 16], id:2845, 1212>
     <OrtPraesidium Partei [Praesident 1, tbd:Vorstand 1], id:2846, 1212>

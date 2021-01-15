@@ -1,6 +1,6 @@
 <Bund CVP Schweiz, id:1, 0>
  <Kanton CVP BE, id:154, 1>
-  <KantonArbeitsgruppe 2019 Nominationsveranstaltung [Mitglied 121], id:40185, 154>
+  <KantonArbeitsgruppe 2019 Nominationsveranstaltung [Mitglied 118], id:40185, 154>
   <KantonArbeitsgruppe Aktionen-Mitmachen, id:39959, 154>
    <KantonArbeitsgruppe Briefchäschtele [Mitglied 12], id:39962, 39959>
    <KantonArbeitsgruppe Diverses [Mitglied 1], id:40035, 39959>
@@ -14,7 +14,7 @@
   <KantonArbeitsgruppe Komitees, id:40204, 154>
    <KantonArbeitsgruppe Fabian Stocker [Mitglied 91], id:40285, 40204>
    <KantonArbeitsgruppe Reto Nause, id:40205, 40204>
-    <KantonArbeitsgruppe AWG [Mitglied 223], id:40206, 40205>
+    <KantonArbeitsgruppe AWG [Mitglied 222], id:40206, 40205>
     <KantonArbeitsgruppe Grossfirma [Mitglied 71], id:40207, 40205>
     <KantonArbeitsgruppe Verband [Mitglied 16], id:40208, 40205>
   <KantonArbeitsgruppe Medienmitteilungen d + f [tbd:Empfänger 93], id:40294, 154>
@@ -25,49 +25,48 @@
   <KantonExterneKontakte Firmen [Spender 1], id:40042, 154>
   <KantonExterneKontakte KMU-Adressen, id:38413, 154>
    <KantonExterneKontakte Adressen November 2016 [Kontakt 36], id:38973, 38413>
-   <KantonExterneKontakte Versand für Nationalratswahlen 2015 [Kontakt 2581], id:38414, 38413>
-  <KantonExterneKontakte Newsletter d [Kontakt 424], id:33426, 154>
+   <KantonExterneKontakte Versand für Nationalratswahlen 2015 [Kontakt 2580], id:38414, 38413>
+  <KantonExterneKontakte Newsletter d [Kontakt 429], id:33426, 154>
   <KantonExterneKontakte Newsletter f [Kontakt 86], id:40295, 154>
   <KantonGewaehlte Judikative [MitgliedKantonalesGerichtErsteInstanz 2], id:366, 154>
   <KantonGewaehlte Legislative [KantonaleLegislative 5], id:371, 154>
-  <KantonPraesidium Partei [Mitglied 32, Praesident 8, tbd:Botschafter 2, tbd:Empfänger Rechnung Jahresbeitrag CVP CH 2, tbd:Empfänger Umzugsmeldung 3, tbd:Kassier 1, tbd:Kontakt Bundeshausfraktion 1, tbd:Plakatierer 11, tbd:Sekretär Kantonalpartei/Vereinigung 7, tbd:Zuzüger 9], id:378, 154>
+  <KantonPraesidium Partei [Mitglied 32, Praesident 8, tbd:Botschafter 2, tbd:Empfänger Rechnung Jahresbeitrag CVP CH 2, tbd:Empfänger Umzugsmeldung 3, tbd:Kassier 1, tbd:Kontakt Bundeshausfraktion 1, tbd:Plakatierer 11, tbd:Sekretär Kantonalpartei/Vereinigung 7, tbd:Zuzüger 11], id:378, 154>
   <Ort Bern (Stadt), id:361, 154>
-   <OrtSympathisanten Sympathisanten [Sympathisant 191], id:18096, 361>
-   <OrtArbeitsgruppe Adressen Grossratswahlen 2018 [tbd:Kontakt 303], id:39697, 361>
+   <OrtSympathisanten Sympathisanten [Sympathisant 188], id:40420, 361>
+   <OrtArbeitsgruppe Adressen Grossratswahlen 2018 [tbd:Kontakt 301], id:39697, 361>
    <OrtArbeitsgruppe DV Bezirk [tbd:Delegierter 1], id:2635, 361>
    <OrtArbeitsgruppe Petition Radiostudio 2018 (nur für Mailversand) [tbd:Kontakt 18], id:39803, 361>
    <OrtGewaehlte Exekutive [KommunaleExekutive 1], id:908, 361>
    <OrtGewaehlte Legislative [KommunaleExekutive 3], id:910, 361>
-   <OrtMitglieder Mitgliedschaften [Mitglied 108], id:911, 361>
+   <OrtMitglieder Mitgliedschaften [Mitglied 105], id:911, 361>
    <OrtPraesidium Partei [Adressverwalter 15, Kassier 1, Praesident 4, tbd:Sekretär 1], id:912, 361>
    <OrtPraesidium Vorstand [Mitglied 14], id:2636, 361>
   <Ort Biel, id:362, 154>
-   <OrtSympathisanten Sympathisanten [Sympathisant 12], id:18097, 362>
+   <OrtSympathisanten Sympathisanten [Sympathisant 12], id:40421, 362>
    <OrtGewaehlte Legislative [KommunaleExekutive 2], id:913, 362>
-   <OrtMitglieder Mitgliedschaften [Mitglied 52], id:914, 362>
-   <OrtPraesidium Partei [Adressverwalter 9], id:39471, 362>
+   <OrtMitglieder Mitgliedschaften [Mitglied 49], id:914, 362>
+   <OrtPraesidium Partei [Adressverwalter 10], id:39471, 362>
   <Ort Bolligen-Ittingen-Ostermundigen, id:363, 154>
-   <OrtSympathisanten Sympathisanten [Sympathisant 27], id:18098, 363>
+   <OrtSympathisanten Sympathisanten [Sympathisant 27], id:40422, 363>
    <OrtArbeitsgruppe DV Bezirk [tbd:Delegierter 1], id:2637, 363>
-   <OrtMitglieder Mitgliedschaften [Mitglied 87], id:915, 363>
+   <OrtMitglieder Mitgliedschaften [Mitglied 83], id:915, 363>
    <OrtPraesidium Partei [Adressverwalter 2, Kassier 1], id:916, 363>
    <OrtPraesidium Vorstand [Mitglied 3], id:2638, 363>
   <Ort Burgdorf, id:364, 154>
-   <OrtSympathisanten Sympathisanten [Sympathisant 18], id:18099, 364>
-   <OrtMitglieder Mitgliedschaften [Mitglied 42], id:917, 364>
-   <OrtPraesidium Partei [Adressverwalter 3, Kassier 1, Praesident 3, tbd:Sekretär 1], id:918, 364>
+   <OrtSympathisanten Sympathisanten [Sympathisant 18], id:40423, 364>
+   <OrtMitglieder Mitgliedschaften [Mitglied 43], id:917, 364>
+   <OrtPraesidium Partei [Adressverwalter 2, Kassier 1, Praesident 2, tbd:Sekretär 1], id:918, 364>
   <Ort Köniz [betreut durch Kehrsatz], id:369, 154>
-   <OrtSympathisanten Sympathisanten [Sympathisant 119], id:18100, 369>
+   <OrtSympathisanten Sympathisanten [Sympathisant 112], id:40424, 369>
    <OrtGewaehlte Legislative [KommunaleExekutive 1], id:922, 369>
-   <OrtMitglieder Mitgliedschaften [Mitglied 48], id:923, 369>
-   <OrtPraesidium Partei [Adressverwalter 1, Mitglied 1, Praesident 1, tbd:Empfänger Email Einladung 1], id:924, 369>
+   <OrtMitglieder Mitgliedschaften [Mitglied 46], id:923, 369>
+   <OrtPraesidium Partei [Adressverwalter 2, Mitglied 1, Praesident 1, tbd:Empfänger Email Einladung 1], id:924, 369>
   <Ort Muri, id:376, 154>
-   <OrtSympathisanten Sympathisanten [Sympathisant 16], id:18102, 376>
-   <OrtGewaehlte Legislative [KommunaleExekutive 1], id:932, 376>
+   <OrtSympathisanten Sympathisanten [Sympathisant 15], id:40426, 376>
    <OrtMitglieder Mitgliedschaften [Mitglied 1], id:933, 376>
   <Ort Thun, id:380, 154>
-   <OrtSympathisanten Sympathisanten [Sympathisant 104], id:18104, 380>
+   <OrtSympathisanten Sympathisanten [Sympathisant 99], id:40428, 380>
    <OrtArbeitsgruppe Ehrenmitglieder [tbd:Mitglied 1], id:38196, 380>
    <OrtGewaehlte Exekutive [KommunaleExekutive 1], id:38197, 380>
-   <OrtMitglieder Mitgliedschaften [Mitglied 47], id:942, 380>
-   <OrtPraesidium Vorstand [Adressverwalter 3, Kassier 1, Mitglied 4, Praesident 4, tbd:Sekretär 1], id:2644, 380>
+   <OrtMitglieder Mitgliedschaften [Mitglied 51], id:942, 380>
+   <OrtPraesidium Vorstand [Adressverwalter 4, Kassier 1, Mitglied 4, Praesident 4, tbd:Sekretär 1], id:2644, 380>

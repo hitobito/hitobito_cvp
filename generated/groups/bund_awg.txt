@@ -5,7 +5,7 @@
    <KantonExterneKontakte id=38786, label=Newsletter, parent_id=38784>
    <KantonMitglieder id=38787, label=Mitgliedschaften, parent_id=38784>
   <Kanton id=52, label=GR, parent_id=5>
-   <KantonSympathisanten id=18099, label=Sympathisanten, parent_id=52>
+   <KantonSympathisanten id=40423, label=Sympathisanten, parent_id=52>
    <KantonMitglieder id=39064, label=Mitgliedschaften, parent_id=52>
   <Kanton id=37768, label=SG, parent_id=5>
    <KantonMitglieder id=38698, label=Mitgliedschaften, parent_id=37768>
@@ -16,5 +16,5 @@
    <KantonArbeitsgruppe id=40079, label=Interessenten, parent_id=40076>
   <Kanton id=57, label=ZG, parent_id=5>
   <Kanton id=58, label=ZH, parent_id=5>
-   <KantonSympathisanten id=18107, label=Sympathisanten, parent_id=58>
+   <KantonSympathisanten id=40431, label=Sympathisanten, parent_id=58>
    <KantonMitglieder id=38568, label=Mitgliedschaften, parent_id=58>
