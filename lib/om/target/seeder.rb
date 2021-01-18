@@ -27,6 +27,7 @@ module Target
           end
         end
       end
+      PaperTrail::Version.delete_all
       puts "Current password: #{password}"
     end
 
