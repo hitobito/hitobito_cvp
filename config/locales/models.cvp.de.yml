@@ -76,9 +76,6 @@ de:
       group/kanton_mitglieder:
         one: Mitglieder
         other: Mitglieder
-      group/kanton_spender:
-        one: Spender
-        other: Spender
 
       group/vereinigung:
         one: Vereinigung
@@ -166,10 +163,6 @@ de:
       group/ort_sympathisanten:
         one: Sympathisanten
         other: Sympathisanten
-      group/ort_spender:
-        one: Spender
-        other: Spender
-
 
       ### ROLES
 
@@ -328,8 +321,6 @@ de:
         one: Sympathisant nach kant. Statut
       group/kanton_sympathisanten/sympathisant:
         one: Sympathisant
-      group/kanton_spender/mitglied:
-        one: Mitglied
 
       group/vereinigung_gewaehlte/fraktionschef:
         one: Fraktionschef
@@ -500,8 +491,6 @@ de:
         one: Sympathisant nach kant. Statut
       group/ort_sympathisanten/sympathisant:
         one: Sympathisant
-      group/ort_spender/mitglied:
-        one: Mitglied
 
       salutation:
         one: Anrede
