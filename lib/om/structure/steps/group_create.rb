@@ -3,26 +3,29 @@ module Structure::Steps
 
     def run
       @rows.collect do |row|
-        mapping = find(row)
-        next row unless mapping && missing?(row.children, mapping)
+        children = find(row)
+        groups = children.collect do |child|
+          next unless child && missing?(row.children, child)
+          build(row, child)
+        end
 
-        [row, build(row, mapping)]
+        [row, groups.compact]
       end.flatten
     end
 
-    def build(parent, mapping)
-      group = Structure::GroupRow.new(next_id, mapping[:child], parent.id, parent)
-      group.type = "#{parent.type}#{mapping[:child]}"
+    def build(parent, child)
+      group = Structure::GroupRow.new(next_id, child, parent.id, parent)
+      group.type = "#{parent.type}#{child}"
       parent.children += [group]
       group
     end
 
-    def missing?(children, mapping)
-      children.none? { |child| child.type.ends_with?(mapping[:child]) }
+    def missing?(children, child)
+      children.none? { |c| c.type.ends_with?(child) }
     end
 
     def find(row)
-      @config.dig(:groups, :create).find { |c| c[:parent] == row.type }
+      @config.dig(:groups, :create).fetch(row.type.to_sym, [])
     end
 
     def next_id

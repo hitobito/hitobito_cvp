@@ -14,16 +14,16 @@ groups:
     - [42, 2] # JCVP > Kantonalparteien
 
   create:
-    - parent: Bund
-      child: Sympathisanten
-    - parent: Kanton
-      child: Sympathisanten
-    - parent: Region
-      child: Sympathisanten
-    - parent: Ort
-      child: Sympathisanten
-    - parent: Vereinigung
-      child: Sympathisanten
+    Bund:
+      - Sympathisanten
+    Kanton:
+      - Sympathisanten
+    Region:
+      - Sympathisanten
+    Ort:
+      - Sympathisanten
+    Vereinigung:
+      - Sympathisanten
 
   moves:
     by_parent_id:
