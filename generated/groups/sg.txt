@@ -128,6 +128,7 @@
    <KantonExterneKontakte id=38407, label=Wil-Untertoggenburg, parent_id=38399>
   <KantonExterneKontakte id=38204, label=Medienverteiler, parent_id=167>
   <KantonExterneKontakte id=39231, label=Newsletter, parent_id=167>
+  <KantonExterneKontakte id=35036, label=Sponsoren, parent_id=167>
   <KantonExterneKontakte id=39218, label=Verteiler Juristen, parent_id=167>
   <KantonGewaehlte id=37891, label=Abteilungspräsident Versicherungsgericht (6240), parent_id=167>
   <KantonGewaehlte id=37892, label=Abteilungsvizepräsident Versicherungsgericht (720), parent_id=167>
@@ -167,7 +168,6 @@
   <KantonParteigremium id=35038, label=Kontrollkommission, parent_id=167>
   <KantonParteigremium id=35016, label=Parteivorstand, parent_id=167>
   <KantonPraesidium id=1557, label=Parteileitung, parent_id=167>
-  <KantonSpender id=35036, label=Sponsoren, parent_id=167>
   <Region id=537, label=Regionalpartei Rheintal, parent_id=167>
    <RegionGewaehlte id=35102, label=Kreisgericht, parent_id=537>
    <RegionPraesidium id=1572, label=Partei, parent_id=537>
@@ -420,11 +420,11 @@
     <OrtSympathisanten id=40466, label=Sympathisanten, parent_id=1618>
     <OrtExterneKontakte id=36331, label=Club96, parent_id=1618>
     <OrtExterneKontakte id=39464, label=Newsletter, parent_id=1618>
+    <OrtExterneKontakte id=40186, label=Sponsoren, parent_id=1618>
     <OrtGewaehlte id=36329, label=Exekutive, parent_id=1618>
     <OrtGewaehlte id=36330, label=Legislative, parent_id=1618>
     <OrtMitglieder id=3448, label=Mitgliedschaften, parent_id=1618>
     <OrtPraesidium id=35779, label=Partei, parent_id=1618>
-    <OrtSpender id=40186, label=Sponsoren, parent_id=1618>
    <Ort id=1622, label=Waldkirch-Bernhardzell, parent_id=541>
     <OrtSympathisanten id=40467, label=Sympathisanten, parent_id=1622>
     <OrtGewaehlte id=37224, label=Exekutive, parent_id=1622>

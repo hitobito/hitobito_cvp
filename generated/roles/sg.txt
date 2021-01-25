@@ -128,6 +128,7 @@
    <KantonExterneKontakte Wil-Untertoggenburg [Kontakt 6], id:38407, 38399>
   <KantonExterneKontakte Medienverteiler [Kontakt 58], id:38204, 167>
   <KantonExterneKontakte Newsletter [Kontakt 2941], id:39231, 167>
+  <KantonExterneKontakte Sponsoren [Spender 23], id:35036, 167>
   <KantonExterneKontakte Verteiler Juristen [Kontakt 80], id:39218, 167>
   <KantonGewaehlte Abteilungspräsident Versicherungsgericht (6240) [MitgliedKantonalesGerichtErsteInstanz 1], id:37891, 167>
   <KantonGewaehlte Abteilungsvizepräsident Versicherungsgericht (720) [MitgliedKantonalesGerichtErsteInstanz 1], id:37892, 167>
@@ -167,7 +168,6 @@
   <KantonParteigremium Kontrollkommission [Mitglied 8, Praesident 1], id:35038, 167>
   <KantonParteigremium Parteivorstand [Mitglied 56], id:35016, 167>
   <KantonPraesidium Parteileitung [Mitglied 27], id:1557, 167>
-  <KantonSpender Sponsoren [Mitglied 23], id:35036, 167>
   <Region Regionalpartei Rheintal, id:537, 167>
    <RegionGewaehlte Kreisgericht [RegionJudikative 5], id:35102, 537>
    <RegionPraesidium Partei [Kassier 1, Mitglied 3, Praesident 3, tbd:Delegierter 119, tbd:Parteivorstand 7, tbd:Vorstandsmitglied 5, tbd:Weitere Vorstandsmitglieder 2], id:1572, 537>
@@ -420,11 +420,11 @@
     <OrtSympathisanten Sympathisanten [Sympathisant 151], id:40466, 1618>
     <OrtExterneKontakte Club96 [Kontakt 89], id:36331, 1618>
     <OrtExterneKontakte Newsletter [Kontakt 286], id:39464, 1618>
+    <OrtExterneKontakte Sponsoren [Spender 4], id:40186, 1618>
     <OrtGewaehlte Exekutive [KommunaleExekutive 1], id:36329, 1618>
     <OrtGewaehlte Legislative [Fraktionschef 1, KommunaleExekutive 19], id:36330, 1618>
     <OrtMitglieder Mitgliedschaften [Mitglied 386], id:3448, 1618>
     <OrtPraesidium Partei [Adressverwalter 19, Kassier 3, Mitglied 14, Praesident 1], id:35779, 1618>
-    <OrtSpender Sponsoren [Mitglied 4], id:40186, 1618>
    <Ort Waldkirch-Bernhardzell, id:1622, 541>
     <OrtSympathisanten Sympathisanten [Sympathisant 6], id:40467, 1622>
     <OrtGewaehlte Exekutive [Fraktionschef 1, KommunaleExekutive 1], id:37224, 1622>

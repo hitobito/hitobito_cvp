@@ -233,9 +233,7 @@ groups:
       - !ruby/regexp /^Fundraising$/i
       - !ruby/regexp /^Donatoren$/i
       - !ruby/regexp /^Bettelbrief$/i
-      KantonSpender:
-      - !ruby/regexp /Sponsoren/i
-      - !ruby/regexp /Donatoren/i
+      - !ruby/regexp /^Sponsoren$/i
       KantonMitglieder:
       - !ruby/regexp /Mitgliedschaften/i
       default: KantonArbeitsgruppe
@@ -301,11 +299,10 @@ groups:
       - !ruby/regexp /Mandat/i
       - !ruby/regexp /Schulpflege|Bildung/i
       - !ruby/regexp /Finanzkommission/i
-      OrtSpender:
-      - !ruby/regexp /Sponsoren/i
       OrtExterneKontakte:
       - !ruby/regexp /Helfer-Pool|Newsletter|Club96/i
       - !ruby/regexp /^Firmen$/
+      - !ruby/regexp /^Sponsoren$/i
       default: OrtArbeitsgruppe
     OrtGewaehlte:
       default: OrtGewaehlte
@@ -420,15 +417,13 @@ roles_new:
       - !ruby/regexp /Präsident/i
       Mitglied:
       - !ruby/regexp /Mitglied/i
-    KantonSpender:
-      Mitglied:
-      - !ruby/regexp /Mitglied/i
     KantonExterneKontakte:
       Spender:
         - ['Firmen', 'Spender Firmen']
         - ['Fundraising', 'Kontakt']
         - ['Bettelbrief', 'Kontakt']
         - ['Donatoren', 'Kontakt']
+        - ['Sponsoren', 'Mitglied']
       Kontakt:
       - !ruby/regexp /Kontakt/i
       - !ruby/regexp /Empfänger/i
@@ -504,9 +499,6 @@ roles_new:
       - !ruby/regexp /Ressort|Mitglied/i
       Adressverwalter:
       - !ruby/regexp /Umzug|Zuzüger/i
-    OrtSpender:
-      Mitglied:
-      - !ruby/regexp /Kontakt/i
     OrtMitglieder:
       Mitglied:
       - !ruby/regexp /einzel|ehren|jugend|jeune|indi|senior|fam/i
@@ -527,5 +519,7 @@ roles_new:
       - !ruby/regexp /Exekutive/i
       - !ruby/regexp /^Mitglied$/i
     OrtExterneKontakte:
+      Spender:
+      - ['Sponsoren', 'Kontakt']
       Kontakt:
         - !ruby/regexp /Kontakt|Mitglied|Empfänger/i
