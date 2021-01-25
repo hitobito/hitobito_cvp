@@ -223,6 +223,8 @@ de:
         one: It-Support
       group/bund_sekretariat/kassier:
         one: Kassier
+      group/bund_sekretariat/webadministrator:
+        one: Webadministrator
       group/bund_kommission/praesident:
         one: Präsident
       group/bund_kommission/leitung:
@@ -300,6 +302,8 @@ de:
         one: Leitung
       group/kanton_kommission/mitglied:
         one: Mitglied
+      group/kanton_sekretariat/webadministrator:
+        one: Webadministrator
       group/kanton_arbeitsgruppe/praesident:
         one: Präsident
       group/kanton_arbeitsgruppe/leitung:
@@ -355,6 +359,8 @@ de:
         one: Leitung
       group/vereinigung_sekretariat/mitarbeiter:
         one: Mitarbeiter
+      group/vereinigung_sekretariat/webadministrator:
+        one: Webadministrator
       group/vereinigung_kommission/praesident:
         one: Präsident
       group/vereinigung_kommission/mitglied:
@@ -406,6 +412,8 @@ de:
         one: Leitung
       group/region_sekretariat/mitarbeiter:
         one: Mitarbeiter
+      group/region_sekretariat/webadministrator:
+        one: Webadministrator
       group/region_kommission/praesident:
         one: Präsident
       group/region_kommission/mitglied:
@@ -474,6 +482,8 @@ de:
         one: Präsident
       group/ort_arbeitsgruppe/leitung:
         one: Leitung
+      group/ort_sekretariat/webadministrator:
+        one: Webadministrator
       group/ort_arbeitsgruppe/mitglied:
         one: Mitglied
       group/ort_arbeitsgruppe/gast:

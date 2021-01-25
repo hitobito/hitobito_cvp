@@ -23,5 +23,7 @@ class Group::BundSekretariat < Group
     self.permissions = [:finance]
   end
 
-  roles Generalsekretaer, Mitarbeiter, ItSupport, Kassier
+  class Webadministrator < Role; end
+
+  roles Generalsekretaer, Mitarbeiter, ItSupport, Kassier, Webadministrator
 end
