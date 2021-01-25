@@ -236,6 +236,8 @@ de:
         one: Delegierte
       group/bund_delegierte/ersatzdelegierte:
         one: Ersatzdelegierte
+      group/bund_delegierte/delegierte_von_amtes_wegen:
+        one: Delegierte von Amtes wegen
       group/bund_externe_kontakte/medien:
         one: Medien
       group/bund_externe_kontakte/spender:
@@ -313,6 +315,8 @@ de:
         one: Kontakt
       group/kanton_delegierte/delegierte:
         one: Delegierte
+      group/kanton_delegierte/delegierte_von_amtes_wegen:
+        one: Delegierte von Amtes wegen
       group/kanton_delegierte/ersatzdelegierte:
         one: Ersatzdelegierte
       group/kanton_mitglieder/mitglied:

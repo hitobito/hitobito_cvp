@@ -15,7 +15,11 @@ class Group::KantonDelegierte < Group
     self.permissions = []
   end
 
-  roles Delegierte, Ersatzdelegierte
+  class DelegierteVonAmtesWegen < Role
+    self.permissions = []
+  end
+
+  roles Delegierte, Ersatzdelegierte, DelegierteVonAmtesWegen
 
   children Group::KantonDelegierte
 end
