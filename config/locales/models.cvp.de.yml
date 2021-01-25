@@ -383,6 +383,9 @@ de:
       group/region_gewaehlte/region_legislative:
         one: Region Legislative
         other: Region Legislativen
+      group/region_gewaehlte/region_judikative:
+        one: Region Judikative
+        other: Region Judikativen
       group/region_parteigremium/praesident:
         one: Präsident
       group/region_parteigremium/leitung:
