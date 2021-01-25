@@ -94,7 +94,7 @@ module Structure
     end
 
     def layer?
-      %w(Bund Kanton Region Ort).include?(type)
+      %w(Bund Kanton Region Ort Vereinigung).include?(type)
     end
 
     def to_s(with_role = nil)
