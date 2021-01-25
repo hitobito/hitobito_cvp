@@ -20,7 +20,7 @@ module Import
     end
 
     def type_or_default(role)
-      type = role.type.starts_with?('tbd') ? 'Merkmal' : role.type
+      type = role.tbd? ? 'Merkmal' : role.type
       "#{role.group.sti_name}::#{type}"
     end
 
