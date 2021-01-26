@@ -20,6 +20,7 @@ class Group::Vereinigung < Group
            Group::VereinigungExterneKontakte,
            Group::VereinigungMitglieder,
            Group::VereinigungSympathisanten,
+           Group::VereinigungDelegierte,
 
            Group::Kanton
 

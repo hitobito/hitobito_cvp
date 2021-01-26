@@ -21,6 +21,7 @@ class Group::Region < Group
            Group::RegionDelegierte,
            Group::RegionMitglieder,
            Group::RegionSympathisanten,
+           Group::RegionExterneKontakte,
 
            Group::Ort
 

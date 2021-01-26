@@ -8,11 +8,11 @@ Status](https://travis-ci.org/hitobito/hitobito_cvp.svg)](https://travis-ci.org/
 
 
 ## Organization Hierarchy
+
     * Schweiz
-      * Schweiz
-        * Merkmal: []
       * Gewählte
         * Bundesrat: []
+        * Bundeskanzler: []
         * Ständerat: []
         * Nationalrat: []
         * Bundesrichter (Vollamt): []
@@ -68,8 +68,6 @@ Status](https://travis-ci.org/hitobito/hitobito_cvp.svg)](https://travis-ci.org/
         * Sympathisant: []
         * Merkmal: []
     * Kanton
-      * Kanton
-        * Merkmal: []
       * Gewählte
         * Kantonale Exekutive: []
         * Kantonale Legislative: []
@@ -78,6 +76,7 @@ Status](https://travis-ci.org/hitobito/hitobito_cvp.svg)](https://travis-ci.org/
         * Staatsanwaltschaft: []
         * Parlamentarische Geschaeftsfuehrung: []
         * Fraktionschef: []
+        * Weitere Mandate: []
         * Merkmal: []
       * Parteigremium
         * Präsident: []
@@ -90,6 +89,7 @@ Status](https://travis-ci.org/hitobito/hitobito_cvp.svg)](https://travis-ci.org/
         * Vizepräsident: []
         * Mitglied: []
         * Gast: []
+        * Kassier: [:finance]
         * Merkmal: []
       * Sekretariat
         * Leitung: [:layer_and_below_full, :finance, :contact_data]
@@ -124,8 +124,6 @@ Status](https://travis-ci.org/hitobito/hitobito_cvp.svg)](https://travis-ci.org/
         * Sympathisant: []
         * Merkmal: []
     * Region
-      * Region
-        * Merkmal: []
       * Gewählte
         * Fraktionschef: []
         * Region Exekutive: []
@@ -165,9 +163,12 @@ Status](https://travis-ci.org/hitobito/hitobito_cvp.svg)](https://travis-ci.org/
       * Sympathisanten
         * Sympathisant: []
         * Merkmal: []
-    * Ortspartei
-      * Ortspartei
+      * Externe Kontakte
+        * Medien: []
+        * Spender: []
+        * Kontakt: []
         * Merkmal: []
+    * Ortspartei
       * Gewählte
         * Fraktionschef: []
         * Kommunale Exekutive: []
@@ -213,8 +214,6 @@ Status](https://travis-ci.org/hitobito/hitobito_cvp.svg)](https://travis-ci.org/
         * Sympathisant: []
         * Merkmal: []
     * Vereinigung
-      * Vereinigung
-        * Merkmal: []
       * Gewählte
         * Fraktionschef: []
         * Vereinigung Exekutive: []
@@ -257,4 +256,9 @@ Status](https://travis-ci.org/hitobito/hitobito_cvp.svg)](https://travis-ci.org/
         * Merkmal: []
       * Sympathisanten
         * Sympathisant: []
+        * Merkmal: []
+      * Delegierte
+        * Delegierte: []
+        * Ersatzdelegierte: []
+        * Delegierte von Amtes wegen: []
         * Merkmal: []
