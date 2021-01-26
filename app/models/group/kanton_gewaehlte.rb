@@ -7,20 +7,14 @@
 
 
 class Group::KantonGewaehlte < Group
-  class KantonaleExekutive < Role
-  end
-  class KantonaleLegislative < Role
-  end
-  class MitgliedKantonalesGerichtErsteInstanz < Role
-  end
-  class MitgliedKantonalesGerichtZweiteInstanz < Role
-  end
-  class Staatsanwaltschaft < Role
-  end
-  class ParlamentarischeGeschaeftsfuehrung < Role
-  end
-  class Fraktionschef < Role
-  end
+  class KantonaleExekutive < Role; end
+  class KantonaleLegislative < Role; end
+  class MitgliedKantonalesGerichtErsteInstanz < Role; end
+  class MitgliedKantonalesGerichtZweiteInstanz < Role; end
+  class Staatsanwaltschaft < Role; end
+  class ParlamentarischeGeschaeftsfuehrung < Role; end
+  class Fraktionschef < Role; end
+  class WeitereMandate < Role; end
 
   roles KantonaleExekutive,
         KantonaleLegislative,
@@ -28,7 +22,8 @@ class Group::KantonGewaehlte < Group
         MitgliedKantonalesGerichtZweiteInstanz,
         Staatsanwaltschaft,
         ParlamentarischeGeschaeftsfuehrung,
-        Fraktionschef
+        Fraktionschef,
+        WeitereMandate
 
   children Group::KantonGewaehlte
 end

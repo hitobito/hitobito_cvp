@@ -107,6 +107,9 @@ de:
       group/vereinigung_sympathisanten:
         one: Sympathisanten
         other: Sympathisanten
+      group/vereinigung_delegierte:
+        one: Delegierte
+        other: Delegierte
 
       group/region:
         one: Region
@@ -135,6 +138,9 @@ de:
       group/region_sympathisanten:
         one: Sympathisanten
         other: Sympathisanten
+      group/region_externe_kontakte:
+        one: Externe Kontakte
+        other: Externe Kontakte
 
       group/ort:
         one: Ortspartei
@@ -169,6 +175,8 @@ de:
       group/bund_gewaehlte/bundesrat:
         one: Bundesrat
         other: Bundesräte
+      group/bund_gewaehlte/bundeskanzler:
+        one: Bundeskanzler
       group/bund_gewaehlte/staenderat:
         one: Ständerat
         other: Ständeräte
@@ -269,6 +277,8 @@ de:
       group/kanton_gewaehlte/parlamentarische_geschaeftsfuehrung:
         one: Parlamentarische Geschaeftsfuehrung
         other: Parlamentarische Geschaeftsfuehrungen
+      group/kanton_gewaehlte/weitere_mandate:
+        one: Weitere Mandate
       group/kanton_parteigremium/praesident:
         one: Präsident
       group/kanton_parteigremium/leitung:
@@ -378,6 +388,12 @@ de:
         one: Mitglieder
       group/vereinigung_sympathisanten/sympathisant:
         one: Sympathisant
+      group/vereinigung_delegierte/delegierte:
+        one: Delegierte
+      group/vereinigung_delegierte/ersatzdelegierte:
+        one: Ersatzdelegierte
+      group/vereinigung_delegierte/delegierte_von_amtes_wegen:
+        one: Delegierte von Amtes wegen
 
       group/region_gewaehlte/fraktionschef:
         one: Fraktionschef
@@ -432,6 +448,12 @@ de:
         one: Mitglieder
       group/region_sympathisanten/sympathisant:
         one: Sympathisant
+      group/region_externe_kontakte/medien:
+        one: Medien
+      group/region_externe_kontakte/spender:
+        one: Spender
+      group/region_externe_kontakte/kontakt:
+        one: Kontakt
 
       group/ort_gewaehlte/fraktionschef:
         one: Fraktionschef

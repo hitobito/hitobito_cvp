@@ -34,6 +34,7 @@ module HitobitoCvp
 
       ## Customizations for migration
       Group.all_types.each do |type|
+        next if type.layer?
         unless type.const_defined?("#{type}::Merkmal")
           merkmal = Class.new(Role)
           type.const_set('Merkmal', merkmal)

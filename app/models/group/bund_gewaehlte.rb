@@ -8,38 +8,25 @@
 
 
 class Group::BundGewaehlte < Group
-  class Bundesrat < Role
-  end
+  class Bundesrat < Role; end
+  class Bundeskanzler < Role; end
+  class Staenderat < Role; end
+  class Nationalrat < Role; end
+  class VollamtBundesrichter < Role; end
+  class NebenamtBundesRichter < Role; end
+  class Bundesverwaltungsrichter < Role; end
+  class Bundespatentrichter < Role; end
+  class Bundesstrafrichter < Role; end
 
-  class Staenderat < Role
-  end
-
-  class Nationalrat < Role
-  end
-
-  class VollamtBundesrichter < Role
-  end
-
-  class NebenamtBundesRichter < Role
-  end
-
-  class Bundesverwaltungsrichter < Role
-  end
-
-  class Bundespatentrichter < Role
-  end
-
-  class Bundesstrafrichter < Role
-  end
-
-  roles(Bundesrat,
+  roles Bundesrat,
+        Bundeskanzler,
         Staenderat,
         Nationalrat,
         VollamtBundesrichter,
         NebenamtBundesRichter,
         Bundesverwaltungsrichter,
         Bundespatentrichter,
-        Bundesstrafrichter)
+        Bundesstrafrichter
 
   children Group::BundGewaehlte
 end
