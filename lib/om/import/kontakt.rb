@@ -5,15 +5,27 @@ module Import
       numbers[kontakt.kunden_id] = phone_numbers if phone_numbers.present?
     end
 
-    def run
+    def run # rubocop:disable Metrics/MethodLength
       numbers.each_slice(1000) do |batch|
         rows = batch.flat_map do |kunden_id, values|
           values.collect do |value|
-            value.merge(contactable_id:  people[kunden_id], contactable_type: 'Person')
+            parsed = Phonelib.parse(value[:number])
+            next unless parsed.valid?
+
+            value[:number] = parsed.international if parsed.valid?
+            value[:label] = 'Mobil' if value[:label] == 'Natel'
+            value.merge(
+              contactable_id: people[kunden_id],
+              contactable_type: 'Person',
+            )
           end
         end
-        upsert(PhoneNumber, rows)
+        upsert(PhoneNumber, rows.compact)
       end
+    end
+
+    def label(number)
+      'Mobil' if /\+41\s7[56789]/.match(number)
     end
 
     def numbers
