@@ -31,8 +31,15 @@ module Import
 
     def truncate_imported_tables
       models.each do |model|
-        ActiveRecord::Base.connection.truncate(model.table_name)
+        truncate(model)
       end
+    end
+
+    # Models with fk (subscription, subscription_tags) cannot be truncated
+    def truncate(model)
+      ActiveRecord::Base.connection.truncate(model.table_name)
+    rescue
+      model.delete_all
     end
 
   end
