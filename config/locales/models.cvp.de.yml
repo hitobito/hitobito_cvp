@@ -174,30 +174,22 @@ de:
 
       group/bund_gewaehlte/bundesrat:
         one: Bundesrat
-        other: Bundesräte
       group/bund_gewaehlte/bundeskanzler:
         one: Bundeskanzler
       group/bund_gewaehlte/staenderat:
         one: Ständerat
-        other: Ständeräte
       group/bund_gewaehlte/nationalrat:
         one: Nationalrat
-        other: Nationalräte
       group/bund_gewaehlte/vollamt_bundesrichter:
         one: Bundesrichter (Vollamt)
-        other: Bundesrichter (Vollamt)
       group/bund_gewaehlte/nebenamt_bundes_richter:
         one: Bundesrichter (Nebenamt)
-        other: Bundesrichter (Nebenamt)
       group/bund_gewaehlte/bundesverwaltungsrichter:
         one: Bundesverwaltungsrichter
-        other: Bundesverwaltungsrichter
       group/bund_gewaehlte/bundespatentrichter:
         one: Bundespatentrichter
-        other: Bundespatentrichter
       group/bund_gewaehlte/bundesstrafrichter:
         one: Bundesstrafrichter
-        other: Bundesstrafrichter
       group/bund_parteigremium/praesident:
         one: Präsident
       group/bund_parteigremium/leitung:
@@ -261,22 +253,16 @@ de:
         one: Fraktionschef
       group/kanton_gewaehlte/kantonale_exekutive:
         one: Kantonale Exekutive
-        other: Kantonale Exekutiven
       group/kanton_gewaehlte/kantonale_legislative:
         one: Kantonale Legislative
-        other: Kantonale Legislativen
       group/kanton_gewaehlte/mitglied_kantonales_gericht_erste_instanz:
         one: Mitglied kantonales Gericht erste Instanz
-        other: Mitglieder kantonales Gericht erste Instanz
       group/kanton_gewaehlte/mitglied_kantonales_gericht_zweite_instanz:
         one: Mitglied kantonales Gericht zweite Instanz
-        other: Mitglieder kantonales Gericht zweite Instanz
       group/kanton_gewaehlte/staatsanwaltschaft:
         one: Staatsanwaltschaft
-        other: Staatsanwaltschaften
       group/kanton_gewaehlte/parlamentarische_geschaeftsfuehrung:
         one: Parlamentarische Geschaeftsfuehrung
-        other: Parlamentarische Geschaeftsfuehrungen
       group/kanton_gewaehlte/weitere_mandate:
         one: Weitere Mandate
       group/kanton_parteigremium/praesident:
@@ -340,10 +326,8 @@ de:
         one: Fraktionschef
       group/vereinigung_gewaehlte/vereinigung_exekutive:
         one: Vereinigung Exekutive
-        other: Vereinigung Exekutiven
       group/vereinigung_gewaehlte/vereinigung_legislative:
         one: Vereinigung Legislative
-        other: Vereinigung Legislativen
       group/vereinigung_parteigremium/praesident:
         one: Präsident
       group/vereinigung_parteigremium/leitung:
@@ -399,13 +383,10 @@ de:
         one: Fraktionschef
       group/region_gewaehlte/region_exekutive:
         one: Region Exekutive
-        other: Region Exekutiven
       group/region_gewaehlte/region_legislative:
         one: Region Legislative
-        other: Region Legislativen
       group/region_gewaehlte/region_judikative:
         one: Region Judikative
-        other: Region Judikativen
       group/region_parteigremium/praesident:
         one: Präsident
       group/region_parteigremium/leitung:
@@ -461,19 +442,14 @@ de:
         one: Mitglied
       group/ort_gewaehlte/kommunale_exekutive:
         one: Kommunale Exekutive
-        other: Kommunale Exekutiven
       group/ort_gewaehlte/kommunale_legislative:
         one: Kommunale Legislative
-        other: Kommunale Legislativen
       group/ort_gewaehlte/schulpflegekommission:
         one: Schulpflege/- kommission
-        other: Schulpflege/- kommissionen
       group/ort_gewaehlte/rechnungspruefungskommission:
         one: Rechnungsprüfungskommission
-        other: Rechnungsprüfungskommissionen
       group/ort_gewaehlte/mitglied_weitere_gemeinde_kommissionen:
         one: Mitglied weitere Gemeindekommissionen
-        other: Mitglieder weitere Gemeindekommissionen
       group/ort_parteigremium/praesident:
         one: Präsident
       group/ort_parteigremium/leitung:
