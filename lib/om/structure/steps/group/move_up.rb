@@ -1,7 +1,5 @@
-
-module Structure::Steps
-  class MoveUp < Base
-
+module Structure::Steps::Group
+  class MoveUp < Structure::Steps::Base
 
     def run
       @rows.each do |row|

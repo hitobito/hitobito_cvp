@@ -1,6 +1,6 @@
 require 'spec_helper'
 
-describe Structure::Steps::GroupCreate do
+describe Structure::Steps::Group::Create do
   let(:rows) {
     [Structure::GroupRow.new(1, 'CVP Schweiz', nil)]
   }

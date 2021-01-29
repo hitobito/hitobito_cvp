@@ -1,6 +1,6 @@
 require 'spec_helper'
 
-describe Structure::Steps::Move do
+describe Structure::Steps::Group::Move do
 
   let(:rows) { [Structure::GroupRow.new(1, 'CVP Schweiz', nil),
                 Structure::GroupRow.new(2, 'Kantonalparteien', 1),

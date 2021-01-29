@@ -1,13 +1,13 @@
 require 'spec_helper'
 
-describe Structure::Steps::GroupType do
+describe Structure::Steps::Group::Type do
   let(:rows) {
     [Structure::GroupRow.new(1, 'CVP Schweiz', nil),
      Structure::GroupRow.new(159, 'CVP SG', 1)]
   }
 
   let(:config) {
-    path = File.join(File.dirname(__FILE__), '../../../../lib/om/import/config.yml')
+    path = File.join(File.dirname(__FILE__), '../../../../../lib/om/import/config.yml')
     YAML.load_file(path).deep_symbolize_keys
   }
 

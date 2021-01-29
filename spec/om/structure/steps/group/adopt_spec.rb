@@ -1,6 +1,6 @@
 require 'spec_helper'
 
-describe Structure::Steps::Adopt do
+describe Structure::Steps::Group::Adopt do
   let(:rows) {
     [Structure::GroupRow.new(1, 'CVP Schweiz', nil),
      Structure::GroupRow.new(2, 'Kantonalparteien', 1),

@@ -4,18 +4,18 @@ module Structure
     COLUMNS = %i[verbandstruktur_id bezeichnung_d ref_verbandstruktur_id]
 
     STEPS = [
-      Structure::Steps::Delete,
-      Structure::Steps::Move,
-      Structure::Steps::Adopt,
-      Structure::Steps::MoveUp,
-      Structure::Steps::GroupType,
-      Structure::Steps::Hierarchy,
-      Structure::Steps::GroupCreate,
-      Structure::Steps::GroupRename,
+      Structure::Steps::Group::Delete,
+      Structure::Steps::Group::Move,
+      Structure::Steps::Group::Adopt,
+      Structure::Steps::Group::MoveUp,
+      Structure::Steps::Group::Type,
+      Structure::Steps::Group::Hierarchy,
+      Structure::Steps::Group::Create,
+      Structure::Steps::Group::Rename,
     ]
 
     ROLE_STEPS = [
-      Structure::Steps::RoleType,
+      Structure::Steps::Role::Type,
     ]
 
     MAPPINGS = {

@@ -1,5 +1,5 @@
-module Structure::Steps
-  class Delete < Base
+module Structure::Steps::Group
+  class Delete < Structure::Steps::Base
 
     def run
       @rows.collect do |row|

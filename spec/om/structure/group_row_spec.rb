@@ -1,25 +1,6 @@
-
 require 'spec_helper'
 
 describe Structure::GroupRow do
-  let(:rows) { [Structure::GroupRow.new(1, 'CVP Schweiz', nil),
-                Structure::GroupRow.new(29, 'Kantonalparteien', 1),
-                Structure::GroupRow.new(159, 'CVP SG', 29)] }
-
-  it 'indents to_s' do
-    Structure::Steps::Adopt.new(rows).run
-    expect(rows.first.to_s).to start_with('<')
-    expect(rows.second.to_s).to start_with(' <')
-    expect(rows.third.to_s).to start_with('  <')
-  end
-
-  def row_with_type(id, label, parent_id, type)
-    Structure::GroupRow.new(id, label, parent_id).tap do |row|
-      row.type = type
-    end
-  end
-
-
   context 'blank' do
     it 'is blank if it has no children or roles' do
       row = Structure::GroupRow.new(1, 'Dummy', 0)
@@ -44,6 +25,11 @@ describe Structure::GroupRow do
   end
 
   context 'sorting' do
+    def row_with_type(id, label, parent_id, type)
+      Structure::GroupRow.new(id, label, parent_id).tap do |row|
+        row.type = type
+      end
+    end
 
     it 'sorts non layer before layer' do
       rows = [row_with_type(2, 'CVP SG', 1, 'Kanton'),
@@ -58,4 +44,17 @@ describe Structure::GroupRow do
     end
   end
 
+  context '#to_s' do
+    let(:rows) { [Structure::GroupRow.new(1, 'CVP Schweiz', nil),
+                  Structure::GroupRow.new(29, 'Kantonalparteien', 1),
+                  Structure::GroupRow.new(159, 'CVP SG', 29)] }
+
+
+    it 'indents to_s' do
+      Structure::Steps::Group::Adopt.new(rows).run
+      expect(rows.first.to_s).to start_with('<')
+      expect(rows.second.to_s).to start_with(' <')
+      expect(rows.third.to_s).to start_with('  <')
+    end
+  end
 end

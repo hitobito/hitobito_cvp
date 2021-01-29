@@ -1,6 +1,6 @@
 require 'spec_helper'
 
-describe Structure::Steps::Delete do
+describe Structure::Steps::Group::Delete do
   let(:rows) {
     [Structure::GroupRow.new(1, 'CVP Schweiz', nil),
      Structure::GroupRow.new(2, 'Kantonalparteien', 1),

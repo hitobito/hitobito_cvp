@@ -1,5 +1,5 @@
-module Structure::Steps
-  class Hierarchy < Base
+module Structure::Steps::Group
+  class Hierarchy < Structure::Steps::Base
 
     def run
       set_children

@@ -1,5 +1,5 @@
-module Structure::Steps
-  class GroupRename < Base
+module Structure::Steps::Group
+  class Rename < Structure::Steps::Base
 
     def run
       @rows.each do |row|

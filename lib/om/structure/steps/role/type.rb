@@ -1,5 +1,5 @@
-module Structure::Steps
-  class RoleType < Base
+module Structure::Steps::Role
+  class Type < Structure::Steps::Base
 
     def run
       apply_roles

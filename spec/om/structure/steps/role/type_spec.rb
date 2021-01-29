@@ -1,14 +1,20 @@
 require 'spec_helper'
 
-describe Structure::Steps::RoleType do
+describe Structure::Steps::Role::Type do
   let(:bund) { Structure::GroupRow.new(1, 'CVP Schweiz', nil) }
   let(:rows) { [bund] }
   let(:now) { Time.zone.now  }
 
   let(:config) {
-    path = File.join(File.dirname(__FILE__), '../../../../lib/om/import/config.yml')
+    path = File.join(File.dirname(__FILE__), '../../../../../lib/om/import/config.yml')
     YAML.load_file(path).deep_symbolize_keys
   }
+
+  def row_with_type(id, label, type, parent)
+    Structure::GroupRow.new(id, label, parent.id, parent).tap do |row|
+      row.type = type
+    end
+  end
 
   subject { described_class.new(rows, config) }
 
@@ -52,8 +58,8 @@ describe Structure::Steps::RoleType do
     }]
     rows.first.type = 'Bund'
 
-    mitglieder = Structure::GroupRow.new(2, 'Mitglieder', 1, bund).tap { |r| r.type = 'BundMitglieder' }
-    sympis = Structure::GroupRow.new(3, 'Sympathisanten', 1, bund).tap { |r| r.type = 'BundSympathisanten' }
+    mitglieder = row_with_type(2, 'Mitglieder', 'BundMitglieder', bund)
+    sympis = row_with_type(3, 'Sympathisanten', 'BundSympathisanten', bund)
     bund.children = [mitglieder, sympis]
     rows << mitglieder
     rows << sympis

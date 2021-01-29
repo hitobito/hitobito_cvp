@@ -1,5 +1,5 @@
-module Structure::Steps
-  class GroupType < Base
+module Structure::Steps::Group
+  class Type < Structure::Steps::Base
 
     def run
       @rows.each do |row|

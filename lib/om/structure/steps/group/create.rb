@@ -1,5 +1,5 @@
-module Structure::Steps
-  class GroupCreate < Base
+module Structure::Steps::Group
+  class Create < Structure::Steps::Base
 
     def run
       @rows.collect do |row|

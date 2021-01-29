@@ -1,5 +1,5 @@
-module Structure::Steps
-  class Move < Base
+module Structure::Steps::Group
+  class Move < Structure::Steps::Base
 
     def run
       moved = move_by(:parent_id, @rows)

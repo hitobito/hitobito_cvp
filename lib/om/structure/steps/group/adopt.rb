@@ -1,5 +1,5 @@
-module Structure::Steps
-  class Adopt < Base
+module Structure::Steps::Group
+  class Adopt < Structure::Steps::Base
 
     def run
       @rows.collect do |row|

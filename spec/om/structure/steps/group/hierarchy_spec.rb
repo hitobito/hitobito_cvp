@@ -1,6 +1,6 @@
 require 'spec_helper'
 
-describe Structure::Steps::Hierarchy do
+describe Structure::Steps::Group::Hierarchy do
   it 'builds depth first' do
     rows = [
       Structure::GroupRow.new(1, 'CVP Schweiz', nil),
