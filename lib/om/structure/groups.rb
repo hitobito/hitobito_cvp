@@ -11,8 +11,11 @@ module Structure
       Structure::Steps::GroupType,
       Structure::Steps::Hierarchy,
       Structure::Steps::GroupCreate,
-      Structure::Steps::RoleType,
       Structure::Steps::GroupRename,
+    ]
+
+    ROLE_STEPS = [
+      Structure::Steps::RoleType,
     ]
 
     MAPPINGS = {
@@ -67,14 +70,16 @@ module Structure
       end
     end
 
-    def build_all
-      STEPS.inject(rows) do |rows, step|
+    def build
+      groups = STEPS.inject(rows) do |rows, step|
         step.new(rows, config).run
       end
-    end
 
-    def build
-      build_all.select(&:present?)
+      groups = ROLE_STEPS.inject(groups) do |rows, step|
+        step.new(rows, config).run
+      end
+
+      groups.select(&:present?)
     end
 
     def scope

@@ -409,8 +409,8 @@ roles_new:
       KantonaleExekutive:
       - !ruby/regexp /Kantonsrat/i
       - ['Exekutive', 'Mitglied']
+      - ['Regierungsrat', 'Mitglied']
       - ['Staatssekretär \(7200\)', 'Mitglied']
-      - ['Regierungsrat \(8400\)', 'Mitglied']
       - ['Regierungpräsident \(8760\)', 'Mitglied']
     KantonKommission:
       Praesident:
