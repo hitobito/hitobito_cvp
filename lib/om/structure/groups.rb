@@ -67,10 +67,14 @@ module Structure
       end
     end
 
-    def build
+    def build_all
       STEPS.inject(rows) do |rows, step|
         step.new(rows, config).run
-      end.select(&:present?)
+      end
+    end
+
+    def build
+      build_all.select(&:present?)
     end
 
     def scope

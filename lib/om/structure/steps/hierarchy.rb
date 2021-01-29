@@ -24,8 +24,14 @@ module Structure::Steps
       @rows.find(&:root?)
     end
 
-    def children(parent_row)
-      @rows.select { |row| row.parent_id == parent_row.id }
+    def children(row)
+      by_children.fetch(row.id, [])
+    end
+
+    def by_children
+      @by_children ||= @rows.each_with_object(Hash.new { |h, k| h[k] = [] }) do |row, memo|
+        memo[row.parent_id] << row
+      end
     end
 
   end
