@@ -1,5 +1,5 @@
-module Structure
-  class Groups::Hierarchy
+module Structure::Render
+  class Hierarchy
 
     def initialize(group_ids: nil, depth: nil)
       @depth = depth
@@ -17,7 +17,7 @@ module Structure
     end
 
     def rows
-      @rows ||= Groups.new(group_ids: @group_ids, depth: @depth).build
+      @rows ||= Structure::Groups.new(group_ids: @group_ids, depth: @depth).build
     end
 
     def config(path = File.join(File.dirname(__FILE__), '../import/config.yml'))

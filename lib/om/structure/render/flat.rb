@@ -1,5 +1,5 @@
-module Structure
-  class Groups::Flat
+module Structure::Render
+  class Flat
 
     def initialize(group_ids: nil, depth: nil, skip: nil)
       @depth = depth

@@ -50,7 +50,7 @@ namespace :om do
 
       selected.each do |key, group_ids|
         dir = File.join(File.dirname(__FILE__), '../../generated')
-        renderer = Structure::Groups::Hierarchy.new(group_ids: group_ids)
+        renderer = Structure::Render::Hierarchy.new(group_ids: group_ids)
         puts "Rendering #{key} - #{renderer.rows.size}"
         File.write("#{dir}/groups/#{key}.txt", renderer.formatted.join("\n"))
         File.write("#{dir}/roles/#{key}.txt", renderer.formatted(:detail).join("\n"))
