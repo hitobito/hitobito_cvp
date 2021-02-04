@@ -208,8 +208,8 @@ de:
         one: Mitglied
       group/bund_praesidium/gast:
         one: Gast
-      group/bund_sekretariat/generalsekretaer:
-        one: Generalsekretär
+      group/bund_sekretariat/leitung:
+        one: Leitung
       group/bund_sekretariat/mitarbeiter:
         one: Mitarbeiter
       group/bund_sekretariat/it_support:

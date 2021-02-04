@@ -10,6 +10,8 @@ Status](https://travis-ci.org/hitobito/hitobito_cvp.svg)](https://travis-ci.org/
 ## Organization Hierarchy
 
     * Schweiz
+      * Schweiz
+        * Merkmal: []
       * Gewählte
         * Bundesrat: []
         * Bundeskanzler: []
@@ -34,7 +36,7 @@ Status](https://travis-ci.org/hitobito/hitobito_cvp.svg)](https://travis-ci.org/
         * Gast: []
         * Merkmal: []
       * Sekretariat
-        * Generalsekretär: [:layer_and_below_full, :contact_data, :admin]
+        * Leitung: [:layer_and_below_full, :contact_data, :admin]
         * Mitarbeiter: [:layer_and_below_full, :contact_data, :admin]
         * It-Support: [:impersonation]
         * Kassier: [:finance]
@@ -68,6 +70,8 @@ Status](https://travis-ci.org/hitobito/hitobito_cvp.svg)](https://travis-ci.org/
         * Sympathisant: []
         * Merkmal: []
     * Kanton
+      * Kanton
+        * Merkmal: []
       * Gewählte
         * Kantonale Exekutive: []
         * Kantonale Legislative: []
@@ -124,6 +128,8 @@ Status](https://travis-ci.org/hitobito/hitobito_cvp.svg)](https://travis-ci.org/
         * Sympathisant: []
         * Merkmal: []
     * Region
+      * Region
+        * Merkmal: []
       * Gewählte
         * Fraktionschef: []
         * Region Exekutive: []
@@ -169,6 +175,8 @@ Status](https://travis-ci.org/hitobito/hitobito_cvp.svg)](https://travis-ci.org/
         * Kontakt: []
         * Merkmal: []
     * Ortspartei
+      * Ortspartei
+        * Merkmal: []
       * Gewählte
         * Fraktionschef: []
         * Kommunale Exekutive: []
@@ -214,6 +222,8 @@ Status](https://travis-ci.org/hitobito/hitobito_cvp.svg)](https://travis-ci.org/
         * Sympathisant: []
         * Merkmal: []
     * Vereinigung
+      * Vereinigung
+        * Merkmal: []
       * Gewählte
         * Fraktionschef: []
         * Vereinigung Exekutive: []
