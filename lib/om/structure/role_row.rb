@@ -1,7 +1,7 @@
 module Structure
   class RoleRow
     attr_reader :label, :kunden_id, :group, :timestamps
-    attr_accessor :type
+    attr_accessor :type, :group
 
     def initialize(group, kunden_id, label, timestamps = {})
       @group = group

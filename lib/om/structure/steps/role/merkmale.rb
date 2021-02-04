@@ -1,10 +1,10 @@
-module Structure::Steps
-  class Merkmale < Base
+module Structure::Steps::Role
+  class Merkmale < Structure::Steps::Base
     def run
       roles.select(&:tbd?).each do |role|
-        binding.pry if role.label == 'Bundesrichter'
         merkmale.build(role)
       end
+      @rows
     end
 
     def roles

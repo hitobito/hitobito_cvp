@@ -16,14 +16,51 @@ groups:
   create:
     Bund:
       - Sympathisanten
-    Kanton:
-      - Sympathisanten
-    Region:
-      - Sympathisanten
-    Ort:
-      - Sympathisanten
+      - Arbeitsgruppe
+      - Arbeitsgruppe:Kantonaler Fraktionspräsident
+      - Arbeitsgruppe:Regierungsrat
+      - Arbeitsgruppe:Sekretär (administrativ)
+      - Arbeitsgruppe:Sekretär Kantonalpartei/Vereinigung
     Vereinigung:
       - Sympathisanten
+      - Sekretariat
+      - Delegierte
+      - Parteigremium
+      - ExterneKontakte
+    Kanton:
+      - Sympathisanten
+      - Parteigremium
+      - Praesidium
+      - Delegierte
+      - Gewaehlte
+      - Sekretariat
+      - Mitglieder
+      - ExterneKontakte
+
+      - Arbeitsgruppe
+      - Arbeitsgruppe:Einwohnerrat
+      - Arbeitsgruppe:Einwohnerrat
+      - Arbeitsgruppe:Gemeindammann
+      - Arbeitsgruppe:Gemeinderat
+      - Arbeitsgruppe:Gemeinderatsmitglied
+      - Arbeitsgruppe:Stadtparlamentarier
+    Region:
+      - Sympathisanten
+      - ExterneKontakte
+      - Arbeitsgruppe
+      - Delegierte
+      - Sekretariat
+      - Parteigremium
+    Ort:
+      - Sympathisanten
+      - Arbeitsgruppe
+      - Delegierte
+      - Gewaehlte
+      - Sekretariat
+      - Mitglieder
+      - ExterneKontakte
+      - Parteigremium
+      - Praesidium
 
   moves:
     by_parent_id:
@@ -309,6 +346,7 @@ groups:
     OrtArbeitsgruppe:
       default: OrtArbeitsgruppe
 roles_new:
+  merkmale: Documents/hitobito/CVP/Migration/merkmale_final.csv
   ignored:
     - Wahlbüro
   moves:

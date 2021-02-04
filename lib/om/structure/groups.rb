@@ -16,6 +16,7 @@ module Structure
 
     ROLE_STEPS = [
       Structure::Steps::Role::Type,
+      Structure::Steps::Role::Merkmale,
     ]
 
     MAPPINGS = {
@@ -70,16 +71,23 @@ module Structure
       end
     end
 
+    def build_groups
+      STEPS.inject(rows) do |rows, step|
+        step.new(rows, config).run
+      end
+    end
+
+    def apply_roles(groups)
+      ROLE_STEPS.inject(groups) do |rows, step|
+        step.new(rows, config).run
+      end
+    end
+
+
     def build
-      groups = STEPS.inject(rows) do |rows, step|
-        step.new(rows, config).run
-      end
-
-      groups = ROLE_STEPS.inject(groups) do |rows, step|
-        step.new(rows, config).run
-      end
-
-      groups.select(&:present?)
+      groups = build_groups
+      groups_with_roles = apply_roles(groups)
+      groups_with_roles.select(&:present?)
     end
 
     def scope
@@ -87,7 +95,7 @@ module Structure
     end
 
     def build_scope
-      scope = @group_ids ? ancestors_with_descendants : Verband.all
+      scope = @group_ids != [1] ? ancestors_with_descendants : Verband.all
       scope = scope.where('depth <= ?', @depth) if @depth
       scope.order(:depth)
     end

@@ -30,7 +30,7 @@ namespace :om do
 
   namespace :target do
     desc 'Import into local database'
-    task :import, [:tree] do |_t, args|
+    task :import, [:validate, :tree] do |_t, args|
       tree = args[:tree]&.to_sym
       Import::Runner.run(tree: tree, validate: true)
     end
@@ -61,7 +61,7 @@ namespace :om do
     task :merkmale do |_t, args|
       groups = Structure::Groups.new(group_ids: [1]).build
       roles = groups.flat_map { |g| g.roles }.compact.select(&:tbd?)
-      simple = roles.collect { |role| [role.type.gsub('tbd:', ''), role.group.type] }
+      simple = roles.collect { |role| [role.type.gsub('tbd:', ''), "Group::#{role.group.type}"] }
       rows = simple.uniq.collect { |row| row + [simple.count(row)] }.sort_by(&:first)
       CSV.open('merkmale.csv', 'wb') do |csv|
         csv << %w(Merkmal Gruppen Anzahl)

@@ -7,6 +7,8 @@ module Import
         end
         upsert(Role, rows)
       end
+
+      print_merkmal_counts
       validate_sti(Role)
     end
 
@@ -17,6 +19,13 @@ module Import
         type: type_or_default(role),
         label: role.label
       )
+    end
+
+    def print_merkmal_counts
+      counts =  Role.where('type like "%Merkmal"').group(:type).count.sort_by(&:second).reverse
+      counts.each do |type, count|
+        puts "#{type}: #{count}"
+      end
     end
 
     def type_or_default(role)
