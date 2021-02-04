@@ -63,7 +63,9 @@ module Structure::Merkmal
     end
 
     def find_group_for_role_group_by_label(groups)
-      groups.find { |group| target_role.match(group.label) }
+      groups.find do |group|
+        target_role.match(group.label) || group.label.match(row.merkmal)
+      end
     end
 
     def find_default_group_for_type(groups, layer)

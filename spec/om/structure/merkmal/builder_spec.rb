@@ -122,6 +122,69 @@ describe Structure::Merkmal::Builder do
     it 'changes role' do
       expect { subject.build }.to change { role.type }.from('tbd').to 'Mitglied'
     end
-
   end
+
+  describe 'find_group_for_role_group_by_label by role' do
+    let(:exekutive) { instance_double(Structure::GroupRow, "exekutive", type: 'KantonGewaehlte', label: 'Exekutive') }
+    let(:legislative) { instance_double(Structure::GroupRow,"legislative", type: 'KantonGewaehlte', label: 'Legislative') }
+
+    subject do
+      described_class
+        .new(Structure::Merkmal::Row.new(row.stringify_keys), role)
+        .find_group_for_role_group_by_label([legislative, exekutive].shuffle)
+    end
+
+    let(:row) {
+      row_template.merge({
+        "Neue Gruppe": "Group::KantonGewaehlte",
+        "Rolle": "Group::KantonGewaehlte::KantonaleExekutive",
+      })
+    }
+
+    it 'finds group exekutive based on Rolle' do
+      expect(subject).to eq exekutive
+    end
+  end
+
+  describe 'find_group_for_role_group_by_label' do
+    let(:legislative) { instance_double(Structure::GroupRow,"legislative", type: 'KantonGewaehlte', label: 'Legislative') }
+
+    subject do
+      described_class
+        .new(Structure::Merkmal::Row.new(row.stringify_keys), role)
+        .find_group_for_role_group_by_label([legislative, exekutive].shuffle)
+    end
+
+    context "matches target_role with group label" do
+      let(:exekutive) { instance_double(Structure::GroupRow, "exekutive", type: 'KantonGewaehlte', label: 'Exekutive') }
+
+      let(:row) {
+        row_template.merge({
+          "Neue Gruppe": "Group::KantonGewaehlte",
+          "Rolle": "Group::KantonGewaehlte::KantonaleExekutive",
+        })
+      }
+
+      it 'finds exekutive because Rolle matches group label' do
+        expect(subject).to eq exekutive
+      end
+    end
+
+    context "matches group label with merkmal" do
+      let(:exekutive) { instance_double(Structure::GroupRow, "exekutive", type: 'KantonGewaehlte', label: 'Kantonale Exekutiv Gruppe') }
+
+      let(:row) {
+        row_template.merge({
+          "Neue Gruppe": "Group::KantonGewaehlte",
+          "Rolle": "Group::KantonGewaehlte::KantonaleExekutive",
+          "Merkmal": "Exekutiv"
+        })
+      }
+
+      it 'finds exekutive because Rolle matches group label' do
+        expect(subject).to eq exekutive
+      end
+    end
+  end
+
 end
