@@ -1,49 +1,27 @@
 <Bund id=1, label=CVP Schweiz, parent_id=>
  <Vereinigung id=4, label=60+, parent_id=1>
-  <VereinigungArbeitsgruppe id=36627, label=Kantonale Verantwortliche, parent_id=4>
-   <VereinigungArbeitsgruppe id=36631, label=AI, parent_id=36627>
-   <VereinigungArbeitsgruppe id=36632, label=AR, parent_id=36627>
-   <VereinigungArbeitsgruppe id=36633, label=BE, parent_id=36627>
-   <VereinigungArbeitsgruppe id=36629, label=BL, parent_id=36627>
-   <VereinigungArbeitsgruppe id=36630, label=BS, parent_id=36627>
-   <VereinigungArbeitsgruppe id=36634, label=FR, parent_id=36627>
-   <VereinigungArbeitsgruppe id=36636, label=GL, parent_id=36627>
-   <VereinigungArbeitsgruppe id=36637, label=GR, parent_id=36627>
-   <VereinigungArbeitsgruppe id=36638, label=JU, parent_id=36627>
-   <VereinigungArbeitsgruppe id=36639, label=LU, parent_id=36627>
-   <VereinigungArbeitsgruppe id=36641, label=NW, parent_id=36627>
-   <VereinigungArbeitsgruppe id=36642, label=OW, parent_id=36627>
-   <VereinigungArbeitsgruppe id=36643, label=SG, parent_id=36627>
-   <VereinigungArbeitsgruppe id=36644, label=SH, parent_id=36627>
-   <VereinigungArbeitsgruppe id=36645, label=SO, parent_id=36627>
-   <VereinigungArbeitsgruppe id=36646, label=SZ, parent_id=36627>
-   <VereinigungArbeitsgruppe id=36647, label=TG, parent_id=36627>
-   <VereinigungArbeitsgruppe id=36654, label=UR, parent_id=36627>
-   <VereinigungArbeitsgruppe id=36655, label=VD, parent_id=36627>
-   <VereinigungArbeitsgruppe id=36659, label=VS-CSP Oberwallis, parent_id=36627>
-   <VereinigungArbeitsgruppe id=36656, label=VS-CVP Oberwallis, parent_id=36627>
-   <VereinigungArbeitsgruppe id=36652, label=ZG, parent_id=36627>
-   <VereinigungArbeitsgruppe id=36653, label=ZH, parent_id=36627>
+  <VereinigungExterneKontakte id=40428, label=ExterneKontakte, parent_id=4>
   <VereinigungPraesidium id=36625, label=Vorstand, parent_id=4>
   <Kanton id=36665, label=60+ AG, parent_id=4>
    <KantonMitglieder id=36668, label=Mitgliedschaften, parent_id=36665>
    <KantonPraesidium id=36666, label=Vorstand, parent_id=36665>
   <Kanton id=36246, label=60+ BE, parent_id=4>
-   <KantonSympathisanten id=40422, label=Sympathisanten, parent_id=36246>
+   <KantonSympathisanten id=40457, label=Sympathisanten, parent_id=36246>
    <KantonMitglieder id=36674, label=Mitgliedschaften, parent_id=36246>
    <KantonPraesidium id=36247, label=Vorstand, parent_id=36246>
   <Kanton id=33145, label=60+ BL, parent_id=4>
-   <KantonSympathisanten id=40423, label=Sympathisanten, parent_id=33145>
+   <KantonSympathisanten id=40471, label=Sympathisanten, parent_id=33145>
    <KantonExterneKontakte id=38957, label=Newsletter, parent_id=33145>
    <KantonMitglieder id=36671, label=Mitgliedschaften, parent_id=33145>
   <Kanton id=39134, label=60+ BS, parent_id=4>
-   <KantonSympathisanten id=40424, label=Sympathisanten, parent_id=39134>
+   <KantonSympathisanten id=40485, label=Sympathisanten, parent_id=39134>
    <KantonMitglieder id=39136, label=Mitgliedschaften, parent_id=39134>
   <Kanton id=14859, label=60+ FR, parent_id=4>
    <KantonMitglieder id=37561, label=Mitgliedschaften, parent_id=14859>
   <Kanton id=44, label=60+ GR, parent_id=4>
    <KantonMitglieder id=36823, label=Mitgliedschaften, parent_id=44>
   <Kanton id=45, label=60+ LU, parent_id=4>
+   <KantonMitglieder id=40533, label=Mitglieder, parent_id=45>
    <KantonExterneKontakte id=38788, label=Newsletter, parent_id=45>
    <Region id=36819, label=Wahlkreis Entlebuch, parent_id=45>
     <RegionMitglieder id=36821, label=Mitgliedschaften, parent_id=36819>
@@ -52,10 +30,9 @@
    <Region id=37017, label=Wahlkreis Luzern Land, parent_id=45>
     <RegionMitglieder id=37026, label=Mitgliedschaften, parent_id=37017>
    <Region id=37019, label=Wahlkreis Luzern Stadt, parent_id=45>
-    <RegionSympathisanten id=40431, label=Sympathisanten, parent_id=37019>
+    <RegionSympathisanten id=40559, label=Sympathisanten, parent_id=37019>
     <RegionMitglieder id=37027, label=Mitgliedschaften, parent_id=37019>
    <Region id=37021, label=Wahlkreis Sursee, parent_id=45>
-    <RegionArbeitsgruppe id=40047, label=Seniorenrat, parent_id=37021>
     <RegionMitglieder id=37028, label=Mitgliedschaften, parent_id=37021>
    <Region id=37023, label=Wahlkreis Willisau, parent_id=45>
     <RegionMitglieder id=37029, label=Mitgliedschaften, parent_id=37023>
@@ -75,12 +52,12 @@
    <Region id=35493, label=Regionalpartei Werdenberg, parent_id=35484>
     <RegionMitglieder id=35507, label=Mitgliedschaften, parent_id=35493>
    <Region id=35494, label=Regionalpartei Wil-Untertoggenburg, parent_id=35484>
-    <RegionSympathisanten id=40442, label=Sympathisanten, parent_id=35494>
+    <RegionSympathisanten id=40633, label=Sympathisanten, parent_id=35494>
     <RegionMitglieder id=35508, label=Mitgliedschaften, parent_id=35494>
   <Kanton id=36262, label=60+ SO, parent_id=4>
    <KantonMitglieder id=36264, label=Mitgliedschaften, parent_id=36262>
   <Kanton id=35663, label=60+ SZ, parent_id=4>
-   <KantonSympathisanten id=40444, label=Sympathisanten, parent_id=35663>
+   <KantonSympathisanten id=40653, label=Sympathisanten, parent_id=35663>
    <KantonArbeitsgruppe id=35664, label=Leitungsteam, parent_id=35663>
    <KantonMitglieder id=36661, label=Mitgliedschaften, parent_id=35663>
   <Kanton id=46, label=60+ TG, parent_id=4>
@@ -88,8 +65,10 @@
   <Kanton id=39271, label=60+ UR, parent_id=4>
    <KantonMitglieder id=39274, label=Mitgliedschaften, parent_id=39271>
   <Kanton id=36621, label=60+ ZG, parent_id=4>
-   <KantonSympathisanten id=40447, label=Sympathisanten, parent_id=36621>
+   <KantonSympathisanten id=40695, label=Sympathisanten, parent_id=36621>
    <KantonMitglieder id=36624, label=Mitgliedschaften, parent_id=36621>
   <Kanton id=38869, label=60+ ZH, parent_id=4>
    <KantonMitglieder id=38871, label=Mitgliedschaften, parent_id=38869>
   <Kanton id=36626, label=Weitere Funktionen, parent_id=4>
+   <KantonParteigremium id=40752, label=Parteigremium, parent_id=36626>
+   <KantonSekretariat id=40756, label=Sekretariat, parent_id=36626>

@@ -1,25 +1,31 @@
 <Bund CVP Schweiz, id:1, 0>
  <Kanton CVP VS. Oberwallis, id:175, 1>
-  <KantonSympathisanten Sympathisanten [Sympathisant 98], id:40419, 175>
+  <KantonSympathisanten Sympathisanten [Sympathisant 98], id:40424, 175>
+  <KantonPraesidium Praesidium [Mitglied 7], id:40426, 175>
+  <KantonDelegierte Delegierte [Delegierte 8, Ersatzdelegierte 5], id:40427, 175>
+  <KantonGewaehlte Gewaehlte [MitgliedKantonalesGerichtErsteInstanz 6], id:40428, 175>
+  <KantonSekretariat Sekretariat [Leitung 2], id:40429, 175>
+  <KantonArbeitsgruppe Arbeitsgruppe [Mitglied 1], id:40432, 175>
   <KantonArbeitsgruppe Club [Mitglied 29], id:36255, 175>
   <KantonExterneKontakte Newsletter [Kontakt 662], id:40307, 175>
   <KantonGewaehlte Regierungsrat [KantonaleExekutive 1], id:33109, 175>
-  <KantonGewaehlte Fraktion [Fraktionschef 2, tbd:Sekretär 1, tbd:Vorstandsmitglied 7], id:34984, 175>
-  <KantonGewaehlte Judikative [MitgliedKantonalesGerichtErsteInstanz 2, Staatsanwaltschaft 5, tbd:Bezirksrichter 1, tbd:Bundesrichter 1, tbd:Ersatzrichter 1], id:34978, 175>
-  <KantonGewaehlte Legislative [KantonaleLegislative 42, tbd:Suppleant 37], id:631, 175>
+  <KantonGewaehlte Fraktion [Fraktionschef 2], id:34984, 175>
+  <KantonGewaehlte Judikative [MitgliedKantonalesGerichtErsteInstanz 4, Staatsanwaltschaft 5, tbd:Bundesrichter 1], id:34978, 175>
+  <KantonGewaehlte Legislative [KantonaleLegislative 42, WeitereMandate 37], id:631, 175>
   <KantonMitglieder Mitgliedschaften [Mitglied 1151], id:633, 175>
-  <KantonPraesidium Partei [Mitglied 36, Praesident 3, tbd:Ansprechperson Finanzen 1, tbd:Bundesrat 1, tbd:Delegierter CVP Schweiz 8, tbd:Empfänger Rechnung Jahresbeitrag CVP CH 1, tbd:Ersatzdelegierter 5, tbd:Nationalrat 2, tbd:Sekretär Kantonalpartei/Vereinigung 1, tbd:Ständerat 1, tbd:Zuzüger 21], id:635, 175>
+  <KantonPraesidium Partei [Kassier 1, Mitglied 57, Praesident 3, tbd:Bundesrat 1, tbd:Nationalrat 2, tbd:Ständerat 1], id:635, 175>
   <Region Brig, id:629, 175>
+   <RegionArbeitsgruppe Arbeitsgruppe [Mitglied 2], id:40440, 629>
    <RegionGewaehlte Exekutive [RegionExekutive 2], id:33111, 629>
-   <RegionPraesidium Partei [Praesident 2, tbd:Mitglied 100er Club 2], id:33112, 629>
+   <RegionPraesidium Partei [Praesident 2], id:33112, 629>
    <Ort Brig-Glis-Gamsen-Brigerbad, id:2098, 629>
-    <OrtSympathisanten Sympathisanten [Sympathisant 76], id:40421, 2098>
-    <OrtArbeitsgruppe Burgergemeinde [tbd:Burgerpräsident 1, tbd:Burgerrat 1], id:34982, 2098>
-    <OrtGewaehlte Exekutive [Fraktionschef 1, KommunaleExekutive 2], id:34980, 2098>
+    <OrtSympathisanten Sympathisanten [Sympathisant 76], id:40444, 2098>
+    <OrtGewaehlte Gewaehlte [KommunaleLegislative 1], id:40447, 2098>
+    <OrtGewaehlte Exekutive [Fraktionschef 1, KommunaleExekutive 3], id:34980, 2098>
     <OrtMitglieder Mitgliedschaften [Mitglied 181], id:4118, 2098>
     <OrtPraesidium Partei [Adressverwalter 2, Kassier 1, Mitglied 53, Praesident 2], id:34979, 2098>
    <Ort Eggerberg, id:2099, 629>
-    <OrtSympathisanten Sympathisanten [Sympathisant 2], id:40422, 2099>
+    <OrtSympathisanten Sympathisanten [Sympathisant 2], id:40453, 2099>
     <OrtGewaehlte Exekutive [KommunaleExekutive 1], id:35053, 2099>
     <OrtMitglieder Mitgliedschaften [Mitglied 9], id:4119, 2099>
     <OrtPraesidium Partei [Mitglied 2, Praesident 1], id:35051, 2099>
@@ -28,26 +34,26 @@
     <OrtMitglieder Mitgliedschaften [Mitglied 2], id:4120, 2100>
     <OrtPraesidium Partei [Praesident 1], id:35054, 2100>
    <Ort Mund-Naters-Birgisch, id:2103, 629>
-    <OrtSympathisanten Sympathisanten [Sympathisant 26], id:40424, 2103>
+    <OrtSympathisanten Sympathisanten [Sympathisant 26], id:40471, 2103>
     <OrtGewaehlte Exekutive [Fraktionschef 4, KommunaleExekutive 7], id:35062, 2103>
     <OrtMitglieder Mitgliedschaften [Mitglied 160], id:4122, 2103>
     <OrtPraesidium Partei [Adressverwalter 2, Mitglied 44, Praesident 5], id:35061, 2103>
    <Ort Ried-Brig, id:2104, 629>
-    <OrtSympathisanten Sympathisanten [Sympathisant 25], id:40425, 2104>
+    <OrtSympathisanten Sympathisanten [Sympathisant 25], id:40480, 2104>
     <OrtGewaehlte Exekutive [Fraktionschef 3, KommunaleExekutive 4], id:35066, 2104>
-    <OrtGewaehlte Judikative [tbd:Vizerichter 1], id:35065, 2104>
+    <OrtGewaehlte Judikative [MitgliedWeitereGemeindeKommissionen 1], id:35065, 2104>
     <OrtMitglieder Mitgliedschaften [Mitglied 49], id:4123, 2104>
     <OrtPraesidium Partei [Adressverwalter 1, Mitglied 29, Praesident 1], id:35064, 2104>
    <Ort Simplon Dorf, id:2105, 629>
-    <OrtSympathisanten Sympathisanten [Sympathisant 1], id:40426, 2105>
+    <OrtSympathisanten Sympathisanten [Sympathisant 1], id:40489, 2105>
     <OrtGewaehlte Exekutive [Fraktionschef 2, KommunaleExekutive 1], id:35068, 2105>
     <OrtMitglieder Mitgliedschaften [Mitglied 8], id:4124, 2105>
     <OrtPraesidium Partei [Mitglied 1, Praesident 1], id:35067, 2105>
    <Ort Termen, id:2106, 629>
-    <OrtSympathisanten Sympathisanten [Sympathisant 6], id:40427, 2106>
-    <OrtArbeitsgruppe Burgergemeinde [tbd:Burgerrat 1], id:35111, 2106>
+    <OrtSympathisanten Sympathisanten [Sympathisant 6], id:40498, 2106>
+    <OrtGewaehlte Gewaehlte [KommunaleLegislative 1], id:40501, 2106>
     <OrtGewaehlte Exekutive [Fraktionschef 1, KommunaleExekutive 7], id:35071, 2106>
-    <OrtGewaehlte Judikative [tbd:Vizerichter 1], id:35072, 2106>
+    <OrtGewaehlte Judikative [MitgliedWeitereGemeindeKommissionen 1], id:35072, 2106>
     <OrtMitglieder Mitgliedschaften [Mitglied 18], id:4125, 2106>
     <OrtPraesidium Partei [Mitglied 2, Praesident 1], id:35070, 2106>
   <Region Goms, id:630, 175>
@@ -57,11 +63,11 @@
     <OrtGewaehlte Exekutive [Fraktionschef 1], id:35113, 2107>
     <OrtMitglieder Mitgliedschaften [Mitglied 5], id:4126, 2107>
    <Ort Binn, id:33701, 630>
-    <OrtSympathisanten Sympathisanten [Sympathisant 1], id:40430, 33701>
+    <OrtSympathisanten Sympathisanten [Sympathisant 1], id:40522, 33701>
     <OrtGewaehlte Exekutive [KommunaleExekutive 2], id:35117, 33701>
     <OrtMitglieder Mitgliedschaften [Mitglied 2], id:34732, 33701>
    <Ort Blitzingen, id:34967, 630>
-    <OrtSympathisanten Sympathisanten [Sympathisant 1], id:40431, 34967>
+    <OrtSympathisanten Sympathisanten [Sympathisant 1], id:40531, 34967>
     <OrtGewaehlte Exekutive [Fraktionschef 1], id:35121, 34967>
    <Ort Ernen, id:2108, 630>
     <OrtGewaehlte Exekutive [Fraktionschef 2, KommunaleExekutive 1], id:35125, 2108>
@@ -72,93 +78,94 @@
    <Ort Lax, id:2110, 630>
     <OrtMitglieder Mitgliedschaften [Mitglied 2], id:4129, 2110>
    <Ort Münster-Geschinen, id:2111, 630>
-    <OrtSympathisanten Sympathisanten [Sympathisant 2], id:40437, 2111>
+    <OrtSympathisanten Sympathisanten [Sympathisant 2], id:40585, 2111>
     <OrtGewaehlte Exekutive [Fraktionschef 2, KommunaleExekutive 2], id:35145, 2111>
     <OrtMitglieder Mitgliedschaften [Mitglied 4], id:4130, 2111>
     <OrtPraesidium Partei [Praesident 1], id:35147, 2111>
    <Ort Obergoms, id:2115, 630>
-    <OrtSympathisanten Sympathisanten [Sympathisant 1], id:40439, 2115>
+    <OrtSympathisanten Sympathisanten [Sympathisant 1], id:40603, 2115>
     <OrtGewaehlte Exekutive [Fraktionschef 1], id:35153, 2115>
     <OrtMitglieder Mitgliedschaften [Mitglied 14], id:4134, 2115>
    <Ort Reckingen-Gluringen, id:2113, 630>
-    <OrtSympathisanten Sympathisanten [Sympathisant 3], id:40440, 2113>
+    <OrtSympathisanten Sympathisanten [Sympathisant 3], id:40612, 2113>
     <OrtGewaehlte Exekutive [Fraktionschef 2, KommunaleExekutive 1], id:35156, 2113>
     <OrtMitglieder Mitgliedschaften [Mitglied 4], id:4132, 2113>
   <Region Leuk, id:632, 175>
+   <RegionParteigremium Parteigremium [Mitglied 1], id:40626, 632>
    <RegionGewaehlte Exekutive [RegionExekutive 1], id:33115, 632>
-   <RegionPraesidium Partei [Praesident 2, tbd:Revisor 1, tbd:Vorstandsmitglied 3], id:33116, 632>
+   <RegionPraesidium Partei [Mitglied 3, Praesident 2], id:33116, 632>
    <Ort Agarn, id:2116, 632>
-    <OrtArbeitsgruppe Burgergemeinde [tbd:Burgerrat 1], id:35159, 2116>
+    <OrtGewaehlte Gewaehlte [KommunaleLegislative 1], id:40630, 2116>
     <OrtGewaehlte Exekutive [Fraktionschef 1, KommunaleExekutive 4], id:35160, 2116>
     <OrtMitglieder Mitgliedschaften [Mitglied 21], id:4136, 2116>
     <OrtPraesidium Partei [Praesident 1], id:35162, 2116>
    <Ort Albinen, id:2117, 632>
-    <OrtSympathisanten Sympathisanten [Sympathisant 1], id:40443, 2117>
+    <OrtSympathisanten Sympathisanten [Sympathisant 1], id:40636, 2117>
+    <OrtExterneKontakte ExterneKontakte [Kontakt 1], id:40642, 2117>
     <OrtGewaehlte Exekutive [KommunaleExekutive 5], id:35164, 2117>
     <OrtMitglieder Mitgliedschaften [Mitglied 13], id:4137, 2117>
-    <OrtPraesidium Partei [tbd:Kontakt 1], id:35166, 2117>
    <Ort Ergisch, id:34970, 632>
     <OrtGewaehlte Exekutive [KommunaleExekutive 1], id:35168, 34970>
     <OrtMitglieder Mitgliedschaften [Mitglied 1], id:34995, 34970>
    <Ort Erschmatt-Leuk, id:2123, 632>
-    <OrtSympathisanten Sympathisanten [Sympathisant 2], id:40445, 2123>
-    <OrtArbeitsgruppe Burgergemeinde [tbd:Burgerrat 2], id:35187, 2123>
+    <OrtSympathisanten Sympathisanten [Sympathisant 2], id:40654, 2123>
+    <OrtGewaehlte Gewaehlte [KommunaleLegislative 2], id:40657, 2123>
+    <OrtSekretariat Sekretariat [Leitung 1], id:40658, 2123>
     <OrtGewaehlte Exekutive [Fraktionschef 4, KommunaleExekutive 3], id:35188, 2123>
     <OrtMitglieder Mitgliedschaften [Mitglied 47], id:4144, 2123>
-    <OrtPraesidium Partei [Praesident 5, tbd:Sekretär 1], id:35190, 2123>
+    <OrtPraesidium Partei [Praesident 5], id:35190, 2123>
    <Ort Gampel-Bratsch, id:2120, 632>
-    <OrtArbeitsgruppe Burgergemeinde [tbd:Burgerpräsident 1], id:35175, 2120>
-    <OrtGewaehlte Exekutive [Fraktionschef 1, KommunaleExekutive 4], id:35176, 2120>
+    <OrtGewaehlte Exekutive [Fraktionschef 1, KommunaleExekutive 5], id:35176, 2120>
     <OrtMitglieder Mitgliedschaften [Mitglied 47], id:4141, 2120>
     <OrtPraesidium Partei [Praesident 3], id:35178, 2120>
    <Ort Guttet-Feschel, id:2121, 632>
-    <OrtSympathisanten Sympathisanten [Sympathisant 3], id:40447, 2121>
+    <OrtSympathisanten Sympathisanten [Sympathisant 3], id:40672, 2121>
     <OrtGewaehlte Exekutive [Fraktionschef 1, KommunaleExekutive 1], id:35180, 2121>
     <OrtMitglieder Mitgliedschaften [Mitglied 7], id:4142, 2121>
     <OrtPraesidium Partei [Praesident 1], id:35182, 2121>
    <Ort Inden, id:2122, 632>
-    <OrtSympathisanten Sympathisanten [Sympathisant 1], id:40448, 2122>
-    <OrtArbeitsgruppe Burgergemeinde [tbd:Burgerrat 1], id:35183, 2122>
+    <OrtSympathisanten Sympathisanten [Sympathisant 1], id:40681, 2122>
+    <OrtGewaehlte Gewaehlte [KommunaleLegislative 1], id:40684, 2122>
+    <OrtExterneKontakte ExterneKontakte [Kontakt 1], id:40687, 2122>
     <OrtGewaehlte Exekutive [Fraktionschef 1, KommunaleExekutive 1], id:35184, 2122>
     <OrtMitglieder Mitgliedschaften [Mitglied 2], id:4143, 2122>
-    <OrtPraesidium Partei [tbd:Kontakt 1], id:35186, 2122>
    <Ort Leukerbad, id:2124, 632>
-    <OrtArbeitsgruppe Burgergemeinde [tbd:Burgerrat 1], id:35191, 2124>
+    <OrtGewaehlte Gewaehlte [KommunaleLegislative 1], id:40693, 2124>
     <OrtGewaehlte Exekutive [Fraktionschef 1, KommunaleExekutive 2], id:35192, 2124>
     <OrtMitglieder Mitgliedschaften [Mitglied 21], id:4145, 2124>
     <OrtPraesidium Partei [Praesident 1], id:35194, 2124>
    <Ort Salgesch, id:2125, 632>
-    <OrtSympathisanten Sympathisanten [Sympathisant 1], id:40451, 2125>
-    <OrtArbeitsgruppe Burgergemeinde [tbd:Burgerrat 1], id:35199, 2125>
+    <OrtSympathisanten Sympathisanten [Sympathisant 1], id:40708, 2125>
+    <OrtGewaehlte Gewaehlte [KommunaleLegislative 1], id:40711, 2125>
     <OrtGewaehlte Exekutive [Fraktionschef 3, KommunaleExekutive 5], id:35200, 2125>
     <OrtMitglieder Mitgliedschaften [Mitglied 69], id:4146, 2125>
     <OrtPraesidium Partei [Praesident 1], id:35202, 2125>
    <Ort Turtmann, id:2126, 632>
+    <OrtExterneKontakte ExterneKontakte [Kontakt 1], id:40723, 2126>
     <OrtGewaehlte Exekutive [Fraktionschef 1, KommunaleExekutive 3], id:35204, 2126>
     <OrtMitglieder Mitgliedschaften [Mitglied 29], id:4147, 2126>
-    <OrtPraesidium Partei [tbd:Kontakt 1], id:35206, 2126>
    <Ort Unterems, id:34969, 632>
     <OrtMitglieder Mitgliedschaften [Mitglied 1], id:34993, 34969>
    <Ort Varen, id:2127, 632>
+    <OrtExterneKontakte ExterneKontakte [Kontakt 1], id:40741, 2127>
     <OrtGewaehlte Exekutive [KommunaleExekutive 2], id:35212, 2127>
     <OrtMitglieder Mitgliedschaften [Mitglied 13], id:4148, 2127>
-    <OrtPraesidium Partei [tbd:Kontakt 1], id:35214, 2127>
   <Region Oestl. Raron, id:634, 175>
    <RegionGewaehlte Exekutive [RegionExekutive 2], id:33117, 634>
    <Ort Betten, id:2128, 634>
-    <OrtSympathisanten Sympathisanten [Sympathisant 1], id:40456, 2128>
+    <OrtSympathisanten Sympathisanten [Sympathisant 1], id:40750, 2128>
+    <OrtExterneKontakte ExterneKontakte [Kontakt 1], id:40756, 2128>
     <OrtGewaehlte Exekutive [Fraktionschef 3, KommunaleExekutive 1], id:35216, 2128>
     <OrtMitglieder Mitgliedschaften [Mitglied 4], id:4149, 2128>
-    <OrtPraesidium Partei [tbd:Kontakt 1], id:35218, 2128>
    <Ort Bitsch, id:2129, 634>
-    <OrtSympathisanten Sympathisanten [Sympathisant 1], id:40457, 2129>
+    <OrtSympathisanten Sympathisanten [Sympathisant 1], id:40759, 2129>
+    <OrtExterneKontakte ExterneKontakte [Kontakt 1], id:40765, 2129>
     <OrtGewaehlte Exekutive [Fraktionschef 2, KommunaleExekutive 1], id:35223, 2129>
     <OrtMitglieder Mitgliedschaften [Mitglied 8], id:4150, 2129>
-    <OrtPraesidium Partei [tbd:Kontakt 1], id:35225, 2129>
    <Ort Grengiols, id:2131, 634>
+    <OrtExterneKontakte ExterneKontakte [Kontakt 1], id:40774, 2131>
     <OrtGewaehlte Exekutive [KommunaleExekutive 2], id:35227, 2131>
     <OrtMitglieder Mitgliedschaften [Mitglied 4], id:4152, 2131>
-    <OrtPraesidium Partei [tbd:Kontakt 1], id:35229, 2131>
    <Ort Mörel-Filet, id:2130, 634>
     <OrtGewaehlte Exekutive [KommunaleExekutive 1], id:35235, 2130>
     <OrtMitglieder Mitgliedschaften [Mitglied 11], id:4151, 2130>
@@ -172,19 +179,19 @@
     <OrtGewaehlte Exekutive [KommunaleExekutive 1], id:35242, 2136>
     <OrtMitglieder Mitgliedschaften [Mitglied 3], id:4158, 2136>
    <Ort Eisten, id:2137, 638>
-    <OrtSympathisanten Sympathisanten [Sympathisant 1], id:40464, 2137>
+    <OrtSympathisanten Sympathisanten [Sympathisant 1], id:40819, 2137>
     <OrtGewaehlte Exekutive [Fraktionschef 1, KommunaleExekutive 1], id:35246, 2137>
     <OrtMitglieder Mitgliedschaften [Mitglied 2], id:4159, 2137>
     <OrtPraesidium Partei [Praesident 1], id:35248, 2137>
    <Ort Grächen, id:2138, 638>
-    <OrtSympathisanten Sympathisanten [Sympathisant 3], id:40466, 2138>
+    <OrtSympathisanten Sympathisanten [Sympathisant 3], id:40837, 2138>
     <OrtGewaehlte Exekutive [Fraktionschef 1, KommunaleExekutive 4], id:35254, 2138>
     <OrtMitglieder Mitgliedschaften [Mitglied 12], id:4160, 2138>
     <OrtPraesidium Partei [Praesident 1], id:35256, 2138>
    <Ort Lalden, id:2139, 638>
-    <OrtSympathisanten Sympathisanten [Sympathisant 1], id:40467, 2139>
+    <OrtSympathisanten Sympathisanten [Sympathisant 1], id:40846, 2139>
    <Ort Randa, id:2140, 638>
-    <OrtSympathisanten Sympathisanten [Sympathisant 2], id:40468, 2140>
+    <OrtSympathisanten Sympathisanten [Sympathisant 2], id:40855, 2140>
     <OrtGewaehlte Exekutive [Fraktionschef 1, KommunaleExekutive 1], id:35262, 2140>
     <OrtMitglieder Mitgliedschaften [Mitglied 3], id:4162, 2140>
    <Ort Saas Almagell, id:2141, 638>
@@ -192,7 +199,7 @@
     <OrtMitglieder Mitgliedschaften [Mitglied 7], id:4163, 2141>
     <OrtPraesidium Partei [Praesident 1], id:35268, 2141>
    <Ort Saas Balen, id:2142, 638>
-    <OrtSympathisanten Sympathisanten [Sympathisant 2], id:40470, 2142>
+    <OrtSympathisanten Sympathisanten [Sympathisant 2], id:40873, 2142>
     <OrtGewaehlte Exekutive [Fraktionschef 3, KommunaleExekutive 3], id:35270, 2142>
     <OrtMitglieder Mitgliedschaften [Mitglied 15], id:4164, 2142>
     <OrtPraesidium Partei [Praesident 1], id:35272, 2142>
@@ -201,29 +208,27 @@
     <OrtMitglieder Mitgliedschaften [Mitglied 28], id:4165, 2143>
     <OrtPraesidium Partei [Praesident 1], id:35276, 2143>
    <Ort Saas Grund, id:2144, 638>
-    <OrtSympathisanten Sympathisanten [Sympathisant 1], id:40472, 2144>
+    <OrtSympathisanten Sympathisanten [Sympathisant 1], id:40891, 2144>
     <OrtGewaehlte Exekutive [Fraktionschef 1, KommunaleExekutive 3], id:35282, 2144>
-    <OrtGewaehlte Judikative [tbd:Richter 1], id:35283, 2144>
     <OrtMitglieder Mitgliedschaften [Mitglied 20], id:4166, 2144>
     <OrtPraesidium Partei [Mitglied 3, Praesident 1], id:35284, 2144>
    <Ort St. Niklaus, id:2145, 638>
-    <OrtSympathisanten Sympathisanten [Sympathisant 3], id:40473, 2145>
+    <OrtSympathisanten Sympathisanten [Sympathisant 3], id:40900, 2145>
     <OrtGewaehlte Exekutive [Fraktionschef 1, KommunaleExekutive 6], id:35289, 2145>
     <OrtMitglieder Mitgliedschaften [Mitglied 39], id:4167, 2145>
     <OrtPraesidium Partei [Praesident 1], id:35291, 2145>
    <Ort Stalden, id:2146, 638>
-    <OrtSympathisanten Sympathisanten [Sympathisant 1], id:40474, 2146>
+    <OrtSympathisanten Sympathisanten [Sympathisant 1], id:40909, 2146>
     <OrtGewaehlte Exekutive [Fraktionschef 1, KommunaleExekutive 7], id:35292, 2146>
-    <OrtGewaehlte Judikative [tbd:Richter 1], id:35294, 2146>
     <OrtMitglieder Mitgliedschaften [Mitglied 48], id:4168, 2146>
     <OrtPraesidium Partei [Praesident 1], id:35295, 2146>
    <Ort Staldenried, id:2147, 638>
-    <OrtSympathisanten Sympathisanten [Sympathisant 1], id:40475, 2147>
+    <OrtSympathisanten Sympathisanten [Sympathisant 1], id:40918, 2147>
     <OrtGewaehlte Exekutive [KommunaleExekutive 3], id:35297, 2147>
     <OrtMitglieder Mitgliedschaften [Mitglied 16], id:4169, 2147>
     <OrtPraesidium Partei [Praesident 2], id:35298, 2147>
    <Ort Täsch, id:2148, 638>
-    <OrtSympathisanten Sympathisanten [Sympathisant 1], id:40476, 2148>
+    <OrtSympathisanten Sympathisanten [Sympathisant 1], id:40927, 2148>
     <OrtGewaehlte Exekutive [Fraktionschef 1], id:35300, 2148>
     <OrtMitglieder Mitgliedschaften [Mitglied 1], id:4170, 2148>
    <Ort Törbel, id:2149, 638>
@@ -231,17 +236,17 @@
     <OrtMitglieder Mitgliedschaften [Mitglied 8], id:4171, 2149>
     <OrtPraesidium Partei [Praesident 1], id:35306, 2149>
    <Ort Visp, id:2150, 638>
-    <OrtSympathisanten Sympathisanten [Sympathisant 1], id:40478, 2150>
+    <OrtSympathisanten Sympathisanten [Sympathisant 1], id:40945, 2150>
     <OrtGewaehlte Exekutive [Fraktionschef 2, KommunaleExekutive 5], id:35308, 2150>
     <OrtMitglieder Mitgliedschaften [Mitglied 60], id:4172, 2150>
     <OrtPraesidium Partei [Praesident 1], id:35310, 2150>
    <Ort Visperterminen, id:2151, 638>
-    <OrtSympathisanten Sympathisanten [Sympathisant 1], id:40479, 2151>
+    <OrtSympathisanten Sympathisanten [Sympathisant 1], id:40954, 2151>
     <OrtGewaehlte Exekutive [Fraktionschef 1, KommunaleExekutive 2], id:35312, 2151>
     <OrtMitglieder Mitgliedschaften [Mitglied 7], id:4173, 2151>
     <OrtPraesidium Partei [Praesident 1], id:35314, 2151>
    <Ort Zeneggen, id:34973, 638>
-    <OrtSympathisanten Sympathisanten [Sympathisant 1], id:40480, 34973>
+    <OrtSympathisanten Sympathisanten [Sympathisant 1], id:40963, 34973>
     <OrtGewaehlte Exekutive [Fraktionschef 1], id:35316, 34973>
    <Ort Zermatt, id:2152, 638>
     <OrtGewaehlte Exekutive [Fraktionschef 3, KommunaleExekutive 3], id:35320, 2152>
@@ -249,9 +254,9 @@
     <OrtPraesidium Partei [Praesident 1], id:35322, 2152>
   <Region Westl. Raron, id:639, 175>
    <RegionGewaehlte Exekutive [RegionExekutive 3], id:33121, 639>
-   <RegionPraesidium Partei [Praesident 1, tbd:Kassier 1, tbd:Vorstandsmitglied 3], id:33122, 639>
+   <RegionPraesidium Partei [Mitglied 4, Praesident 1], id:33122, 639>
    <Ort Ausserberg, id:2153, 639>
-    <OrtSympathisanten Sympathisanten [Sympathisant 1], id:40483, 2153>
+    <OrtSympathisanten Sympathisanten [Sympathisant 1], id:40987, 2153>
     <OrtGewaehlte Exekutive [KommunaleExekutive 3], id:35324, 2153>
     <OrtMitglieder Mitgliedschaften [Mitglied 25], id:4175, 2153>
     <OrtPraesidium Partei [Praesident 1], id:35326, 2153>
@@ -260,51 +265,48 @@
     <OrtMitglieder Mitgliedschaften [Mitglied 4], id:35003, 34974>
     <OrtPraesidium Partei [Praesident 1], id:35330, 34974>
    <Ort Bürchen, id:2154, 639>
-    <OrtSympathisanten Sympathisanten [Sympathisant 1], id:40485, 2154>
+    <OrtSympathisanten Sympathisanten [Sympathisant 1], id:41005, 2154>
     <OrtGewaehlte Exekutive [KommunaleExekutive 4], id:35332, 2154>
     <OrtMitglieder Mitgliedschaften [Mitglied 16], id:4176, 2154>
     <OrtPraesidium Partei [Praesident 1], id:35334, 2154>
    <Ort Eischoll, id:34975, 639>
-    <OrtSympathisanten Sympathisanten [Sympathisant 3], id:40486, 34975>
+    <OrtSympathisanten Sympathisanten [Sympathisant 3], id:41014, 34975>
     <OrtGewaehlte Exekutive [KommunaleExekutive 2], id:35336, 34975>
     <OrtMitglieder Mitgliedschaften [Mitglied 4], id:35005, 34975>
     <OrtPraesidium Partei [Praesident 1], id:35338, 34975>
    <Ort Ferden, id:2155, 639>
-    <OrtSympathisanten Sympathisanten [Sympathisant 1], id:40487, 2155>
+    <OrtSympathisanten Sympathisanten [Sympathisant 1], id:41023, 2155>
     <OrtGewaehlte Exekutive [Fraktionschef 1], id:35340, 2155>
-    <OrtGewaehlte Judikative [tbd:Richter 1], id:35341, 2155>
     <OrtPraesidium Partei [Praesident 1], id:35342, 2155>
    <Ort Kippel, id:2156, 639>
-    <OrtSympathisanten Sympathisanten [Sympathisant 2], id:40488, 2156>
+    <OrtSympathisanten Sympathisanten [Sympathisant 2], id:41032, 2156>
     <OrtGewaehlte Exekutive [Fraktionschef 1, KommunaleExekutive 3], id:35344, 2156>
     <OrtMitglieder Mitgliedschaften [Mitglied 9], id:4178, 2156>
     <OrtPraesidium Partei [Praesident 1], id:35346, 2156>
    <Ort Niedergesteln, id:2157, 639>
-    <OrtSympathisanten Sympathisanten [Sympathisant 1], id:40489, 2157>
+    <OrtSympathisanten Sympathisanten [Sympathisant 1], id:41041, 2157>
     <OrtGewaehlte Exekutive [Fraktionschef 1, KommunaleExekutive 3], id:35348, 2157>
     <OrtMitglieder Mitgliedschaften [Mitglied 11], id:4179, 2157>
     <OrtPraesidium Partei [Praesident 1], id:35350, 2157>
    <Ort Raron, id:2158, 639>
-    <OrtSympathisanten Sympathisanten [Sympathisant 1], id:40490, 2158>
-    <OrtArbeitsgruppe Burgergemeinde [tbd:Burgerrat 1], id:35351, 2158>
-    <OrtArbeitsgruppe Juduikative [tbd:Richter 1], id:35353, 2158>
+    <OrtSympathisanten Sympathisanten [Sympathisant 1], id:41050, 2158>
+    <OrtGewaehlte Gewaehlte [KommunaleLegislative 1], id:41053, 2158>
     <OrtGewaehlte Exekutive [Fraktionschef 1, KommunaleExekutive 6], id:35352, 2158>
     <OrtMitglieder Mitgliedschaften [Mitglied 44], id:4180, 2158>
     <OrtPraesidium Partei [Mitglied 1, Praesident 2], id:35354, 2158>
    <Ort Steg-Hohtenn, id:2159, 639>
-    <OrtArbeitsgruppe Burgergemeinde [tbd:Burgerrat 1], id:35355, 2159>
+    <OrtGewaehlte Gewaehlte [KommunaleLegislative 1], id:41062, 2159>
     <OrtGewaehlte Exekutive [Fraktionschef 3, KommunaleExekutive 2], id:35356, 2159>
-    <OrtGewaehlte Judikative [tbd:Richter 1], id:35357, 2159>
     <OrtMitglieder Mitgliedschaften [Mitglied 36], id:4181, 2159>
     <OrtPraesidium Partei [Adressverwalter 1, Praesident 1], id:35358, 2159>
    <Ort Unterbäch, id:2160, 639>
-    <OrtSympathisanten Sympathisanten [Sympathisant 2], id:40492, 2160>
+    <OrtSympathisanten Sympathisanten [Sympathisant 2], id:41068, 2160>
     <OrtGewaehlte Exekutive [Fraktionschef 2, KommunaleExekutive 2], id:35360, 2160>
     <OrtMitglieder Mitgliedschaften [Mitglied 3], id:4182, 2160>
     <OrtPraesidium Partei [Praesident 1], id:35421, 2160>
    <Ort Wiler, id:2161, 639>
-    <OrtSympathisanten Sympathisanten [Sympathisant 1], id:40493, 2161>
+    <OrtSympathisanten Sympathisanten [Sympathisant 1], id:41077, 2161>
     <OrtGewaehlte Exekutive [Fraktionschef 2, KommunaleExekutive 1], id:35423, 2161>
-    <OrtGewaehlte Judikative [tbd:Richter 1, tbd:Vizerichter 1], id:35424, 2161>
+    <OrtGewaehlte Judikative [MitgliedWeitereGemeindeKommissionen 1], id:35424, 2161>
     <OrtMitglieder Mitgliedschaften [Mitglied 4], id:4183, 2161>
     <OrtPraesidium Partei [Praesident 1], id:35425, 2161>

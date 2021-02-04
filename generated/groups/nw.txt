@@ -1,5 +1,11 @@
 <Bund id=1, label=CVP Schweiz, parent_id=>
  <Kanton id=165, label=CVP NW, parent_id=1>
+  <KantonParteigremium id=40425, label=Parteigremium, parent_id=165>
+  <KantonPraesidium id=40426, label=Praesidium, parent_id=165>
+  <KantonDelegierte id=40427, label=Delegierte, parent_id=165>
+  <KantonSekretariat id=40429, label=Sekretariat, parent_id=165>
+  <KantonMitglieder id=40430, label=Mitglieder, parent_id=165>
+  <KantonArbeitsgruppe id=40432, label=Arbeitsgruppe, parent_id=165>
   <KantonArbeitsgruppe id=33148, label=Info- und Kontaktgruppe, parent_id=165>
   <KantonDelegierte id=5071, label=Delegiertenversammlung, parent_id=165>
    <KantonDelegierte id=5077, label=Beckenried, parent_id=5071>
@@ -20,8 +26,6 @@
   <KantonGewaehlte id=511, label=Regierungsrat, parent_id=165>
   <KantonGewaehlte id=36101, label=Judikative, parent_id=165>
    <KantonGewaehlte id=36102, label=Kantonsgericht, parent_id=36101>
-   <KantonGewaehlte id=36103, label=Obergericht, parent_id=36101>
-   <KantonGewaehlte id=36104, label=Verwaltungsgericht, parent_id=36101>
   <KantonGewaehlte id=514, label=Legislative, parent_id=165>
   <KantonKommission id=1524, label=Fachkommissionen, parent_id=165>
    <KantonKommission id=3316, label=Baudirektion, parent_id=1524>
@@ -35,71 +39,72 @@
   <KantonPraesidium id=517, label=Partei, parent_id=165>
   <KantonPraesidium id=1526, label=Vorstand, parent_id=165>
   <Ort id=505, label=Beckenried, parent_id=165>
-   <OrtSympathisanten id=40420, label=Sympathisanten, parent_id=505>
+   <OrtSympathisanten id=40438, label=Sympathisanten, parent_id=505>
    <OrtGewaehlte id=1500, label=Exekutive, parent_id=505>
    <OrtGewaehlte id=3304, label=Finanzkommission, parent_id=505>
    <OrtGewaehlte id=3305, label=Schulpflege, parent_id=505>
    <OrtMitglieder id=1501, label=Mitgliedschaften, parent_id=505>
    <OrtPraesidium id=1502, label=Partei, parent_id=505>
   <Ort id=506, label=Buochs, parent_id=165>
-   <OrtSympathisanten id=40421, label=Sympathisanten, parent_id=506>
+   <OrtSympathisanten id=40447, label=Sympathisanten, parent_id=506>
    <OrtGewaehlte id=1503, label=Exekutive, parent_id=506>
    <OrtGewaehlte id=3306, label=Finanzkommission, parent_id=506>
    <OrtGewaehlte id=3307, label=Schulpflege, parent_id=506>
    <OrtMitglieder id=1504, label=Mitgliedschaften, parent_id=506>
    <OrtPraesidium id=1505, label=Partei, parent_id=506>
   <Ort id=507, label=Dallenwil, parent_id=165>
-   <OrtSympathisanten id=40422, label=Sympathisanten, parent_id=507>
+   <OrtSympathisanten id=40456, label=Sympathisanten, parent_id=507>
    <OrtGewaehlte id=1506, label=Exekutive, parent_id=507>
    <OrtGewaehlte id=3308, label=Schulpflege, parent_id=507>
    <OrtMitglieder id=1507, label=Mitgliedschaften, parent_id=507>
    <OrtPraesidium id=1508, label=Partei, parent_id=507>
   <Ort id=508, label=Emmetten, parent_id=165>
-   <OrtSympathisanten id=40423, label=Sympathisanten, parent_id=508>
+   <OrtSympathisanten id=40465, label=Sympathisanten, parent_id=508>
    <OrtGewaehlte id=33147, label=Exekutive, parent_id=508>
    <OrtMitglieder id=1509, label=Mitgliedschaften, parent_id=508>
    <OrtPraesidium id=1510, label=Partei, parent_id=508>
   <Ort id=509, label=Ennetbürgen, parent_id=165>
-   <OrtSympathisanten id=40424, label=Sympathisanten, parent_id=509>
+   <OrtSympathisanten id=40474, label=Sympathisanten, parent_id=509>
    <OrtGewaehlte id=1511, label=Exekutive, parent_id=509>
    <OrtGewaehlte id=3309, label=Finanzkommission, parent_id=509>
    <OrtGewaehlte id=3310, label=Schulpflege, parent_id=509>
    <OrtMitglieder id=1512, label=Mitgliedschaften, parent_id=509>
    <OrtPraesidium id=1513, label=Partei, parent_id=509>
   <Ort id=510, label=Ennetmoos, parent_id=165>
-   <OrtSympathisanten id=40425, label=Sympathisanten, parent_id=510>
+   <OrtSympathisanten id=40483, label=Sympathisanten, parent_id=510>
    <OrtGewaehlte id=1514, label=Exekutive, parent_id=510>
    <OrtGewaehlte id=3311, label=Schulpflege, parent_id=510>
    <OrtMitglieder id=1515, label=Mitgliedschaften, parent_id=510>
    <OrtPraesidium id=1516, label=Partei, parent_id=510>
   <Ort id=512, label=Hergiswil, parent_id=165>
-   <OrtSympathisanten id=40426, label=Sympathisanten, parent_id=512>
+   <OrtSympathisanten id=40492, label=Sympathisanten, parent_id=512>
    <OrtGewaehlte id=1517, label=Exekutive, parent_id=512>
    <OrtGewaehlte id=3312, label=Finanzkommission, parent_id=512>
    <OrtGewaehlte id=3313, label=Schulpflege, parent_id=512>
    <OrtMitglieder id=1518, label=Mitgliedschaften, parent_id=512>
    <OrtPraesidium id=1519, label=Partei, parent_id=512>
   <Ort id=516, label=Oberdorf, parent_id=165>
-   <OrtSympathisanten id=40427, label=Sympathisanten, parent_id=516>
+   <OrtSympathisanten id=40501, label=Sympathisanten, parent_id=516>
    <OrtGewaehlte id=1521, label=Exekutive, parent_id=516>
    <OrtGewaehlte id=3314, label=Finanzkommission, parent_id=516>
    <OrtGewaehlte id=3315, label=Schulpflege, parent_id=516>
    <OrtMitglieder id=1522, label=Mitgliedschaften, parent_id=516>
    <OrtPraesidium id=1523, label=Partei, parent_id=516>
   <Ort id=519, label=Stans, parent_id=165>
-   <OrtSympathisanten id=40428, label=Sympathisanten, parent_id=519>
+   <OrtSympathisanten id=40510, label=Sympathisanten, parent_id=519>
    <OrtGewaehlte id=1528, label=Exekutive, parent_id=519>
    <OrtGewaehlte id=3325, label=Finanzkommission, parent_id=519>
    <OrtMitglieder id=1529, label=Mitgliedschaften, parent_id=519>
    <OrtPraesidium id=1530, label=Partei, parent_id=519>
   <Ort id=520, label=Stansstad, parent_id=165>
-   <OrtSympathisanten id=40429, label=Sympathisanten, parent_id=520>
+   <OrtSympathisanten id=40519, label=Sympathisanten, parent_id=520>
+   <OrtSekretariat id=40523, label=Sekretariat, parent_id=520>
    <OrtGewaehlte id=1531, label=Exekutive, parent_id=520>
    <OrtGewaehlte id=3328, label=Schulpflege, parent_id=520>
    <OrtMitglieder id=1532, label=Mitgliedschaften, parent_id=520>
    <OrtPraesidium id=1533, label=Partei, parent_id=520>
   <Ort id=521, label=Wolfenschiessen, parent_id=165>
-   <OrtSympathisanten id=40430, label=Sympathisanten, parent_id=521>
+   <OrtSympathisanten id=40528, label=Sympathisanten, parent_id=521>
    <OrtGewaehlte id=1534, label=Exekutive, parent_id=521>
    <OrtGewaehlte id=3329, label=Schulpflege, parent_id=521>
    <OrtMitglieder id=1535, label=Mitgliedschaften, parent_id=521>

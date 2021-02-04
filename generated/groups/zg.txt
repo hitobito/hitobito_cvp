@@ -1,6 +1,11 @@
 <Bund id=1, label=CVP Schweiz, parent_id=>
  <Kanton id=177, label=CVP ZG, parent_id=1>
-  <KantonSympathisanten id=40419, label=Sympathisanten, parent_id=177>
+  <KantonSympathisanten id=40424, label=Sympathisanten, parent_id=177>
+  <KantonDelegierte id=40427, label=Delegierte, parent_id=177>
+  <KantonGewaehlte id=40428, label=Gewaehlte, parent_id=177>
+  <KantonSekretariat id=40429, label=Sekretariat, parent_id=177>
+  <KantonExterneKontakte id=40431, label=ExterneKontakte, parent_id=177>
+  <KantonArbeitsgruppe id=40432, label=Arbeitsgruppe, parent_id=177>
   <KantonDelegierte id=2243, label=DV, parent_id=177>
   <KantonGewaehlte id=2244, label=Fraktion, parent_id=177>
   <KantonGewaehlte id=661, label=Judikative, parent_id=177>
@@ -13,26 +18,23 @@
   <KantonPraesidium id=667, label=Partei, parent_id=177>
   <KantonPraesidium id=2246, label=Präsidium, parent_id=177>
   <Ort id=652, label=Baar, parent_id=177>
-   <OrtSympathisanten id=40420, label=Sympathisanten, parent_id=652>
+   <OrtSympathisanten id=40438, label=Sympathisanten, parent_id=652>
    <OrtGewaehlte id=40191, label=Exekutive, parent_id=652>
    <OrtGewaehlte id=40192, label=Mandatsträger, parent_id=652>
    <OrtMitglieder id=2223, label=Mitgliedschaften, parent_id=652>
    <OrtPraesidium id=5016, label=Partei, parent_id=652>
    <OrtPraesidium id=5018, label=Vorstand, parent_id=652>
   <Ort id=658, label=Cham, parent_id=177>
-   <OrtArbeitsgruppe id=40305, label=Ehemalige, parent_id=658>
+   <OrtArbeitsgruppe id=40448, label=Arbeitsgruppe, parent_id=658>
+   <OrtGewaehlte id=40450, label=Gewaehlte, parent_id=658>
+   <OrtPraesidium id=40455, label=Praesidium, parent_id=658>
    <OrtGewaehlte id=5015, label=Exekutive, parent_id=658>
    <OrtMitglieder id=2229, label=Mitgliedschaften, parent_id=658>
    <OrtPraesidium id=5014, label=Partei, parent_id=658>
   <Ort id=660, label=Hünenberg, parent_id=177>
-   <OrtSympathisanten id=40422, label=Sympathisanten, parent_id=660>
-   <OrtArbeitsgruppe id=40352, label=Arbeitsgruppenmitglied, parent_id=660>
-   <OrtArbeitsgruppe id=40358, label=Korporationsrat Präsidium, parent_id=660>
-   <OrtArbeitsgruppe id=40356, label=RPK Bürgergemeinde, parent_id=660>
-   <OrtArbeitsgruppe id=40355, label=RPK Einwohnergemeinde, parent_id=660>
-   <OrtArbeitsgruppe id=40354, label=RPK Kath. Kirchgem. Cham-Hün., parent_id=660>
+   <OrtSympathisanten id=40456, label=Sympathisanten, parent_id=660>
+   <OrtGewaehlte id=40459, label=Gewaehlte, parent_id=660>
    <OrtArbeitsgruppe id=40357, label=RPK-Präsident Einwohnergemeinde, parent_id=660>
-   <OrtArbeitsgruppe id=40353, label=Stimmenzähler, parent_id=660>
    <OrtGewaehlte id=2231, label=Exekutive, parent_id=660>
    <OrtMitglieder id=2232, label=Mitgliedschaften, parent_id=660>
    <OrtPraesidium id=2233, label=Partei, parent_id=660>
@@ -45,16 +47,17 @@
    <OrtMitglieder id=2238, label=Mitgliedschaften, parent_id=665>
    <OrtPraesidium id=2239, label=Partei, parent_id=665>
   <Ort id=666, label=Oberägeri, parent_id=177>
-   <OrtSympathisanten id=40425, label=Sympathisanten, parent_id=666>
+   <OrtSympathisanten id=40483, label=Sympathisanten, parent_id=666>
    <OrtGewaehlte id=2240, label=Exekutive, parent_id=666>
    <OrtMitglieder id=2241, label=Mitgliedschaften, parent_id=666>
    <OrtPraesidium id=2242, label=Partei, parent_id=666>
   <Ort id=668, label=Risch-Rotkreuz, parent_id=177>
-   <OrtSympathisanten id=40426, label=Sympathisanten, parent_id=668>
+   <OrtSympathisanten id=40492, label=Sympathisanten, parent_id=668>
+   <OrtSekretariat id=40496, label=Sekretariat, parent_id=668>
    <OrtMitglieder id=2250, label=Mitgliedschaften, parent_id=668>
    <OrtPraesidium id=2251, label=Partei, parent_id=668>
   <Ort id=669, label=Stadt Zug, parent_id=177>
-   <OrtSympathisanten id=40427, label=Sympathisanten, parent_id=669>
+   <OrtSympathisanten id=40501, label=Sympathisanten, parent_id=669>
    <OrtGewaehlte id=2253, label=Legislative, parent_id=669>
    <OrtMitglieder id=2254, label=Mitgliedschaften, parent_id=669>
    <OrtPraesidium id=2255, label=Partei, parent_id=669>

@@ -1,4 +1,5 @@
 <Bund id=1, label=CVP Schweiz, parent_id=>
+ <BundArbeitsgruppe id=40419, label=Arbeitsgruppe, parent_id=1>
  <BundExterneKontakte id=9, label=allgemeine Kontakte, parent_id=1>
   <BundExterneKontakte id=14621, label=Dienstleistungen (MS), parent_id=9>
   <BundExterneKontakte id=38397, label=Diverses, parent_id=9>
@@ -8,7 +9,6 @@
    <BundExterneKontakte id=40298, label=Adressen Reto Nause September 2019 (Koni Hädener), parent_id=38397>
    <BundExterneKontakte id=40286, label=Adressen Reto Nause September 2019 (TC), parent_id=38397>
    <BundExterneKontakte id=39804, label=Petition CVP Stadt Bern (nur für Mailversand), parent_id=38397>
-   <BundExterneKontakte id=39874, label=Rechnungsempfänger Wordpress, parent_id=38397>
   <BundExterneKontakte id=39415, label=Expertengruppen (DF), parent_id=9>
    <BundExterneKontakte id=39416, label=Banken (JG), parent_id=39415>
    <BundExterneKontakte id=39417, label=Bildung (IC), parent_id=39415>

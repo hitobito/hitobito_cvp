@@ -1,26 +1,26 @@
 <Bund CVP Schweiz, id:1, 0>
  <Kanton CVP OW, id:166, 1>
-  <KantonSympathisanten Sympathisanten [Sympathisant 1], id:40419, 166>
+  <KantonSympathisanten Sympathisanten [Sympathisant 1], id:40424, 166>
+  <KantonSekretariat Sekretariat [Leitung 5, Mitarbeiter 3], id:40429, 166>
+  <KantonArbeitsgruppe Arbeitsgruppe [Mitglied 3, Praesident 1], id:40432, 166>
   <KantonGewaehlte Regierungsrat [KantonaleExekutive 1], id:35079, 166>
-  <KantonGewaehlte Judikative, id:525, 166>
-   <KantonGewaehlte Kantonsgericht [tbd:Mitglied 3], id:35080, 525>
-   <KantonGewaehlte Obergericht [tbd:Mitglied 9], id:35081, 525>
-   <KantonGewaehlte Verwaltungsgericht [tbd:Mitglied 3], id:1543, 525>
-  <KantonGewaehlte Legislative [KantonaleLegislative 43, tbd:Fraktionspräsident 2, tbd:Präsident 1], id:527, 166>
-  <KantonMitglieder Mitgliedschaften [Mitglied 5], id:529, 166>
-  <KantonParteigremium Vorstand [Mitglied 3, Praesident 2, tbd:Sekretär 2], id:35083, 166>
-  <KantonPraesidium Partei [Mitglied 8, Praesident 5, tbd:Ansprechperson Finanzen 1, tbd:Empfänger Rechnung Jahresbeitrag CVP CH 2, tbd:Leserbriefschreiber/-in Verantw. 1, tbd:OM Ansprechperson 2, tbd:Sekretär (administrativ) 1, tbd:Sekretär Kantonalpartei/Vereinigung 3], id:530, 166>
+  <KantonGewaehlte Legislative [Fraktionschef 2, KantonaleLegislative 43], id:527, 166>
+  <KantonMitglieder Mitgliedschaften [Mitglied 20], id:529, 166>
+  <KantonParteigremium Vorstand [Mitglied 3, Praesident 2], id:35083, 166>
+  <KantonPraesidium Partei [Kassier 1, Mitglied 8, Praesident 5], id:530, 166>
   <Ort Alpnach, id:522, 166>
+   <OrtSekretariat Sekretariat [Leitung 1], id:40442, 522>
+   <OrtExterneKontakte ExterneKontakte [Kontakt 154], id:40444, 522>
    <OrtGewaehlte Exekutive [KommunaleExekutive 6], id:1537, 522>
    <OrtMitglieder Mitgliedschaften [Mitglied 95], id:1538, 522>
-   <OrtPraesidium Partei [Adressverwalter 3, Kassier 1, Mitglied 9, Praesident 2, tbd:Interessent 154, tbd:Sekretär 1], id:35097, 522>
+   <OrtPraesidium Partei [Adressverwalter 3, Kassier 1, Mitglied 9, Praesident 2], id:35097, 522>
   <Ort Engelberg [mit Grafenort], id:523, 166>
-   <OrtSympathisanten Sympathisanten [Sympathisant 1], id:40421, 523>
+   <OrtSympathisanten Sympathisanten [Sympathisant 1], id:40447, 523>
    <OrtGewaehlte Exekutive [KommunaleExekutive 1], id:35096, 523>
    <OrtMitglieder Mitgliedschaften [Mitglied 91], id:1539, 523>
    <OrtPraesidium Partei [Adressverwalter 1, Praesident 3], id:1540, 523>
   <Ort Giswil, id:524, 166>
-   <OrtSympathisanten Sympathisanten [Sympathisant 1], id:40422, 524>
+   <OrtSympathisanten Sympathisanten [Sympathisant 1], id:40456, 524>
    <OrtGewaehlte Exekutive [KommunaleExekutive 2], id:35098, 524>
    <OrtMitglieder Mitgliedschaften [Mitglied 50], id:1541, 524>
    <OrtPraesidium Partei [Adressverwalter 1, Kassier 1, Mitglied 7, Praesident 3], id:1542, 524>
@@ -33,12 +33,14 @@
    <OrtMitglieder Mitgliedschaften [Mitglied 57], id:1547, 528>
    <OrtPraesidium Partei [Adressverwalter 1, Mitglied 2, Praesident 2], id:1548, 528>
   <Ort Sachseln [mit Flüeli Ranft], id:531, 166>
-   <OrtSympathisanten Sympathisanten [Sympathisant 1], id:40425, 531>
+   <OrtSympathisanten Sympathisanten [Sympathisant 1], id:40483, 531>
    <OrtGewaehlte Exekutive [Fraktionschef 1, KommunaleExekutive 1], id:1549, 531>
    <OrtMitglieder Mitgliedschaften [Mitglied 154], id:1550, 531>
    <OrtPraesidium Partei [Adressverwalter 1, Praesident 1], id:1551, 531>
   <Ort Sarnen [mit Ramersberg, Wilen, Stalden & Kägiswil], id:532, 166>
-   <OrtSympathisanten Sympathisanten [Sympathisant 4], id:40426, 532>
+   <OrtSympathisanten Sympathisanten [Sympathisant 4], id:40492, 532>
+   <OrtSekretariat Sekretariat [Leitung 1], id:40496, 532>
+   <OrtParteigremium Parteigremium [Mitglied 3], id:40499, 532>
    <OrtGewaehlte Exekutive [Fraktionschef 2, KommunaleExekutive 5], id:35100, 532>
    <OrtMitglieder Mitgliedschaften [Mitglied 154], id:1552, 532>
-   <OrtPraesidium Partei [Adressverwalter 6, Kassier 1, Mitglied 13, Praesident 3, tbd:Revisor 3, tbd:Sekretär 1], id:1553, 532>
+   <OrtPraesidium Partei [Adressverwalter 6, Kassier 1, Mitglied 13, Praesident 3], id:1553, 532>

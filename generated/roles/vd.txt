@@ -1,60 +1,65 @@
 <Bund CVP Schweiz, id:1, 0>
  <Kanton CVP VD, id:174, 1>
-  <KantonSympathisanten Sympathisanten [Sympathisant 222], id:40419, 174>
+  <KantonSympathisanten Sympathisanten [Sympathisant 222], id:40424, 174>
+  <KantonSekretariat Sekretariat [Leitung 3, Mitarbeiter 2], id:40429, 174>
+  <KantonArbeitsgruppe Arbeitsgruppe [Mitglied 14], id:40432, 174>
   <KantonExterneKontakte Newsletter [Kontakt 469], id:39970, 174>
   <KantonGewaehlte Legislative [KantonaleLegislative 3], id:621, 174>
   <KantonMitglieder Mitgliedschaften [Mitglied 92], id:622, 174>
-  <KantonPraesidium Partei [Praesident 7, tbd:Ansprechperson Finanzen 1, tbd:Empfänger Rechnung Jahresbeitrag CVP CH 2, tbd:Empfänger Umzugsmeldung 1, tbd:Kassier 2, tbd:Medienverteiler 12, tbd:OM Ansprechperson 2, tbd:Sekretär Kantonalpartei/Vereinigung 3], id:625, 174>
+  <KantonPraesidium Partei [Kassier 1, Mitglied 3, Praesident 7], id:625, 174>
   <Ort Aigle-Chablais, id:37857, 174>
    <OrtMitglieder Mitgliedschaften [Mitglied 10], id:37859, 37857>
    <OrtPraesidium Partei [Praesident 1], id:37858, 37857>
   <Ort Crissier, id:616, 174>
-   <OrtSympathisanten Sympathisanten [Sympathisant 4], id:40421, 616>
+   <OrtSympathisanten Sympathisanten [Sympathisant 4], id:40447, 616>
    <OrtMitglieder Mitgliedschaften [Mitglied 15], id:2080, 616>
   <Ort Echallens - Gros-de-Vaud, id:617, 174>
-   <OrtSympathisanten Sympathisanten [Sympathisant 72], id:40422, 617>
+   <OrtSympathisanten Sympathisanten [Sympathisant 72], id:40456, 617>
    <OrtMitglieder Mitgliedschaften [Mitglied 20], id:2082, 617>
    <OrtPraesidium Partei [Praesident 2], id:2083, 617>
   <Ort Jura - Nord vaudois, id:624, 174>
-   <OrtSympathisanten Sympathisanten [Sympathisant 23], id:40423, 624>
+   <OrtSympathisanten Sympathisanten [Sympathisant 23], id:40465, 624>
    <OrtMitglieder Mitgliedschaften [Mitglied 16], id:2091, 624>
    <OrtPraesidium Partei [Adressverwalter 1], id:35679, 624>
   <Ort Lausanne, id:620, 174>
-   <OrtSympathisanten Sympathisanten [Sympathisant 98], id:40424, 620>
+   <OrtSympathisanten Sympathisanten [Sympathisant 98], id:40474, 620>
    <OrtMitglieder Mitgliedschaften [Mitglied 137], id:2088, 620>
    <OrtPraesidium Partei [Adressverwalter 10, Praesident 3], id:2089, 620>
   <Ort Lavaux-Oron, id:36301, 174>
-   <OrtSympathisanten Sympathisanten [Sympathisant 24], id:40425, 36301>
+   <OrtSympathisanten Sympathisanten [Sympathisant 24], id:40483, 36301>
    <OrtMitglieder Mitgliedschaften [Mitglied 23], id:36303, 36301>
    <OrtPraesidium Partei [Adressverwalter 4, Praesident 3], id:36302, 36301>
   <Ort Morges, id:36298, 174>
-   <OrtSympathisanten Sympathisanten [Sympathisant 92], id:40426, 36298>
+   <OrtSympathisanten Sympathisanten [Sympathisant 92], id:40492, 36298>
+   <OrtSekretariat Sekretariat [Leitung 1], id:40496, 36298>
    <OrtMitglieder Mitgliedschaften [Mitglied 17], id:36300, 36298>
-   <OrtPraesidium Partei [Adressverwalter 2, Kassier 1, Mitglied 4, tbd:Sekretär 1], id:36299, 36298>
+   <OrtPraesidium Partei [Adressverwalter 2, Kassier 1, Mitglied 4], id:36299, 36298>
   <Ort Nyon Région, id:618, 174>
-   <OrtSympathisanten Sympathisanten [Sympathisant 47], id:40427, 618>
+   <OrtSympathisanten Sympathisanten [Sympathisant 47], id:40501, 618>
    <OrtMitglieder Mitgliedschaften [Mitglied 51], id:2084, 618>
    <OrtPraesidium Partei [Adressverwalter 3, Mitglied 9, Praesident 1], id:2085, 618>
   <Ort Ouest lausannois, id:36304, 174>
-   <OrtSympathisanten Sympathisanten [Sympathisant 29], id:40428, 36304>
+   <OrtSympathisanten Sympathisanten [Sympathisant 29], id:40510, 36304>
    <OrtMitglieder Mitgliedschaften [Mitglied 16], id:36306, 36304>
   <Ort Prilly, id:626, 174>
-   <OrtSympathisanten Sympathisanten [Sympathisant 7], id:40429, 626>
+   <OrtSympathisanten Sympathisanten [Sympathisant 7], id:40519, 626>
    <OrtMitglieder Mitgliedschaften [Mitglied 40], id:2092, 626>
    <OrtPraesidium Partei [Adressverwalter 2, Praesident 2], id:2093, 626>
   <Ort Villeneuve, id:628, 174>
+   <OrtSekretariat Sekretariat [Leitung 1], id:40532, 628>
    <OrtMitglieder Mitgliedschaften [Mitglied 25], id:2096, 628>
-   <OrtPraesidium Partei [Adressverwalter 1, Kassier 1, Praesident 1, tbd:Sekretär 1], id:35680, 628>
+   <OrtPraesidium Partei [Adressverwalter 1, Kassier 1, Praesident 1], id:35680, 628>
   <Region Riviera-Pays d'Enhaut, id:38911, 174>
    <Ort La Tour-de Peilz, id:38918, 38911>
     <OrtMitglieder Mitgliedschaften [Mitglied 24], id:38927, 38918>
     <OrtPraesidium Parti [Praesident 2], id:38919, 38918>
    <Ort Montreux, id:38916, 38911>
-    <OrtSympathisanten Sympathisanten [Sympathisant 3], id:40433, 38916>
+    <OrtSympathisanten Sympathisanten [Sympathisant 3], id:40552, 38916>
     <OrtMitglieder Mitgliedschaften [Mitglied 9], id:38926, 38916>
     <OrtPraesidium Parti [Praesident 1], id:38917, 38916>
-   <Ort Parti [tbd:Präsident 1], id:38912, 38911>
+   <Ort Parti, id:38912, 38911>
+    <OrtPraesidium Praesidium [Praesident 1], id:40569, 38912>
    <Ort Vevey, id:38914, 38911>
-    <OrtSympathisanten Sympathisanten [Sympathisant 7], id:40435, 38914>
+    <OrtSympathisanten Sympathisanten [Sympathisant 7], id:40570, 38914>
     <OrtMitglieder Mitgliedschaften [Mitglied 40], id:38923, 38914>
     <OrtPraesidium Parti [Praesident 2], id:38915, 38914>

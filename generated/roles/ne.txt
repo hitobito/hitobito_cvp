@@ -1,12 +1,15 @@
 <Bund CVP Schweiz, id:1, 0>
  <Kanton CVP NE, id:164, 1>
-  <KantonSympathisanten Sympathisanten [Sympathisant 518], id:40419, 164>
+  <KantonSympathisanten Sympathisanten [Sympathisant 518], id:40424, 164>
+  <KantonSekretariat Sekretariat [Leitung 2], id:40429, 164>
+  <KantonExterneKontakte ExterneKontakte [Kontakt 1, Spender 1], id:40431, 164>
+  <KantonArbeitsgruppe Arbeitsgruppe [Mitglied 2], id:40432, 164>
   <KantonArbeitsgruppe Politische Kommission [Mitglied 1], id:36337, 164>
   <KantonGewaehlte Législatif [KantonaleExekutive 4], id:39503, 164>
   <KantonMitglieder Mitgliedschaften [Mitglied 89], id:503, 164>
-  <KantonPraesidium Partei [Mitglied 11, Praesident 6, tbd:Ansprechperson Finanzen 2, tbd:Empfänger Rechnung Jahresbeitrag CVP CH 2, tbd:Gönner 1, tbd:Kassier 1, tbd:Kontakt Bundeshausfraktion 1, tbd:Sekretär Kantonalpartei/Vereinigung 2, tbd:Zuzüger 8], id:504, 164>
+  <KantonPraesidium Partei [Kassier 2, Mitglied 20, Praesident 6], id:504, 164>
   <Ort Littoral / Entre-deux-Lacs, id:37503, 164>
-   <OrtSympathisanten Sympathisanten [Sympathisant 2], id:40420, 37503>
+   <OrtSympathisanten Sympathisanten [Sympathisant 2], id:40438, 37503>
    <OrtGewaehlte Législatif / conseil général [KommunaleExekutive 3], id:39502, 37503>
    <OrtMitglieder Mitgliedschaften [Mitglied 31], id:37507, 37503>
    <OrtPraesidium Partei [Praesident 1], id:37504, 37503>

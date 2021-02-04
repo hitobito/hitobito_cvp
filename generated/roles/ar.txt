@@ -1,17 +1,19 @@
 <Bund CVP Schweiz, id:1, 0>
  <Kanton CVP AR, id:153, 1>
-  <KantonSympathisanten Sympathisanten [Sympathisant 14], id:40419, 153>
+  <KantonSympathisanten Sympathisanten [Sympathisant 14], id:40424, 153>
+  <KantonSekretariat Sekretariat [Leitung 1, Mitarbeiter 1], id:40429, 153>
+  <KantonArbeitsgruppe Arbeitsgruppe [Mitglied 2], id:40432, 153>
   <KantonExterneKontakte Newsletter [Kontakt 35], id:40274, 153>
   <KantonGewaehlte Legislative [KantonaleLegislative 1], id:358, 153>
   <KantonMitglieder Mitgliedschaften [Mitglied 65], id:359, 153>
-  <KantonPraesidium Partei [Mitglied 2, Praesident 1, tbd:Ansprechperson Finanzen 1, tbd:Empfänger Rechnung Jahresbeitrag CVP CH 2, tbd:Empfänger Umzugsmeldung 1, tbd:OM Ansprechperson 1, tbd:Sekretär Kantonalpartei/Vereinigung 1], id:360, 153>
+  <KantonPraesidium Partei [Kassier 1, Mitglied 3, Praesident 1], id:360, 153>
   <Ort Heiden, id:356, 153>
-   <OrtSympathisanten Sympathisanten [Sympathisant 1], id:40420, 356>
+   <OrtSympathisanten Sympathisanten [Sympathisant 1], id:40438, 356>
    <OrtExterneKontakte Newsletter [Kontakt 40], id:40275, 356>
    <OrtMitglieder Mitgliedschaften [Mitglied 18], id:902, 356>
    <OrtPraesidium Partei [Adressverwalter 1, Kassier 1, Mitglied 3, Praesident 2], id:903, 356>
   <Ort Herisau, id:357, 153>
-   <OrtSympathisanten Sympathisanten [Sympathisant 23], id:40421, 357>
+   <OrtSympathisanten Sympathisanten [Sympathisant 23], id:40447, 357>
    <OrtExterneKontakte Newsletter [Kontakt 89], id:40276, 357>
    <OrtGewaehlte Legislative [KommunaleExekutive 1], id:904, 357>
    <OrtMitglieder Mitgliedschaften [Mitglied 57], id:905, 357>

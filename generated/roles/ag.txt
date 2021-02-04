@@ -1,7 +1,8 @@
 <Bund CVP Schweiz, id:1, 0>
  <Kanton CVP AG, id:151, 1>
-  <KantonSympathisanten Sympathisanten [Sympathisant 64], id:40419, 151>
-  <KantonArbeitsgruppe Diverse Funktionen [Praesident 7, tbd:Agenda nicht erwünscht 178, tbd:Empfänger Rechnung Jahresbeitrag CVP CH 1, tbd:Gönner nicht erwünscht 3, tbd:Sekretär Kantonalpartei/Vereinigung 12], id:37550, 151>
+  <KantonSympathisanten Sympathisanten [Sympathisant 64], id:40424, 151>
+  <KantonSekretariat Sekretariat [Leitung 12], id:40429, 151>
+  <KantonArbeitsgruppe Diverse Funktionen [Mitglied 182, Praesident 7], id:37550, 151>
   <KantonArbeitsgruppe Fraktionsausflug [Gast 10], id:896, 151>
   <KantonArbeitsgruppe Kantonale Verwaltung, id:37541, 151>
    <KantonArbeitsgruppe BKS [Mitglied 5], id:37542, 37541>
@@ -10,22 +11,22 @@
    <KantonArbeitsgruppe DGS [Mitglied 4], id:37545, 37541>
    <KantonArbeitsgruppe DVI [Mitglied 25], id:37546, 37541>
    <KantonArbeitsgruppe Staatskanzlei [Mitglied 6], id:37547, 37541>
-  <KantonArbeitsgruppe PIZ  Mail [tbd:Empfänger 150], id:38183, 151>
-  <KantonArbeitsgruppe PIZ nicht erwünscht [tbd:Empfänger 470], id:38184, 151>
-  <KantonArbeitsgruppe Parteitag [tbd:Empfänger 15, tbd:nicht erwünscht 22], id:899, 151>
+  <KantonArbeitsgruppe PIZ  Mail [Mitglied 150], id:38183, 151>
+  <KantonArbeitsgruppe PIZ nicht erwünscht [Mitglied 470], id:38184, 151>
+  <KantonArbeitsgruppe Parteitag [Mitglied 37], id:899, 151>
   <KantonArbeitsgruppe Vereinigungen, id:900, 151>
    <KantonArbeitsgruppe CSP [Mitglied 4, Praesident 1], id:2629, 900>
    <KantonArbeitsgruppe CVP Frauen [Praesident 2], id:2630, 900>
    <KantonArbeitsgruppe JCVP [Praesident 5], id:33427, 900>
    <KantonArbeitsgruppe Senioren & Seniorinnen [Praesident 2], id:2631, 900>
-  <KantonDelegierte Delegiertenversammlung [tbd:Delegierter Bezirk 147, tbd:Delegierter Vereinigung 32], id:33531, 151>
+  <KantonDelegierte Delegiertenversammlung [Delegierte 179], id:33531, 151>
   <KantonExterneKontakte Medien [Kontakt 104], id:39372, 151>
   <KantonExterneKontakte Medienverteiler [Kontakt 346], id:39275, 151>
   <KantonExterneKontakte Newsletter [Kontakt 9452], id:39373, 151>
   <KantonGewaehlte Regierungsrat [KantonaleExekutive 3], id:347, 151>
-  <KantonGewaehlte Judikative [Staatsanwaltschaft 2, tbd:Oberrichter 10], id:348, 151>
+  <KantonGewaehlte Judikative [MitgliedKantonalesGerichtErsteInstanz 10, Staatsanwaltschaft 2], id:348, 151>
   <KantonGewaehlte Legislative [KantonaleLegislative 127], id:349, 151>
-  <KantonGewaehlte Mandate [MitgliedKantonalesGerichtErsteInstanz 18, tbd:Bankrat 2, tbd:Bundesrat 1, tbd:Bundesrichter 2, tbd:Erziehungsrat 2, tbd:Fraktionspräsident 4, tbd:Nationalrat 9, tbd:Ständerat 1, tbd:Verwaltungsrat AKB-AEW-AVA-AGVA 2], id:898, 151>
+  <KantonGewaehlte Mandate [Fraktionschef 4, MitgliedKantonalesGerichtErsteInstanz 18, WeitereMandate 6, tbd:Bundesrat 1, tbd:Bundesrichter 2, tbd:Nationalrat 9, tbd:Ständerat 1], id:898, 151>
   <KantonKommission Kommissionen, id:897, 151>
    <KantonKommission FB [Mitglied 22, Praesident 2], id:2624, 897>
    <KantonKommission GS [Mitglied 22, Praesident 1], id:2625, 897>
@@ -37,66 +38,66 @@
   <KantonParteigremium Parteivorstand [Mitglied 74], id:37548, 151>
   <KantonPraesidium Parteileitung [Mitglied 33], id:37549, 151>
   <Region Bezirk Aarau, id:336, 151>
-   <RegionSympathisanten Sympathisanten [Sympathisant 28], id:40420, 336>
+   <RegionSympathisanten Sympathisanten [Sympathisant 28], id:40438, 336>
    <RegionMitglieder Mitgliedschaften [Mitglied 249], id:753, 336>
-   <RegionPraesidium Partei [Praesident 3, tbd:Vorstandsmitglied 3, tbd:Zuzüger 6], id:755, 336>
+   <RegionPraesidium Partei [Mitglied 9, Praesident 3], id:755, 336>
    <Ort Aarau, id:748, 336>
-    <OrtSympathisanten Sympathisanten [Sympathisant 14], id:40421, 748>
+    <OrtSympathisanten Sympathisanten [Sympathisant 14], id:40444, 748>
     <OrtGewaehlte Exekutive [Fraktionschef 1, KommunaleExekutive 3], id:2404, 748>
     <OrtGewaehlte Legislative [KommunaleExekutive 6], id:2405, 748>
-    <OrtGewaehlte Mandat [Schulpflegekommission 1, tbd:Steuerkommission 1], id:39527, 748>
+    <OrtGewaehlte Mandat [MitgliedWeitereGemeindeKommissionen 1, Schulpflegekommission 1], id:39527, 748>
     <OrtMitglieder Mitgliedschaften [Mitglied 160], id:4875, 748>
     <OrtPraesidium Partei [Adressverwalter 1, Praesident 2], id:2406, 748>
    <Ort Buchs, id:749, 336>
     <OrtGewaehlte Exekutive [KommunaleExekutive 2], id:2407, 749>
     <OrtGewaehlte Legislative [KommunaleExekutive 10], id:2408, 749>
-    <OrtPraesidium Partei [tbd:Ansprechperson 1], id:2409, 749>
+    <OrtPraesidium Partei [Mitglied 1], id:2409, 749>
    <Ort Erlinsbach, id:750, 336>
     <OrtGewaehlte Exekutive [Fraktionschef 1, KommunaleExekutive 1], id:2410, 750>
-    <OrtGewaehlte Mandat [tbd:Finanzkommission 1, tbd:Steuerkommission 1], id:39551, 750>
+    <OrtGewaehlte Mandat [MitgliedWeitereGemeindeKommissionen 2], id:39551, 750>
     <OrtPraesidium Partei [Praesident 2], id:2411, 750>
    <Ort Gränichen, id:751, 336>
-    <OrtSympathisanten Sympathisanten [Sympathisant 1], id:40424, 751>
+    <OrtSympathisanten Sympathisanten [Sympathisant 1], id:40471, 751>
     <OrtGewaehlte Exekutive [KommunaleExekutive 1], id:2412, 751>
     <OrtMitglieder Mitgliedschaften [Mitglied 15], id:4893, 751>
     <OrtPraesidium Partei [Praesident 1], id:2413, 751>
    <Ort Küttigen-Rombach, id:752, 336>
     <OrtGewaehlte Mandat [Schulpflegekommission 1], id:39579, 752>
-    <OrtPraesidium Partei [Praesident 2, tbd:Ansprechperson 1], id:2414, 752>
+    <OrtPraesidium Partei [Mitglied 1, Praesident 2], id:2414, 752>
    <Ort Oberentfelden, id:754, 336>
-    <OrtGewaehlte Mandat [Schulpflegekommission 2, tbd:Finanzkommission 1, tbd:Steuerkommission 1], id:39599, 754>
-    <OrtPraesidium Partei [Praesident 2, tbd:Ansprechperson 1], id:2415, 754>
+    <OrtGewaehlte Mandat [MitgliedWeitereGemeindeKommissionen 2, Schulpflegekommission 2], id:39599, 754>
+    <OrtPraesidium Partei [Mitglied 1, Praesident 2], id:2415, 754>
   <Region Bezirk Baden, id:337, 151>
-   <RegionSympathisanten Sympathisanten [Sympathisant 53], id:40428, 337>
+   <RegionSympathisanten Sympathisanten [Sympathisant 53], id:40507, 337>
    <RegionMitglieder Mitgliedschaften [Mitglied 194], id:769, 337>
-   <RegionPraesidium Partei [Praesident 4, tbd:Zuzüger 2], id:774, 337>
+   <RegionPraesidium Partei [Mitglied 2, Praesident 4], id:774, 337>
    <Ort Baden, id:757, 337>
-    <OrtSympathisanten Sympathisanten [Sympathisant 19], id:40429, 757>
+    <OrtSympathisanten Sympathisanten [Sympathisant 19], id:40513, 757>
     <OrtGewaehlte Exekutive [Fraktionschef 2, KommunaleExekutive 4], id:2417, 757>
     <OrtGewaehlte Legislative [KommunaleExekutive 15], id:2418, 757>
-    <OrtGewaehlte Mandat [Schulpflegekommission 1, tbd:Steuerkommission 1], id:39533, 757>
+    <OrtGewaehlte Mandat [MitgliedWeitereGemeindeKommissionen 1, Schulpflegekommission 1], id:39533, 757>
     <OrtMitglieder Mitgliedschaften [Mitglied 197], id:4897, 757>
     <OrtPraesidium Partei [Adressverwalter 5, Kassier 1, Praesident 3], id:2419, 757>
    <Ort Birmenstorf, id:759, 337>
-    <OrtSympathisanten Sympathisanten [Sympathisant 4], id:40431, 759>
+    <OrtSympathisanten Sympathisanten [Sympathisant 4], id:40531, 759>
     <OrtGewaehlte Exekutive [Fraktionschef 3, KommunaleExekutive 7], id:2422, 759>
-    <OrtGewaehlte Mandat [tbd:Finanzkommission 1, tbd:Steuerkommission 1], id:39538, 759>
+    <OrtGewaehlte Mandat [MitgliedWeitereGemeindeKommissionen 2], id:39538, 759>
     <OrtMitglieder Mitgliedschaften [Mitglied 48], id:4899, 759>
     <OrtPraesidium Partei [Praesident 2], id:2423, 759>
    <Ort Ehrendingen, id:760, 337>
-    <OrtSympathisanten Sympathisanten [Sympathisant 1], id:40432, 760>
+    <OrtSympathisanten Sympathisanten [Sympathisant 1], id:40540, 760>
     <OrtGewaehlte Exekutive [Fraktionschef 2, KommunaleExekutive 5], id:2424, 760>
     <OrtGewaehlte Mandat [Schulpflegekommission 1], id:39547, 760>
     <OrtMitglieder Mitgliedschaften [Mitglied 43], id:4900, 760>
     <OrtPraesidium Partei [Praesident 3], id:2425, 760>
    <Ort Ennetbaden, id:761, 337>
-    <OrtSympathisanten Sympathisanten [Sympathisant 2], id:40433, 761>
+    <OrtSympathisanten Sympathisanten [Sympathisant 2], id:40549, 761>
     <OrtGewaehlte Exekutive [KommunaleExekutive 1], id:2426, 761>
-    <OrtGewaehlte Mandat [tbd:Finanzkommission 1, tbd:Steuerkommission 1], id:39550, 761>
+    <OrtGewaehlte Mandat [MitgliedWeitereGemeindeKommissionen 2], id:39550, 761>
     <OrtMitglieder Mitgliedschaften [Mitglied 27], id:4901, 761>
     <OrtPraesidium Partei [Adressverwalter 1, Praesident 1], id:5063, 761>
    <Ort Fislisbach, id:762, 337>
-    <OrtSympathisanten Sympathisanten [Sympathisant 5], id:40434, 762>
+    <OrtSympathisanten Sympathisanten [Sympathisant 5], id:40558, 762>
     <OrtGewaehlte Exekutive [Fraktionschef 1, KommunaleExekutive 1], id:2427, 762>
     <OrtMitglieder Mitgliedschaften [Mitglied 59], id:4902, 762>
     <OrtPraesidium Partei [Adressverwalter 1, Praesident 3], id:2428, 762>
@@ -104,8 +105,8 @@
     <OrtGewaehlte Exekutive [KommunaleExekutive 1], id:2429, 763>
    <Ort Gebenstorf, id:764, 337>
     <OrtGewaehlte Exekutive [Fraktionschef 1, KommunaleExekutive 8], id:2430, 764>
-    <OrtGewaehlte Mandat [Schulpflegekommission 1, tbd:Finanzkommission 1, tbd:Steuerkommission 1], id:39559, 764>
-    <OrtPraesidium Partei [Adressverwalter 1, Praesident 2, tbd:Ansprechperson 1], id:36374, 764>
+    <OrtGewaehlte Mandat [MitgliedWeitereGemeindeKommissionen 2, Schulpflegekommission 1], id:39559, 764>
+    <OrtPraesidium Partei [Adressverwalter 1, Mitglied 1, Praesident 2], id:36374, 764>
    <Ort Killwangen, id:765, 337>
     <OrtGewaehlte Exekutive [KommunaleExekutive 4], id:2431, 765>
     <OrtGewaehlte Mandat [Schulpflegekommission 1], id:39574, 765>
@@ -114,96 +115,96 @@
    <Ort Künten, id:766, 337>
     <OrtGewaehlte Exekutive [KommunaleExekutive 1], id:2433, 766>
    <Ort Mellingen, id:768, 337>
-    <OrtSympathisanten Sympathisanten [Sympathisant 3], id:40439, 768>
+    <OrtSympathisanten Sympathisanten [Sympathisant 3], id:40603, 768>
     <OrtGewaehlte Exekutive [KommunaleExekutive 3], id:2436, 768>
     <OrtMitglieder Mitgliedschaften [Mitglied 112], id:4908, 768>
     <OrtPraesidium Partei [Praesident 2], id:2437, 768>
    <Ort Mägenwil, id:767, 337>
     <OrtGewaehlte Exekutive [Fraktionschef 1, KommunaleExekutive 5], id:2434, 767>
-    <OrtGewaehlte Mandat [tbd:Finanzkommission 1, tbd:Steuerkommission 2], id:39586, 767>
+    <OrtGewaehlte Mandat [MitgliedWeitereGemeindeKommissionen 3], id:39586, 767>
     <OrtMitglieder Mitgliedschaften [Mitglied 25], id:4907, 767>
     <OrtPraesidium Partei [Praesident 2], id:2435, 767>
    <Ort Neuenhof, id:770, 337>
-    <OrtSympathisanten Sympathisanten [Sympathisant 1], id:40441, 770>
+    <OrtSympathisanten Sympathisanten [Sympathisant 1], id:40621, 770>
     <OrtGewaehlte Exekutive [Fraktionschef 2, KommunaleExekutive 3], id:2438, 770>
-    <OrtGewaehlte Mandat [tbd:Finanzkommission 2, tbd:Steuerkommission 1], id:39596, 770>
+    <OrtGewaehlte Mandat [MitgliedWeitereGemeindeKommissionen 3], id:39596, 770>
     <OrtMitglieder Mitgliedschaften [Mitglied 45], id:4909, 770>
     <OrtPraesidium Partei [Praesident 2], id:2439, 770>
    <Ort Niederrohrdorf, id:771, 337>
-    <OrtSympathisanten Sympathisanten [Sympathisant 5], id:40442, 771>
+    <OrtSympathisanten Sympathisanten [Sympathisant 5], id:40630, 771>
     <OrtGewaehlte Exekutive [KommunaleExekutive 5], id:2440, 771>
-    <OrtGewaehlte Mandat [Schulpflegekommission 1, tbd:Steuerkommission 1], id:39597, 771>
+    <OrtGewaehlte Mandat [MitgliedWeitereGemeindeKommissionen 1, Schulpflegekommission 1], id:39597, 771>
     <OrtMitglieder Mitgliedschaften [Mitglied 38], id:4910, 771>
     <OrtPraesidium Partei [Adressverwalter 2, Praesident 3], id:2441, 771>
    <Ort Oberrohrdorf, id:772, 337>
-    <OrtSympathisanten Sympathisanten [Sympathisant 20], id:40443, 772>
+    <OrtSympathisanten Sympathisanten [Sympathisant 20], id:40639, 772>
     <OrtGewaehlte Exekutive [Fraktionschef 2, KommunaleExekutive 5], id:2442, 772>
     <OrtGewaehlte Mandat [Schulpflegekommission 1], id:39602, 772>
     <OrtMitglieder Mitgliedschaften [Mitglied 89], id:4911, 772>
     <OrtPraesidium Partei [Adressverwalter 2, Praesident 1], id:2443, 772>
    <Ort Obersiggenthal, id:773, 337>
-    <OrtSympathisanten Sympathisanten [Sympathisant 35], id:40444, 773>
+    <OrtSympathisanten Sympathisanten [Sympathisant 35], id:40648, 773>
     <OrtGewaehlte Exekutive [Fraktionschef 2, KommunaleExekutive 5], id:2444, 773>
     <OrtGewaehlte Legislative [KommunaleExekutive 21], id:2445, 773>
-    <OrtGewaehlte Mandat [Schulpflegekommission 2, tbd:Steuerkommission 2], id:39604, 773>
+    <OrtGewaehlte Mandat [MitgliedWeitereGemeindeKommissionen 2, Schulpflegekommission 2], id:39604, 773>
     <OrtMitglieder Mitgliedschaften [Mitglied 121], id:5010, 773>
     <OrtPraesidium Partei [Praesident 3], id:2446, 773>
    <Ort Spreitenbach, id:776, 337>
-    <OrtSympathisanten Sympathisanten [Sympathisant 1], id:40446, 776>
+    <OrtSympathisanten Sympathisanten [Sympathisant 1], id:40666, 776>
     <OrtGewaehlte Exekutive [Fraktionschef 2, KommunaleExekutive 5], id:2448, 776>
-    <OrtGewaehlte Mandat [tbd:Finanzkommission 2, tbd:Steuerkommission 2], id:39621, 776>
+    <OrtGewaehlte Mandat [MitgliedWeitereGemeindeKommissionen 4], id:39621, 776>
     <OrtMitglieder Mitgliedschaften [Mitglied 56], id:4914, 776>
     <OrtPraesidium Partei [Praesident 2], id:2449, 776>
    <Ort Turgi, id:778, 337>
     <OrtGewaehlte Exekutive [KommunaleExekutive 1], id:2452, 778>
    <Ort Untersiggenthal, id:779, 337>
-    <OrtSympathisanten Sympathisanten [Sympathisant 1], id:40449, 779>
+    <OrtSympathisanten Sympathisanten [Sympathisant 1], id:40693, 779>
     <OrtGewaehlte Exekutive [Fraktionschef 1, KommunaleExekutive 4], id:2453, 779>
-    <OrtGewaehlte Mandat [Schulpflegekommission 1, tbd:Finanzkommission 1, tbd:Steuerkommission 1], id:39627, 779>
+    <OrtGewaehlte Mandat [MitgliedWeitereGemeindeKommissionen 2, Schulpflegekommission 1], id:39627, 779>
     <OrtMitglieder Mitgliedschaften [Mitglied 55], id:4917, 779>
     <OrtPraesidium Partei [Praesident 2], id:2454, 779>
    <Ort Wettingen, id:781, 337>
-    <OrtSympathisanten Sympathisanten [Sympathisant 3], id:40450, 781>
+    <OrtSympathisanten Sympathisanten [Sympathisant 3], id:40702, 781>
     <OrtGewaehlte Exekutive [Fraktionschef 3, KommunaleExekutive 4], id:2456, 781>
     <OrtGewaehlte Legislative [KommunaleExekutive 34], id:2457, 781>
-    <OrtGewaehlte Mandat [Schulpflegekommission 2, tbd:Finanzkommission 2, tbd:Steuerkommission 1], id:39632, 781>
+    <OrtGewaehlte Mandat [MitgliedWeitereGemeindeKommissionen 3, Schulpflegekommission 2], id:39632, 781>
     <OrtMitglieder Mitgliedschaften [Mitglied 171], id:4919, 781>
     <OrtPraesidium Partei [Adressverwalter 2, Praesident 4], id:2458, 781>
    <Ort Wohlenschwil, id:782, 337>
     <OrtGewaehlte Exekutive [Fraktionschef 1], id:2459, 782>
    <Ort Würenlingen, id:783, 337>
-    <OrtSympathisanten Sympathisanten [Sympathisant 64], id:40452, 783>
+    <OrtSympathisanten Sympathisanten [Sympathisant 64], id:40720, 783>
     <OrtGewaehlte Exekutive [Fraktionschef 1, KommunaleExekutive 4], id:2460, 783>
-    <OrtGewaehlte Mandat [Schulpflegekommission 1, tbd:Finanzkommission 2, tbd:Steuerkommission 2], id:39640, 783>
+    <OrtGewaehlte Mandat [MitgliedWeitereGemeindeKommissionen 4, Schulpflegekommission 1], id:39640, 783>
     <OrtMitglieder Mitgliedschaften [Mitglied 101], id:4921, 783>
     <OrtPraesidium Partei [Praesident 2], id:2461, 783>
    <Ort Würenlos, id:784, 337>
-    <OrtSympathisanten Sympathisanten [Sympathisant 7], id:40453, 784>
+    <OrtSympathisanten Sympathisanten [Sympathisant 7], id:40729, 784>
     <OrtGewaehlte Exekutive [KommunaleExekutive 3], id:2462, 784>
-    <OrtGewaehlte Mandat [tbd:Finanzkommission 1, tbd:Steuerkommission 2], id:39641, 784>
+    <OrtGewaehlte Mandat [MitgliedWeitereGemeindeKommissionen 3], id:39641, 784>
     <OrtMitglieder Mitgliedschaften [Mitglied 57], id:4922, 784>
     <OrtPraesidium Partei [Praesident 2], id:2463, 784>
   <Region Bezirk Bremgarten, id:338, 151>
-   <RegionSympathisanten Sympathisanten [Sympathisant 12], id:40454, 338>
+   <RegionSympathisanten Sympathisanten [Sympathisant 12], id:40738, 338>
    <RegionMitglieder Mitgliedschaften [Mitglied 186], id:793, 338>
-   <RegionPraesidium Partei [Praesident 5, tbd:Vorstandsmitglied 3, tbd:Zuzüger 1], id:796, 338>
+   <RegionPraesidium Partei [Mitglied 4, Praesident 5], id:796, 338>
    <Ort Berikon, id:785, 338>
-    <OrtSympathisanten Sympathisanten [Sympathisant 9], id:40455, 785>
+    <OrtSympathisanten Sympathisanten [Sympathisant 9], id:40744, 785>
     <OrtGewaehlte Exekutive [Fraktionschef 1, KommunaleExekutive 4], id:2464, 785>
-    <OrtGewaehlte Mandat [Schulpflegekommission 3, tbd:Finanzkommission 2, tbd:Steuerkommission 2], id:39536, 785>
+    <OrtGewaehlte Mandat [MitgliedWeitereGemeindeKommissionen 4, Schulpflegekommission 3], id:39536, 785>
     <OrtMitglieder Mitgliedschaften [Mitglied 41], id:4995, 785>
     <OrtPraesidium Partei [Praesident 3], id:2465, 785>
    <Ort Bremgarten, id:786, 338>
-    <OrtSympathisanten Sympathisanten [Sympathisant 14], id:40456, 786>
+    <OrtSympathisanten Sympathisanten [Sympathisant 14], id:40753, 786>
     <OrtGewaehlte Exekutive [KommunaleExekutive 5], id:2466, 786>
-    <OrtGewaehlte Mandat [Schulpflegekommission 1, tbd:Finanzkommission 3, tbd:Steuerkommission 2], id:39540, 786>
+    <OrtGewaehlte Mandat [MitgliedWeitereGemeindeKommissionen 5, Schulpflegekommission 1], id:39540, 786>
     <OrtMitglieder Mitgliedschaften [Mitglied 64], id:4996, 786>
     <OrtPraesidium Partei [Adressverwalter 4, Praesident 2], id:2467, 786>
    <Ort Dottikon, id:787, 338>
     <OrtGewaehlte Exekutive [KommunaleExekutive 2], id:2468, 787>
    <Ort Hägglingen, id:788, 338>
     <OrtGewaehlte Exekutive [Fraktionschef 1, KommunaleExekutive 5], id:2470, 788>
-    <OrtGewaehlte Mandat [Schulpflegekommission 1, tbd:Finanzkommission 2], id:39563, 788>
+    <OrtGewaehlte Mandat [MitgliedWeitereGemeindeKommissionen 2, Schulpflegekommission 1], id:39563, 788>
     <OrtMitglieder Mitgliedschaften [Mitglied 12], id:14689, 788>
     <OrtPraesidium Partei [Praesident 3], id:2471, 788>
    <Ort Islisberg, id:790, 338>
@@ -212,131 +213,131 @@
    <Ort Jonen, id:791, 338>
     <OrtGewaehlte Exekutive [Fraktionschef 1, KommunaleExekutive 3], id:2474, 791>
    <Ort Kelleramt, id:792, 338>
-    <OrtSympathisanten Sympathisanten [Sympathisant 7], id:40462, 792>
+    <OrtSympathisanten Sympathisanten [Sympathisant 7], id:40807, 792>
     <OrtMitglieder Mitgliedschaften [Mitglied 41], id:36375, 792>
     <OrtPraesidium Partei [Adressverwalter 1, Praesident 1], id:2475, 792>
    <Ort Niederwil, id:794, 338>
-    <OrtSympathisanten Sympathisanten [Sympathisant 1], id:40463, 794>
+    <OrtSympathisanten Sympathisanten [Sympathisant 1], id:40816, 794>
     <OrtGewaehlte Exekutive [Fraktionschef 2, KommunaleExekutive 5], id:2476, 794>
-    <OrtGewaehlte Mandat [Schulpflegekommission 3, tbd:Finanzkommission 1, tbd:Steuerkommission 2], id:39598, 794>
+    <OrtGewaehlte Mandat [MitgliedWeitereGemeindeKommissionen 3, Schulpflegekommission 3], id:39598, 794>
     <OrtMitglieder Mitgliedschaften [Mitglied 112], id:5002, 794>
     <OrtPraesidium Partei [Praesident 2], id:2477, 794>
    <Ort Oberlunkhofen, id:795, 338>
     <OrtGewaehlte Exekutive [Fraktionschef 2, KommunaleExekutive 5], id:2478, 795>
-    <OrtGewaehlte Mandat [tbd:Steuerkommission 1], id:39600, 795>
+    <OrtGewaehlte Mandat [MitgliedWeitereGemeindeKommissionen 1], id:39600, 795>
     <OrtMitglieder Mitgliedschaften [Mitglied 32], id:5003, 795>
     <OrtPraesidium Partei [Praesident 1], id:2479, 795>
    <Ort Rudolfstetten, id:797, 338>
-    <OrtSympathisanten Sympathisanten [Sympathisant 2], id:40465, 797>
+    <OrtSympathisanten Sympathisanten [Sympathisant 2], id:40834, 797>
     <OrtGewaehlte Exekutive [Fraktionschef 1, KommunaleExekutive 3], id:2480, 797>
     <OrtMitglieder Mitgliedschaften [Mitglied 33], id:5004, 797>
     <OrtPraesidium Partei [Praesident 3], id:2481, 797>
    <Ort Sarmenstorf, id:798, 338>
-    <OrtSympathisanten Sympathisanten [Sympathisant 1], id:40466, 798>
+    <OrtSympathisanten Sympathisanten [Sympathisant 1], id:40843, 798>
     <OrtGewaehlte Exekutive [Fraktionschef 3, KommunaleExekutive 7], id:2482, 798>
     <OrtMitglieder Mitgliedschaften [Mitglied 41], id:5005, 798>
     <OrtPraesidium Partei [Praesident 4], id:2483, 798>
    <Ort Tägerig, id:799, 338>
-    <OrtSympathisanten Sympathisanten [Sympathisant 2], id:40467, 799>
+    <OrtSympathisanten Sympathisanten [Sympathisant 2], id:40852, 799>
     <OrtGewaehlte Exekutive [KommunaleExekutive 6], id:2484, 799>
-    <OrtGewaehlte Mandat [tbd:Finanzkommission 1], id:39624, 799>
+    <OrtGewaehlte Mandat [MitgliedWeitereGemeindeKommissionen 1], id:39624, 799>
     <OrtMitglieder Mitgliedschaften [Mitglied 29], id:5006, 799>
     <OrtPraesidium Partei [Praesident 2], id:2485, 799>
    <Ort Villmergen, id:800, 338>
-    <OrtSympathisanten Sympathisanten [Sympathisant 3], id:40468, 800>
+    <OrtSympathisanten Sympathisanten [Sympathisant 3], id:40861, 800>
     <OrtGewaehlte Exekutive [Fraktionschef 1, KommunaleExekutive 3], id:2486, 800>
     <OrtGewaehlte Mandat [Schulpflegekommission 1], id:39628, 800>
     <OrtMitglieder Mitgliedschaften [Mitglied 87], id:5007, 800>
     <OrtPraesidium Partei [Praesident 3], id:2487, 800>
     <OrtPraesidium Vorstand [Mitglied 2], id:4508, 800>
    <Ort Widen, id:801, 338>
-    <OrtSympathisanten Sympathisanten [Sympathisant 4], id:40469, 801>
+    <OrtSympathisanten Sympathisanten [Sympathisant 4], id:40870, 801>
     <OrtGewaehlte Exekutive [Fraktionschef 2, KommunaleExekutive 5], id:2488, 801>
-    <OrtGewaehlte Mandat [tbd:Finanzkommission 1], id:39633, 801>
+    <OrtGewaehlte Mandat [MitgliedWeitereGemeindeKommissionen 1], id:39633, 801>
     <OrtMitglieder Mitgliedschaften [Mitglied 31], id:5008, 801>
     <OrtPraesidium Partei [Adressverwalter 2, Praesident 3], id:2489, 801>
    <Ort Wohlen, id:802, 338>
-    <OrtSympathisanten Sympathisanten [Sympathisant 65], id:40470, 802>
+    <OrtSympathisanten Sympathisanten [Sympathisant 65], id:40879, 802>
     <OrtGewaehlte Exekutive [KommunaleExekutive 6], id:2490, 802>
     <OrtGewaehlte Legislative [KommunaleExekutive 20], id:2491, 802>
-    <OrtGewaehlte Mandat [Schulpflegekommission 2, tbd:Finanzkommission 1], id:39637, 802>
+    <OrtGewaehlte Mandat [MitgliedWeitereGemeindeKommissionen 1, Schulpflegekommission 2], id:39637, 802>
     <OrtMitglieder Mitgliedschaften [Mitglied 154], id:5009, 802>
     <OrtPraesidium Partei [Adressverwalter 3, Praesident 2], id:2492, 802>
    <Ort Zufikon, id:803, 338>
-    <OrtSympathisanten Sympathisanten [Sympathisant 4], id:40471, 803>
+    <OrtSympathisanten Sympathisanten [Sympathisant 4], id:40888, 803>
     <OrtGewaehlte Exekutive [Fraktionschef 1, KommunaleExekutive 5], id:2493, 803>
     <OrtMitglieder Mitgliedschaften [Mitglied 42], id:4881, 803>
     <OrtPraesidium Partei [Praesident 2], id:2494, 803>
   <Region Bezirk Brugg, id:339, 151>
-   <RegionSympathisanten Sympathisanten [Sympathisant 41], id:40472, 339>
+   <RegionSympathisanten Sympathisanten [Sympathisant 41], id:40897, 339>
    <RegionMitglieder Mitgliedschaften [Mitglied 75], id:806, 339>
-   <RegionPraesidium Partei [Praesident 2, tbd:Zuzüger 7], id:807, 339>
+   <RegionPraesidium Partei [Mitglied 7, Praesident 2], id:807, 339>
    <Ort Brugg, id:804, 339>
-    <OrtSympathisanten Sympathisanten [Sympathisant 11], id:40473, 804>
+    <OrtSympathisanten Sympathisanten [Sympathisant 11], id:40903, 804>
     <OrtGewaehlte Exekutive [Fraktionschef 1, KommunaleExekutive 3], id:2495, 804>
     <OrtGewaehlte Legislative [KommunaleExekutive 11], id:2496, 804>
     <OrtMitglieder Mitgliedschaften [Mitglied 84], id:4925, 804>
     <OrtPraesidium Partei [Adressverwalter 1, Praesident 4], id:2497, 804>
    <Ort Hausen, id:805, 339>
-    <OrtSympathisanten Sympathisanten [Sympathisant 4], id:40474, 805>
+    <OrtSympathisanten Sympathisanten [Sympathisant 4], id:40912, 805>
     <OrtGewaehlte Exekutive [Fraktionschef 1, KommunaleExekutive 3], id:2498, 805>
     <OrtMitglieder Mitgliedschaften [Mitglied 21], id:35621, 805>
     <OrtPraesidium Partei [Adressverwalter 1, Praesident 1], id:2499, 805>
    <Ort Mönthal, id:37417, 339>
     <OrtGewaehlte Exekutive [KommunaleExekutive 1], id:37418, 37417>
    <Ort Riniken, id:808, 339>
-    <OrtSympathisanten Sympathisanten [Sympathisant 22], id:40476, 808>
+    <OrtSympathisanten Sympathisanten [Sympathisant 22], id:40930, 808>
     <OrtGewaehlte Exekutive [KommunaleExekutive 6], id:2500, 808>
     <OrtMitglieder Mitgliedschaften [Mitglied 28], id:4926, 808>
     <OrtPraesidium Partei [Praesident 1], id:2501, 808>
    <Ort Windisch, id:809, 339>
-    <OrtSympathisanten Sympathisanten [Sympathisant 3], id:40477, 809>
+    <OrtSympathisanten Sympathisanten [Sympathisant 3], id:40939, 809>
     <OrtGewaehlte Exekutive [KommunaleExekutive 2], id:2502, 809>
     <OrtGewaehlte Legislative [KommunaleExekutive 12], id:2503, 809>
-    <OrtGewaehlte Mandat [tbd:Finanzkommission 1, tbd:Steuerkommission 2], id:39634, 809>
+    <OrtGewaehlte Mandat [MitgliedWeitereGemeindeKommissionen 3], id:39634, 809>
     <OrtMitglieder Mitgliedschaften [Mitglied 47], id:4927, 809>
     <OrtPraesidium Partei [Adressverwalter 1, Praesident 1], id:2504, 809>
   <Region Bezirk Kulm, id:340, 151>
-   <RegionSympathisanten Sympathisanten [Sympathisant 13], id:40478, 340>
+   <RegionSympathisanten Sympathisanten [Sympathisant 13], id:40948, 340>
    <RegionMitglieder Mitgliedschaften [Mitglied 45], id:810, 340>
    <RegionPraesidium Partei [Praesident 1], id:811, 340>
    <Ort Schöftland, id:812, 340>
     <OrtGewaehlte Exekutive [KommunaleExekutive 1], id:2505, 812>
   <Region Bezirk Laufenburg, id:341, 151>
-   <RegionSympathisanten Sympathisanten [Sympathisant 220], id:40480, 341>
-   <RegionArbeitsgruppe Vertrauensleute [tbd:Kontakt 131], id:38542, 341>
+   <RegionSympathisanten Sympathisanten [Sympathisant 220], id:40963, 341>
+   <RegionExterneKontakte ExterneKontakte [Kontakt 131], id:40964, 341>
    <RegionMitglieder Mitgliedschaften [Mitglied 207], id:824, 341>
-   <RegionPraesidium Partei [Praesident 3, tbd:Vorstandsmitglied 8, tbd:Zuzüger 1], id:828, 341>
+   <RegionPraesidium Partei [Mitglied 9, Praesident 3], id:828, 341>
    <Ort Eiken, id:813, 341>
-    <OrtSympathisanten Sympathisanten [Sympathisant 2], id:40481, 813>
+    <OrtSympathisanten Sympathisanten [Sympathisant 2], id:40969, 813>
     <OrtGewaehlte Exekutive [KommunaleExekutive 4], id:2506, 813>
     <OrtMitglieder Mitgliedschaften [Mitglied 79], id:4929, 813>
     <OrtPraesidium Partei [Adressverwalter 1, Praesident 1], id:2507, 813>
    <Ort Frick, id:815, 341>
-    <OrtSympathisanten Sympathisanten [Sympathisant 89], id:40482, 815>
+    <OrtSympathisanten Sympathisanten [Sympathisant 89], id:40978, 815>
     <OrtGewaehlte Exekutive [Fraktionschef 1, KommunaleExekutive 4], id:2510, 815>
-    <OrtGewaehlte Mandat [Schulpflegekommission 1, tbd:Finanzkommission 1, tbd:Steuerkommission 2], id:39556, 815>
+    <OrtGewaehlte Mandat [MitgliedWeitereGemeindeKommissionen 3, Schulpflegekommission 1], id:39556, 815>
     <OrtMitglieder Mitgliedschaften [Mitglied 84], id:4931, 815>
     <OrtPraesidium Partei [Adressverwalter 3, Praesident 3], id:2511, 815>
    <Ort Gansingen, id:816, 341>
-    <OrtSympathisanten Sympathisanten [Sympathisant 43], id:40483, 816>
+    <OrtSympathisanten Sympathisanten [Sympathisant 43], id:40987, 816>
     <OrtGewaehlte Exekutive [Fraktionschef 2, KommunaleExekutive 7], id:2512, 816>
     <OrtMitglieder Mitgliedschaften [Mitglied 30], id:4932, 816>
-    <OrtPraesidium Partei [Adressverwalter 1, tbd:Ansprechperson 1], id:2513, 816>
+    <OrtPraesidium Partei [Adressverwalter 1, Mitglied 1], id:2513, 816>
    <Ort Gipf-Oberfrick, id:817, 341>
-    <OrtSympathisanten Sympathisanten [Sympathisant 74], id:40484, 817>
+    <OrtSympathisanten Sympathisanten [Sympathisant 74], id:40996, 817>
     <OrtGewaehlte Exekutive [KommunaleExekutive 1], id:2514, 817>
     <OrtMitglieder Mitgliedschaften [Mitglied 27], id:4933, 817>
     <OrtPraesidium Partei [Praesident 1], id:2515, 817>
    <Ort Hornussen, id:819, 341>
     <OrtGewaehlte Exekutive [Fraktionschef 1, KommunaleExekutive 3], id:2518, 819>
    <Ort Kaisten, id:821, 341>
-    <OrtSympathisanten Sympathisanten [Sympathisant 15], id:40486, 821>
+    <OrtSympathisanten Sympathisanten [Sympathisant 15], id:41014, 821>
     <OrtGewaehlte Exekutive [Fraktionschef 1, KommunaleExekutive 5], id:2522, 821>
     <OrtMitglieder Mitgliedschaften [Mitglied 166], id:4936, 821>
     <OrtPraesidium Partei [Adressverwalter 1, Praesident 2], id:2523, 821>
    <Ort Laufenburg, id:822, 341>
-    <OrtSympathisanten Sympathisanten [Sympathisant 37], id:40487, 822>
+    <OrtSympathisanten Sympathisanten [Sympathisant 37], id:41023, 822>
     <OrtGewaehlte Exekutive [Fraktionschef 2, KommunaleExekutive 8], id:2524, 822>
     <OrtMitglieder Mitgliedschaften [Mitglied 132], id:4937, 822>
     <OrtPraesidium Partei [Praesident 2], id:2525, 822>
@@ -347,57 +348,57 @@
    <Ort Oeschgen, id:827, 341>
     <OrtGewaehlte Exekutive [Fraktionschef 1, KommunaleExekutive 2], id:2530, 827>
    <Ort Wittnau, id:832, 341>
-    <OrtSympathisanten Sympathisanten [Sympathisant 6], id:40491, 832>
+    <OrtSympathisanten Sympathisanten [Sympathisant 6], id:41059, 832>
     <OrtGewaehlte Exekutive [Fraktionschef 1, KommunaleExekutive 5], id:2536, 832>
     <OrtMitglieder Mitgliedschaften [Mitglied 30], id:4945, 832>
     <OrtPraesidium Partei [Praesident 1], id:2537, 832>
    <Ort Wölflinswil, id:833, 341>
-    <OrtSympathisanten Sympathisanten [Sympathisant 50], id:40492, 833>
+    <OrtSympathisanten Sympathisanten [Sympathisant 50], id:41068, 833>
     <OrtGewaehlte Exekutive [KommunaleExekutive 3], id:2538, 833>
     <OrtMitglieder Mitgliedschaften [Mitglied 8], id:4946, 833>
     <OrtPraesidium Partei [Praesident 2], id:2539, 833>
    <Ort Zeihen, id:834, 341>
-    <OrtSympathisanten Sympathisanten [Sympathisant 12], id:40493, 834>
+    <OrtSympathisanten Sympathisanten [Sympathisant 12], id:41077, 834>
     <OrtGewaehlte Exekutive [KommunaleExekutive 1], id:2540, 834>
     <OrtMitglieder Mitgliedschaften [Mitglied 9], id:4947, 834>
   <Region Bezirk Lenzburg, id:342, 151>
-   <RegionSympathisanten Sympathisanten [Sympathisant 7], id:40494, 342>
+   <RegionSympathisanten Sympathisanten [Sympathisant 7], id:41086, 342>
    <RegionMitglieder Mitgliedschaften [Mitglied 94], id:837, 342>
-   <RegionPraesidium Partei [Praesident 3, tbd:Vorstandsmitglied 1, tbd:Zuzüger 3], id:839, 342>
+   <RegionPraesidium Partei [Mitglied 4, Praesident 3], id:839, 342>
    <Ort Fahrwangen, id:835, 342>
     <OrtGewaehlte Exekutive [Fraktionschef 1, KommunaleExekutive 2], id:2542, 835>
    <Ort Lenzburg, id:836, 342>
-    <OrtSympathisanten Sympathisanten [Sympathisant 18], id:40496, 836>
+    <OrtSympathisanten Sympathisanten [Sympathisant 18], id:41101, 836>
     <OrtGewaehlte Exekutive [Fraktionschef 1, KommunaleExekutive 2], id:2543, 836>
     <OrtGewaehlte Legislative [KommunaleExekutive 9], id:2544, 836>
-    <OrtGewaehlte Mandat [tbd:Steuerkommission 1], id:39583, 836>
+    <OrtGewaehlte Mandat [MitgliedWeitereGemeindeKommissionen 1], id:39583, 836>
     <OrtMitglieder Mitgliedschaften [Mitglied 86], id:4949, 836>
     <OrtPraesidium Partei [Adressverwalter 1, Praesident 4], id:2545, 836>
    <Ort Möriken-Wildegg, id:838, 342>
-    <OrtSympathisanten Sympathisanten [Sympathisant 1], id:40497, 838>
+    <OrtSympathisanten Sympathisanten [Sympathisant 1], id:41110, 838>
     <OrtGewaehlte Exekutive [Fraktionschef 1, KommunaleExekutive 2], id:2546, 838>
     <OrtMitglieder Mitgliedschaften [Mitglied 9], id:4950, 838>
     <OrtPraesidium Partei [Praesident 2], id:2547, 838>
    <Ort Rupperswil, id:39675, 342>
     <OrtGewaehlte Exekutive [KommunaleExekutive 1], id:39677, 39675>
    <Ort Seon, id:840, 342>
-    <OrtSympathisanten Sympathisanten [Sympathisant 10], id:40499, 840>
+    <OrtSympathisanten Sympathisanten [Sympathisant 10], id:41128, 840>
     <OrtGewaehlte Exekutive [KommunaleExekutive 1], id:39674, 840>
-    <OrtGewaehlte Mandat [Schulpflegekommission 1, tbd:Steuerkommission 1], id:39618, 840>
+    <OrtGewaehlte Mandat [MitgliedWeitereGemeindeKommissionen 1, Schulpflegekommission 1], id:39618, 840>
     <OrtMitglieder Mitgliedschaften [Mitglied 34], id:4951, 840>
     <OrtPraesidium Partei [Praesident 2], id:2548, 840>
   <Region Bezirk Muri, id:343, 151>
-   <RegionSympathisanten Sympathisanten [Sympathisant 59], id:40500, 343>
+   <RegionSympathisanten Sympathisanten [Sympathisant 59], id:41137, 343>
    <RegionMitglieder Mitgliedschaften [Mitglied 432], id:852, 343>
-   <RegionPraesidium Partei [Praesident 3, tbd:Vorstandsmitglied 16, tbd:Zuzüger 3], id:856, 343>
+   <RegionPraesidium Partei [Mitglied 19, Praesident 3], id:856, 343>
    <Ort Abtwil, id:841, 343>
     <OrtGewaehlte Exekutive [KommunaleExekutive 4], id:2549, 841>
    <Ort Aristau, id:842, 343>
     <OrtGewaehlte Exekutive [Fraktionschef 2, KommunaleExekutive 1], id:2550, 842>
    <Ort Auw, id:843, 343>
-    <OrtSympathisanten Sympathisanten [Sympathisant 3], id:40503, 843>
+    <OrtSympathisanten Sympathisanten [Sympathisant 3], id:41161, 843>
     <OrtGewaehlte Exekutive [Fraktionschef 4, KommunaleExekutive 9], id:2552, 843>
-    <OrtGewaehlte Mandat [tbd:Finanzkommission 1, tbd:Steuerkommission 3], id:39531, 843>
+    <OrtGewaehlte Mandat [MitgliedWeitereGemeindeKommissionen 4], id:39531, 843>
     <OrtMitglieder Mitgliedschaften [Mitglied 148], id:4954, 843>
     <OrtPraesidium Partei [Praesident 2], id:2553, 843>
    <Ort Beinwil, id:844, 343>
@@ -405,9 +406,9 @@
    <Ort Bettwil, id:846, 343>
     <OrtGewaehlte Exekutive [KommunaleExekutive 2], id:2557, 846>
    <Ort Boswil, id:847, 343>
-    <OrtSympathisanten Sympathisanten [Sympathisant 112], id:40506, 847>
+    <OrtSympathisanten Sympathisanten [Sympathisant 112], id:41188, 847>
     <OrtGewaehlte Exekutive [Fraktionschef 3, KommunaleExekutive 9], id:2559, 847>
-    <OrtGewaehlte Mandat [Schulpflegekommission 2, tbd:Finanzkommission 2, tbd:Steuerkommission 3], id:39539, 847>
+    <OrtGewaehlte Mandat [MitgliedWeitereGemeindeKommissionen 5, Schulpflegekommission 2], id:39539, 847>
     <OrtMitglieder Mitgliedschaften [Mitglied 57], id:4958, 847>
     <OrtPraesidium Partei [Adressverwalter 1, Praesident 1], id:2560, 847>
    <Ort Buttwil, id:37420, 343>
@@ -417,125 +418,125 @@
    <Ort Geltwil, id:849, 343>
     <OrtGewaehlte Exekutive [KommunaleExekutive 2], id:2563, 849>
    <Ort Merenschwand, id:851, 343>
-    <OrtSympathisanten Sympathisanten [Sympathisant 7], id:40511, 851>
+    <OrtSympathisanten Sympathisanten [Sympathisant 7], id:41233, 851>
     <OrtGewaehlte Exekutive [Fraktionschef 2, KommunaleExekutive 7], id:2565, 851>
-    <OrtGewaehlte Mandat [Schulpflegekommission 2, tbd:Finanzkommission 2, tbd:Steuerkommission 2], id:39588, 851>
+    <OrtGewaehlte Mandat [MitgliedWeitereGemeindeKommissionen 4, Schulpflegekommission 2], id:39588, 851>
     <OrtMitglieder Mitgliedschaften [Mitglied 130], id:4962, 851>
     <OrtPraesidium Partei [Adressverwalter 1, Praesident 3], id:2566, 851>
    <Ort Muri, id:854, 343>
-    <OrtSympathisanten Sympathisanten [Sympathisant 24], id:40512, 854>
+    <OrtSympathisanten Sympathisanten [Sympathisant 24], id:41242, 854>
     <OrtGewaehlte Exekutive [Fraktionschef 1, KommunaleExekutive 9], id:2569, 854>
-    <OrtGewaehlte Mandat [Schulpflegekommission 1, tbd:Finanzkommission 1, tbd:Steuerkommission 2], id:39595, 854>
+    <OrtGewaehlte Mandat [MitgliedWeitereGemeindeKommissionen 3, Schulpflegekommission 1], id:39595, 854>
     <OrtMitglieder Mitgliedschaften [Mitglied 176], id:4964, 854>
     <OrtPraesidium Partei [Praesident 2], id:2570, 854>
    <Ort Mühlau, id:853, 343>
-    <OrtSympathisanten Sympathisanten [Sympathisant 2], id:40513, 853>
+    <OrtSympathisanten Sympathisanten [Sympathisant 2], id:41251, 853>
     <OrtGewaehlte Exekutive [Fraktionschef 1, KommunaleExekutive 6], id:2567, 853>
     <OrtMitglieder Mitgliedschaften [Mitglied 40], id:4963, 853>
     <OrtPraesidium Partei [Praesident 2], id:2568, 853>
    <Ort Oberrüti, id:855, 343>
     <OrtGewaehlte Exekutive [KommunaleExekutive 4], id:2571, 855>
    <Ort Sins, id:857, 343>
-    <OrtSympathisanten Sympathisanten [Sympathisant 1], id:40516, 857>
+    <OrtSympathisanten Sympathisanten [Sympathisant 1], id:41278, 857>
     <OrtGewaehlte Exekutive [Fraktionschef 1, KommunaleExekutive 7], id:2573, 857>
-    <OrtGewaehlte Mandat [Schulpflegekommission 3, tbd:Finanzkommission 1, tbd:Steuerkommission 1], id:39620, 857>
+    <OrtGewaehlte Mandat [MitgliedWeitereGemeindeKommissionen 2, Schulpflegekommission 3], id:39620, 857>
     <OrtMitglieder Mitgliedschaften [Mitglied 247], id:4966, 857>
     <OrtPraesidium Partei [Adressverwalter 1, Praesident 3], id:2574, 857>
    <Ort Waltenschwil, id:858, 343>
-    <OrtSympathisanten Sympathisanten [Sympathisant 8], id:40517, 858>
+    <OrtSympathisanten Sympathisanten [Sympathisant 8], id:41287, 858>
     <OrtGewaehlte Exekutive [Fraktionschef 2, KommunaleExekutive 4], id:2575, 858>
     <OrtMitglieder Mitgliedschaften [Mitglied 58], id:4967, 858>
     <OrtPraesidium Partei [Praesident 1], id:2576, 858>
   <Region Bezirk Rheinfelden, id:344, 151>
-   <RegionSympathisanten Sympathisanten [Sympathisant 6], id:40518, 344>
+   <RegionSympathisanten Sympathisanten [Sympathisant 6], id:41296, 344>
    <RegionMitglieder Mitgliedschaften [Mitglied 76], id:862, 344>
-   <RegionPraesidium Partei [Praesident 2, tbd:Zuzüger 1], id:865, 344>
+   <RegionPraesidium Partei [Mitglied 1, Praesident 2], id:865, 344>
    <Ort Hellikon, id:859, 344>
-    <OrtSympathisanten Sympathisanten [Sympathisant 4], id:40519, 859>
+    <OrtSympathisanten Sympathisanten [Sympathisant 4], id:41302, 859>
     <OrtMitglieder Mitgliedschaften [Mitglied 9], id:4968, 859>
    <Ort Kaiseraugst, id:860, 344>
     <OrtGewaehlte Exekutive [Fraktionschef 1, KommunaleExekutive 2], id:2579, 860>
-    <OrtGewaehlte Mandat [tbd:Finanzkommission 1, tbd:Steuerkommission 1], id:39570, 860>
+    <OrtGewaehlte Mandat [MitgliedWeitereGemeindeKommissionen 2], id:39570, 860>
     <OrtMitglieder Mitgliedschaften [Mitglied 24], id:4969, 860>
     <OrtPraesidium Partei [Praesident 1], id:2580, 860>
    <Ort Magden, id:861, 344>
     <OrtGewaehlte Exekutive [KommunaleExekutive 2], id:2581, 861>
-    <OrtGewaehlte Mandat [tbd:Finanzkommission 1, tbd:Steuerkommission 1], id:39585, 861>
+    <OrtGewaehlte Mandat [MitgliedWeitereGemeindeKommissionen 2], id:39585, 861>
     <OrtMitglieder Mitgliedschaften [Mitglied 32], id:4970, 861>
     <OrtPraesidium Partei [Praesident 3], id:2582, 861>
    <Ort Möhlin, id:863, 344>
-    <OrtGewaehlte Mandat [tbd:Finanzkommission 1, tbd:Steuerkommission 1], id:39590, 863>
+    <OrtGewaehlte Mandat [MitgliedWeitereGemeindeKommissionen 2], id:39590, 863>
     <OrtMitglieder Mitgliedschaften [Mitglied 25], id:4971, 863>
     <OrtPraesidium Partei [Adressverwalter 1, Praesident 1], id:2584, 863>
    <Ort Obermumpf, id:864, 344>
     <OrtGewaehlte Exekutive [Fraktionschef 1, KommunaleExekutive 5], id:2585, 864>
    <Ort Rheinfelden, id:866, 344>
     <OrtGewaehlte Exekutive [KommunaleExekutive 1], id:2587, 866>
-    <OrtGewaehlte Mandat [Schulpflegekommission 2, tbd:Finanzkommission 1, tbd:Steuerkommission 1], id:39609, 866>
+    <OrtGewaehlte Mandat [MitgliedWeitereGemeindeKommissionen 2, Schulpflegekommission 2], id:39609, 866>
     <OrtMitglieder Mitgliedschaften [Mitglied 99], id:4973, 866>
     <OrtPraesidium Partei [Adressverwalter 2, Praesident 3], id:2588, 866>
    <Ort Stein, id:867, 344>
     <OrtGewaehlte Exekutive [Fraktionschef 1, KommunaleExekutive 3], id:2589, 867>
-    <OrtGewaehlte Mandat [Schulpflegekommission 1, tbd:Finanzkommission 1, tbd:Steuerkommission 1], id:39622, 867>
+    <OrtGewaehlte Mandat [MitgliedWeitereGemeindeKommissionen 2, Schulpflegekommission 1], id:39622, 867>
     <OrtMitglieder Mitgliedschaften [Mitglied 41], id:4974, 867>
     <OrtPraesidium Partei [Praesident 1], id:2590, 867>
    <Ort Wallbach, id:868, 344>
-    <OrtSympathisanten Sympathisanten [Sympathisant 2], id:40526, 868>
+    <OrtSympathisanten Sympathisanten [Sympathisant 2], id:41365, 868>
     <OrtGewaehlte Exekutive [Fraktionschef 1, KommunaleExekutive 5], id:2591, 868>
     <OrtGewaehlte Mandat [Schulpflegekommission 1], id:39629, 868>
     <OrtMitglieder Mitgliedschaften [Mitglied 21], id:4975, 868>
-    <OrtPraesidium Partei [tbd:Ansprechperson 1], id:2592, 868>
+    <OrtPraesidium Partei [Mitglied 1], id:2592, 868>
    <Ort Wegenstetten, id:869, 344>
     <OrtGewaehlte Exekutive [Fraktionschef 1, KommunaleExekutive 2], id:2593, 869>
    <Ort Zeiningen, id:870, 344>
     <OrtGewaehlte Exekutive [Fraktionschef 1, KommunaleExekutive 4], id:2594, 870>
-    <OrtGewaehlte Mandat [tbd:Steuerkommission 2], id:39643, 870>
+    <OrtGewaehlte Mandat [MitgliedWeitereGemeindeKommissionen 2], id:39643, 870>
     <OrtMitglieder Mitgliedschaften [Mitglied 41], id:4882, 870>
     <OrtPraesidium Partei [Praesident 3], id:2595, 870>
    <Ort Zuzgen, id:871, 344>
     <OrtGewaehlte Exekutive [KommunaleExekutive 1], id:2596, 871>
   <Region Bezirk Zofingen, id:345, 151>
-   <RegionSympathisanten Sympathisanten [Sympathisant 18], id:40530, 345>
+   <RegionSympathisanten Sympathisanten [Sympathisant 18], id:41401, 345>
    <RegionMitglieder Mitgliedschaften [Mitglied 44], id:873, 345>
-   <RegionPraesidium Partei [Praesident 5, tbd:Vorstandsmitglied 3, tbd:Zuzüger 2], id:874, 345>
+   <RegionPraesidium Partei [Mitglied 5, Praesident 5], id:874, 345>
    <Ort Aarburg, id:872, 345>
     <OrtGewaehlte Exekutive [Fraktionschef 1, KommunaleExekutive 1], id:37419, 872>
     <OrtMitglieder Mitgliedschaften [Mitglied 22], id:4978, 872>
     <OrtPraesidium Partei [Praesident 1], id:2597, 872>
    <Ort Oftringen-Rothrist, id:39186, 345>
-    <OrtSympathisanten Sympathisanten [Sympathisant 2], id:40532, 39186>
+    <OrtSympathisanten Sympathisanten [Sympathisant 2], id:41416, 39186>
     <OrtGewaehlte Mandat [Schulpflegekommission 1], id:39606, 39186>
     <OrtMitglieder Mitgliedschaften [Mitglied 32], id:39189, 39186>
     <OrtPraesidium Partei [Praesident 2], id:39187, 39186>
    <Ort Zofingen-Strengelbach, id:875, 345>
-    <OrtSympathisanten Sympathisanten [Sympathisant 7], id:40533, 875>
+    <OrtSympathisanten Sympathisanten [Sympathisant 7], id:41425, 875>
     <OrtGewaehlte Exekutive [Fraktionschef 1, KommunaleExekutive 3], id:37492, 875>
     <OrtGewaehlte Legislative [KommunaleExekutive 7], id:2598, 875>
-    <OrtGewaehlte Mandat [Schulpflegekommission 1, tbd:Finanzkommission 1], id:39644, 875>
+    <OrtGewaehlte Mandat [MitgliedWeitereGemeindeKommissionen 1, Schulpflegekommission 1], id:39644, 875>
     <OrtMitglieder Mitgliedschaften [Mitglied 67], id:10965, 875>
     <OrtPraesidium Partei [Adressverwalter 2, Praesident 2], id:2599, 875>
   <Region Bezirk Zurzach, id:346, 151>
-   <RegionSympathisanten Sympathisanten [Sympathisant 18], id:40534, 346>
+   <RegionSympathisanten Sympathisanten [Sympathisant 18], id:41434, 346>
    <RegionMitglieder Mitgliedschaften [Mitglied 364], id:886, 346>
-   <RegionPraesidium Partei [Praesident 3, tbd:Empfänger Umzugsmeldung 1, tbd:Vorstandsmitglied 12, tbd:Zuzüger 1], id:887, 346>
+   <RegionPraesidium Partei [Mitglied 14, Praesident 3], id:887, 346>
    <Ort Bad Zurzach, id:876, 346>
-    <OrtSympathisanten Sympathisanten [Sympathisant 14], id:40535, 876>
+    <OrtSympathisanten Sympathisanten [Sympathisant 14], id:41440, 876>
     <OrtGewaehlte Exekutive [Fraktionschef 2, KommunaleExekutive 7], id:2600, 876>
-    <OrtGewaehlte Mandat [tbd:Finanzkommission 1], id:39532, 876>
+    <OrtGewaehlte Mandat [MitgliedWeitereGemeindeKommissionen 1], id:39532, 876>
     <OrtMitglieder Mitgliedschaften [Mitglied 166], id:4979, 876>
     <OrtPraesidium Partei [Adressverwalter 2, Praesident 2], id:2601, 876>
    <Ort Böttstein/Kleindöttingen, id:881, 346>
-    <OrtSympathisanten Sympathisanten [Sympathisant 10], id:40537, 881>
+    <OrtSympathisanten Sympathisanten [Sympathisant 10], id:41458, 881>
     <OrtGewaehlte Exekutive [KommunaleExekutive 2], id:2608, 881>
-    <OrtGewaehlte Mandat [tbd:Steuerkommission 1], id:39575, 881>
+    <OrtGewaehlte Mandat [MitgliedWeitereGemeindeKommissionen 1], id:39575, 881>
     <OrtMitglieder Mitgliedschaften [Mitglied 62], id:4984, 881>
     <OrtPraesidium Partei [Adressverwalter 1, Praesident 2], id:2609, 881>
    <Ort Döttingen, id:877, 346>
     <OrtGewaehlte Exekutive [Fraktionschef 1, KommunaleExekutive 1], id:2602, 877>
    <Ort Endingen, id:878, 346>
-    <OrtSympathisanten Sympathisanten [Sympathisant 1], id:40539, 878>
+    <OrtSympathisanten Sympathisanten [Sympathisant 1], id:41476, 878>
     <OrtGewaehlte Exekutive [Fraktionschef 2, KommunaleExekutive 6], id:2604, 878>
-    <OrtGewaehlte Mandat [tbd:Finanzkommission 1], id:39549, 878>
+    <OrtGewaehlte Mandat [MitgliedWeitereGemeindeKommissionen 1], id:39549, 878>
     <OrtMitglieder Mitgliedschaften [Mitglied 44], id:4981, 878>
     <OrtPraesidium Partei [Praesident 1], id:2605, 878>
    <Ort Fisibach, id:879, 346>
@@ -543,27 +544,27 @@
    <Ort Full-Reuenthal, id:880, 346>
     <OrtGewaehlte Exekutive [Fraktionschef 1, KommunaleExekutive 2], id:2607, 880>
    <Ort Klingnau, id:38493, 346>
-    <OrtSympathisanten Sympathisanten [Sympathisant 17], id:40542, 38493>
+    <OrtSympathisanten Sympathisanten [Sympathisant 17], id:41503, 38493>
     <OrtGewaehlte Exekutive [Fraktionschef 1, KommunaleExekutive 2], id:38495, 38493>
-    <OrtGewaehlte Mandat [Schulpflegekommission 3, tbd:Finanzkommission 1], id:39576, 38493>
+    <OrtGewaehlte Mandat [MitgliedWeitereGemeindeKommissionen 1, Schulpflegekommission 3], id:39576, 38493>
     <OrtMitglieder Mitgliedschaften [Mitglied 93], id:38496, 38493>
     <OrtPraesidium Partei [Praesident 1], id:38494, 38493>
    <Ort Leibstadt, id:883, 346>
     <OrtGewaehlte Exekutive [KommunaleExekutive 3], id:2612, 883>
    <Ort Lengnau, id:884, 346>
     <OrtGewaehlte Exekutive [Fraktionschef 1, KommunaleExekutive 2], id:2613, 884>
-    <OrtGewaehlte Mandat [Schulpflegekommission 2, tbd:Finanzkommission 2], id:39582, 884>
+    <OrtGewaehlte Mandat [MitgliedWeitereGemeindeKommissionen 2, Schulpflegekommission 2], id:39582, 884>
     <OrtMitglieder Mitgliedschaften [Mitglied 43], id:4987, 884>
     <OrtPraesidium Partei [Praesident 4], id:2614, 884>
    <Ort Leuggern, id:885, 346>
-    <OrtSympathisanten Sympathisanten [Sympathisant 1], id:40546, 885>
+    <OrtSympathisanten Sympathisanten [Sympathisant 1], id:41539, 885>
     <OrtGewaehlte Exekutive [KommunaleExekutive 4], id:2615, 885>
     <OrtMitglieder Mitgliedschaften [Mitglied 63], id:36549, 885>
     <OrtPraesidium Partei [Praesident 1], id:36548, 885>
    <Ort Rekingen, id:37402, 346>
     <OrtGewaehlte Exekutive [Fraktionschef 1, KommunaleExekutive 1], id:37403, 37402>
    <Ort Rietheim, id:888, 346>
-    <OrtSympathisanten Sympathisanten [Sympathisant 2], id:40548, 888>
+    <OrtSympathisanten Sympathisanten [Sympathisant 2], id:41557, 888>
     <OrtGewaehlte Exekutive [Fraktionschef 1, KommunaleExekutive 2], id:2616, 888>
     <OrtMitglieder Mitgliedschaften [Mitglied 4], id:4989, 888>
     <OrtPraesidium Partei [Praesident 1], id:2617, 888>

@@ -1,25 +1,27 @@
 <Bund CVP Schweiz, id:1, 0>
  <Kanton CVP UR, id:173, 1>
-  <KantonSympathisanten Sympathisanten [Sympathisant 14], id:40419, 173>
-  <KantonArbeitsgruppe Nationale Funktionen [Praesident 2, tbd:Ansprechperson Finanzen 1, tbd:Empfänger Rechnung Jahresbeitrag CVP CH 1, tbd:OM Ansprechperson 1, tbd:Sekretär Kantonalpartei/Vereinigung 1, tbd:Ständerat 1], id:38864, 173>
-  <KantonArbeitsgruppe Parteitag [tbd:Einladung 20], id:2077, 173>
-  <KantonDelegierte DV [tbd:Einladung 32], id:2074, 173>
+  <KantonSympathisanten Sympathisanten [Sympathisant 14], id:40424, 173>
+  <KantonPraesidium Praesidium [Kassier 1, Vizepraesident 1], id:40426, 173>
+  <KantonSekretariat Sekretariat [Leitung 1, Mitarbeiter 1], id:40429, 173>
+  <KantonArbeitsgruppe Arbeitsgruppe [Mitglied 32, Praesident 2], id:40432, 173>
+  <KantonArbeitsgruppe Nationale Funktionen [Mitglied 1, Praesident 2, tbd:Ständerat 1], id:38864, 173>
+  <KantonArbeitsgruppe Parteitag [Mitglied 20], id:2077, 173>
+  <KantonDelegierte DV, id:2074, 173>
    <KantonDelegierte Von Amtes wegen [Delegierte 27], id:34921, 2074>
-  <KantonGewaehlte Regierungsrat [KantonaleExekutive 7, tbd:Kanzleidirektor 1], id:611, 173>
+  <KantonGewaehlte Regierungsrat [KantonaleExekutive 7, WeitereMandate 1], id:611, 173>
   <KantonGewaehlte Judikative, id:612, 173>
-   <KantonGewaehlte Landgericht Uri [tbd:Präsident 1, tbd:Richter 3], id:34905, 612>
-   <KantonGewaehlte Landgericht Ursern [tbd:Richter 1], id:34906, 612>
-   <KantonGewaehlte Obergericht [tbd:Präsident 1, tbd:Richter 3, tbd:Vizepräsident 1], id:34904, 612>
+   <KantonGewaehlte Landgericht Uri [MitgliedKantonalesGerichtErsteInstanz 3], id:34905, 612>
+   <KantonGewaehlte Landgericht Ursern [MitgliedKantonalesGerichtErsteInstanz 1], id:34906, 612>
+   <KantonGewaehlte Obergericht [MitgliedKantonalesGerichtErsteInstanz 3], id:34904, 612>
   <KantonGewaehlte Legislative [KantonaleLegislative 32], id:613, 173>
   <KantonMitglieder Mitgliedschaften [Mitglied 159], id:614, 173>
   <KantonParteigremium Kontrollkommission [Mitglied 3], id:38863, 173>
-  <KantonPraesidium Parteivorstand [Mitglied 4, Praesident 1, tbd:Kassier 1], id:2073, 173>
+  <KantonPraesidium Parteivorstand [Mitglied 5, Praesident 1], id:2073, 173>
   <Ort Altdorf, id:600, 173>
-   <OrtSympathisanten Sympathisanten [Sympathisant 1], id:40420, 600>
-   <OrtArbeitsgruppe Landrat [tbd:Mitglied 1], id:38798, 600>
-   <OrtArbeitsgruppe Öffentliche Ämter [tbd:Rechnungsprüfungskommission Mitgl. 2], id:35009, 600>
+   <OrtSympathisanten Sympathisanten [Sympathisant 1], id:40438, 600>
+   <OrtGewaehlte Gewaehlte [Rechnungspruefungskommission 2], id:40441, 600>
    <OrtGewaehlte Exekutive [KommunaleExekutive 3], id:35008, 600>
-   <OrtMitglieder Mitgliedschaften [Mitglied 153], id:2057, 600>
+   <OrtMitglieder Mitgliedschaften [Mitglied 154], id:2057, 600>
    <OrtPraesidium Partei [Praesident 1], id:2058, 600>
   <Ort Andermatt, id:601, 173>
    <OrtMitglieder Mitgliedschaften [Mitglied 30], id:2059, 601>
@@ -31,7 +33,7 @@
    <OrtMitglieder Mitgliedschaften [Mitglied 86], id:2061, 603>
    <OrtPraesidium Partei [Adressverwalter 1, Praesident 1], id:2062, 603>
   <Ort Erstfeld, id:604, 173>
-   <OrtSympathisanten Sympathisanten [Sympathisant 6], id:40424, 604>
+   <OrtSympathisanten Sympathisanten [Sympathisant 6], id:40474, 604>
    <OrtMitglieder Mitgliedschaften [Mitglied 84], id:2063, 604>
    <OrtPraesidium Partei [Adressverwalter 3, Praesident 2], id:2064, 604>
   <Ort Schattdorf, id:608, 173>
