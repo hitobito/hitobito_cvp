@@ -1,19 +1,23 @@
 <Bund CVP Schweiz, id:1, 0>
+ <BundArbeitsgruppe Arbeitsgruppe [Mitglied 5], id:40421, 1>
+ <BundGewaehlte Departement Bundesrat Nr. 1 [Bundesrat 5], id:14763, 1>
+ <BundGewaehlte Nationalrat [Nationalrat 138], id:14860, 1>
+ <BundGewaehlte Ständerat [Staenderat 47], id:14861, 1>
  <Kanton CVP AR, id:153, 1>
-  <KantonSympathisanten Sympathisanten [Sympathisant 14], id:40424, 153>
-  <KantonSekretariat Sekretariat [Leitung 1, Mitarbeiter 1], id:40429, 153>
-  <KantonArbeitsgruppe Arbeitsgruppe [Mitglied 2], id:40432, 153>
+  <KantonSympathisanten Sympathisanten [Sympathisant 14], id:40426, 153>
+  <KantonSekretariat Sekretariat [Leitung 1, Mitarbeiter 1], id:40431, 153>
+  <KantonArbeitsgruppe Arbeitsgruppe [Mitglied 2], id:40434, 153>
   <KantonExterneKontakte Newsletter [Kontakt 35], id:40274, 153>
   <KantonGewaehlte Legislative [KantonaleLegislative 1], id:358, 153>
   <KantonMitglieder Mitgliedschaften [Mitglied 65], id:359, 153>
   <KantonPraesidium Partei [Kassier 1, Mitglied 3, Praesident 1], id:360, 153>
   <Ort Heiden, id:356, 153>
-   <OrtSympathisanten Sympathisanten [Sympathisant 1], id:40438, 356>
+   <OrtSympathisanten Sympathisanten [Sympathisant 1], id:40440, 356>
    <OrtExterneKontakte Newsletter [Kontakt 40], id:40275, 356>
    <OrtMitglieder Mitgliedschaften [Mitglied 18], id:902, 356>
    <OrtPraesidium Partei [Adressverwalter 1, Kassier 1, Mitglied 3, Praesident 2], id:903, 356>
   <Ort Herisau, id:357, 153>
-   <OrtSympathisanten Sympathisanten [Sympathisant 23], id:40447, 357>
+   <OrtSympathisanten Sympathisanten [Sympathisant 23], id:40449, 357>
    <OrtExterneKontakte Newsletter [Kontakt 89], id:40276, 357>
    <OrtGewaehlte Legislative [KommunaleExekutive 1], id:904, 357>
    <OrtMitglieder Mitgliedschaften [Mitglied 57], id:905, 357>

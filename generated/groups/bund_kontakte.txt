@@ -1,5 +1,5 @@
 <Bund id=1, label=CVP Schweiz, parent_id=>
- <BundArbeitsgruppe id=40419, label=Arbeitsgruppe, parent_id=1>
+ <BundArbeitsgruppe id=40421, label=Arbeitsgruppe, parent_id=1>
  <BundExterneKontakte id=9, label=allgemeine Kontakte, parent_id=1>
   <BundExterneKontakte id=14621, label=Dienstleistungen (MS), parent_id=9>
   <BundExterneKontakte id=38397, label=Diverses, parent_id=9>

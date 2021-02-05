@@ -1,19 +1,23 @@
 <Bund CVP Schweiz, id:1, 0>
+ <BundArbeitsgruppe Arbeitsgruppe [Mitglied 5], id:40421, 1>
+ <BundGewaehlte Departement Bundesrat Nr. 1 [Bundesrat 5], id:14763, 1>
+ <BundGewaehlte Nationalrat [Nationalrat 139], id:14860, 1>
+ <BundGewaehlte Ständerat [Staenderat 48], id:14861, 1>
  <Kanton CVP JU, id:162, 1>
-  <KantonSympathisanten Sympathisanten [Sympathisant 1], id:40424, 162>
-  <KantonDelegierte Delegierte [Delegierte 1], id:40427, 162>
-  <KantonGewaehlte Gewaehlte [WeitereMandate 1], id:40428, 162>
-  <KantonSekretariat Sekretariat [Leitung 2, Mitarbeiter 2], id:40429, 162>
-  <KantonArbeitsgruppe Arbeitsgruppe [Mitglied 32, Praesident 1], id:40432, 162>
+  <KantonSympathisanten Sympathisanten [Sympathisant 1], id:40426, 162>
+  <KantonDelegierte Delegierte [Delegierte 1], id:40429, 162>
+  <KantonGewaehlte Gewaehlte [WeitereMandate 1], id:40430, 162>
+  <KantonSekretariat Sekretariat [Leitung 2, Mitarbeiter 2], id:40431, 162>
+  <KantonArbeitsgruppe Arbeitsgruppe [Mitglied 32, Praesident 1], id:40434, 162>
   <KantonExterneKontakte Newsletter [Kontakt 603], id:39969, 162>
   <KantonGewaehlte Regierungsrat [KantonaleExekutive 2, MitgliedKantonalesGerichtErsteInstanz 3, Staatsanwaltschaft 2], id:35530, 162>
   <KantonGewaehlte Judikative [MitgliedKantonalesGerichtErsteInstanz 4], id:488, 162>
   <KantonGewaehlte Legislative [KantonaleLegislative 47], id:489, 162>
   <KantonKommission Politikkommission [Mitglied 23, Praesident 4], id:35531, 162>
   <KantonMitglieder Mitgliedschaften [Mitglied 32], id:36340, 162>
-  <KantonPraesidium Partei [Kassier 3, Mitglied 19, Praesident 11, tbd:Nationalrat 1, tbd:Ständerat 1], id:491, 162>
+  <KantonPraesidium Partei [Kassier 3, Mitglied 19, Praesident 11], id:491, 162>
   <Region Ajoie, id:485, 162>
-   <RegionSekretariat Sekretariat [Leitung 3], id:40442, 485>
+   <RegionSekretariat Sekretariat [Leitung 3], id:40444, 485>
    <RegionPraesidium Partei [Mitglied 7, Praesident 3], id:1340, 485>
    <Ort Alle, id:1310, 485>
     <OrtGewaehlte Exekutive [Fraktionschef 2, KommunaleExekutive 8], id:35532, 1310>
@@ -38,18 +42,18 @@
     <OrtMitglieder Mitgliedschaften [Mitglied 120], id:2889, 1315>
     <OrtPraesidium Partei [Adressverwalter 3, Praesident 1], id:2890, 1315>
    <Ort Bonfol, id:1316, 485>
-    <OrtSympathisanten Sympathisanten [Sympathisant 5], id:40498, 1316>
+    <OrtSympathisanten Sympathisanten [Sympathisant 5], id:40500, 1316>
     <OrtMitglieder Mitgliedschaften [Mitglied 21], id:2891, 1316>
     <OrtPraesidium Partei [Adressverwalter 2, Praesident 1], id:2892, 1316>
    <Ort Buix, id:1318, 485>
     <OrtMitglieder Mitgliedschaften [Mitglied 66], id:2895, 1318>
    <Ort Bure, id:1319, 485>
-    <OrtSekretariat Sekretariat [Leitung 1], id:40520, 1319>
+    <OrtSekretariat Sekretariat [Leitung 1], id:40522, 1319>
     <OrtGewaehlte Exekutive [Fraktionschef 3, KommunaleExekutive 3], id:36391, 1319>
     <OrtMitglieder Mitgliedschaften [Mitglied 74], id:2897, 1319>
     <OrtPraesidium Partei [Praesident 1], id:2898, 1319>
    <Ort Clos du Doubs, id:1322, 485>
-    <OrtSekretariat Sekretariat [Leitung 1], id:40529, 1322>
+    <OrtSekretariat Sekretariat [Leitung 1], id:40531, 1322>
     <OrtGewaehlte Exekutive [Fraktionschef 1, KommunaleExekutive 5], id:36392, 1322>
     <OrtMitglieder Mitgliedschaften [Mitglied 169], id:2903, 1322>
     <OrtPraesidium Partei [Mitglied 8, Praesident 3], id:2904, 1322>
@@ -70,7 +74,7 @@
     <OrtMitglieder Mitgliedschaften [Mitglied 56], id:2911, 1326>
     <OrtPraesidium Partei [Adressverwalter 5, Praesident 2], id:2912, 1326>
    <Ort Courtedoux, id:1327, 485>
-    <OrtSympathisanten Sympathisanten [Sympathisant 1], id:40570, 1327>
+    <OrtSympathisanten Sympathisanten [Sympathisant 1], id:40572, 1327>
     <OrtMitglieder Mitgliedschaften [Mitglied 15], id:2913, 1327>
     <OrtPraesidium Partei [Adressverwalter 1], id:2914, 1327>
    <Ort Courtemaîche, id:1328, 485>
@@ -83,7 +87,7 @@
     <OrtMitglieder Mitgliedschaften [Mitglied 8], id:2920, 1331>
     <OrtPraesidium Partei [Adressverwalter 1, Mitglied 1], id:36400, 1331>
    <Ort Fontenais, id:1332, 485>
-    <OrtSekretariat Sekretariat [Leitung 1], id:40610, 1332>
+    <OrtSekretariat Sekretariat [Leitung 1], id:40612, 1332>
     <OrtGewaehlte Exekutive [Fraktionschef 2, KommunaleExekutive 3], id:36402, 1332>
     <OrtMitglieder Mitgliedschaften [Mitglied 62], id:2921, 1332>
     <OrtPraesidium Partei [Adressverwalter 4, Mitglied 3, Praesident 2], id:2922, 1332>
@@ -101,8 +105,8 @@
    <Ort Montignez, id:1338, 485>
     <OrtMitglieder Mitgliedschaften [Mitglied 17], id:2931, 1338>
    <Ort Porrentruy, id:1342, 485>
-    <OrtSympathisanten Sympathisanten [Sympathisant 3], id:40651, 1342>
-    <OrtSekretariat Sekretariat [Leitung 2], id:40655, 1342>
+    <OrtSympathisanten Sympathisanten [Sympathisant 3], id:40653, 1342>
+    <OrtSekretariat Sekretariat [Leitung 2], id:40657, 1342>
     <OrtGewaehlte Exekutive [Fraktionschef 2, KommunaleExekutive 2], id:36407, 1342>
     <OrtMitglieder Mitgliedschaften [Mitglied 426], id:2936, 1342>
     <OrtPraesidium Partei [Adressverwalter 22, Mitglied 7, Praesident 2], id:2937, 1342>
@@ -113,8 +117,8 @@
     <OrtMitglieder Mitgliedschaften [Mitglied 24], id:2945, 1347>
     <OrtPraesidium Partei [Praesident 1], id:2946, 1347>
   <Region Delémont, id:486, 162>
-   <RegionSympathisanten Sympathisanten [Sympathisant 2], id:40678, 486>
-   <RegionSekretariat Sekretariat [Leitung 1], id:40682, 486>
+   <RegionSympathisanten Sympathisanten [Sympathisant 2], id:40680, 486>
+   <RegionSekretariat Sekretariat [Leitung 1], id:40684, 486>
    <RegionMitglieder Mitgliedschaften [Mitglied 3], id:1364, 486>
    <RegionPraesidium Partei [Mitglied 1, Praesident 1], id:1367, 486>
    <Ort Bassecourt, id:1348, 486>
@@ -142,7 +146,7 @@
     <OrtMitglieder Mitgliedschaften [Mitglied 46], id:2960, 1355>
     <OrtPraesidium Partei [Adressverwalter 8, Praesident 1], id:2961, 1355>
    <Ort Courroux, id:1356, 486>
-    <OrtSympathisanten Sympathisanten [Sympathisant 11], id:40756, 1356>
+    <OrtSympathisanten Sympathisanten [Sympathisant 11], id:40758, 1356>
     <OrtGewaehlte Exekutive [KommunaleExekutive 1], id:36418, 1356>
     <OrtMitglieder Mitgliedschaften [Mitglied 85], id:2962, 1356>
     <OrtPraesidium Partei [Adressverwalter 8, Praesident 1], id:2963, 1356>
@@ -151,8 +155,8 @@
     <OrtMitglieder Mitgliedschaften [Mitglied 83], id:2964, 1357>
     <OrtPraesidium Partei [Adressverwalter 4, Praesident 1], id:2965, 1357>
    <Ort Delémont, id:1358, 486>
-    <OrtSympathisanten Sympathisanten [Sympathisant 2], id:40774, 1358>
-    <OrtSekretariat Sekretariat [Leitung 1], id:40778, 1358>
+    <OrtSympathisanten Sympathisanten [Sympathisant 2], id:40776, 1358>
+    <OrtSekretariat Sekretariat [Leitung 1], id:40780, 1358>
     <OrtGewaehlte Exekutive [Fraktionschef 1, KommunaleExekutive 1], id:36420, 1358>
     <OrtMitglieder Mitgliedschaften [Mitglied 315], id:2966, 1358>
     <OrtPraesidium Partei [Adressverwalter 24, Mitglied 4, Praesident 2], id:2967, 1358>
@@ -180,7 +184,7 @@
     <OrtMitglieder Mitgliedschaften [Mitglied 14], id:2980, 1366>
     <OrtPraesidium Partei [Praesident 3], id:2981, 1366>
    <Ort Pleigne, id:1368, 486>
-    <OrtSekretariat Sekretariat [Leitung 1], id:40850, 1368>
+    <OrtSekretariat Sekretariat [Leitung 1], id:40852, 1368>
     <OrtGewaehlte Exekutive [Fraktionschef 2, KommunaleExekutive 3], id:36428, 1368>
     <OrtMitglieder Mitgliedschaften [Mitglied 36], id:2982, 1368>
     <OrtPraesidium Partei [Adressverwalter 1, Mitglied 5, Praesident 1], id:2983, 1368>
@@ -205,7 +209,7 @@
     <OrtGewaehlte Exekutive [KommunaleExekutive 1], id:36438, 1375>
     <OrtMitglieder Mitgliedschaften [Mitglied 2], id:2994, 1375>
   <Region Franches-Montagnes, id:487, 162>
-   <RegionSekretariat Sekretariat [Leitung 1], id:40931, 487>
+   <RegionSekretariat Sekretariat [Leitung 1], id:40933, 487>
    <RegionMitglieder Mitgliedschaften [Mitglied 2], id:1387, 487>
    <RegionPraesidium Partei [Mitglied 1, Praesident 4], id:1389, 487>
    <Ort La Chaux-des-Breuleux, id:1378, 487>
@@ -237,7 +241,7 @@
     <OrtGewaehlte Exekutive [KommunaleExekutive 1], id:36449, 1388>
     <OrtMitglieder Mitgliedschaften [Mitglied 39], id:3016, 1388>
    <Ort Saignelégier, id:1390, 487>
-    <OrtSekretariat Sekretariat [Leitung 2], id:41027, 1390>
+    <OrtSekretariat Sekretariat [Leitung 2], id:41029, 1390>
     <OrtGewaehlte Exekutive [KommunaleExekutive 6], id:36450, 1390>
     <OrtMitglieder Mitgliedschaften [Mitglied 192], id:3017, 1390>
     <OrtPraesidium Partei [Adressverwalter 11, Kassier 1, Mitglied 10, Praesident 3], id:3018, 1390>
@@ -248,7 +252,7 @@
     <OrtMitglieder Mitgliedschaften [Mitglied 3], id:3021, 1392>
     <OrtPraesidium Partei [Praesident 1], id:3022, 1392>
   <Region Moutier, id:39884, 162>
-   <RegionSympathisanten Sympathisanten [Sympathisant 1], id:41050, 39884>
-   <RegionSekretariat Sekretariat [Leitung 1], id:41054, 39884>
+   <RegionSympathisanten Sympathisanten [Sympathisant 1], id:41052, 39884>
+   <RegionSekretariat Sekretariat [Leitung 1], id:41056, 39884>
    <RegionMitglieder Mitgliedschaften [Mitglied 91], id:39886, 39884>
    <RegionPraesidium Partei [Mitglied 9, Praesident 1], id:39885, 39884>

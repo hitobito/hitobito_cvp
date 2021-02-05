@@ -1,11 +1,15 @@
 <Bund CVP Schweiz, id:1, 0>
+ <BundArbeitsgruppe Arbeitsgruppe [Mitglied 5], id:40421, 1>
+ <BundGewaehlte Departement Bundesrat Nr. 1 [Bundesrat 5], id:14763, 1>
+ <BundGewaehlte Nationalrat [Nationalrat 141], id:14860, 1>
+ <BundGewaehlte Ständerat [Staenderat 50], id:14861, 1>
  <Kanton CVP GR, id:161, 1>
-  <KantonSympathisanten Sympathisanten [Sympathisant 74], id:40424, 161>
-  <KantonPraesidium Praesidium [Mitglied 1, Vizepraesident 7], id:40426, 161>
-  <KantonGewaehlte Gewaehlte [MitgliedKantonalesGerichtErsteInstanz 1, WeitereMandate 5], id:40428, 161>
-  <KantonSekretariat Sekretariat [Leitung 1], id:40429, 161>
-  <KantonExterneKontakte ExterneKontakte [Kontakt 9, Spender 75], id:40431, 161>
-  <KantonArbeitsgruppe Arbeitsgruppe [Mitglied 53, Praesident 5], id:40432, 161>
+  <KantonSympathisanten Sympathisanten [Sympathisant 74], id:40426, 161>
+  <KantonPraesidium Praesidium [Mitglied 1, Vizepraesident 7], id:40428, 161>
+  <KantonGewaehlte Gewaehlte [MitgliedKantonalesGerichtErsteInstanz 1, WeitereMandate 5], id:40430, 161>
+  <KantonSekretariat Sekretariat [Leitung 1], id:40431, 161>
+  <KantonExterneKontakte ExterneKontakte [Kontakt 9, Spender 75], id:40433, 161>
+  <KantonArbeitsgruppe Arbeitsgruppe [Mitglied 53, Praesident 5], id:40434, 161>
   <KantonArbeitsgruppe Alt-Mandatsträger/-innen [Mitglied 59], id:1293, 161>
   <KantonDelegierte Delegiertenversammlung, id:35426, 161>
    <KantonDelegierte Delegierte der Regional- und Kreisparteien, id:35428, 35426>
@@ -41,9 +45,9 @@
    <KantonGewaehlte Kantonsgericht [MitgliedKantonalesGerichtErsteInstanz 1], id:1240, 455>
   <KantonGewaehlte Legislative [KantonaleLegislative 97, WeitereMandate 67], id:477, 161>
   <KantonMitglieder Mitgliedschaften [Mitglied 47], id:478, 161>
-  <KantonPraesidium Partei [Kassier 1, Mitglied 136, Praesident 55, tbd:Nationalrat 3, tbd:Ständerat 2], id:479, 161>
+  <KantonPraesidium Partei [Kassier 1, Mitglied 136, Praesident 55], id:479, 161>
   <Ort Kreispartei Chur, id:459, 161>
-   <OrtSympathisanten Sympathisanten [Sympathisant 10], id:40438, 459>
+   <OrtSympathisanten Sympathisanten [Sympathisant 10], id:40440, 459>
    <OrtGewaehlte Legislative [KommunaleExekutive 2], id:14728, 459>
    <OrtMitglieder Mitgliedschaften [Mitglied 185], id:1247, 459>
    <OrtPraesidium Partei [Adressverwalter 10, Praesident 4], id:1248, 459>
@@ -51,14 +55,14 @@
    <OrtMitglieder Mitgliedschaften [Mitglied 24], id:1249, 460>
    <OrtPraesidium Partei [Praesident 3], id:1250, 460>
   <Ort Kreispartei Davos, id:461, 161>
-   <OrtSympathisanten Sympathisanten [Sympathisant 10], id:40456, 461>
+   <OrtSympathisanten Sympathisanten [Sympathisant 10], id:40458, 461>
    <OrtMitglieder Mitgliedschaften [Mitglied 11], id:1251, 461>
    <OrtPraesidium Partei [Adressverwalter 3, Praesident 1], id:1252, 461>
   <Ort Kreispartei Ramosch, id:472, 161>
    <OrtMitglieder Mitgliedschaften [Mitglied 45], id:1282, 472>
    <OrtPraesidium Partei [Praesident 1], id:1283, 472>
   <Ort Kreispartei Schanfigg, id:475, 161>
-   <OrtSympathisanten Sympathisanten [Sympathisant 1], id:40474, 475>
+   <OrtSympathisanten Sympathisanten [Sympathisant 1], id:40476, 475>
    <OrtMitglieder Mitgliedschaften [Mitglied 25], id:1287, 475>
    <OrtPraesidium Partei [Praesident 2], id:1288, 475>
   <Ort Kreispartei Val Mustair, id:469, 161>
@@ -70,52 +74,51 @@
     <OrtMitglieder Mitgliedschaften [Mitglied 50], id:2864, 1278>
     <OrtPraesidium Partei [Praesident 3], id:2865, 1278>
    <Ort Ortspartei Zuoz, id:1279, 470>
-    <OrtSympathisanten Sympathisanten [Sympathisant 1], id:40516, 1279>
+    <OrtSympathisanten Sympathisanten [Sympathisant 1], id:40518, 1279>
   <Region Regionalpartei Albula / Surses, id:456, 161>
-   <RegionSympathisanten Sympathisanten [Sympathisant 28], id:40525, 456>
+   <RegionSympathisanten Sympathisanten [Sympathisant 28], id:40527, 456>
    <RegionMitglieder Mitgliedschaften [Mitglied 155], id:1241, 456>
    <RegionPraesidium Partei [Mitglied 8, Praesident 2], id:1242, 456>
    <Ort Kreispartei Alvaschein, id:39193, 456>
-    <OrtExterneKontakte ExterneKontakte [Kontakt 13], id:40537, 39193>
+    <OrtExterneKontakte ExterneKontakte [Kontakt 13], id:40539, 39193>
    <Ort Kreispartei Belfort, id:39192, 456>
-    <OrtExterneKontakte ExterneKontakte [Kontakt 13], id:40546, 39192>
+    <OrtExterneKontakte ExterneKontakte [Kontakt 13], id:40548, 39192>
    <Ort Kreispartei Surses, id:39191, 456>
-    <OrtExterneKontakte ExterneKontakte [Kontakt 22], id:40555, 39191>
-   <Ort Mandatsträger [tbd:Ständerat 1], id:40290, 456>
+    <OrtExterneKontakte ExterneKontakte [Kontakt 22], id:40557, 39191>
    <Ort Ortspartei Vaz/Obervaz, id:39194, 456>
-    <OrtExterneKontakte ExterneKontakte [Kontakt 54], id:40573, 39194>
+    <OrtExterneKontakte ExterneKontakte [Kontakt 54], id:40575, 39194>
   <Region Regionalpartei Imboden, id:480, 161>
-   <RegionSympathisanten Sympathisanten [Sympathisant 9], id:40576, 480>
+   <RegionSympathisanten Sympathisanten [Sympathisant 9], id:40578, 480>
    <RegionMitglieder Mitgliedschaften [Mitglied 257], id:1298, 480>
    <RegionPraesidium Partei [Mitglied 7, Praesident 2], id:1302, 480>
    <Ort Ortspartei Bonaduz, id:1299, 480>
-    <OrtSympathisanten Sympathisanten [Sympathisant 4], id:40582, 1299>
+    <OrtSympathisanten Sympathisanten [Sympathisant 4], id:40584, 1299>
     <OrtMitglieder Mitgliedschaften [Mitglied 77], id:2874, 1299>
     <OrtPraesidium Partei [Praesident 1], id:2875, 1299>
    <Ort Ortspartei Domat/Ems, id:1300, 480>
     <OrtMitglieder Mitgliedschaften [Mitglied 154], id:2876, 1300>
     <OrtPraesidium Partei [Praesident 3], id:2877, 1300>
    <Ort Ortspartei Rhäzüns, id:1301, 480>
-    <OrtParteigremium Parteigremium [Mitglied 1], id:40607, 1301>
+    <OrtParteigremium Parteigremium [Mitglied 1], id:40609, 1301>
     <OrtMitglieder Mitgliedschaften [Mitglied 16], id:2878, 1301>
     <OrtPraesidium Partei [Adressverwalter 1, Kassier 2, Praesident 3], id:2879, 1301>
   <Region Regionalpartei Landquart, id:464, 161>
-   <RegionSympathisanten Sympathisanten [Sympathisant 37], id:40609, 464>
+   <RegionSympathisanten Sympathisanten [Sympathisant 37], id:40611, 464>
    <RegionMitglieder Mitgliedschaften [Mitglied 14], id:1259, 464>
    <RegionPraesidium Partei [Mitglied 2, Praesident 2], id:1264, 464>
    <Ort Ortspartei Landquart, id:1260, 464>
     <OrtMitglieder Mitgliedschaften [Mitglied 112], id:2853, 1260>
     <OrtPraesidium Partei [Adressverwalter 3, Praesident 2], id:2854, 1260>
    <Ort Ortspartei Trimmis, id:1261, 464>
-    <OrtSympathisanten Sympathisanten [Sympathisant 8], id:40624, 1261>
+    <OrtSympathisanten Sympathisanten [Sympathisant 8], id:40626, 1261>
     <OrtMitglieder Mitgliedschaften [Mitglied 46], id:2855, 1261>
     <OrtPraesidium Partei [Praesident 3], id:2856, 1261>
    <Ort Ortspartei Untervaz, id:1262, 464>
-    <OrtSympathisanten Sympathisanten [Sympathisant 5], id:40633, 1262>
+    <OrtSympathisanten Sympathisanten [Sympathisant 5], id:40635, 1262>
     <OrtMitglieder Mitgliedschaften [Mitglied 66], id:2857, 1262>
     <OrtPraesidium Partei [Praesident 3], id:2858, 1262>
    <Ort Ortspartei Zizers, id:1263, 464>
-    <OrtSympathisanten Sympathisanten [Sympathisant 13], id:40642, 1263>
+    <OrtSympathisanten Sympathisanten [Sympathisant 13], id:40644, 1263>
     <OrtMitglieder Mitgliedschaften [Mitglied 52], id:2859, 1263>
     <OrtPraesidium Partei [Adressverwalter 1, Praesident 2], id:2860, 1263>
   <Region Regionalpartei Moesa, id:481, 161>
@@ -128,19 +131,19 @@
     <OrtMitglieder Mitgliedschaften [Mitglied 176], id:1253, 462>
     <OrtPraesidium Partei [Adressverwalter 2, Praesident 2], id:1256, 462>
    <Ort Kreispartei Ilanz/Foppa, id:466, 482>
-    <OrtSympathisanten Sympathisanten [Sympathisant 53], id:40672, 466>
+    <OrtSympathisanten Sympathisanten [Sympathisant 53], id:40674, 466>
     <OrtMitglieder Mitgliedschaften [Mitglied 172], id:1267, 466>
     <OrtPraesidium Partei [Adressverwalter 5, Praesident 4], id:1269, 466>
    <Ort Kreispartei Lugnez/Lumnezia, id:467, 482>
-    <OrtSympathisanten Sympathisanten [Sympathisant 2], id:40681, 467>
+    <OrtSympathisanten Sympathisanten [Sympathisant 2], id:40683, 467>
     <OrtMitglieder Mitgliedschaften [Mitglied 113], id:1270, 467>
     <OrtPraesidium Partei [Adressverwalter 5, Praesident 2], id:1271, 467>
   <Region Regionalpartei Valposchiavo, id:483, 161>
-   <RegionSympathisanten Sympathisanten [Sympathisant 1], id:40690, 483>
+   <RegionSympathisanten Sympathisanten [Sympathisant 1], id:40692, 483>
    <RegionMitglieder Mitgliedschaften [Mitglied 209], id:1307, 483>
    <RegionPraesidium Partei [Mitglied 1, Praesident 4], id:1308, 483>
   <Region Regionalpartei Viamala, id:476, 161>
-   <RegionSympathisanten Sympathisanten [Sympathisant 41], id:40705, 476>
+   <RegionSympathisanten Sympathisanten [Sympathisant 41], id:40707, 476>
    <RegionMitglieder Mitgliedschaften [Mitglied 185], id:1289, 476>
    <RegionPraesidium Partei [Mitglied 1, Praesident 2], id:1292, 476>
    <Ort Ortspartei Cazis, id:1290, 476>

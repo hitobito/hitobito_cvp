@@ -1,27 +1,27 @@
 <Bund CVP Schweiz, id:1, 0>
  <Vereinigung 60+, id:4, 1>
-  <VereinigungExterneKontakte ExterneKontakte [Kontakt 38], id:40428, 4>
+  <VereinigungExterneKontakte ExterneKontakte [Kontakt 38], id:40430, 4>
   <VereinigungPraesidium Vorstand [Mitglied 7, Praesident 3], id:36625, 4>
   <Kanton 60+ AG, id:36665, 4>
    <KantonMitglieder Mitgliedschaften [Mitglied 261], id:36668, 36665>
    <KantonPraesidium Vorstand [Praesident 2], id:36666, 36665>
   <Kanton 60+ BE, id:36246, 4>
-   <KantonSympathisanten Sympathisanten [Sympathisant 1], id:40457, 36246>
+   <KantonSympathisanten Sympathisanten [Sympathisant 1], id:40459, 36246>
    <KantonMitglieder Mitgliedschaften [Mitglied 106], id:36674, 36246>
    <KantonPraesidium Vorstand [Mitglied 1], id:36247, 36246>
   <Kanton 60+ BL, id:33145, 4>
-   <KantonSympathisanten Sympathisanten [Sympathisant 1], id:40471, 33145>
+   <KantonSympathisanten Sympathisanten [Sympathisant 1], id:40473, 33145>
    <KantonExterneKontakte Newsletter [Kontakt 103], id:38957, 33145>
    <KantonMitglieder Mitgliedschaften [Mitglied 126], id:36671, 33145>
   <Kanton 60+ BS, id:39134, 4>
-   <KantonSympathisanten Sympathisanten [Sympathisant 194], id:40485, 39134>
+   <KantonSympathisanten Sympathisanten [Sympathisant 194], id:40487, 39134>
    <KantonMitglieder Mitgliedschaften [Mitglied 3], id:39136, 39134>
   <Kanton 60+ FR, id:14859, 4>
    <KantonMitglieder Mitgliedschaften [Mitglied 1], id:37561, 14859>
   <Kanton 60+ GR, id:44, 4>
    <KantonMitglieder Mitgliedschaften [Mitglied 391], id:36823, 44>
   <Kanton 60+ LU, id:45, 4>
-   <KantonMitglieder Mitglieder [Mitglied 12], id:40533, 45>
+   <KantonMitglieder Mitglieder [Mitglied 12], id:40535, 45>
    <KantonExterneKontakte Newsletter [Kontakt 679], id:38788, 45>
    <Region Wahlkreis Entlebuch, id:36819, 45>
     <RegionMitglieder Mitgliedschaften [Mitglied 12], id:36821, 36819>
@@ -30,7 +30,7 @@
    <Region Wahlkreis Luzern Land, id:37017, 45>
     <RegionMitglieder Mitgliedschaften [Mitglied 666], id:37026, 37017>
    <Region Wahlkreis Luzern Stadt, id:37019, 45>
-    <RegionSympathisanten Sympathisanten [Sympathisant 61], id:40559, 37019>
+    <RegionSympathisanten Sympathisanten [Sympathisant 61], id:40561, 37019>
     <RegionMitglieder Mitgliedschaften [Mitglied 591], id:37027, 37019>
    <Region Wahlkreis Sursee, id:37021, 45>
     <RegionMitglieder Mitgliedschaften [Mitglied 693], id:37028, 37021>
@@ -52,12 +52,12 @@
    <Region Regionalpartei Werdenberg, id:35493, 35484>
     <RegionMitglieder Mitgliedschaften [Mitglied 115], id:35507, 35493>
    <Region Regionalpartei Wil-Untertoggenburg, id:35494, 35484>
-    <RegionSympathisanten Sympathisanten [Sympathisant 4], id:40633, 35494>
+    <RegionSympathisanten Sympathisanten [Sympathisant 4], id:40635, 35494>
     <RegionMitglieder Mitgliedschaften [Mitglied 244], id:35508, 35494>
   <Kanton 60+ SO, id:36262, 4>
    <KantonMitglieder Mitgliedschaften [Mitglied 107], id:36264, 36262>
   <Kanton 60+ SZ, id:35663, 4>
-   <KantonSympathisanten Sympathisanten [Sympathisant 38], id:40653, 35663>
+   <KantonSympathisanten Sympathisanten [Sympathisant 38], id:40655, 35663>
    <KantonArbeitsgruppe Leitungsteam [Mitglied 8], id:35664, 35663>
    <KantonMitglieder Mitgliedschaften [Mitglied 376], id:36661, 35663>
   <Kanton 60+ TG, id:46, 4>
@@ -65,10 +65,10 @@
   <Kanton 60+ UR, id:39271, 4>
    <KantonMitglieder Mitgliedschaften [Mitglied 8], id:39274, 39271>
   <Kanton 60+ ZG, id:36621, 4>
-   <KantonSympathisanten Sympathisanten [Sympathisant 36], id:40695, 36621>
+   <KantonSympathisanten Sympathisanten [Sympathisant 36], id:40697, 36621>
    <KantonMitglieder Mitgliedschaften [Mitglied 156], id:36624, 36621>
   <Kanton 60+ ZH, id:38869, 4>
    <KantonMitglieder Mitgliedschaften [Mitglied 78], id:38871, 38869>
   <Kanton Weitere Funktionen, id:36626, 4>
-   <KantonParteigremium Parteigremium [Mitglied 2], id:40752, 36626>
-   <KantonSekretariat Sekretariat [Leitung 2, Mitarbeiter 1], id:40756, 36626>
+   <KantonParteigremium Parteigremium [Mitglied 2], id:40754, 36626>
+   <KantonSekretariat Sekretariat [Leitung 2, Mitarbeiter 1], id:40758, 36626>

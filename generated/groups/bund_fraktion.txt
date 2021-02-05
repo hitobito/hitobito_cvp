@@ -1,6 +1,6 @@
 <Bund id=1, label=CVP Schweiz, parent_id=>
- <BundArbeitsgruppe id=40419, label=Arbeitsgruppe, parent_id=1>
- <BundArbeitsgruppe id=40420, label=Kantonaler Fraktionspräsident, parent_id=1>
+ <BundArbeitsgruppe id=40421, label=Arbeitsgruppe, parent_id=1>
+ <BundArbeitsgruppe id=40422, label=Kantonaler Fraktionspräsident, parent_id=1>
  <BundArbeitsgruppe id=37, label=Anlässe, parent_id=1>
  <BundGewaehlte id=35010, label=Bundeskanzlei, parent_id=1>
  <BundGewaehlte id=14763, label=Departement Bundesrat Nr. 1, parent_id=1>

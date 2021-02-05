@@ -1,9 +1,13 @@
 <Bund id=1, label=CVP Schweiz, parent_id=>
+ <BundArbeitsgruppe id=40421, label=Arbeitsgruppe, parent_id=1>
+ <BundGewaehlte id=14763, label=Departement Bundesrat Nr. 1, parent_id=1>
+ <BundGewaehlte id=14860, label=Nationalrat, parent_id=1>
+ <BundGewaehlte id=14861, label=Ständerat, parent_id=1>
  <Kanton id=170, label=CVP SZ, parent_id=1>
-  <KantonPraesidium id=40426, label=Praesidium, parent_id=170>
-  <KantonDelegierte id=40427, label=Delegierte, parent_id=170>
-  <KantonSekretariat id=40429, label=Sekretariat, parent_id=170>
-  <KantonArbeitsgruppe id=40432, label=Arbeitsgruppe, parent_id=170>
+  <KantonPraesidium id=40428, label=Praesidium, parent_id=170>
+  <KantonDelegierte id=40429, label=Delegierte, parent_id=170>
+  <KantonSekretariat id=40431, label=Sekretariat, parent_id=170>
+  <KantonArbeitsgruppe id=40434, label=Arbeitsgruppe, parent_id=170>
   <KantonArbeitsgruppe id=36179, label=AG Wirtschaftstagung, parent_id=170>
   <KantonArbeitsgruppe id=35581, label=Bankrat, parent_id=170>
   <KantonArbeitsgruppe id=35667, label=Delegierte CVP Schweiz, parent_id=170>
@@ -33,7 +37,7 @@
   <KantonPraesidium id=1778, label=Vorstand, parent_id=170>
   <KantonPraesidium id=35668, label=Vorstand CVP Schweiz, parent_id=170>
   <Region id=560, label=Bezirk Einsiedeln, parent_id=170>
-   <RegionSympathisanten id=40438, label=Sympathisanten, parent_id=560>
+   <RegionSympathisanten id=40440, label=Sympathisanten, parent_id=560>
    <RegionGewaehlte id=35603, label=Exekutive, parent_id=560>
    <RegionGewaehlte id=35602, label=Judikative, parent_id=560>
    <RegionMitglieder id=1747, label=Mitgliedschaften, parent_id=560>
@@ -47,26 +51,26 @@
    <RegionGewaehlte id=35626, label=Judikative, parent_id=563>
    <RegionPraesidium id=35624, label=Partei, parent_id=563>
    <Ort id=1751, label=Feusisberg, parent_id=563>
-    <OrtSympathisanten id=40456, label=Sympathisanten, parent_id=1751>
+    <OrtSympathisanten id=40458, label=Sympathisanten, parent_id=1751>
     <OrtGewaehlte id=35627, label=Exekutive, parent_id=1751>
     <OrtMitglieder id=3596, label=Mitgliedschaften, parent_id=1751>
     <OrtPraesidium id=3597, label=Partei, parent_id=1751>
    <Ort id=1752, label=Freienbach, parent_id=563>
-    <OrtSympathisanten id=40465, label=Sympathisanten, parent_id=1752>
-    <OrtArbeitsgruppe id=40466, label=Arbeitsgruppe, parent_id=1752>
-    <OrtGewaehlte id=40468, label=Gewaehlte, parent_id=1752>
-    <OrtExterneKontakte id=40471, label=ExterneKontakte, parent_id=1752>
-    <OrtParteigremium id=40472, label=Parteigremium, parent_id=1752>
+    <OrtSympathisanten id=40467, label=Sympathisanten, parent_id=1752>
+    <OrtArbeitsgruppe id=40468, label=Arbeitsgruppe, parent_id=1752>
+    <OrtGewaehlte id=40470, label=Gewaehlte, parent_id=1752>
+    <OrtExterneKontakte id=40473, label=ExterneKontakte, parent_id=1752>
+    <OrtParteigremium id=40474, label=Parteigremium, parent_id=1752>
     <OrtGewaehlte id=35629, label=Exekutive, parent_id=1752>
     <OrtMitglieder id=3598, label=Mitgliedschaften, parent_id=1752>
     <OrtPraesidium id=35628, label=Partei, parent_id=1752>
    <Ort id=1753, label=Wollerau, parent_id=563>
-    <OrtSympathisanten id=40474, label=Sympathisanten, parent_id=1753>
+    <OrtSympathisanten id=40476, label=Sympathisanten, parent_id=1753>
     <OrtGewaehlte id=35630, label=Exekutive, parent_id=1753>
     <OrtMitglieder id=3599, label=Mitgliedschaften, parent_id=1753>
     <OrtPraesidium id=3600, label=Partei, parent_id=1753>
   <Region id=562, label=Bezirk Küssnacht, parent_id=170>
-   <RegionSympathisanten id=40483, label=Sympathisanten, parent_id=562>
+   <RegionSympathisanten id=40485, label=Sympathisanten, parent_id=562>
    <RegionGewaehlte id=35648, label=Exekutive, parent_id=562>
    <RegionGewaehlte id=35649, label=Judikative, parent_id=562>
    <RegionMitglieder id=35651, label=Mitgliedschaften, parent_id=562>
@@ -76,7 +80,7 @@
    <RegionGewaehlte id=35633, label=Judikative, parent_id=564>
    <RegionPraesidium id=35631, label=Partei, parent_id=564>
    <Ort id=1754, label=Altendorf, parent_id=564>
-    <OrtSympathisanten id=40495, label=Sympathisanten, parent_id=1754>
+    <OrtSympathisanten id=40497, label=Sympathisanten, parent_id=1754>
     <OrtGewaehlte id=35637, label=Exekutive, parent_id=1754>
     <OrtMitglieder id=35636, label=Mitgliedschaften, parent_id=1754>
     <OrtPraesidium id=3601, label=Partei, parent_id=1754>
@@ -85,17 +89,17 @@
     <OrtMitglieder id=3602, label=Mitgliedschaften, parent_id=1755>
     <OrtPraesidium id=3603, label=Partei, parent_id=1755>
    <Ort id=1756, label=Galgenen, parent_id=564>
-    <OrtSympathisanten id=40513, label=Sympathisanten, parent_id=1756>
+    <OrtSympathisanten id=40515, label=Sympathisanten, parent_id=1756>
     <OrtGewaehlte id=35640, label=Exekutive, parent_id=1756>
     <OrtMitglieder id=3604, label=Mitgliedschaften, parent_id=1756>
     <OrtPraesidium id=35639, label=Partei, parent_id=1756>
    <Ort id=1758, label=Lachen, parent_id=564>
-    <OrtSympathisanten id=40522, label=Sympathisanten, parent_id=1758>
+    <OrtSympathisanten id=40524, label=Sympathisanten, parent_id=1758>
     <OrtGewaehlte id=35641, label=Exekutive, parent_id=1758>
     <OrtMitglieder id=3606, label=Mitgliedschaften, parent_id=1758>
     <OrtPraesidium id=3607, label=Partei, parent_id=1758>
    <Ort id=1759, label=Reichenburg, parent_id=564>
-    <OrtSympathisanten id=40531, label=Sympathisanten, parent_id=1759>
+    <OrtSympathisanten id=40533, label=Sympathisanten, parent_id=1759>
     <OrtGewaehlte id=35643, label=Exekutive, parent_id=1759>
     <OrtMitglieder id=3608, label=Mitgliedschaften, parent_id=1759>
     <OrtPraesidium id=35642, label=Partei, parent_id=1759>
@@ -116,7 +120,7 @@
    <RegionGewaehlte id=35605, label=Judikative, parent_id=565>
    <RegionPraesidium id=1771, label=Partei, parent_id=565>
    <Ort id=1764, label=Arth-Oberarth-Goldau, parent_id=565>
-    <OrtSympathisanten id=40573, label=Sympathisanten, parent_id=1764>
+    <OrtSympathisanten id=40575, label=Sympathisanten, parent_id=1764>
     <OrtGewaehlte id=35606, label=Exekutive, parent_id=1764>
     <OrtMitglieder id=3616, label=Mitgliedschaften, parent_id=1764>
     <OrtPraesidium id=3617, label=Partei, parent_id=1764>
@@ -125,22 +129,22 @@
     <OrtMitglieder id=3618, label=Mitgliedschaften, parent_id=1765>
     <OrtPraesidium id=3619, label=Partei, parent_id=1765>
    <Ort id=1766, label=Ingenbohl, parent_id=565>
-    <OrtSympathisanten id=40591, label=Sympathisanten, parent_id=1766>
+    <OrtSympathisanten id=40593, label=Sympathisanten, parent_id=1766>
     <OrtGewaehlte id=35609, label=Exekutive, parent_id=1766>
     <OrtMitglieder id=3620, label=Mitgliedschaften, parent_id=1766>
     <OrtPraesidium id=3621, label=Partei, parent_id=1766>
    <Ort id=1767, label=Lauerz, parent_id=565>
-    <OrtSympathisanten id=40600, label=Sympathisanten, parent_id=1767>
+    <OrtSympathisanten id=40602, label=Sympathisanten, parent_id=1767>
     <OrtGewaehlte id=35610, label=Exekutive, parent_id=1767>
     <OrtMitglieder id=3622, label=Mitgliedschaften, parent_id=1767>
     <OrtPraesidium id=3623, label=Partei, parent_id=1767>
    <Ort id=1769, label=Muotathal, parent_id=565>
-    <OrtParteigremium id=40616, label=Parteigremium, parent_id=1769>
+    <OrtParteigremium id=40618, label=Parteigremium, parent_id=1769>
     <OrtGewaehlte id=35613, label=Exekutive, parent_id=1769>
     <OrtMitglieder id=3625, label=Mitgliedschaften, parent_id=1769>
     <OrtPraesidium id=3626, label=Partei, parent_id=1769>
    <Ort id=1773, label=Rothenthurm, parent_id=565>
-    <OrtSympathisanten id=40618, label=Sympathisanten, parent_id=1773>
+    <OrtSympathisanten id=40620, label=Sympathisanten, parent_id=1773>
     <OrtGewaehlte id=35614, label=Exekutive, parent_id=1773>
     <OrtMitglieder id=3629, label=Mitgliedschaften, parent_id=1773>
     <OrtPraesidium id=3630, label=Partei, parent_id=1773>
@@ -149,12 +153,12 @@
     <OrtMitglieder id=3631, label=Mitgliedschaften, parent_id=1774>
     <OrtPraesidium id=35615, label=Partei, parent_id=1774>
    <Ort id=1775, label=Schwyz, parent_id=565>
-    <OrtSympathisanten id=40636, label=Sympathisanten, parent_id=1775>
+    <OrtSympathisanten id=40638, label=Sympathisanten, parent_id=1775>
     <OrtGewaehlte id=35617, label=Exekutive, parent_id=1775>
     <OrtMitglieder id=3632, label=Mitgliedschaften, parent_id=1775>
     <OrtPraesidium id=3633, label=Partei, parent_id=1775>
    <Ort id=1776, label=Steinen, parent_id=565>
-    <OrtSympathisanten id=40645, label=Sympathisanten, parent_id=1776>
+    <OrtSympathisanten id=40647, label=Sympathisanten, parent_id=1776>
     <OrtGewaehlte id=35619, label=Exekutive, parent_id=1776>
     <OrtMitglieder id=3634, label=Mitgliedschaften, parent_id=1776>
     <OrtPraesidium id=35618, label=Partei, parent_id=1776>

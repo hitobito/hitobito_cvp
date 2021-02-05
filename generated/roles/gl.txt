@@ -1,8 +1,12 @@
 <Bund CVP Schweiz, id:1, 0>
+ <BundArbeitsgruppe Arbeitsgruppe [Mitglied 5], id:40421, 1>
+ <BundGewaehlte Departement Bundesrat Nr. 1 [Bundesrat 5], id:14763, 1>
+ <BundGewaehlte Nationalrat [Nationalrat 138], id:14860, 1>
+ <BundGewaehlte Ständerat [Staenderat 47], id:14861, 1>
  <Kanton CVP GL, id:160, 1>
-  <KantonSympathisanten Sympathisanten [Sympathisant 2], id:40424, 160>
-  <KantonSekretariat Sekretariat [Leitung 1, Mitarbeiter 2], id:40429, 160>
-  <KantonArbeitsgruppe Arbeitsgruppe [Mitglied 1], id:40432, 160>
+  <KantonSympathisanten Sympathisanten [Sympathisant 2], id:40426, 160>
+  <KantonSekretariat Sekretariat [Leitung 1, Mitarbeiter 2], id:40431, 160>
+  <KantonArbeitsgruppe Arbeitsgruppe [Mitglied 1], id:40434, 160>
   <KantonArbeitsgruppe Rechnung Sektionen [Mitglied 2], id:39450, 160>
   <KantonGewaehlte Regierungsrat [KantonaleExekutive 1], id:36706, 160>
   <KantonGewaehlte Judikative [MitgliedKantonalesGerichtErsteInstanz 6, Staatsanwaltschaft 1], id:443, 160>
@@ -10,11 +14,11 @@
   <KantonMitglieder Mitgliedschaften [Mitglied 4], id:445, 160>
   <KantonPraesidium Partei [Kassier 2, Mitglied 2, Praesident 2], id:452, 160>
   <Ort Glarus Mitte, id:14570, 160>
-   <OrtSympathisanten Sympathisanten [Sympathisant 42], id:40438, 14570>
+   <OrtSympathisanten Sympathisanten [Sympathisant 42], id:40440, 14570>
    <OrtMitglieder Mitgliedschaften [Mitglied 62], id:14579, 14570>
    <OrtPraesidium Partei [Adressverwalter 3], id:14584, 14570>
   <Ort Glarus Nord, id:14569, 160>
-   <OrtSympathisanten Sympathisanten [Sympathisant 128], id:40447, 14569>
+   <OrtSympathisanten Sympathisanten [Sympathisant 128], id:40449, 14569>
    <OrtGewaehlte Legislative [KommunaleExekutive 1], id:14585, 14569>
    <OrtMitglieder Mitgliedschaften [Mitglied 142], id:14580, 14569>
    <OrtPraesidium Partei [Adressverwalter 3, Mitglied 1], id:14583, 14569>

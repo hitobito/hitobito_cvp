@@ -1,5 +1,5 @@
 <Bund CVP Schweiz, id:1, 0>
- <BundArbeitsgruppe Arbeitsgruppe [Mitglied 1], id:40419, 1>
+ <BundArbeitsgruppe Arbeitsgruppe [Mitglied 1], id:40421, 1>
  <BundExterneKontakte allgemeine Kontakte, id:9, 1>
   <BundExterneKontakte Dienstleistungen (MS) [Kontakt 67], id:14621, 9>
   <BundExterneKontakte Diverses, id:38397, 9>

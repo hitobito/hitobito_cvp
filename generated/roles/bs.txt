@@ -1,9 +1,13 @@
 <Bund CVP Schweiz, id:1, 0>
+ <BundArbeitsgruppe Arbeitsgruppe [Mitglied 5], id:40421, 1>
+ <BundGewaehlte Departement Bundesrat Nr. 1 [Bundesrat 5], id:14763, 1>
+ <BundGewaehlte Nationalrat [Nationalrat 138], id:14860, 1>
+ <BundGewaehlte Ständerat [Staenderat 47], id:14861, 1>
  <Kanton CVP BS, id:157, 1>
-  <KantonSympathisanten Sympathisanten [Sympathisant 132], id:40424, 157>
-  <KantonPraesidium Praesidium [Kassier 1, Mitglied 5], id:40426, 157>
-  <KantonSekretariat Sekretariat [Leitung 1], id:40429, 157>
-  <KantonArbeitsgruppe Arbeitsgruppe [Praesident 4], id:40432, 157>
+  <KantonSympathisanten Sympathisanten [Sympathisant 132], id:40426, 157>
+  <KantonPraesidium Praesidium [Kassier 1, Mitglied 5], id:40428, 157>
+  <KantonSekretariat Sekretariat [Leitung 1], id:40431, 157>
+  <KantonArbeitsgruppe Arbeitsgruppe [Praesident 4], id:40434, 157>
   <KantonArbeitsgruppe Arbeitsgruppe Schule, Erziehung, Bildung (SEB) [Mitglied 18], id:1036, 157>
   <KantonArbeitsgruppe BL/BS Organisationen, id:1037, 157>
    <KantonArbeitsgruppe KAB [Mitglied 23], id:2694, 1037>
@@ -34,7 +38,7 @@
   <KantonPraesidium Parteileitung [Mitglied 15], id:1043, 157>
   <KantonSekretariat Partei [Mitarbeiter 1], id:419, 157>
   <Ort Riehen, id:420, 157>
-   <OrtSympathisanten Sympathisanten [Sympathisant 23], id:40438, 420>
+   <OrtSympathisanten Sympathisanten [Sympathisant 23], id:40440, 420>
    <OrtGewaehlte Exekutive [KommunaleExekutive 2], id:36219, 420>
    <OrtGewaehlte Legislative [KommunaleExekutive 4], id:1047, 420>
    <OrtMitglieder Mitgliedschaften [Mitglied 89], id:1048, 420>
@@ -43,16 +47,16 @@
    <RegionGewaehlte Exekutive [RegionExekutive 1], id:34891, 34890>
    <RegionGewaehlte Legislative [RegionLegislative 7], id:34892, 34890>
    <Ort Grossbasel-Ost, id:413, 34890>
-    <OrtSympathisanten Sympathisanten [Sympathisant 56], id:40453, 413>
+    <OrtSympathisanten Sympathisanten [Sympathisant 56], id:40455, 413>
     <OrtMitglieder Mitgliedschaften [Mitglied 117], id:1026, 413>
     <OrtPraesidium Partei [Adressverwalter 11, Kassier 3, Mitglied 14, Praesident 1], id:1027, 413>
    <Ort Grossbasel-West, id:414, 34890>
-    <OrtSympathisanten Sympathisanten [Sympathisant 65], id:40462, 414>
+    <OrtSympathisanten Sympathisanten [Sympathisant 65], id:40464, 414>
     <OrtMitglieder Mitgliedschaften [Mitglied 126], id:1028, 414>
     <OrtPraesidium Partei [Adressverwalter 11, Kassier 1, Mitglied 8, Praesident 1], id:1029, 414>
    <Ort Kleinbasel, id:416, 34890>
-    <OrtSympathisanten Sympathisanten [Sympathisant 32], id:40471, 416>
+    <OrtSympathisanten Sympathisanten [Sympathisant 32], id:40473, 416>
     <OrtMitglieder Mitgliedschaften [Mitglied 89], id:1034, 416>
     <OrtPraesidium Partei [Adressverwalter 6, Kassier 2, Mitglied 13, Praesident 3], id:1035, 416>
    <Ort Stiftungskommission, id:37324, 34890>
-    <OrtMitglieder Mitglieder [Mitglied 1], id:40485, 37324>
+    <OrtMitglieder Mitglieder [Mitglied 1], id:40487, 37324>

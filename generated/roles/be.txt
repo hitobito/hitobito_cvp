@@ -1,9 +1,13 @@
 <Bund CVP Schweiz, id:1, 0>
+ <BundArbeitsgruppe Arbeitsgruppe [Mitglied 5], id:40421, 1>
+ <BundGewaehlte Departement Bundesrat Nr. 1 [Bundesrat 5], id:14763, 1>
+ <BundGewaehlte Nationalrat [Nationalrat 138], id:14860, 1>
+ <BundGewaehlte Ständerat [Staenderat 47], id:14861, 1>
  <Kanton CVP BE, id:154, 1>
-  <KantonDelegierte Delegierte [Delegierte 2], id:40427, 154>
-  <KantonSekretariat Sekretariat [Leitung 7], id:40429, 154>
-  <KantonExterneKontakte ExterneKontakte [Kontakt 1], id:40431, 154>
-  <KantonArbeitsgruppe Arbeitsgruppe [Mitglied 71], id:40432, 154>
+  <KantonDelegierte Delegierte [Delegierte 2], id:40429, 154>
+  <KantonSekretariat Sekretariat [Leitung 7], id:40431, 154>
+  <KantonExterneKontakte ExterneKontakte [Kontakt 1], id:40433, 154>
+  <KantonArbeitsgruppe Arbeitsgruppe [Mitglied 71], id:40434, 154>
   <KantonArbeitsgruppe 2019 Nominationsveranstaltung [Mitglied 118], id:40185, 154>
   <KantonArbeitsgruppe Aktionen-Mitmachen, id:39959, 154>
    <KantonArbeitsgruppe Briefchäschtele [Mitglied 12], id:39962, 39959>
@@ -35,41 +39,41 @@
   <KantonGewaehlte Legislative [KantonaleLegislative 5], id:371, 154>
   <KantonPraesidium Partei [Mitglied 47, Praesident 8], id:378, 154>
   <Ort Bern (Stadt), id:361, 154>
-   <OrtSympathisanten Sympathisanten [Sympathisant 188], id:40438, 361>
-   <OrtSekretariat Sekretariat [Leitung 1], id:40442, 361>
-   <OrtExterneKontakte ExterneKontakte [Kontakt 319], id:40444, 361>
+   <OrtSympathisanten Sympathisanten [Sympathisant 188], id:40440, 361>
+   <OrtSekretariat Sekretariat [Leitung 1], id:40444, 361>
+   <OrtExterneKontakte ExterneKontakte [Kontakt 319], id:40446, 361>
    <OrtGewaehlte Exekutive [KommunaleExekutive 1], id:908, 361>
    <OrtGewaehlte Legislative [KommunaleExekutive 3], id:910, 361>
    <OrtMitglieder Mitgliedschaften [Mitglied 105], id:911, 361>
    <OrtPraesidium Partei [Adressverwalter 15, Kassier 1, Praesident 4], id:912, 361>
    <OrtPraesidium Vorstand [Mitglied 14], id:2636, 361>
   <Ort Biel, id:362, 154>
-   <OrtSympathisanten Sympathisanten [Sympathisant 12], id:40447, 362>
+   <OrtSympathisanten Sympathisanten [Sympathisant 12], id:40449, 362>
    <OrtGewaehlte Legislative [KommunaleExekutive 2], id:913, 362>
    <OrtMitglieder Mitgliedschaften [Mitglied 49], id:914, 362>
    <OrtPraesidium Partei [Adressverwalter 10], id:39471, 362>
   <Ort Bolligen-Ittingen-Ostermundigen, id:363, 154>
-   <OrtSympathisanten Sympathisanten [Sympathisant 27], id:40456, 363>
+   <OrtSympathisanten Sympathisanten [Sympathisant 27], id:40458, 363>
    <OrtMitglieder Mitgliedschaften [Mitglied 83], id:915, 363>
    <OrtPraesidium Partei [Adressverwalter 2, Kassier 1], id:916, 363>
    <OrtPraesidium Vorstand [Mitglied 3], id:2638, 363>
   <Ort Burgdorf, id:364, 154>
-   <OrtSympathisanten Sympathisanten [Sympathisant 18], id:40465, 364>
-   <OrtSekretariat Sekretariat [Leitung 1], id:40469, 364>
+   <OrtSympathisanten Sympathisanten [Sympathisant 18], id:40467, 364>
+   <OrtSekretariat Sekretariat [Leitung 1], id:40471, 364>
    <OrtMitglieder Mitgliedschaften [Mitglied 43], id:917, 364>
    <OrtPraesidium Partei [Adressverwalter 2, Kassier 1, Praesident 2], id:918, 364>
   <Ort Köniz [betreut durch Kehrsatz], id:369, 154>
-   <OrtSympathisanten Sympathisanten [Sympathisant 112], id:40474, 369>
-   <OrtArbeitsgruppe Arbeitsgruppe [Mitglied 1], id:40475, 369>
+   <OrtSympathisanten Sympathisanten [Sympathisant 112], id:40476, 369>
+   <OrtArbeitsgruppe Arbeitsgruppe [Mitglied 1], id:40477, 369>
    <OrtGewaehlte Legislative [KommunaleExekutive 1], id:922, 369>
    <OrtMitglieder Mitgliedschaften [Mitglied 46], id:923, 369>
    <OrtPraesidium Partei [Adressverwalter 2, Mitglied 1, Praesident 1], id:924, 369>
   <Ort Muri, id:376, 154>
-   <OrtSympathisanten Sympathisanten [Sympathisant 15], id:40492, 376>
+   <OrtSympathisanten Sympathisanten [Sympathisant 15], id:40494, 376>
    <OrtMitglieder Mitgliedschaften [Mitglied 1], id:933, 376>
   <Ort Thun, id:380, 154>
-   <OrtSympathisanten Sympathisanten [Sympathisant 99], id:40510, 380>
-   <OrtSekretariat Sekretariat [Leitung 1], id:40514, 380>
+   <OrtSympathisanten Sympathisanten [Sympathisant 99], id:40512, 380>
+   <OrtSekretariat Sekretariat [Leitung 1], id:40516, 380>
    <OrtGewaehlte Exekutive [KommunaleExekutive 1], id:38197, 380>
    <OrtMitglieder Mitgliedschaften [Mitglied 52], id:942, 380>
    <OrtPraesidium Vorstand [Adressverwalter 4, Kassier 1, Mitglied 4, Praesident 4], id:2644, 380>

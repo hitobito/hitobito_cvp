@@ -1,7 +1,11 @@
 <Bund CVP Schweiz, id:1, 0>
+ <BundArbeitsgruppe Arbeitsgruppe [Mitglied 5], id:40421, 1>
+ <BundGewaehlte Departement Bundesrat Nr. 1 [Bundesrat 5], id:14763, 1>
+ <BundGewaehlte Nationalrat [Nationalrat 138], id:14860, 1>
+ <BundGewaehlte Ständerat [Staenderat 47], id:14861, 1>
  <Kanton CVP BE Jura Sud, id:155, 1>
-  <KantonSympathisanten Sympathisanten [Sympathisant 6], id:40424, 155>
-  <KantonSekretariat Sekretariat [Leitung 1], id:40429, 155>
-  <KantonArbeitsgruppe Arbeitsgruppe [Mitglied 2], id:40432, 155>
+  <KantonSympathisanten Sympathisanten [Sympathisant 6], id:40426, 155>
+  <KantonSekretariat Sekretariat [Leitung 1], id:40431, 155>
+  <KantonArbeitsgruppe Arbeitsgruppe [Mitglied 2], id:40434, 155>
   <KantonMitglieder Mitgliedschaften [Mitglied 20], id:383, 155>
   <KantonPraesidium Partei [Kassier 2, Mitglied 7, Praesident 3], id:384, 155>

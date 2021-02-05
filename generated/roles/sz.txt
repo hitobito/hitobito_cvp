@@ -1,9 +1,13 @@
 <Bund CVP Schweiz, id:1, 0>
+ <BundArbeitsgruppe Arbeitsgruppe [Mitglied 5], id:40421, 1>
+ <BundGewaehlte Departement Bundesrat Nr. 1 [Bundesrat 5], id:14763, 1>
+ <BundGewaehlte Nationalrat [Nationalrat 138], id:14860, 1>
+ <BundGewaehlte Ständerat [Staenderat 47], id:14861, 1>
  <Kanton CVP SZ, id:170, 1>
-  <KantonPraesidium Praesidium [Vizepraesident 3], id:40426, 170>
-  <KantonDelegierte Delegierte [Delegierte 222], id:40427, 170>
-  <KantonSekretariat Sekretariat [Leitung 1, Mitarbeiter 3], id:40429, 170>
-  <KantonArbeitsgruppe Arbeitsgruppe [Mitglied 55], id:40432, 170>
+  <KantonPraesidium Praesidium [Vizepraesident 3], id:40428, 170>
+  <KantonDelegierte Delegierte [Delegierte 222], id:40429, 170>
+  <KantonSekretariat Sekretariat [Leitung 1, Mitarbeiter 3], id:40431, 170>
+  <KantonArbeitsgruppe Arbeitsgruppe [Mitglied 55], id:40434, 170>
   <KantonArbeitsgruppe AG Wirtschaftstagung [Mitglied 6], id:36179, 170>
   <KantonArbeitsgruppe Bankrat [Mitglied 5], id:35581, 170>
   <KantonArbeitsgruppe Delegierte CVP Schweiz [Mitglied 14], id:35667, 170>
@@ -33,7 +37,7 @@
   <KantonPraesidium Vorstand [Mitglied 21], id:1778, 170>
   <KantonPraesidium Vorstand CVP Schweiz [Mitglied 4], id:35668, 170>
   <Region Bezirk Einsiedeln, id:560, 170>
-   <RegionSympathisanten Sympathisanten [Sympathisant 4], id:40438, 560>
+   <RegionSympathisanten Sympathisanten [Sympathisant 4], id:40440, 560>
    <RegionGewaehlte Exekutive [RegionExekutive 2], id:35603, 560>
    <RegionGewaehlte Judikative [RegionJudikative 4], id:35602, 560>
    <RegionMitglieder Mitgliedschaften [Mitglied 170], id:1747, 560>
@@ -47,26 +51,26 @@
    <RegionGewaehlte Judikative [RegionJudikative 1], id:35626, 563>
    <RegionPraesidium Partei [Praesident 1], id:35624, 563>
    <Ort Feusisberg, id:1751, 563>
-    <OrtSympathisanten Sympathisanten [Sympathisant 5], id:40456, 1751>
+    <OrtSympathisanten Sympathisanten [Sympathisant 5], id:40458, 1751>
     <OrtGewaehlte Exekutive [KommunaleExekutive 2], id:35627, 1751>
     <OrtMitglieder Mitgliedschaften [Mitglied 36], id:3596, 1751>
     <OrtPraesidium Partei [Adressverwalter 1, Mitglied 7, Praesident 3], id:3597, 1751>
    <Ort Freienbach, id:1752, 563>
-    <OrtSympathisanten Sympathisanten [Sympathisant 253], id:40465, 1752>
-    <OrtArbeitsgruppe Arbeitsgruppe [Mitglied 1], id:40466, 1752>
-    <OrtGewaehlte Gewaehlte [MitgliedWeitereGemeindeKommissionen 15, Rechnungspruefungskommission 2, Schulpflegekommission 2], id:40468, 1752>
-    <OrtExterneKontakte ExterneKontakte [Kontakt 153], id:40471, 1752>
-    <OrtParteigremium Parteigremium [Mitglied 15], id:40472, 1752>
+    <OrtSympathisanten Sympathisanten [Sympathisant 253], id:40467, 1752>
+    <OrtArbeitsgruppe Arbeitsgruppe [Mitglied 1], id:40468, 1752>
+    <OrtGewaehlte Gewaehlte [MitgliedWeitereGemeindeKommissionen 15, Rechnungspruefungskommission 2, Schulpflegekommission 2], id:40470, 1752>
+    <OrtExterneKontakte ExterneKontakte [Kontakt 153], id:40473, 1752>
+    <OrtParteigremium Parteigremium [Mitglied 15], id:40474, 1752>
     <OrtGewaehlte Exekutive [Fraktionschef 1, KommunaleExekutive 5], id:35629, 1752>
     <OrtMitglieder Mitgliedschaften [Mitglied 208], id:3598, 1752>
     <OrtPraesidium Partei [Adressverwalter 2, Kassier 2, Mitglied 17, Praesident 4], id:35628, 1752>
    <Ort Wollerau, id:1753, 563>
-    <OrtSympathisanten Sympathisanten [Sympathisant 50], id:40474, 1753>
+    <OrtSympathisanten Sympathisanten [Sympathisant 50], id:40476, 1753>
     <OrtGewaehlte Exekutive [KommunaleExekutive 3], id:35630, 1753>
     <OrtMitglieder Mitgliedschaften [Mitglied 85], id:3599, 1753>
     <OrtPraesidium Partei [Adressverwalter 2, Mitglied 39, Praesident 3], id:3600, 1753>
   <Region Bezirk Küssnacht, id:562, 170>
-   <RegionSympathisanten Sympathisanten [Sympathisant 129], id:40483, 562>
+   <RegionSympathisanten Sympathisanten [Sympathisant 129], id:40485, 562>
    <RegionGewaehlte Exekutive [RegionExekutive 3], id:35648, 562>
    <RegionGewaehlte Judikative [RegionExekutive 1, RegionJudikative 7], id:35649, 562>
    <RegionMitglieder Mitgliedschaften [Mitglied 182], id:35651, 562>
@@ -76,7 +80,7 @@
    <RegionGewaehlte Judikative [RegionJudikative 2], id:35633, 564>
    <RegionPraesidium Partei [Mitglied 4, Praesident 3], id:35631, 564>
    <Ort Altendorf, id:1754, 564>
-    <OrtSympathisanten Sympathisanten [Sympathisant 457], id:40495, 1754>
+    <OrtSympathisanten Sympathisanten [Sympathisant 457], id:40497, 1754>
     <OrtGewaehlte Exekutive [KommunaleExekutive 3], id:35637, 1754>
     <OrtMitglieder Mitgliedschaften [Mitglied 226], id:35636, 1754>
     <OrtPraesidium Partei [Adressverwalter 4, Mitglied 19, Praesident 3], id:3601, 1754>
@@ -85,17 +89,17 @@
     <OrtMitglieder Mitgliedschaften [Mitglied 17], id:3602, 1755>
     <OrtPraesidium Partei [Praesident 2], id:3603, 1755>
    <Ort Galgenen, id:1756, 564>
-    <OrtSympathisanten Sympathisanten [Sympathisant 4], id:40513, 1756>
+    <OrtSympathisanten Sympathisanten [Sympathisant 4], id:40515, 1756>
     <OrtGewaehlte Exekutive [KommunaleExekutive 2], id:35640, 1756>
     <OrtMitglieder Mitgliedschaften [Mitglied 31], id:3604, 1756>
     <OrtPraesidium Partei [Mitglied 3, Praesident 1], id:35639, 1756>
    <Ort Lachen, id:1758, 564>
-    <OrtSympathisanten Sympathisanten [Sympathisant 3], id:40522, 1758>
+    <OrtSympathisanten Sympathisanten [Sympathisant 3], id:40524, 1758>
     <OrtGewaehlte Exekutive [KommunaleExekutive 2], id:35641, 1758>
     <OrtMitglieder Mitgliedschaften [Mitglied 91], id:3606, 1758>
     <OrtPraesidium Partei [Adressverwalter 6, Mitglied 7, Praesident 3], id:3607, 1758>
    <Ort Reichenburg, id:1759, 564>
-    <OrtSympathisanten Sympathisanten [Sympathisant 1], id:40531, 1759>
+    <OrtSympathisanten Sympathisanten [Sympathisant 1], id:40533, 1759>
     <OrtGewaehlte Exekutive [KommunaleExekutive 1], id:35643, 1759>
     <OrtMitglieder Mitgliedschaften [Mitglied 8], id:3608, 1759>
     <OrtPraesidium Partei [Mitglied 5, Praesident 3], id:35642, 1759>
@@ -116,7 +120,7 @@
    <RegionGewaehlte Judikative [RegionExekutive 1], id:35605, 565>
    <RegionPraesidium Partei [Mitglied 1, Praesident 1], id:1771, 565>
    <Ort Arth-Oberarth-Goldau, id:1764, 565>
-    <OrtSympathisanten Sympathisanten [Sympathisant 121], id:40573, 1764>
+    <OrtSympathisanten Sympathisanten [Sympathisant 121], id:40575, 1764>
     <OrtGewaehlte Exekutive [Fraktionschef 2, KommunaleExekutive 5], id:35606, 1764>
     <OrtMitglieder Mitgliedschaften [Mitglied 566], id:3616, 1764>
     <OrtPraesidium Partei [Mitglied 3, Praesident 1], id:3617, 1764>
@@ -125,22 +129,22 @@
     <OrtMitglieder Mitgliedschaften [Mitglied 14], id:3618, 1765>
     <OrtPraesidium Partei [Mitglied 4, Praesident 1], id:3619, 1765>
    <Ort Ingenbohl, id:1766, 565>
-    <OrtSympathisanten Sympathisanten [Sympathisant 35], id:40591, 1766>
+    <OrtSympathisanten Sympathisanten [Sympathisant 35], id:40593, 1766>
     <OrtGewaehlte Exekutive [Fraktionschef 1, KommunaleExekutive 3], id:35609, 1766>
     <OrtMitglieder Mitgliedschaften [Mitglied 105], id:3620, 1766>
     <OrtPraesidium Partei [Adressverwalter 10, Mitglied 8, Praesident 4], id:3621, 1766>
    <Ort Lauerz, id:1767, 565>
-    <OrtSympathisanten Sympathisanten [Sympathisant 6], id:40600, 1767>
+    <OrtSympathisanten Sympathisanten [Sympathisant 6], id:40602, 1767>
     <OrtGewaehlte Exekutive [Fraktionschef 2, KommunaleExekutive 3], id:35610, 1767>
     <OrtMitglieder Mitgliedschaften [Mitglied 33], id:3622, 1767>
     <OrtPraesidium Partei [Kassier 1, Mitglied 10, Praesident 3], id:3623, 1767>
    <Ort Muotathal, id:1769, 565>
-    <OrtParteigremium Parteigremium [Mitglied 2], id:40616, 1769>
+    <OrtParteigremium Parteigremium [Mitglied 2], id:40618, 1769>
     <OrtGewaehlte Exekutive [KommunaleExekutive 9, Rechnungspruefungskommission 1], id:35613, 1769>
     <OrtMitglieder Mitgliedschaften [Mitglied 41], id:3625, 1769>
     <OrtPraesidium Partei [Mitglied 12, Praesident 3], id:3626, 1769>
    <Ort Rothenthurm, id:1773, 565>
-    <OrtSympathisanten Sympathisanten [Sympathisant 10], id:40618, 1773>
+    <OrtSympathisanten Sympathisanten [Sympathisant 10], id:40620, 1773>
     <OrtGewaehlte Exekutive [KommunaleExekutive 6, Rechnungspruefungskommission 1], id:35614, 1773>
     <OrtMitglieder Mitgliedschaften [Mitglied 30], id:3629, 1773>
     <OrtPraesidium Partei [Mitglied 4, Praesident 2], id:3630, 1773>
@@ -149,12 +153,12 @@
     <OrtMitglieder Mitgliedschaften [Mitglied 14], id:3631, 1774>
     <OrtPraesidium Partei [Adressverwalter 1, Mitglied 4, Praesident 2], id:35615, 1774>
    <Ort Schwyz, id:1775, 565>
-    <OrtSympathisanten Sympathisanten [Sympathisant 124], id:40636, 1775>
+    <OrtSympathisanten Sympathisanten [Sympathisant 124], id:40638, 1775>
     <OrtGewaehlte Exekutive [Fraktionschef 1, KommunaleExekutive 7], id:35617, 1775>
     <OrtMitglieder Mitgliedschaften [Mitglied 635], id:3632, 1775>
     <OrtPraesidium Partei [Adressverwalter 20, Mitglied 13, Praesident 3], id:3633, 1775>
    <Ort Steinen, id:1776, 565>
-    <OrtSympathisanten Sympathisanten [Sympathisant 243], id:40645, 1776>
+    <OrtSympathisanten Sympathisanten [Sympathisant 243], id:40647, 1776>
     <OrtGewaehlte Exekutive [Fraktionschef 2, KommunaleExekutive 3], id:35619, 1776>
     <OrtMitglieder Mitgliedschaften [Mitglied 34], id:3634, 1776>
     <OrtPraesidium Partei [Kassier 2, Mitglied 6, Praesident 3], id:35618, 1776>

@@ -1,15 +1,19 @@
 <Bund CVP Schweiz, id:1, 0>
+ <BundArbeitsgruppe Arbeitsgruppe [Mitglied 5], id:40421, 1>
+ <BundGewaehlte Departement Bundesrat Nr. 1 [Bundesrat 5], id:14763, 1>
+ <BundGewaehlte Nationalrat [Nationalrat 138], id:14860, 1>
+ <BundGewaehlte Ständerat [Staenderat 47], id:14861, 1>
  <Kanton CVP NE, id:164, 1>
-  <KantonSympathisanten Sympathisanten [Sympathisant 518], id:40424, 164>
-  <KantonSekretariat Sekretariat [Leitung 2], id:40429, 164>
-  <KantonExterneKontakte ExterneKontakte [Kontakt 1, Spender 1], id:40431, 164>
-  <KantonArbeitsgruppe Arbeitsgruppe [Mitglied 2], id:40432, 164>
+  <KantonSympathisanten Sympathisanten [Sympathisant 518], id:40426, 164>
+  <KantonSekretariat Sekretariat [Leitung 2], id:40431, 164>
+  <KantonExterneKontakte ExterneKontakte [Kontakt 1, Spender 1], id:40433, 164>
+  <KantonArbeitsgruppe Arbeitsgruppe [Mitglied 2], id:40434, 164>
   <KantonArbeitsgruppe Politische Kommission [Mitglied 1], id:36337, 164>
   <KantonGewaehlte Législatif [KantonaleExekutive 4], id:39503, 164>
   <KantonMitglieder Mitgliedschaften [Mitglied 89], id:503, 164>
   <KantonPraesidium Partei [Kassier 2, Mitglied 20, Praesident 6], id:504, 164>
   <Ort Littoral / Entre-deux-Lacs, id:37503, 164>
-   <OrtSympathisanten Sympathisanten [Sympathisant 2], id:40438, 37503>
+   <OrtSympathisanten Sympathisanten [Sympathisant 2], id:40440, 37503>
    <OrtGewaehlte Législatif / conseil général [KommunaleExekutive 3], id:39502, 37503>
    <OrtMitglieder Mitgliedschaften [Mitglied 31], id:37507, 37503>
    <OrtPraesidium Partei [Praesident 1], id:37504, 37503>

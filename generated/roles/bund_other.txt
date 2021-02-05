@@ -1,0 +1,185 @@
+<Bund CVP Schweiz, id:1, 0>
+ <BundGewaehlte Bundesrichter [VollamtBundesrichter 21], id:40419, 1>
+ <BundGewaehlte Bundesverwaltungsrichter [Bundesverwaltungsrichter 20], id:40420, 1>
+ <BundArbeitsgruppe Arbeitsgruppe [Mitglied 20622], id:40421, 1>
+ <BundArbeitsgruppe Regierungsrat [Mitglied 134], id:40423, 1>
+ <BundArbeitsgruppe Arbeitsgruppen (PN/WiMi), id:37839, 1>
+  <BundArbeitsgruppe AG LGBT(JYM) [Mitglied 19, Praesident 1], id:37854, 37839>
+  <BundArbeitsgruppe Ausländerpolitik und Migration (SE) [Mitglied 1], id:37853, 37839>
+  <BundArbeitsgruppe Aussenpolitik (PN) [Mitglied 6, Praesident 1], id:37840, 37839>
+  <BundArbeitsgruppe Bildung (IC) [Mitglied 72, Praesident 1], id:37841, 37839>
+  <BundArbeitsgruppe Biopolitik (IC) [Mitglied 1], id:37842, 37839>
+  <BundArbeitsgruppe Familie (SJ) [Mitglied 30, Praesident 3], id:37843, 37839>
+  <BundArbeitsgruppe Finanzen (IC) [Mitglied 17, Praesident 1], id:37851, 37839>
+  <BundArbeitsgruppe Gesundheit (SE) [Mitglied 30, Praesident 1], id:37844, 37839>
+  <BundArbeitsgruppe Landwirtschaft (JYM) [Mitglied 22, Praesident 1], id:37845, 37839>
+  <BundArbeitsgruppe Sicherheitspolitik (SE) [Mitglied 43, Praesident 1], id:37852, 37839>
+  <BundArbeitsgruppe Steuern (JYM) [Mitglied 81, Praesident 2], id:37847, 37839>
+  <BundArbeitsgruppe Umwelt- und Energiepolitik (JYM) [Mitglied 20, Praesident 1], id:37848, 37839>
+  <BundArbeitsgruppe Verkehrspolitik (IC) [Mitglied 9], id:37849, 37839>
+  <BundArbeitsgruppe Wirtschaft (JYM) [Mitglied 95, Praesident 2], id:37850, 37839>
+  <BundArbeitsgruppe soziale Sicherheit (SE) [Mitglied 10, Praesident 1], id:37846, 37839>
+ <BundArbeitsgruppe B-Club (SJ) [Mitglied 10, tbd:Bundesgericht nebenamtlicher Richter 5, tbd:Bundesricher Ersatz 1, tbd:Bundesstrafgericht nebenamtlicher Richter 4, tbd:Richter Bundesstrafgericht 4], id:213, 1>
+ <BundArbeitsgruppe Gäste Delegiertenversammlung (CS), id:33146, 1>
+  <BundArbeitsgruppe Email Einladung [Mitglied 94], id:36690, 33146>
+  <BundArbeitsgruppe Post Einladungen [Mitglied 141], id:36691, 33146>
+ <BundArbeitsgruppe Inaktive Gruppierungen, id:37444, 1>
+  <BundArbeitsgruppe ICT-Forum [Gast 196, Mitglied 711], id:37445, 37444>
+  <BundArbeitsgruppe Kommissionen, id:37833, 37444>
+   <BundArbeitsgruppe Kommission für Bildung [Mitglied 2], id:37834, 37833>
+   <BundArbeitsgruppe Kommission für Familienfragen [Mitglied 14, Praesident 1], id:37836, 37833>
+   <BundArbeitsgruppe Kommission für Gesundheitsfragen [Mitglied 24, Praesident 2], id:37837, 37833>
+   <BundArbeitsgruppe Kommission für soziale Sicherheit [Mitglied 21], id:37838, 37833>
+ <BundArbeitsgruppe Parteivorstand CVP CH (SZ), id:32, 1>
+  <BundArbeitsgruppe 60+ [Mitglied 2], id:5060, 32>
+  <BundArbeitsgruppe AG [Mitglied 8], id:179, 32>
+  <BundArbeitsgruppe AI [Mitglied 4], id:180, 32>
+  <BundArbeitsgruppe AR [Mitglied 4], id:181, 32>
+  <BundArbeitsgruppe AWG [Mitglied 3], id:182, 32>
+  <BundArbeitsgruppe BE [Mitglied 12], id:183, 32>
+  <BundArbeitsgruppe BL [Mitglied 6], id:184, 32>
+  <BundArbeitsgruppe BS [Mitglied 5], id:185, 32>
+  <BundArbeitsgruppe CSP VS-Oberwallis [Mitglied 4], id:187, 32>
+  <BundArbeitsgruppe CSV [Mitglied 4], id:186, 32>
+  <BundArbeitsgruppe CVP Frauen [Mitglied 4], id:188, 32>
+  <BundArbeitsgruppe FR-Sense [Mitglied 3], id:191, 32>
+  <BundArbeitsgruppe FR-französisch [Mitglied 8], id:190, 32>
+  <BundArbeitsgruppe Fraktion [Mitglied 5], id:189, 32>
+  <BundArbeitsgruppe GE [Mitglied 6], id:192, 32>
+  <BundArbeitsgruppe GL [Mitglied 4], id:193, 32>
+  <BundArbeitsgruppe GR [Mitglied 4], id:194, 32>
+  <BundArbeitsgruppe JCVP [Mitglied 8], id:195, 32>
+  <BundArbeitsgruppe JU [Mitglied 5], id:196, 32>
+  <BundArbeitsgruppe Jura-Sud [Mitglied 4], id:5061, 32>
+  <BundArbeitsgruppe LU [Mitglied 5], id:197, 32>
+  <BundArbeitsgruppe NE [Mitglied 2], id:198, 32>
+  <BundArbeitsgruppe NW [Mitglied 7], id:199, 32>
+  <BundArbeitsgruppe OW [Mitglied 5], id:200, 32>
+  <BundArbeitsgruppe SG [Mitglied 4], id:201, 32>
+  <BundArbeitsgruppe SH [Mitglied 10], id:202, 32>
+  <BundArbeitsgruppe SO [Mitglied 5], id:203, 32>
+  <BundArbeitsgruppe SZ [Mitglied 6], id:204, 32>
+  <BundArbeitsgruppe TG [Mitglied 4], id:205, 32>
+  <BundArbeitsgruppe TI [Mitglied 7], id:206, 32>
+  <BundArbeitsgruppe UR [Mitglied 6], id:207, 32>
+  <BundArbeitsgruppe VD [Mitglied 8], id:208, 32>
+  <BundArbeitsgruppe VS-Oberwallis [Mitglied 4], id:210, 32>
+  <BundArbeitsgruppe VS_Romand [Mitglied 3], id:209, 32>
+  <BundArbeitsgruppe ZG [Mitglied 5], id:211, 32>
+  <BundArbeitsgruppe ZH [Mitglied 3], id:212, 32>
+ <BundArbeitsgruppe Präsidenten KPP/Sekretäre KP/Vereinigungen (SZ), id:38819, 1>
+  <BundArbeitsgruppe 60+ [Mitglied 1], id:38820, 38819>
+  <BundArbeitsgruppe AG [Mitglied 1], id:38821, 38819>
+  <BundArbeitsgruppe AI [Mitglied 2], id:38822, 38819>
+  <BundArbeitsgruppe AR [Mitglied 1], id:38823, 38819>
+  <BundArbeitsgruppe AWG [Mitglied 2], id:38824, 38819>
+  <BundArbeitsgruppe BE [Mitglied 4], id:38825, 38819>
+  <BundArbeitsgruppe BL [Mitglied 2], id:38826, 38819>
+  <BundArbeitsgruppe BS [Mitglied 2], id:38827, 38819>
+  <BundArbeitsgruppe CSP VS Oberwallis [Mitglied 2], id:38829, 38819>
+  <BundArbeitsgruppe CSV [Mitglied 3], id:38828, 38819>
+  <BundArbeitsgruppe CVP Frauen [Mitglied 1], id:38830, 38819>
+  <BundArbeitsgruppe FR-Sense [Mitglied 1], id:38832, 38819>
+  <BundArbeitsgruppe FR-französisch [Mitglied 5], id:38831, 38819>
+  <BundArbeitsgruppe GE [Mitglied 3], id:38833, 38819>
+  <BundArbeitsgruppe GL [Mitglied 1], id:38834, 38819>
+  <BundArbeitsgruppe GR [Mitglied 2], id:38835, 38819>
+  <BundArbeitsgruppe JCVP [Mitglied 2], id:38836, 38819>
+  <BundArbeitsgruppe JU [Mitglied 4], id:38837, 38819>
+  <BundArbeitsgruppe Jura-Sud [Mitglied 2], id:38838, 38819>
+  <BundArbeitsgruppe LU [Mitglied 2], id:38839, 38819>
+  <BundArbeitsgruppe NE [Mitglied 2], id:38840, 38819>
+  <BundArbeitsgruppe NW [Mitglied 2], id:38841, 38819>
+  <BundArbeitsgruppe OW [Mitglied 1], id:38842, 38819>
+  <BundArbeitsgruppe SG [Mitglied 1], id:38843, 38819>
+  <BundArbeitsgruppe SH [Mitglied 5], id:38844, 38819>
+  <BundArbeitsgruppe SO [Mitglied 1], id:38845, 38819>
+  <BundArbeitsgruppe SZ [Mitglied 2], id:38846, 38819>
+  <BundArbeitsgruppe TG [Mitglied 1], id:38847, 38819>
+  <BundArbeitsgruppe TI [Mitglied 2], id:38848, 38819>
+  <BundArbeitsgruppe UR [Mitglied 3], id:38849, 38819>
+  <BundArbeitsgruppe VD [Mitglied 4], id:38850, 38819>
+  <BundArbeitsgruppe VS-Oberwallis [Mitglied 2], id:38852, 38819>
+  <BundArbeitsgruppe VS-Romand [Mitglied 2], id:38851, 38819>
+  <BundArbeitsgruppe ZG [Mitglied 2], id:38853, 38819>
+  <BundArbeitsgruppe ZH [Mitglied 1], id:38854, 38819>
+ <BundArbeitsgruppe Regierungsrat (SJ), id:25, 1>
+  <BundArbeitsgruppe Regierungsrat nach Konferenzen, id:37450, 25>
+   <BundArbeitsgruppe BPUK [Mitglied 10], id:37483, 37450>
+   <BundArbeitsgruppe EDK [Mitglied 7], id:37477, 37450>
+   <BundArbeitsgruppe EnDK [Mitglied 5], id:37486, 37450>
+   <BundArbeitsgruppe FDK [Mitglied 8], id:37478, 37450>
+   <BundArbeitsgruppe GDK [Mitglied 6], id:37479, 37450>
+   <BundArbeitsgruppe KKJPD [Mitglied 5], id:37480, 37450>
+   <BundArbeitsgruppe KWL [Mitglied 7], id:37482, 37450>
+   <BundArbeitsgruppe KöV [Mitglied 8], id:37484, 37450>
+   <BundArbeitsgruppe SODK [Mitglied 3], id:37481, 37450>
+   <BundArbeitsgruppe VDK [Mitglied 5], id:37485, 37450>
+ <BundArbeitsgruppe Schiedsgericht (JM) [Mitglied 8], id:34, 1>
+ <BundArbeitsgruppe Sommerparteitag (CS), id:31, 1>
+  <BundArbeitsgruppe Einladung (MG) [Mitglied 1590], id:36692, 31>
+ <BundDelegierte Delegiertenversammlung (CS), id:19, 1>
+  <BundDelegierte 60+ (7) [Delegierte 14], id:37700, 19>
+  <BundDelegierte AG (28) [Delegierte 45], id:114, 19>
+  <BundDelegierte AI (7) [Delegierte 9], id:115, 19>
+  <BundDelegierte AR (7) [Delegierte 20], id:116, 19>
+  <BundDelegierte AWG (7) [Delegierte 1], id:117, 19>
+  <BundDelegierte BE (7) [Delegierte 13], id:118, 19>
+  <BundDelegierte BE-Jura Sud (7) [Delegierte 14], id:119, 19>
+  <BundDelegierte BL (8) [Delegierte 15], id:120, 19>
+  <BundDelegierte BS (7) [Delegierte 10], id:121, 19>
+  <BundDelegierte CSP Oberwallis (7) [Delegierte 15], id:123, 19>
+  <BundDelegierte CSV (7) [Delegierte 14], id:122, 19>
+  <BundDelegierte CVP Frauen (7) [Delegierte 12], id:125, 19>
+  <BundDelegierte FR-Sense (7) [Delegierte 12], id:127, 19>
+  <BundDelegierte FR-französisch (12) [Delegierte 23], id:126, 19>
+  <BundDelegierte GE (7) [Delegierte 23], id:128, 19>
+  <BundDelegierte GL (7) [Delegierte 9], id:129, 19>
+  <BundDelegierte GR (8) [Delegierte 19], id:130, 19>
+  <BundDelegierte JCVP (7) [Delegierte 25], id:131, 19>
+  <BundDelegierte JU (9) [Delegierte 22], id:132, 19>
+  <BundDelegierte LU (50) [Delegierte 75], id:133, 19>
+  <BundDelegierte NE (7) [Delegierte 16], id:134, 19>
+  <BundDelegierte NW (7) [Delegierte 20], id:135, 19>
+  <BundDelegierte OW (7) [Delegierte 15], id:136, 19>
+  <BundDelegierte SG (24) [Delegierte 36], id:137, 19>
+  <BundDelegierte SH (7) [Delegierte 16], id:138, 19>
+  <BundDelegierte SO (15) [Delegierte 21], id:139, 19>
+  <BundDelegierte SZ (12) [Delegierte 19], id:140, 19>
+  <BundDelegierte TG (9) [Delegierte 17], id:141, 19>
+  <BundDelegierte TI (28) [Delegierte 36], id:142, 19>
+  <BundDelegierte UR (7) [Delegierte 17], id:143, 19>
+  <BundDelegierte VD (7) [Delegierte 19], id:144, 19>
+  <BundDelegierte VS-Oberwallis (8) [Delegierte 12], id:145, 19>
+  <BundDelegierte VS-Romand (19) [Delegierte 33], id:146, 19>
+  <BundDelegierte ZG (8) [Delegierte 17], id:147, 19>
+  <BundDelegierte ZH (18) [Delegierte 31], id:148, 19>
+ <BundExterneKontakte Gönner (LS) [Spender 9], id:37755, 1>
+  <BundExterneKontakte Gold Card [Spender 11], id:39684, 37755>
+  <BundExterneKontakte Silver Card [Spender 79], id:39682, 37755>
+  <BundExterneKontakte Silver-Plus Card [Spender 13], id:39683, 37755>
+ <BundExterneKontakte Kontakte, id:27, 1>
+  <BundExterneKontakte Gesundheitsinitiative [Kontakt 89], id:39971, 27>
+ <BundExterneKontakte Medienverteiler [Medien 22], id:38222, 1>
+ <BundExterneKontakte Vereinigungen, id:35, 1>
+  <BundExterneKontakte CVP-nahe Botschafter [Kontakt 36], id:36218, 35>
+  <BundExterneKontakte Frauenznacht [Kontakt 182], id:38314, 35>
+  <BundExterneKontakte KMU-Forum (CS) [Kontakt 524, Spender 41], id:216, 35>
+  <BundExterneKontakte forum politique suisse (CS), id:217, 35>
+   <BundExterneKontakte Gäste, id:37777, 217>
+    <BundExterneKontakte 2014 Winter [Kontakt 13], id:37778, 37777>
+    <BundExterneKontakte 2015 Frühling [Kontakt 1], id:37779, 37777>
+    <BundExterneKontakte 2015 Herbst [Kontakt 2], id:37780, 37777>
+    <BundExterneKontakte 2015 Winter [Kontakt 7], id:37781, 37777>
+    <BundExterneKontakte 2016 Frühjahr [Kontakt 5], id:38543, 37777>
+    <BundExterneKontakte 2016 Herbst [Kontakt 10], id:38563, 37777>
+    <BundExterneKontakte 2016 Winter [Kontakt 4], id:38564, 37777>
+    <BundExterneKontakte 2017 Herbst [Kontakt 3], id:39472, 37777>
+    <BundExterneKontakte 2017 Winter [Kontakt 11], id:39473, 37777>
+    <BundExterneKontakte 2018 Frühjahr [Kontakt 3], id:39678, 37777>
+    <BundExterneKontakte 2018 Winter [Kontakt 2], id:39680, 37777>
+    <BundExterneKontakte fixe Gäste [Kontakt 26], id:38202, 37777>
+   <BundExterneKontakte Vorstand [Kontakt 2], id:37776, 217>
+ <BundKommission Kontrollkommission (JM) [Praesident 1], id:28, 1>
+ <BundPraesidium Präsidium (LS) [Praesident 2, Vizepraesident 4], id:33, 1>
+ <BundSekretariat Generalsekretariat (JM) [Leitung 62, Mitarbeiter 53], id:22, 1>

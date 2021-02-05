@@ -1,11 +1,15 @@
 <Bund CVP Schweiz, id:1, 0>
+ <BundArbeitsgruppe Arbeitsgruppe [Mitglied 5], id:40421, 1>
+ <BundGewaehlte Departement Bundesrat Nr. 1 [Bundesrat 5], id:14763, 1>
+ <BundGewaehlte Nationalrat [Nationalrat 138], id:14860, 1>
+ <BundGewaehlte Ständerat [Staenderat 47], id:14861, 1>
  <Kanton CVP ZG, id:177, 1>
-  <KantonSympathisanten Sympathisanten [Sympathisant 216], id:40424, 177>
-  <KantonDelegierte Delegierte [Delegierte 60], id:40427, 177>
-  <KantonGewaehlte Gewaehlte [KantonaleExekutive 2, MitgliedKantonalesGerichtErsteInstanz 6], id:40428, 177>
-  <KantonSekretariat Sekretariat [Leitung 1, Mitarbeiter 2], id:40429, 177>
-  <KantonExterneKontakte ExterneKontakte [Medien 8], id:40431, 177>
-  <KantonArbeitsgruppe Arbeitsgruppe [Mitglied 6], id:40432, 177>
+  <KantonSympathisanten Sympathisanten [Sympathisant 216], id:40426, 177>
+  <KantonDelegierte Delegierte [Delegierte 60], id:40429, 177>
+  <KantonGewaehlte Gewaehlte [KantonaleExekutive 2, MitgliedKantonalesGerichtErsteInstanz 6], id:40430, 177>
+  <KantonSekretariat Sekretariat [Leitung 1, Mitarbeiter 2], id:40431, 177>
+  <KantonExterneKontakte ExterneKontakte [Medien 8], id:40433, 177>
+  <KantonArbeitsgruppe Arbeitsgruppe [Mitglied 6], id:40434, 177>
   <KantonDelegierte DV [Delegierte 324], id:2243, 177>
   <KantonGewaehlte Fraktion [Fraktionschef 2, KantonaleLegislative 43], id:2244, 177>
   <KantonGewaehlte Judikative [MitgliedKantonalesGerichtErsteInstanz 34], id:661, 177>
@@ -18,22 +22,22 @@
   <KantonPraesidium Partei [Kassier 1, Mitglied 9, Praesident 4], id:667, 177>
   <KantonPraesidium Präsidium [Mitglied 13], id:2246, 177>
   <Ort Baar, id:652, 177>
-   <OrtSympathisanten Sympathisanten [Sympathisant 3], id:40438, 652>
+   <OrtSympathisanten Sympathisanten [Sympathisant 3], id:40440, 652>
    <OrtGewaehlte Exekutive [KommunaleExekutive 3], id:40191, 652>
    <OrtGewaehlte Mandatsträger [KommunaleLegislative 5, MitgliedWeitereGemeindeKommissionen 52], id:40192, 652>
    <OrtMitglieder Mitgliedschaften [Mitglied 243], id:2223, 652>
    <OrtPraesidium Partei [Adressverwalter 2, Kassier 1, Praesident 2], id:5016, 652>
    <OrtPraesidium Vorstand [Mitglied 9], id:5018, 652>
   <Ort Cham, id:658, 177>
-   <OrtArbeitsgruppe Arbeitsgruppe [Mitglied 73], id:40448, 658>
-   <OrtGewaehlte Gewaehlte [KommunaleLegislative 1, MitgliedWeitereGemeindeKommissionen 78, Schulpflegekommission 2], id:40450, 658>
-   <OrtPraesidium Praesidium [Mitglied 12], id:40455, 658>
+   <OrtArbeitsgruppe Arbeitsgruppe [Mitglied 73], id:40450, 658>
+   <OrtGewaehlte Gewaehlte [KommunaleLegislative 1, MitgliedWeitereGemeindeKommissionen 78, Schulpflegekommission 2], id:40452, 658>
+   <OrtPraesidium Praesidium [Mitglied 12], id:40457, 658>
    <OrtGewaehlte Exekutive [Fraktionschef 4, KommunaleExekutive 2], id:5015, 658>
    <OrtMitglieder Mitgliedschaften [Mitglied 270], id:2229, 658>
    <OrtPraesidium Partei [Adressverwalter 5, Mitglied 24, Praesident 4], id:5014, 658>
   <Ort Hünenberg, id:660, 177>
-   <OrtSympathisanten Sympathisanten [Sympathisant 2], id:40456, 660>
-   <OrtGewaehlte Gewaehlte [KommunaleLegislative 2, MitgliedWeitereGemeindeKommissionen 3], id:40459, 660>
+   <OrtSympathisanten Sympathisanten [Sympathisant 2], id:40458, 660>
+   <OrtGewaehlte Gewaehlte [KommunaleLegislative 2, MitgliedWeitereGemeindeKommissionen 3], id:40461, 660>
    <OrtArbeitsgruppe RPK-Präsident Einwohnergemeinde [Praesident 1], id:40357, 660>
    <OrtGewaehlte Exekutive [KommunaleExekutive 2], id:2231, 660>
    <OrtMitglieder Mitgliedschaften [Mitglied 245], id:2232, 660>
@@ -47,17 +51,17 @@
    <OrtMitglieder Mitgliedschaften [Mitglied 55], id:2238, 665>
    <OrtPraesidium Partei [Praesident 2], id:2239, 665>
   <Ort Oberägeri, id:666, 177>
-   <OrtSympathisanten Sympathisanten [Sympathisant 1], id:40483, 666>
+   <OrtSympathisanten Sympathisanten [Sympathisant 1], id:40485, 666>
    <OrtGewaehlte Exekutive [KommunaleExekutive 2], id:2240, 666>
    <OrtMitglieder Mitgliedschaften [Mitglied 161], id:2241, 666>
    <OrtPraesidium Partei [Praesident 2], id:2242, 666>
   <Ort Risch-Rotkreuz, id:668, 177>
-   <OrtSympathisanten Sympathisanten [Sympathisant 88], id:40492, 668>
-   <OrtSekretariat Sekretariat [Leitung 1], id:40496, 668>
+   <OrtSympathisanten Sympathisanten [Sympathisant 88], id:40494, 668>
+   <OrtSekretariat Sekretariat [Leitung 1], id:40498, 668>
    <OrtMitglieder Mitgliedschaften [Mitglied 159], id:2250, 668>
    <OrtPraesidium Partei [Adressverwalter 3, Praesident 3], id:2251, 668>
   <Ort Stadt Zug, id:669, 177>
-   <OrtSympathisanten Sympathisanten [Sympathisant 24], id:40501, 669>
+   <OrtSympathisanten Sympathisanten [Sympathisant 24], id:40503, 669>
    <OrtGewaehlte Legislative [KommunaleExekutive 2], id:2253, 669>
    <OrtMitglieder Mitgliedschaften [Mitglied 220], id:2254, 669>
    <OrtPraesidium Partei [Adressverwalter 2, Praesident 2], id:2255, 669>

@@ -1,13 +1,16 @@
 <Bund CVP Schweiz, id:1, 0>
+ <BundArbeitsgruppe Arbeitsgruppe [Mitglied 5], id:40421, 1>
+ <BundGewaehlte Departement Bundesrat Nr. 1 [Bundesrat 5], id:14763, 1>
+ <BundGewaehlte Nationalrat [Nationalrat 139], id:14860, 1>
+ <BundGewaehlte Ständerat [Staenderat 47], id:14861, 1>
  <Kanton CSP Oberwallis, id:40284, 1>
-  <KantonSympathisanten Sympathisanten [Sympathisant 1324], id:40424, 40284>
-  <KantonGewaehlte Gewaehlte [WeitereMandate 7], id:40428, 40284>
-  <KantonSekretariat Sekretariat [Leitung 1], id:40429, 40284>
-  <KantonArbeitsgruppe Arbeitsgruppe [Mitglied 111], id:40432, 40284>
+  <KantonSympathisanten Sympathisanten [Sympathisant 1324], id:40426, 40284>
+  <KantonGewaehlte Gewaehlte [WeitereMandate 7], id:40430, 40284>
+  <KantonSekretariat Sekretariat [Leitung 1], id:40431, 40284>
+  <KantonArbeitsgruppe Arbeitsgruppe [Mitglied 111], id:40434, 40284>
   <KantonArbeitsgruppe 60+ CSPO, id:36662, 40284>
    <KantonArbeitsgruppe Kernteam [Gast 2, Praesident 3], id:36663, 36662>
   <KantonArbeitsgruppe CSPO Frauen [Mitglied 67], id:40392, 40284>
-  <KantonArbeitsgruppe Mandatsträger [tbd:Nationalrat 1], id:40291, 40284>
   <KantonArbeitsgruppe Mitglied 300er [Mitglied 39], id:40273, 40284>
   <KantonGewaehlte Regierungsrat [KantonaleExekutive 3], id:40279, 40284>
   <KantonGewaehlte Judikative [MitgliedKantonalesGerichtErsteInstanz 3, Staatsanwaltschaft 2], id:40280, 40284>

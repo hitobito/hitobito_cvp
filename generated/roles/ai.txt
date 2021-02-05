@@ -1,8 +1,12 @@
 <Bund CVP Schweiz, id:1, 0>
+ <BundArbeitsgruppe Arbeitsgruppe [Mitglied 5], id:40421, 1>
+ <BundGewaehlte Departement Bundesrat Nr. 1 [Bundesrat 5], id:14763, 1>
+ <BundGewaehlte Nationalrat [Nationalrat 138], id:14860, 1>
+ <BundGewaehlte Ständerat [Staenderat 47], id:14861, 1>
  <Kanton CVP AI, id:152, 1>
-  <KantonSympathisanten Sympathisanten [Sympathisant 33], id:40424, 152>
-  <KantonSekretariat Sekretariat [Leitung 2, Mitarbeiter 1], id:40429, 152>
-  <KantonArbeitsgruppe Arbeitsgruppe [Mitglied 3], id:40432, 152>
+  <KantonSympathisanten Sympathisanten [Sympathisant 33], id:40426, 152>
+  <KantonSekretariat Sekretariat [Leitung 2, Mitarbeiter 1], id:40431, 152>
+  <KantonArbeitsgruppe Arbeitsgruppe [Mitglied 3], id:40434, 152>
   <KantonGewaehlte Regierungsrat [KantonaleExekutive 1], id:36332, 152>
   <KantonGewaehlte Judikative [MitgliedKantonalesGerichtErsteInstanz 8], id:352, 152>
   <KantonGewaehlte Legislative [KantonaleLegislative 20], id:353, 152>

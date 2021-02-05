@@ -1,30 +1,34 @@
 <Bund id=1, label=CVP Schweiz, parent_id=>
+ <BundArbeitsgruppe id=40421, label=Arbeitsgruppe, parent_id=1>
+ <BundGewaehlte id=14763, label=Departement Bundesrat Nr. 1, parent_id=1>
+ <BundGewaehlte id=14860, label=Nationalrat, parent_id=1>
+ <BundGewaehlte id=14861, label=Ständerat, parent_id=1>
  <Kanton id=168, label=CVP SH, parent_id=1>
-  <KantonSekretariat id=40429, label=Sekretariat, parent_id=168>
-  <KantonExterneKontakte id=40431, label=ExterneKontakte, parent_id=168>
-  <KantonArbeitsgruppe id=40432, label=Arbeitsgruppe, parent_id=168>
+  <KantonSekretariat id=40431, label=Sekretariat, parent_id=168>
+  <KantonExterneKontakte id=40433, label=ExterneKontakte, parent_id=168>
+  <KantonArbeitsgruppe id=40434, label=Arbeitsgruppe, parent_id=168>
   <KantonArbeitsgruppe id=38396, label=Bankrat, parent_id=168>
   <KantonGewaehlte id=545, label=Legislative, parent_id=168>
   <KantonMitglieder id=546, label=Mitgliedschaften, parent_id=168>
   <KantonPraesidium id=548, label=Partei, parent_id=168>
   <Ort id=547, label=Neuhausen am Rheinfall, parent_id=168>
-   <OrtSympathisanten id=40438, label=Sympathisanten, parent_id=547>
+   <OrtSympathisanten id=40440, label=Sympathisanten, parent_id=547>
    <OrtGewaehlte id=38318, label=Exekutive, parent_id=547>
    <OrtGewaehlte id=38317, label=Legislative, parent_id=547>
    <OrtMitglieder id=1657, label=Mitgliedschaften, parent_id=547>
    <OrtPraesidium id=1658, label=Partei, parent_id=547>
   <Ort id=549, label=Ramsen, parent_id=168>
-   <OrtSympathisanten id=40447, label=Sympathisanten, parent_id=549>
+   <OrtSympathisanten id=40449, label=Sympathisanten, parent_id=549>
    <OrtGewaehlte id=38320, label=Exekutive, parent_id=549>
    <OrtMitglieder id=1659, label=Mitgliedschaften, parent_id=549>
    <OrtPraesidium id=38395, label=Partei, parent_id=549>
   <Ort id=550, label=Schaffhausen, parent_id=168>
-   <OrtSympathisanten id=40456, label=Sympathisanten, parent_id=550>
+   <OrtSympathisanten id=40458, label=Sympathisanten, parent_id=550>
    <OrtGewaehlte id=38319, label=Legislative, parent_id=550>
    <OrtMitglieder id=1660, label=Mitgliedschaften, parent_id=550>
    <OrtPraesidium id=1661, label=Partei, parent_id=550>
   <Ort id=551, label=Stein am Rhein, parent_id=168>
-   <OrtSympathisanten id=40465, label=Sympathisanten, parent_id=551>
+   <OrtSympathisanten id=40467, label=Sympathisanten, parent_id=551>
    <OrtGewaehlte id=39076, label=Exekutive, parent_id=551>
    <OrtMitglieder id=1662, label=Mitgliedschaften, parent_id=551>
    <OrtPraesidium id=1663, label=Partei, parent_id=551>

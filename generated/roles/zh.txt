@@ -1,11 +1,15 @@
 <Bund CVP Schweiz, id:1, 0>
+ <BundArbeitsgruppe Arbeitsgruppe [Mitglied 5], id:40421, 1>
+ <BundGewaehlte Departement Bundesrat Nr. 1 [Bundesrat 5], id:14763, 1>
+ <BundGewaehlte Nationalrat [Nationalrat 138], id:14860, 1>
+ <BundGewaehlte Ständerat [Staenderat 47], id:14861, 1>
  <Kanton CVP ZH, id:5181, 1>
-  <KantonSympathisanten Sympathisanten [Sympathisant 41], id:40424, 5181>
-  <KantonPraesidium Praesidium [Mitglied 1], id:40426, 5181>
-  <KantonDelegierte Delegierte [Delegierte 49], id:40427, 5181>
-  <KantonGewaehlte Gewaehlte [MitgliedKantonalesGerichtErsteInstanz 2], id:40428, 5181>
-  <KantonSekretariat Sekretariat [Leitung 1], id:40429, 5181>
-  <KantonArbeitsgruppe Arbeitsgruppe [Mitglied 412], id:40432, 5181>
+  <KantonSympathisanten Sympathisanten [Sympathisant 41], id:40426, 5181>
+  <KantonPraesidium Praesidium [Mitglied 1], id:40428, 5181>
+  <KantonDelegierte Delegierte [Delegierte 49], id:40429, 5181>
+  <KantonGewaehlte Gewaehlte [MitgliedKantonalesGerichtErsteInstanz 2], id:40430, 5181>
+  <KantonSekretariat Sekretariat [Leitung 1], id:40431, 5181>
+  <KantonArbeitsgruppe Arbeitsgruppe [Mitglied 412], id:40434, 5181>
   <KantonArbeitsgruppe Anlasseinladungen [Mitglied 1467], id:39303, 5181>
   <KantonArbeitsgruppe Sekretariat [Mitglied 1], id:5202, 5181>
   <KantonDelegierte DV [Delegierte 173], id:5199, 5181>
@@ -42,13 +46,13 @@
   <KantonParteigremium Vorstand [Mitglied 49], id:5198, 5181>
   <KantonPraesidium Präsidium [Kassier 1, Mitglied 6, Praesident 1], id:5197, 5181>
   <Region Bezirk Affoltern, id:5203, 5181>
-   <RegionSympathisanten Sympathisanten [Sympathisant 8], id:40438, 5203>
+   <RegionSympathisanten Sympathisanten [Sympathisant 8], id:40440, 5203>
    <RegionMitglieder Mitgliedschaften [Mitglied 8], id:5219, 5203>
    <RegionPraesidium Vorstand [Mitglied 1, Praesident 2], id:5222, 5203>
    <RegionSekretariat Sekretariat [Mitarbeiter 1], id:5224, 5203>
    <Ort Affoltern, id:5485, 5203>
-    <OrtSympathisanten Sympathisanten [Sympathisant 25], id:40443, 5485>
-    <OrtPraesidium Praesidium [Mitglied 1], id:40450, 5485>
+    <OrtSympathisanten Sympathisanten [Sympathisant 25], id:40445, 5485>
+    <OrtPraesidium Praesidium [Mitglied 1], id:40452, 5485>
     <OrtMitglieder Mitgliedschaften [Mitglied 22], id:5491, 5485>
     <OrtPraesidium Vorstand [Kassier 1, Mitglied 2], id:5493, 5485>
     <OrtSekretariat Sekretariat [Mitarbeiter 1], id:5494, 5485>
@@ -58,7 +62,7 @@
     <OrtPraesidium Vorstand [Kassier 2, Mitglied 4, Praesident 1], id:5693, 5685>
     <OrtSekretariat Sekretariat [Mitarbeiter 1], id:5694, 5685>
    <Ort Obfelden, id:5885, 5203>
-    <OrtSympathisanten Sympathisanten [Sympathisant 10], id:40459, 5885>
+    <OrtSympathisanten Sympathisanten [Sympathisant 10], id:40461, 5885>
     <OrtGewaehlte Bildung, id:5886, 5885>
      <OrtGewaehlte Schulpflege [Schulpflegekommission 2], id:5887, 5886>
     <OrtGewaehlte Exekutive [KommunaleExekutive 1], id:5889, 5885>
@@ -66,7 +70,7 @@
     <OrtPraesidium Vorstand [Kassier 1, Mitglied 1, Praesident 1], id:5893, 5885>
     <OrtSekretariat Sekretariat [Mitarbeiter 1], id:5894, 5885>
   <Region Bezirk Andelfingen, id:5403, 5181>
-   <RegionSympathisanten Sympathisanten [Sympathisant 36], id:40467, 5403>
+   <RegionSympathisanten Sympathisanten [Sympathisant 36], id:40469, 5403>
    <RegionDelegierte DV [Delegierte 1], id:5423, 5403>
    <RegionMitglieder Mitgliedschaften [Mitglied 52], id:5419, 5403>
    <RegionPraesidium Vorstand [Praesident 3], id:5422, 5403>
@@ -76,7 +80,7 @@
      <OrtGewaehlte Schulpflege [Schulpflegekommission 1], id:6087, 6086>
     <OrtGewaehlte Exekutive [KommunaleExekutive 1], id:6089, 6085>
   <Region Bezirk Bülach, id:5225, 5181>
-   <RegionSympathisanten Sympathisanten [Sympathisant 10], id:40499, 5225>
+   <RegionSympathisanten Sympathisanten [Sympathisant 10], id:40501, 5225>
    <RegionDelegierte DV [Delegierte 16], id:5241, 5225>
    <RegionGewaehlte Judikative, id:5235, 5225>
     <RegionGewaehlte Bezirksgericht [RegionJudikative 2], id:5236, 5235>
@@ -84,21 +88,21 @@
    <RegionPraesidium Präsidium [Kassier 2, Praesident 5], id:5239, 5225>
    <RegionPraesidium Vorstand [Mitglied 1], id:5240, 5225>
    <Ort Bassersdorf, id:6485, 5225>
-    <OrtSympathisanten Sympathisanten [Sympathisant 2], id:40504, 6485>
-    <OrtPraesidium Praesidium [Mitglied 1], id:40511, 6485>
+    <OrtSympathisanten Sympathisanten [Sympathisant 2], id:40506, 6485>
+    <OrtPraesidium Praesidium [Mitglied 1], id:40513, 6485>
     <OrtMitglieder Mitgliedschaften [Mitglied 13], id:6491, 6485>
     <OrtPraesidium Vorstand [Kassier 1, Mitglied 2, Praesident 1], id:6493, 6485>
     <OrtSekretariat Sekretariat [Mitarbeiter 1], id:6494, 6485>
    <Ort Bülach, id:5269, 5225>
-    <OrtSympathisanten Sympathisanten [Sympathisant 1], id:40512, 5269>
-    <OrtPraesidium Praesidium [Mitglied 4], id:40519, 5269>
+    <OrtSympathisanten Sympathisanten [Sympathisant 1], id:40514, 5269>
+    <OrtPraesidium Praesidium [Mitglied 4], id:40521, 5269>
     <OrtGewaehlte Bildung, id:5270, 5269>
      <OrtGewaehlte Schulpflege [Schulpflegekommission 1], id:5271, 5270>
     <OrtMitglieder Mitgliedschaften [Mitglied 34], id:5280, 5269>
     <OrtPraesidium Vorstand [Kassier 2, Mitglied 1, Praesident 2], id:5283, 5269>
     <OrtSekretariat Sekretariat [Mitarbeiter 1], id:5284, 5269>
    <Ort Embrach, id:6685, 5225>
-    <OrtSympathisanten Sympathisanten [Sympathisant 3], id:40520, 6685>
+    <OrtSympathisanten Sympathisanten [Sympathisant 3], id:40522, 6685>
     <OrtGewaehlte Bildung, id:6686, 6685>
      <OrtGewaehlte Schulpflege [Schulpflegekommission 2], id:6687, 6686>
     <OrtGewaehlte Exekutive [KommunaleExekutive 1], id:6689, 6685>
@@ -106,7 +110,7 @@
     <OrtPraesidium Vorstand [Kassier 1, Mitglied 7, Praesident 1], id:6693, 6685>
     <OrtSekretariat Sekretariat [Mitarbeiter 1], id:6694, 6685>
    <Ort Kloten, id:5469, 5225>
-    <OrtSympathisanten Sympathisanten [Sympathisant 5], id:40528, 5469>
+    <OrtSympathisanten Sympathisanten [Sympathisant 5], id:40530, 5469>
     <OrtGewaehlte Bildung, id:5470, 5469>
      <OrtGewaehlte Schulpflege [Schulpflegekommission 7], id:5471, 5470>
     <OrtGewaehlte Exekutive [KommunaleExekutive 15], id:5472, 5469>
@@ -117,7 +121,7 @@
     <OrtPraesidium Vorstand [Kassier 4, Mitglied 4, Praesident 8], id:5483, 5469>
     <OrtSekretariat Sekretariat [Mitarbeiter 2], id:5484, 5469>
    <Ort Opfikon-Glattbrugg, id:5669, 5225>
-    <OrtSympathisanten Sympathisanten [Sympathisant 2], id:40536, 5669>
+    <OrtSympathisanten Sympathisanten [Sympathisant 2], id:40538, 5669>
     <OrtGewaehlte Bildung, id:5670, 5669>
      <OrtGewaehlte Schulpflege [Schulpflegekommission 2], id:5671, 5670>
     <OrtGewaehlte Exekutive [KommunaleExekutive 3], id:5672, 5669>
@@ -130,7 +134,7 @@
     <OrtPraesidium Vorstand [Kassier 2, Mitglied 5, Praesident 2], id:5683, 5669>
     <OrtSekretariat Sekretariat [Mitarbeiter 2], id:5684, 5669>
    <Ort Wallisellen, id:6885, 5225>
-    <OrtSympathisanten Sympathisanten [Sympathisant 2], id:40544, 6885>
+    <OrtSympathisanten Sympathisanten [Sympathisant 2], id:40546, 6885>
     <OrtGewaehlte Bildung, id:6886, 6885>
      <OrtGewaehlte Schulpflege [Schulpflegekommission 2], id:6887, 6886>
     <OrtMitglieder Mitgliedschaften [Mitglied 22], id:6891, 6885>
@@ -142,15 +146,15 @@
    <RegionMitglieder Mitgliedschaften [Mitglied 5], id:5619, 5603>
    <RegionPraesidium Vorstand [Kassier 3, Mitglied 2, Praesident 1], id:5622, 5603>
    <Ort Niederhasli-Niederglatt, id:7085, 5603>
-    <OrtSympathisanten Sympathisanten [Sympathisant 35], id:40566, 7085>
-    <OrtPraesidium Praesidium [Mitglied 2], id:40573, 7085>
+    <OrtSympathisanten Sympathisanten [Sympathisant 35], id:40568, 7085>
+    <OrtPraesidium Praesidium [Mitglied 2], id:40575, 7085>
     <OrtGewaehlte Bildung, id:7086, 7085>
      <OrtGewaehlte Schulpflege [Schulpflegekommission 2], id:7087, 7086>
     <OrtGewaehlte Exekutive [KommunaleExekutive 2], id:7089, 7085>
     <OrtMitglieder Mitgliedschaften [Mitglied 58], id:7091, 7085>
     <OrtPraesidium Vorstand [Kassier 3, Mitglied 3, Praesident 2], id:7093, 7085>
    <Ort Regensdorf-Furttal, id:7285, 5603>
-    <OrtSympathisanten Sympathisanten [Sympathisant 43], id:40574, 7285>
+    <OrtSympathisanten Sympathisanten [Sympathisant 43], id:40576, 7285>
     <OrtGewaehlte Bildung, id:7286, 7285>
      <OrtGewaehlte Schulpflege [Schulpflegekommission 2], id:7287, 7286>
     <OrtGewaehlte Exekutive [KommunaleExekutive 2], id:7289, 7285>
@@ -160,7 +164,7 @@
    <Ort zz-Orte ohne CVP Partei, id:5604, 5603>
     <OrtGewaehlte Exekutive [KommunaleExekutive 1], id:5609, 5604>
   <Region Bezirk Dietikon, id:5625, 5181>
-   <RegionSympathisanten Sympathisanten [Sympathisant 1], id:40591, 5625>
+   <RegionSympathisanten Sympathisanten [Sympathisant 1], id:40593, 5625>
    <RegionDelegierte DV [Delegierte 8], id:5641, 5625>
    <RegionGewaehlte Exekutive, id:5633, 5625>
     <RegionGewaehlte Bezirksrat [RegionExekutive 1], id:5634, 5633>
@@ -169,7 +173,7 @@
    <RegionPraesidium Vorstand [Mitglied 9], id:5640, 5625>
    <RegionSekretariat Sekretariat [Mitarbeiter 1], id:5642, 5625>
    <Ort Birmensdorf, id:7485, 5625>
-    <OrtSympathisanten Sympathisanten [Sympathisant 16], id:40596, 7485>
+    <OrtSympathisanten Sympathisanten [Sympathisant 16], id:40598, 7485>
     <OrtGewaehlte Bildung, id:7486, 7485>
      <OrtGewaehlte Schulpflege [Schulpflegekommission 1], id:7487, 7486>
     <OrtGewaehlte Exekutive [KommunaleExekutive 2], id:7489, 7485>
@@ -177,8 +181,8 @@
     <OrtPraesidium Vorstand [Mitglied 3, Praesident 1], id:7493, 7485>
     <OrtSekretariat Sekretariat [Mitarbeiter 1], id:7494, 7485>
    <Ort Dietikon, id:5869, 5625>
-    <OrtSympathisanten Sympathisanten [Sympathisant 39], id:40604, 5869>
-    <OrtPraesidium Praesidium [Mitglied 1], id:40611, 5869>
+    <OrtSympathisanten Sympathisanten [Sympathisant 39], id:40606, 5869>
+    <OrtPraesidium Praesidium [Mitglied 1], id:40613, 5869>
     <OrtGewaehlte Bildung, id:5870, 5869>
      <OrtGewaehlte Schulpflege [Schulpflegekommission 4], id:5871, 5870>
     <OrtGewaehlte Legislative, id:5875, 5869>
@@ -189,7 +193,7 @@
     <OrtMitglieder Mitgliedschaften [Mitglied 140], id:5880, 5869>
     <OrtPraesidium Vorstand [Kassier 1, Mitglied 5, Praesident 2], id:5883, 5869>
    <Ort Geroldswil, id:7685, 5625>
-    <OrtSympathisanten Sympathisanten [Sympathisant 2], id:40612, 7685>
+    <OrtSympathisanten Sympathisanten [Sympathisant 2], id:40614, 7685>
     <OrtGewaehlte Bildung, id:7686, 7685>
      <OrtGewaehlte Schulpflege [Schulpflegekommission 1], id:7687, 7686>
     <OrtGewaehlte Exekutive [KommunaleExekutive 1], id:7689, 7685>
@@ -197,14 +201,14 @@
     <OrtPraesidium Vorstand [Kassier 3, Mitglied 1, Praesident 1], id:7693, 7685>
     <OrtSekretariat Sekretariat [Mitarbeiter 2], id:7694, 7685>
    <Ort Oberengstringen, id:7885, 5625>
-    <OrtSympathisanten Sympathisanten [Sympathisant 16], id:40620, 7885>
+    <OrtSympathisanten Sympathisanten [Sympathisant 16], id:40622, 7885>
     <OrtGewaehlte Exekutive [KommunaleExekutive 2], id:7889, 7885>
     <OrtMitglieder Mitgliedschaften [Mitglied 15], id:7891, 7885>
     <OrtPraesidium Vorstand [Mitglied 2, Praesident 1], id:7893, 7885>
     <OrtSekretariat Sekretariat [Mitarbeiter 1], id:7894, 7885>
    <Ort Schlieren, id:6069, 5625>
-    <OrtSympathisanten Sympathisanten [Sympathisant 50], id:40628, 6069>
-    <OrtPraesidium Praesidium [Mitglied 5], id:40635, 6069>
+    <OrtSympathisanten Sympathisanten [Sympathisant 50], id:40630, 6069>
+    <OrtPraesidium Praesidium [Mitglied 5], id:40637, 6069>
     <OrtGewaehlte Bildung, id:6070, 6069>
      <OrtGewaehlte Schulpflege [Schulpflegekommission 2], id:6071, 6070>
     <OrtGewaehlte Legislative, id:6075, 6069>
@@ -214,15 +218,15 @@
     <OrtPraesidium Vorstand [Kassier 1, Mitglied 3, Praesident 4], id:6083, 6069>
     <OrtSekretariat Sekretariat [Mitarbeiter 2], id:6084, 6069>
    <Ort Uitikon, id:8085, 5625>
-    <OrtSympathisanten Sympathisanten [Sympathisant 13], id:40636, 8085>
-    <OrtPraesidium Praesidium [Mitglied 1], id:40643, 8085>
+    <OrtSympathisanten Sympathisanten [Sympathisant 13], id:40638, 8085>
+    <OrtPraesidium Praesidium [Mitglied 1], id:40645, 8085>
     <OrtGewaehlte Bildung, id:8086, 8085>
      <OrtGewaehlte Schulpflege [Schulpflegekommission 1], id:8087, 8086>
     <OrtMitglieder Mitgliedschaften [Mitglied 22], id:8091, 8085>
     <OrtPraesidium Vorstand [Kassier 1, Mitglied 4, Praesident 2], id:8093, 8085>
     <OrtSekretariat Sekretariat [Mitarbeiter 1], id:8094, 8085>
    <Ort Urdorf, id:8285, 5625>
-    <OrtSympathisanten Sympathisanten [Sympathisant 102], id:40644, 8285>
+    <OrtSympathisanten Sympathisanten [Sympathisant 102], id:40646, 8285>
     <OrtGewaehlte Bildung, id:8286, 8285>
      <OrtGewaehlte Schulpflege [Schulpflegekommission 2], id:8287, 8286>
     <OrtMitglieder Mitgliedschaften [Mitglied 46], id:8291, 8285>
@@ -234,8 +238,8 @@
    <RegionPraesidium Vorstand [Kassier 1, Praesident 4], id:5822, 5803>
    <RegionSekretariat Sekretariat [Mitarbeiter 1], id:5824, 5803>
    <Ort Bubikon, id:8485, 5803>
-    <OrtSympathisanten Sympathisanten [Sympathisant 21], id:40657, 8485>
-    <OrtPraesidium Praesidium [Mitglied 2], id:40664, 8485>
+    <OrtSympathisanten Sympathisanten [Sympathisant 21], id:40659, 8485>
+    <OrtPraesidium Praesidium [Mitglied 2], id:40666, 8485>
     <OrtGewaehlte Bildung, id:8486, 8485>
      <OrtGewaehlte Schulpflege [Schulpflegekommission 1], id:8487, 8486>
     <OrtGewaehlte Exekutive [KommunaleExekutive 1], id:8489, 8485>
@@ -243,7 +247,7 @@
     <OrtPraesidium Vorstand [Kassier 1, Mitglied 5, Praesident 2], id:8493, 8485>
     <OrtSekretariat Sekretariat [Mitarbeiter 1], id:8494, 8485>
    <Ort Dürnten, id:8685, 5803>
-    <OrtPraesidium Praesidium [Mitglied 2], id:40672, 8685>
+    <OrtPraesidium Praesidium [Mitglied 2], id:40674, 8685>
     <OrtGewaehlte Bildung, id:8686, 8685>
      <OrtGewaehlte Schulpflege [Schulpflegekommission 3], id:8687, 8686>
     <OrtGewaehlte Exekutive [KommunaleExekutive 1], id:8689, 8685>
@@ -251,23 +255,23 @@
     <OrtPraesidium Vorstand [Kassier 2, Mitglied 4, Praesident 2], id:8693, 8685>
     <OrtSekretariat Sekretariat [Mitarbeiter 2], id:8694, 8685>
    <Ort Gossau, id:8885, 5803>
-    <OrtSympathisanten Sympathisanten [Sympathisant 5], id:40673, 8885>
+    <OrtSympathisanten Sympathisanten [Sympathisant 5], id:40675, 8885>
     <OrtGewaehlte Bildung, id:8886, 8885>
      <OrtGewaehlte Schulpflege [Schulpflegekommission 1], id:8887, 8886>
     <OrtMitglieder Mitgliedschaften [Mitglied 30], id:8891, 8885>
     <OrtPraesidium Vorstand [Kassier 2, Mitglied 4, Praesident 4], id:8893, 8885>
     <OrtSekretariat Sekretariat [Mitarbeiter 1], id:8894, 8885>
    <Ort Hinwil, id:9085, 5803>
-    <OrtSympathisanten Sympathisanten [Sympathisant 7], id:40681, 9085>
+    <OrtSympathisanten Sympathisanten [Sympathisant 7], id:40683, 9085>
     <OrtGewaehlte Bildung, id:9086, 9085>
      <OrtGewaehlte Schulpflege [Schulpflegekommission 1], id:9087, 9086>
     <OrtMitglieder Mitgliedschaften [Mitglied 31], id:9091, 9085>
     <OrtPraesidium Vorstand [Kassier 1, Mitglied 2, Praesident 1], id:9093, 9085>
     <OrtSekretariat Sekretariat [Mitarbeiter 1], id:9094, 9085>
    <Ort Rüti, id:9285, 5803>
-    <OrtSympathisanten Sympathisanten [Sympathisant 54], id:40689, 9285>
-    <OrtSekretariat Sekretariat [Mitarbeiter 1], id:40693, 9285>
-    <OrtExterneKontakte ExterneKontakte [Kontakt 53], id:40695, 9285>
+    <OrtSympathisanten Sympathisanten [Sympathisant 54], id:40691, 9285>
+    <OrtSekretariat Sekretariat [Mitarbeiter 1], id:40695, 9285>
+    <OrtExterneKontakte ExterneKontakte [Kontakt 53], id:40697, 9285>
     <OrtArbeitsgruppe Streuadressen [Mitglied 12], id:37361, 9285>
     <OrtGewaehlte Bildung, id:9286, 9285>
      <OrtGewaehlte Schulpflege [Fraktionschef 1, Schulpflegekommission 3], id:9287, 9286>
@@ -275,14 +279,14 @@
     <OrtMitglieder Mitgliedschaften [Mitglied 206], id:9291, 9285>
     <OrtPraesidium Vorstand [Kassier 3, Mitglied 4, Praesident 5], id:9293, 9285>
    <Ort Wald, id:9485, 5803>
-    <OrtSympathisanten Sympathisanten [Sympathisant 1], id:40698, 9485>
+    <OrtSympathisanten Sympathisanten [Sympathisant 1], id:40700, 9485>
     <OrtGewaehlte Bildung, id:9486, 9485>
      <OrtGewaehlte Schulpflege [Schulpflegekommission 2], id:9487, 9486>
     <OrtMitglieder Mitgliedschaften [Mitglied 35], id:9491, 9485>
     <OrtPraesidium Vorstand [Mitglied 3, Praesident 2], id:9493, 9485>
     <OrtSekretariat Sekretariat [Mitarbeiter 1], id:9494, 9485>
    <Ort Wetzikon, id:9685, 5803>
-    <OrtPraesidium Praesidium [Mitglied 6], id:40713, 9685>
+    <OrtPraesidium Praesidium [Mitglied 6], id:40715, 9685>
     <OrtGewaehlte Bildung, id:9686, 9685>
      <OrtGewaehlte Schulpflege [Schulpflegekommission 2], id:9687, 9686>
     <OrtGewaehlte Exekutive [KommunaleExekutive 1], id:9689, 9685>
@@ -295,8 +299,8 @@
    <RegionPraesidium Vorstand [Mitglied 4], id:5840, 5825>
    <RegionSekretariat Sekretariat [Mitarbeiter 1], id:5842, 5825>
    <Ort Adliswil, id:6269, 5825>
-    <OrtSympathisanten Sympathisanten [Sympathisant 7], id:40719, 6269>
-    <OrtPraesidium Praesidium [Mitglied 4], id:40726, 6269>
+    <OrtSympathisanten Sympathisanten [Sympathisant 7], id:40721, 6269>
+    <OrtPraesidium Praesidium [Mitglied 4], id:40728, 6269>
     <OrtGewaehlte Bildung, id:6270, 6269>
      <OrtGewaehlte Schulpflege [Schulpflegekommission 3], id:6271, 6270>
     <OrtGewaehlte Exekutive [Fraktionschef 1, KommunaleExekutive 2], id:6272, 6269>
@@ -308,9 +312,10 @@
     <OrtPraesidium Vorstand [Kassier 1, Mitglied 9, Praesident 2], id:6283, 6269>
     <OrtSekretariat Sekretariat [Mitarbeiter 2], id:6284, 6269>
    <Ort Horgen, id:9885, 5825>
-    <OrtSympathisanten Sympathisanten [Sympathisant 136], id:40727, 9885>
-    <OrtExterneKontakte ExterneKontakte [Kontakt 14, Spender 19], id:40732, 9885>
-    <OrtPraesidium Praesidium [Mitglied 2], id:40734, 9885>
+    <OrtSympathisanten Sympathisanten [Sympathisant 136], id:40729, 9885>
+    <OrtExterneKontakte ExterneKontakte [Kontakt 14], id:40734, 9885>
+    <OrtPraesidium Praesidium [Mitglied 2], id:40736, 9885>
+    <OrtExterneKontakte Gönner [Spender 19], id:38203, 9885>
     <OrtGewaehlte Bildung, id:9886, 9885>
      <OrtGewaehlte Schulpflege [Schulpflegekommission 1], id:9887, 9886>
     <OrtGewaehlte Exekutive [KommunaleExekutive 1], id:9889, 9885>
@@ -318,15 +323,15 @@
     <OrtPraesidium Vorstand [Kassier 1, Mitglied 4, Praesident 1], id:9893, 9885>
     <OrtSekretariat Sekretariat [Mitarbeiter 2], id:9894, 9885>
    <Ort Kilchberg, id:10085, 5825>
-    <OrtSympathisanten Sympathisanten [Sympathisant 38], id:40735, 10085>
-    <OrtPraesidium Praesidium [Mitglied 1], id:40742, 10085>
+    <OrtSympathisanten Sympathisanten [Sympathisant 38], id:40737, 10085>
+    <OrtPraesidium Praesidium [Mitglied 1], id:40744, 10085>
     <OrtGewaehlte Exekutive [KommunaleExekutive 1], id:10089, 10085>
     <OrtMitglieder Mitgliedschaften [Mitglied 22], id:10091, 10085>
     <OrtPraesidium Vorstand [Kassier 2, Mitglied 4, Praesident 1], id:10093, 10085>
     <OrtSekretariat Sekretariat [Mitarbeiter 1], id:10094, 10085>
    <Ort Langnau, id:10285, 5825>
-    <OrtSympathisanten Sympathisanten [Sympathisant 33], id:40743, 10285>
-    <OrtPraesidium Praesidium [Mitglied 3], id:40750, 10285>
+    <OrtSympathisanten Sympathisanten [Sympathisant 33], id:40745, 10285>
+    <OrtPraesidium Praesidium [Mitglied 3], id:40752, 10285>
     <OrtGewaehlte Bildung, id:10286, 10285>
      <OrtGewaehlte Schulpflege [Schulpflegekommission 1], id:10287, 10286>
     <OrtGewaehlte Exekutive [Fraktionschef 1, KommunaleExekutive 1], id:10289, 10285>
@@ -334,15 +339,15 @@
     <OrtPraesidium Vorstand [Kassier 1, Mitglied 2, Praesident 1], id:10293, 10285>
     <OrtSekretariat Sekretariat [Mitarbeiter 1], id:10294, 10285>
    <Ort Oberrieden, id:10485, 5825>
-    <OrtSympathisanten Sympathisanten [Sympathisant 9], id:40751, 10485>
-    <OrtPraesidium Praesidium [Mitglied 2], id:40758, 10485>
+    <OrtSympathisanten Sympathisanten [Sympathisant 9], id:40753, 10485>
+    <OrtPraesidium Praesidium [Mitglied 2], id:40760, 10485>
     <OrtGewaehlte Bildung, id:10486, 10485>
      <OrtGewaehlte Schulpflege [Schulpflegekommission 1], id:10487, 10486>
     <OrtMitglieder Mitgliedschaften [Mitglied 12], id:10491, 10485>
     <OrtPraesidium Vorstand [Mitglied 1, Praesident 2], id:10493, 10485>
     <OrtSekretariat Sekretariat [Mitarbeiter 1], id:10494, 10485>
    <Ort Richterswil, id:10685, 5825>
-    <OrtPraesidium Praesidium [Mitglied 2], id:40766, 10685>
+    <OrtPraesidium Praesidium [Mitglied 2], id:40768, 10685>
     <OrtGewaehlte Bildung, id:10686, 10685>
      <OrtGewaehlte Schulpflege [Schulpflegekommission 2], id:10687, 10686>
     <OrtGewaehlte Exekutive [KommunaleExekutive 1], id:10689, 10685>
@@ -350,22 +355,22 @@
     <OrtPraesidium Vorstand [Kassier 2, Praesident 4], id:10693, 10685>
     <OrtSekretariat Sekretariat [Mitarbeiter 2], id:10694, 10685>
    <Ort Rüschlikon, id:10885, 5825>
-    <OrtSympathisanten Sympathisanten [Sympathisant 4], id:40767, 10885>
+    <OrtSympathisanten Sympathisanten [Sympathisant 4], id:40769, 10885>
     <OrtGewaehlte Exekutive [Fraktionschef 1, KommunaleExekutive 1], id:10889, 10885>
     <OrtMitglieder Mitgliedschaften [Mitglied 20], id:10891, 10885>
     <OrtPraesidium Vorstand [Mitglied 2, Praesident 1], id:10893, 10885>
     <OrtSekretariat Sekretariat [Mitarbeiter 1], id:10894, 10885>
    <Ort Thalwil, id:11085, 5825>
-    <OrtSympathisanten Sympathisanten [Sympathisant 3], id:40775, 11085>
-    <OrtPraesidium Praesidium [Mitglied 6], id:40782, 11085>
+    <OrtSympathisanten Sympathisanten [Sympathisant 3], id:40777, 11085>
+    <OrtPraesidium Praesidium [Mitglied 6], id:40784, 11085>
     <OrtGewaehlte Bildung, id:11086, 11085>
      <OrtGewaehlte Schulpflege [Schulpflegekommission 2], id:11087, 11086>
     <OrtGewaehlte Exekutive [KommunaleExekutive 1], id:11089, 11085>
     <OrtMitglieder Mitgliedschaften [Mitglied 44], id:11091, 11085>
     <OrtPraesidium Vorstand [Mitglied 1, Praesident 2], id:11093, 11085>
    <Ort Wädenswil, id:6469, 5825>
-    <OrtSympathisanten Sympathisanten [Sympathisant 133], id:40783, 6469>
-    <OrtPraesidium Praesidium [Mitglied 1], id:40790, 6469>
+    <OrtSympathisanten Sympathisanten [Sympathisant 133], id:40785, 6469>
+    <OrtPraesidium Praesidium [Mitglied 1], id:40792, 6469>
     <OrtGewaehlte Bildung, id:6470, 6469>
      <OrtGewaehlte Schulpflege [Schulpflegekommission 3], id:6471, 6470>
     <OrtGewaehlte Exekutive [Fraktionschef 1, KommunaleExekutive 3], id:6472, 6469>
@@ -378,43 +383,43 @@
     <OrtPraesidium Vorstand [Kassier 1, Mitglied 5, Praesident 4], id:6483, 6469>
     <OrtSekretariat Sekretariat [Mitarbeiter 2], id:6484, 6469>
   <Region Bezirk Meilen, id:6025, 5181>
-   <RegionSympathisanten Sympathisanten [Sympathisant 15], id:40791, 6025>
+   <RegionSympathisanten Sympathisanten [Sympathisant 15], id:40793, 6025>
    <RegionDelegierte DV [Delegierte 19], id:6041, 6025>
    <RegionMitglieder Mitgliedschaften [Mitglied 11], id:6037, 6025>
    <RegionPraesidium Präsidium [Praesident 2], id:6039, 6025>
    <RegionPraesidium Vorstand [Mitglied 2], id:6040, 6025>
    <RegionSekretariat Sekretariat [Mitarbeiter 1], id:6042, 6025>
    <Ort Erlenbach-Küsnacht, id:11285, 6025>
-    <OrtSympathisanten Sympathisanten [Sympathisant 11], id:40796, 11285>
-    <OrtPraesidium Praesidium [Mitglied 4], id:40803, 11285>
+    <OrtSympathisanten Sympathisanten [Sympathisant 11], id:40798, 11285>
+    <OrtPraesidium Praesidium [Mitglied 4], id:40805, 11285>
     <OrtGewaehlte Bildung, id:11286, 11285>
      <OrtGewaehlte Schulpflege [Schulpflegekommission 1], id:11287, 11286>
     <OrtMitglieder Mitgliedschaften [Mitglied 56], id:11291, 11285>
     <OrtPraesidium Vorstand [Kassier 1, Mitglied 3, Praesident 3], id:11293, 11285>
     <OrtSekretariat Sekretariat [Mitarbeiter 1], id:11294, 11285>
    <Ort Herrliberg, id:11485, 6025>
-    <OrtSympathisanten Sympathisanten [Sympathisant 5], id:40804, 11485>
+    <OrtSympathisanten Sympathisanten [Sympathisant 5], id:40806, 11485>
     <OrtGewaehlte Bildung, id:11486, 11485>
      <OrtGewaehlte Schulpflege [Schulpflegekommission 1], id:11487, 11486>
     <OrtMitglieder Mitgliedschaften [Mitglied 22], id:11491, 11485>
    <Ort Hombrechtikon, id:11685, 6025>
-    <OrtSympathisanten Sympathisanten [Sympathisant 10], id:40812, 11685>
-    <OrtPraesidium Praesidium [Mitglied 1], id:40819, 11685>
+    <OrtSympathisanten Sympathisanten [Sympathisant 10], id:40814, 11685>
+    <OrtPraesidium Praesidium [Mitglied 1], id:40821, 11685>
     <OrtGewaehlte Bildung, id:11686, 11685>
      <OrtGewaehlte Schulpflege [Schulpflegekommission 1], id:11687, 11686>
     <OrtMitglieder Mitgliedschaften [Mitglied 22], id:11691, 11685>
     <OrtPraesidium Vorstand [Mitglied 1, Praesident 1], id:11693, 11685>
    <Ort Meilen, id:12085, 6025>
-    <OrtSympathisanten Sympathisanten [Sympathisant 29], id:40820, 12085>
-    <OrtPraesidium Praesidium [Mitglied 2], id:40827, 12085>
+    <OrtSympathisanten Sympathisanten [Sympathisant 29], id:40822, 12085>
+    <OrtPraesidium Praesidium [Mitglied 2], id:40829, 12085>
     <OrtGewaehlte Bildung, id:12086, 12085>
      <OrtGewaehlte Schulpflege [Schulpflegekommission 1], id:12087, 12086>
     <OrtMitglieder Mitgliedschaften [Mitglied 32], id:12091, 12085>
     <OrtPraesidium Vorstand [Kassier 1, Mitglied 4, Praesident 1], id:12093, 12085>
     <OrtSekretariat Sekretariat [Mitarbeiter 1], id:12094, 12085>
    <Ort Männedorf, id:11885, 6025>
-    <OrtSympathisanten Sympathisanten [Sympathisant 51], id:40828, 11885>
-    <OrtPraesidium Praesidium [Mitglied 3], id:40835, 11885>
+    <OrtSympathisanten Sympathisanten [Sympathisant 51], id:40830, 11885>
+    <OrtPraesidium Praesidium [Mitglied 3], id:40837, 11885>
     <OrtGewaehlte Bildung, id:11886, 11885>
      <OrtGewaehlte Schulpflege [Schulpflegekommission 2], id:11887, 11886>
     <OrtGewaehlte Exekutive [KommunaleExekutive 2], id:11889, 11885>
@@ -422,13 +427,13 @@
     <OrtPraesidium Vorstand [Mitglied 3, Praesident 2], id:11893, 11885>
     <OrtSekretariat Sekretariat [Mitarbeiter 1], id:11894, 11885>
    <Ort Oetwil am See, id:12285, 6025>
-    <OrtSympathisanten Sympathisanten [Sympathisant 5], id:40836, 12285>
+    <OrtSympathisanten Sympathisanten [Sympathisant 5], id:40838, 12285>
     <OrtGewaehlte Bildung, id:12286, 12285>
      <OrtGewaehlte Schulpflege [Schulpflegekommission 1], id:12287, 12286>
     <OrtMitglieder Mitgliedschaften [Mitglied 8], id:12291, 12285>
    <Ort Stäfa, id:12485, 6025>
-    <OrtSympathisanten Sympathisanten [Sympathisant 1], id:40844, 12485>
-    <OrtPraesidium Praesidium [Mitglied 3], id:40851, 12485>
+    <OrtSympathisanten Sympathisanten [Sympathisant 1], id:40846, 12485>
+    <OrtPraesidium Praesidium [Mitglied 3], id:40853, 12485>
     <OrtGewaehlte Bildung, id:12486, 12485>
      <OrtGewaehlte Schulpflege [Schulpflegekommission 1], id:12487, 12486>
     <OrtGewaehlte Exekutive [KommunaleExekutive 1], id:12489, 12485>
@@ -436,26 +441,26 @@
     <OrtPraesidium Vorstand [Kassier 1, Mitglied 3, Praesident 4], id:12493, 12485>
     <OrtSekretariat Sekretariat [Mitarbeiter 1], id:12494, 12485>
    <Ort Uetikon am See, id:12685, 6025>
-    <OrtSympathisanten Sympathisanten [Sympathisant 32], id:40852, 12685>
+    <OrtSympathisanten Sympathisanten [Sympathisant 32], id:40854, 12685>
     <OrtMitglieder Mitgliedschaften [Mitglied 16], id:12691, 12685>
     <OrtPraesidium Vorstand [Kassier 1, Mitglied 3, Praesident 1], id:12693, 12685>
     <OrtSekretariat Sekretariat [Mitarbeiter 1], id:12694, 12685>
    <Ort Zollikon, id:38655, 6025>
-    <OrtSympathisanten Sympathisanten [Sympathisant 13], id:40860, 38655>
+    <OrtSympathisanten Sympathisanten [Sympathisant 13], id:40862, 38655>
     <OrtMitglieder Mitgliedschaften [Mitglied 8], id:38667, 38655>
    <Ort Zumikon, id:12885, 6025>
-    <OrtSympathisanten Sympathisanten [Sympathisant 8], id:40869, 12885>
-    <OrtPraesidium Praesidium [Mitglied 1], id:40876, 12885>
+    <OrtSympathisanten Sympathisanten [Sympathisant 8], id:40871, 12885>
+    <OrtPraesidium Praesidium [Mitglied 1], id:40878, 12885>
     <OrtMitglieder Mitgliedschaften [Mitglied 13], id:12891, 12885>
     <OrtPraesidium Vorstand [Mitglied 1, Praesident 1], id:12893, 12885>
     <OrtSekretariat Sekretariat [Mitarbeiter 1], id:12894, 12885>
   <Region Bezirk Pfäffikon, id:6003, 5181>
-   <RegionSympathisanten Sympathisanten [Sympathisant 13], id:40886, 6003>
+   <RegionSympathisanten Sympathisanten [Sympathisant 13], id:40888, 6003>
    <RegionDelegierte DV [Delegierte 8], id:6023, 6003>
    <RegionMitglieder Mitgliedschaften [Mitglied 29], id:6019, 6003>
    <RegionPraesidium Vorstand [Kassier 1, Mitglied 1, Praesident 2], id:6022, 6003>
    <Ort Effretikon, id:6669, 6003>
-    <OrtSympathisanten Sympathisanten [Sympathisant 34], id:40891, 6669>
+    <OrtSympathisanten Sympathisanten [Sympathisant 34], id:40893, 6669>
     <OrtGewaehlte Bildung, id:6670, 6669>
      <OrtGewaehlte Schulpflege [Schulpflegekommission 1], id:6671, 6670>
     <OrtGewaehlte Exekutive [KommunaleExekutive 1], id:6672, 6669>
@@ -467,18 +472,18 @@
     <OrtPraesidium Vorstand [Kassier 2, Mitglied 6, Praesident 2], id:6683, 6669>
     <OrtSekretariat Sekretariat [Mitarbeiter 1], id:6684, 6669>
    <Ort Gönner, id:36689, 6003>
-    <OrtMitglieder Mitglieder [Mitglied 1], id:40904, 36689>
+    <OrtMitglieder Mitglieder [Mitglied 1], id:40906, 36689>
    <Ort zz-Orte ohne CVP Partei, id:6004, 6003>
     <OrtGewaehlte Bildung, id:6006, 6004>
      <OrtGewaehlte Schulpflege [Schulpflegekommission 1], id:6007, 6006>
   <Region Bezirk Uster, id:6203, 5181>
-   <RegionSympathisanten Sympathisanten [Sympathisant 3], id:40917, 6203>
+   <RegionSympathisanten Sympathisanten [Sympathisant 3], id:40919, 6203>
    <RegionDelegierte DV [Delegierte 3], id:6223, 6203>
    <RegionMitglieder Mitgliedschaften [Mitglied 12], id:6219, 6203>
    <RegionPraesidium Vorstand [Mitglied 1, Praesident 5], id:6222, 6203>
    <Ort Dübendorf, id:6869, 6203>
-    <OrtSympathisanten Sympathisanten [Sympathisant 21], id:40922, 6869>
-    <OrtPraesidium Praesidium [Mitglied 1], id:40929, 6869>
+    <OrtSympathisanten Sympathisanten [Sympathisant 21], id:40924, 6869>
+    <OrtPraesidium Praesidium [Mitglied 1], id:40931, 6869>
     <OrtGewaehlte Exekutive [KommunaleExekutive 3], id:6872, 6869>
     <OrtGewaehlte Legislative [KommunaleExekutive 5], id:6875, 6869>
      <OrtGewaehlte Büro [KommunaleExekutive 2], id:6878, 6875>
@@ -491,29 +496,29 @@
     <OrtPraesidium Vorstand [Kassier 2, Mitglied 10, Praesident 9], id:6883, 6869>
     <OrtSekretariat Sekretariat [Mitarbeiter 2], id:6884, 6869>
    <Ort Fällanden, id:13285, 6203>
-    <OrtSympathisanten Sympathisanten [Sympathisant 4], id:40930, 13285>
-    <OrtPraesidium Praesidium [Mitglied 1], id:40937, 13285>
+    <OrtSympathisanten Sympathisanten [Sympathisant 4], id:40932, 13285>
+    <OrtPraesidium Praesidium [Mitglied 1], id:40939, 13285>
     <OrtMitglieder Mitgliedschaften [Mitglied 32], id:13291, 13285>
     <OrtPraesidium Vorstand [Kassier 1, Mitglied 3, Praesident 1], id:13293, 13285>
     <OrtSekretariat Sekretariat [Mitarbeiter 1], id:13294, 13285>
    <Ort Greifensee, id:13485, 6203>
-    <OrtPraesidium Praesidium [Mitglied 1], id:40945, 13485>
+    <OrtPraesidium Praesidium [Mitglied 1], id:40947, 13485>
     <OrtGewaehlte Exekutive [KommunaleExekutive 1], id:13489, 13485>
     <OrtMitglieder Mitgliedschaften [Mitglied 23], id:13491, 13485>
     <OrtPraesidium Vorstand [Mitglied 4, Praesident 1], id:13493, 13485>
     <OrtSekretariat Sekretariat [Mitarbeiter 1], id:13494, 13485>
    <Ort Maur-Egg, id:34934, 6203>
-    <OrtSympathisanten Sympathisanten [Sympathisant 9], id:40946, 34934>
+    <OrtSympathisanten Sympathisanten [Sympathisant 9], id:40948, 34934>
     <OrtMitglieder Mitgliedschaften [Mitglied 46], id:35011, 34934>
     <OrtPraesidium Partei [Adressverwalter 40, Praesident 2], id:34935, 34934>
    <Ort Schwerzenbach, id:13685, 6203>
-    <OrtSympathisanten Sympathisanten [Sympathisant 13], id:40964, 13685>
+    <OrtSympathisanten Sympathisanten [Sympathisant 13], id:40966, 13685>
     <OrtGewaehlte Exekutive [KommunaleExekutive 1], id:13689, 13685>
     <OrtMitglieder Mitgliedschaften [Mitglied 15], id:13691, 13685>
     <OrtPraesidium Vorstand [Kassier 1, Mitglied 2, Praesident 1], id:13693, 13685>
    <Ort Uster, id:7069, 6203>
-    <OrtSympathisanten Sympathisanten [Sympathisant 47], id:40972, 7069>
-    <OrtPraesidium Praesidium [Mitglied 3], id:40979, 7069>
+    <OrtSympathisanten Sympathisanten [Sympathisant 47], id:40974, 7069>
+    <OrtPraesidium Praesidium [Mitglied 3], id:40981, 7069>
     <OrtGewaehlte Bildung, id:7070, 7069>
      <OrtGewaehlte Schulpflege [Schulpflegekommission 1], id:7071, 7070>
     <OrtGewaehlte Legislative, id:7075, 7069>
@@ -522,13 +527,13 @@
     <OrtPraesidium Vorstand [Kassier 1, Mitglied 2, Praesident 1], id:7083, 7069>
     <OrtSekretariat Sekretariat [Mitarbeiter 1], id:7084, 7069>
    <Ort Volketswil, id:13885, 6203>
-    <OrtSympathisanten Sympathisanten [Sympathisant 8], id:40980, 13885>
+    <OrtSympathisanten Sympathisanten [Sympathisant 8], id:40982, 13885>
     <OrtGewaehlte Exekutive [Fraktionschef 1, KommunaleExekutive 1], id:13889, 13885>
     <OrtMitglieder Mitgliedschaften [Mitglied 32], id:13891, 13885>
     <OrtPraesidium Vorstand [Kassier 2, Mitglied 1, Praesident 2], id:13893, 13885>
     <OrtSekretariat Sekretariat [Mitarbeiter 1], id:13894, 13885>
   <Region Bezirk Winterthur, id:6403, 5181>
-   <RegionSympathisanten Sympathisanten [Sympathisant 6], id:40997, 6403>
+   <RegionSympathisanten Sympathisanten [Sympathisant 6], id:40999, 6403>
    <RegionDelegierte DV [Delegierte 3], id:6423, 6403>
    <RegionGewaehlte Judikative, id:6416, 6403>
     <RegionGewaehlte Bezirksgericht [RegionJudikative 2], id:6417, 6416>
@@ -536,11 +541,11 @@
    <RegionPraesidium Vorstand [Kassier 2, Mitglied 2, Praesident 1], id:6422, 6403>
    <RegionSekretariat Sekretariat [Mitarbeiter 1], id:6424, 6403>
    <Ort Seuzach-Hettlingen, id:33532, 6403>
-    <OrtPraesidium Praesidium [Mitglied 1], id:41009, 33532>
+    <OrtPraesidium Praesidium [Mitglied 1], id:41011, 33532>
     <OrtMitglieder Mitgliedschaften [Mitglied 8], id:33550, 33532>
     <OrtPraesidium Vorstand [Mitglied 1, Praesident 1], id:33535, 33532>
    <Ort Wiesendangen, id:14085, 6403>
-    <OrtPraesidium Praesidium [Mitglied 2], id:41017, 14085>
+    <OrtPraesidium Praesidium [Mitglied 2], id:41019, 14085>
     <OrtGewaehlte Bildung, id:14086, 14085>
      <OrtGewaehlte Schulpflege [Schulpflegekommission 4], id:14087, 14086>
     <OrtGewaehlte Exekutive [KommunaleExekutive 7], id:14089, 14085>
@@ -548,9 +553,9 @@
     <OrtPraesidium Vorstand [Kassier 3, Mitglied 8, Praesident 3], id:14093, 14085>
     <OrtSekretariat Sekretariat [Mitarbeiter 2], id:14094, 14085>
    <Ort Winterthur, id:5295, 6403>
-    <OrtSympathisanten Sympathisanten [Sympathisant 1361], id:41018, 5295>
-    <OrtExterneKontakte ExterneKontakte [Kontakt 429], id:41023, 5295>
-    <OrtPraesidium Praesidium [Mitglied 7, Vizepraesident 2], id:41025, 5295>
+    <OrtSympathisanten Sympathisanten [Sympathisant 1361], id:41020, 5295>
+    <OrtExterneKontakte ExterneKontakte [Kontakt 429], id:41025, 5295>
+    <OrtPraesidium Praesidium [Mitglied 7, Vizepraesident 2], id:41027, 5295>
     <OrtArbeitsgruppe Geschäftsleitung [Praesident 4], id:5308, 5295>
     <OrtExterneKontakte Newsletter [Kontakt 1468], id:40296, 5295>
     <OrtGewaehlte Bildung, id:5296, 5295>
@@ -561,12 +566,12 @@
     <OrtMitglieder Mitgliedschaften [Mitglied 391], id:5306, 5295>
     <OrtSekretariat Sekretariat [Mitarbeiter 2], id:5309, 5295>
    <Ort Zell, id:14285, 6403>
-    <OrtSympathisanten Sympathisanten [Sympathisant 4], id:41026, 14285>
+    <OrtSympathisanten Sympathisanten [Sympathisant 4], id:41028, 14285>
     <OrtMitglieder Mitgliedschaften [Mitglied 14], id:14291, 14285>
     <OrtPraesidium Vorstand [Mitglied 2, Praesident 1], id:14293, 14285>
     <OrtSekretariat Sekretariat [Mitarbeiter 1], id:14294, 14285>
   <Region Bezirk Zürich, id:5243, 5181>
-   <RegionSympathisanten Sympathisanten [Sympathisant 7], id:41034, 5243>
+   <RegionSympathisanten Sympathisanten [Sympathisant 7], id:41036, 5243>
    <RegionDelegierte DV [Delegierte 82], id:5266, 5243>
    <RegionGewaehlte Exekutive, id:5252, 5243>
     <RegionGewaehlte Stadtrat [RegionExekutive 1], id:5253, 5252>
@@ -580,51 +585,51 @@
    <RegionPraesidium Vorstand [Mitglied 15], id:5265, 5243>
    <RegionSekretariat Sekretariat [Leitung 5, Mitarbeiter 4], id:5267, 5243>
    <Ort Gönnerclub, id:37374, 5243>
-    <OrtMitglieder Mitglieder [Mitglied 4], id:41044, 37374>
+    <OrtMitglieder Mitglieder [Mitglied 4], id:41046, 37374>
    <Ort Medienverteiler, id:39306, 5243>
-    <OrtArbeitsgruppe Arbeitsgruppe [Mitglied 108], id:41049, 39306>
+    <OrtArbeitsgruppe Arbeitsgruppe [Mitglied 108], id:41051, 39306>
    <Ort Newsletter, id:39305, 5243>
-    <OrtArbeitsgruppe Arbeitsgruppe [Mitglied 341], id:41058, 39305>
+    <OrtArbeitsgruppe Arbeitsgruppe [Mitglied 341], id:41060, 39305>
    <Ort Zürich 1 + 2, id:5311, 5243>
-    <OrtSympathisanten Sympathisanten [Sympathisant 11], id:41066, 5311>
-    <OrtPraesidium Praesidium [Mitglied 3], id:41073, 5311>
+    <OrtSympathisanten Sympathisanten [Sympathisant 11], id:41068, 5311>
+    <OrtPraesidium Praesidium [Mitglied 3], id:41075, 5311>
     <OrtMitglieder Mitgliedschaften [Mitglied 55], id:5316, 5311>
     <OrtPraesidium Vorstand [Kassier 1, Mitglied 2, Praesident 3], id:5318, 5311>
    <Ort Zürich 11, id:5711, 5243>
-    <OrtSympathisanten Sympathisanten [Sympathisant 7], id:41074, 5711>
-    <OrtPraesidium Praesidium [Mitglied 1], id:41081, 5711>
+    <OrtSympathisanten Sympathisanten [Sympathisant 7], id:41076, 5711>
+    <OrtPraesidium Praesidium [Mitglied 1], id:41083, 5711>
     <OrtGewaehlte Bildung, id:5712, 5711>
      <OrtGewaehlte Schulpflege [Schulpflegekommission 1], id:5713, 5712>
     <OrtMitglieder Mitgliedschaften [Mitglied 74], id:5716, 5711>
     <OrtPraesidium Vorstand [Kassier 1, Mitglied 8, Praesident 1], id:5718, 5711>
    <Ort Zürich 12, id:5911, 5243>
-    <OrtSympathisanten Sympathisanten [Sympathisant 9], id:41082, 5911>
+    <OrtSympathisanten Sympathisanten [Sympathisant 9], id:41084, 5911>
     <OrtGewaehlte Bildung, id:5912, 5911>
      <OrtGewaehlte Schulpflege [Schulpflegekommission 4], id:5913, 5912>
     <OrtMitglieder Mitgliedschaften [Mitglied 37], id:5916, 5911>
     <OrtPraesidium Vorstand [Kassier 2, Mitglied 6, Praesident 3], id:5918, 5911>
    <Ort Zürich 3+9, id:6911, 5243>
-    <OrtSympathisanten Sympathisanten [Sympathisant 49], id:41090, 6911>
-    <OrtPraesidium Praesidium [Kassier 3, Mitglied 9], id:41097, 6911>
+    <OrtSympathisanten Sympathisanten [Sympathisant 49], id:41092, 6911>
+    <OrtPraesidium Praesidium [Kassier 3, Mitglied 9], id:41099, 6911>
     <OrtGewaehlte Bildung, id:6912, 6911>
      <OrtGewaehlte Schulpflege [Schulpflegekommission 24], id:6913, 6912>
     <OrtMitglieder Mitgliedschaften [Mitglied 86], id:6916, 6911>
     <OrtPraesidium Vorstand [Mitglied 5], id:6918, 6911>
    <Ort Zürich 4+5, id:6311, 5243>
-    <OrtSympathisanten Sympathisanten [Sympathisant 57], id:41098, 6311>
-    <OrtPraesidium Praesidium [Mitglied 7], id:41105, 6311>
+    <OrtSympathisanten Sympathisanten [Sympathisant 57], id:41100, 6311>
+    <OrtPraesidium Praesidium [Mitglied 7], id:41107, 6311>
     <OrtGewaehlte Bildung, id:6312, 6311>
      <OrtGewaehlte Schulpflege [Schulpflegekommission 2], id:6313, 6312>
     <OrtMitglieder Mitgliedschaften [Mitglied 60], id:6316, 6311>
     <OrtPraesidium Vorstand [Kassier 2, Mitglied 2], id:6318, 6311>
    <Ort Zürich 6 + 10, id:6511, 5243>
-    <OrtSympathisanten Sympathisanten [Sympathisant 25], id:41106, 6511>
-    <OrtPraesidium Praesidium [Mitglied 1], id:41113, 6511>
+    <OrtSympathisanten Sympathisanten [Sympathisant 25], id:41108, 6511>
+    <OrtPraesidium Praesidium [Mitglied 1], id:41115, 6511>
     <OrtMitglieder Mitgliedschaften [Mitglied 83], id:6516, 6511>
     <OrtPraesidium Vorstand [Kassier 2, Mitglied 13, Praesident 1], id:6518, 6511>
    <Ort Zürich 7+8, id:6711, 5243>
-    <OrtSympathisanten Sympathisanten [Sympathisant 133], id:41114, 6711>
-    <OrtPraesidium Praesidium [Mitglied 18], id:41121, 6711>
+    <OrtSympathisanten Sympathisanten [Sympathisant 133], id:41116, 6711>
+    <OrtPraesidium Praesidium [Mitglied 18], id:41123, 6711>
     <OrtGewaehlte Bildung, id:6712, 6711>
      <OrtGewaehlte Schulpflege [Schulpflegekommission 1], id:6713, 6712>
     <OrtMitglieder Mitgliedschaften [Mitglied 86], id:6716, 6711>

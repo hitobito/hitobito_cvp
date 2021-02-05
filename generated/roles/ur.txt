@@ -1,10 +1,14 @@
 <Bund CVP Schweiz, id:1, 0>
+ <BundArbeitsgruppe Arbeitsgruppe [Mitglied 5], id:40421, 1>
+ <BundGewaehlte Departement Bundesrat Nr. 1 [Bundesrat 5], id:14763, 1>
+ <BundGewaehlte Nationalrat [Nationalrat 138], id:14860, 1>
+ <BundGewaehlte Ständerat [Staenderat 48], id:14861, 1>
  <Kanton CVP UR, id:173, 1>
-  <KantonSympathisanten Sympathisanten [Sympathisant 14], id:40424, 173>
-  <KantonPraesidium Praesidium [Kassier 1, Vizepraesident 1], id:40426, 173>
-  <KantonSekretariat Sekretariat [Leitung 1, Mitarbeiter 1], id:40429, 173>
-  <KantonArbeitsgruppe Arbeitsgruppe [Mitglied 32, Praesident 2], id:40432, 173>
-  <KantonArbeitsgruppe Nationale Funktionen [Mitglied 1, Praesident 2, tbd:Ständerat 1], id:38864, 173>
+  <KantonSympathisanten Sympathisanten [Sympathisant 14], id:40426, 173>
+  <KantonPraesidium Praesidium [Kassier 1, Vizepraesident 1], id:40428, 173>
+  <KantonSekretariat Sekretariat [Leitung 1, Mitarbeiter 1], id:40431, 173>
+  <KantonArbeitsgruppe Arbeitsgruppe [Mitglied 32, Praesident 2], id:40434, 173>
+  <KantonArbeitsgruppe Nationale Funktionen [Mitglied 1, Praesident 2], id:38864, 173>
   <KantonArbeitsgruppe Parteitag [Mitglied 20], id:2077, 173>
   <KantonDelegierte DV, id:2074, 173>
    <KantonDelegierte Von Amtes wegen [Delegierte 27], id:34921, 2074>
@@ -18,8 +22,8 @@
   <KantonParteigremium Kontrollkommission [Mitglied 3], id:38863, 173>
   <KantonPraesidium Parteivorstand [Mitglied 5, Praesident 1], id:2073, 173>
   <Ort Altdorf, id:600, 173>
-   <OrtSympathisanten Sympathisanten [Sympathisant 1], id:40438, 600>
-   <OrtGewaehlte Gewaehlte [Rechnungspruefungskommission 2], id:40441, 600>
+   <OrtSympathisanten Sympathisanten [Sympathisant 1], id:40440, 600>
+   <OrtGewaehlte Gewaehlte [Rechnungspruefungskommission 2], id:40443, 600>
    <OrtGewaehlte Exekutive [KommunaleExekutive 3], id:35008, 600>
    <OrtMitglieder Mitgliedschaften [Mitglied 154], id:2057, 600>
    <OrtPraesidium Partei [Praesident 1], id:2058, 600>
@@ -33,7 +37,7 @@
    <OrtMitglieder Mitgliedschaften [Mitglied 86], id:2061, 603>
    <OrtPraesidium Partei [Adressverwalter 1, Praesident 1], id:2062, 603>
   <Ort Erstfeld, id:604, 173>
-   <OrtSympathisanten Sympathisanten [Sympathisant 6], id:40474, 604>
+   <OrtSympathisanten Sympathisanten [Sympathisant 6], id:40476, 604>
    <OrtMitglieder Mitgliedschaften [Mitglied 84], id:2063, 604>
    <OrtPraesidium Partei [Adressverwalter 3, Praesident 2], id:2064, 604>
   <Ort Schattdorf, id:608, 173>

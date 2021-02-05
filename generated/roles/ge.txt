@@ -1,9 +1,13 @@
 <Bund CVP Schweiz, id:1, 0>
+ <BundArbeitsgruppe Arbeitsgruppe [Mitglied 5], id:40421, 1>
+ <BundGewaehlte Departement Bundesrat Nr. 1 [Bundesrat 5], id:14763, 1>
+ <BundGewaehlte Nationalrat [Nationalrat 138], id:14860, 1>
+ <BundGewaehlte Ständerat [Staenderat 47], id:14861, 1>
  <Kanton CVP GE, id:159, 1>
-  <KantonSympathisanten Sympathisanten [Sympathisant 4], id:40424, 159>
-  <KantonPraesidium Praesidium [Mitglied 5], id:40426, 159>
-  <KantonSekretariat Sekretariat [Leitung 6, Mitarbeiter 1], id:40429, 159>
-  <KantonArbeitsgruppe Arbeitsgruppe [Mitglied 59], id:40432, 159>
+  <KantonSympathisanten Sympathisanten [Sympathisant 4], id:40426, 159>
+  <KantonPraesidium Praesidium [Mitglied 5], id:40428, 159>
+  <KantonSekretariat Sekretariat [Leitung 6, Mitarbeiter 1], id:40431, 159>
+  <KantonArbeitsgruppe Arbeitsgruppe [Mitglied 59], id:40434, 159>
   <KantonArbeitsgruppe Groupements, id:34745, 159>
    <KantonArbeitsgruppe Chrétien-Social [Mitglied 42, Praesident 1], id:34872, 34745>
    <KantonArbeitsgruppe Femmes Dc [Mitglied 64, Praesident 2], id:34874, 34745>
@@ -66,7 +70,7 @@
    <OrtMitglieder Mitgliedschaften [Mitglied 13], id:36517, 36513>
    <OrtPraesidium Partei [Adressverwalter 1, Praesident 1], id:36514, 36513>
   <Ort Bardonnex, id:34750, 159>
-   <OrtSekretariat Sekretariat [Leitung 1], id:40451, 34750>
+   <OrtSekretariat Sekretariat [Leitung 1], id:40453, 34750>
    <OrtGewaehlte Exekutive [KommunaleExekutive 7], id:34799, 34750>
    <OrtGewaehlte Legislative [KommunaleExekutive 15], id:34800, 34750>
    <OrtMitglieder Mitgliedschaften [Mitglied 83], id:34851, 34750>
@@ -76,13 +80,13 @@
    <OrtMitglieder Mitgliedschaften [Mitglied 11], id:34852, 34751>
    <OrtPraesidium Partei [Praesident 2], id:34773, 34751>
   <Ort Bernex, id:34752, 159>
-   <OrtSekretariat Sekretariat [Leitung 1], id:40469, 34752>
+   <OrtSekretariat Sekretariat [Leitung 1], id:40471, 34752>
    <OrtGewaehlte Exekutive [KommunaleExekutive 5], id:34804, 34752>
    <OrtGewaehlte Legislative [KommunaleExekutive 12], id:34803, 34752>
    <OrtMitglieder Mitgliedschaften [Mitglied 56], id:34853, 34752>
    <OrtPraesidium Partei [Adressverwalter 4, Kassier 2, Praesident 3], id:34774, 34752>
   <Ort Carouge, id:34753, 159>
-   <OrtSympathisanten Sympathisanten [Sympathisant 18], id:40474, 34753>
+   <OrtSympathisanten Sympathisanten [Sympathisant 18], id:40476, 34753>
    <OrtGewaehlte Legislative [KommunaleExekutive 8], id:34805, 34753>
    <OrtMitglieder Mitgliedschaften [Mitglied 75], id:34854, 34753>
    <OrtPraesidium Partei [Adressverwalter 2, Kassier 2, Mitglied 5, Praesident 4], id:34775, 34753>
@@ -91,13 +95,13 @@
    <OrtMitglieder Mitgliedschaften [Mitglied 56], id:34856, 34755>
    <OrtPraesidium Partei [Adressverwalter 4, Kassier 2, Praesident 1], id:34777, 34755>
   <Ort Chêne-Bourg, id:34756, 159>
-   <OrtSekretariat Sekretariat [Leitung 1], id:40496, 34756>
+   <OrtSekretariat Sekretariat [Leitung 1], id:40498, 34756>
    <OrtGewaehlte Exekutive [KommunaleExekutive 2], id:34812, 34756>
    <OrtGewaehlte Legislative [KommunaleExekutive 3], id:34811, 34756>
    <OrtMitglieder Mitgliedschaften [Mitglied 39], id:34857, 34756>
    <OrtPraesidium Partei [Adressverwalter 3, Mitglied 11, Praesident 2], id:34778, 34756>
   <Ort Coheran, id:34757, 159>
-   <OrtSekretariat Sekretariat [Leitung 1], id:40505, 34757>
+   <OrtSekretariat Sekretariat [Leitung 1], id:40507, 34757>
    <OrtGewaehlte Exekutive [KommunaleExekutive 3], id:34813, 34757>
    <OrtGewaehlte Legislative [KommunaleExekutive 4], id:34814, 34757>
    <OrtMitglieder Mitgliedschaften [Mitglied 35], id:34858, 34757>
@@ -114,19 +118,19 @@
    <OrtMitglieder Mitgliedschaften [Mitglied 19], id:34860, 34759>
    <OrtPraesidium Partei [Adressverwalter 2], id:34782, 34759>
   <Ort Confignon, id:34760, 159>
-   <OrtSekretariat Sekretariat [Leitung 1], id:40541, 34760>
+   <OrtSekretariat Sekretariat [Leitung 1], id:40543, 34760>
    <OrtGewaehlte Exekutive [KommunaleExekutive 4], id:34821, 34760>
    <OrtGewaehlte Legislative [KommunaleExekutive 7], id:34822, 34760>
    <OrtMitglieder Mitgliedschaften [Mitglied 39], id:34861, 34760>
    <OrtPraesidium Partei [Adressverwalter 2, Kassier 2, Mitglied 4, Praesident 3], id:34783, 34760>
   <Ort Genthod, id:34761, 159>
-   <OrtSekretariat Sekretariat [Leitung 1], id:40550, 34761>
+   <OrtSekretariat Sekretariat [Leitung 1], id:40552, 34761>
    <OrtGewaehlte Legislative [KommunaleExekutive 4], id:34824, 34761>
    <OrtMitglieder Mitgliedschaften [Mitglied 23], id:34862, 34761>
    <OrtPraesidium Partei [Adressverwalter 1, Kassier 1, Praesident 3], id:34784, 34761>
   <Ort Grand-Saconnex, id:34762, 159>
-   <OrtSympathisanten Sympathisanten [Sympathisant 1], id:40555, 34762>
-   <OrtSekretariat Sekretariat [Leitung 1], id:40559, 34762>
+   <OrtSympathisanten Sympathisanten [Sympathisant 1], id:40557, 34762>
+   <OrtSekretariat Sekretariat [Leitung 1], id:40561, 34762>
    <OrtGewaehlte Exekutive [KommunaleExekutive 4], id:34825, 34762>
    <OrtGewaehlte Legislative [KommunaleExekutive 7], id:34826, 34762>
    <OrtMitglieder Mitgliedschaften [Mitglied 51], id:34863, 34762>
@@ -136,56 +140,56 @@
    <OrtMitglieder Mitgliedschaften [Mitglied 61], id:34855, 34754>
    <OrtPraesidium Partei [Adressverwalter 3, Praesident 1], id:34776, 34754>
   <Ort Lancy, id:34764, 159>
-   <OrtSympathisanten Sympathisanten [Sympathisant 1], id:40573, 34764>
-   <OrtSekretariat Sekretariat [Leitung 1], id:40577, 34764>
+   <OrtSympathisanten Sympathisanten [Sympathisant 1], id:40575, 34764>
+   <OrtSekretariat Sekretariat [Leitung 1], id:40579, 34764>
    <OrtGewaehlte Exekutive [KommunaleExekutive 4], id:34827, 34764>
    <OrtGewaehlte Legislative [KommunaleExekutive 17], id:34828, 34764>
    <OrtMitglieder Mitgliedschaften [Mitglied 117], id:34864, 34764>
    <OrtPraesidium Partei [Adressverwalter 2, Kassier 1, Mitglied 15, Praesident 3], id:34786, 34764>
   <Ort Mandemant, id:34766, 159>
-   <OrtSekretariat Sekretariat [Leitung 1], id:40586, 34766>
+   <OrtSekretariat Sekretariat [Leitung 1], id:40588, 34766>
    <OrtGewaehlte Exekutive [KommunaleExekutive 2], id:34830, 34766>
    <OrtGewaehlte Legislative [KommunaleExekutive 4], id:34829, 34766>
    <OrtMitglieder Mitgliedschaften [Mitglied 18], id:34865, 34766>
    <OrtPraesidium Partei [Praesident 1], id:34787, 34766>
   <Ort Meyrin, id:434, 159>
-   <OrtSekretariat Sekretariat [Leitung 1], id:40595, 434>
+   <OrtSekretariat Sekretariat [Leitung 1], id:40597, 434>
    <OrtGewaehlte Exekutive [KommunaleExekutive 4], id:34832, 434>
    <OrtGewaehlte Legislative [KommunaleExekutive 11], id:34831, 434>
    <OrtMitglieder Mitgliedschaften [Mitglied 62], id:1216, 434>
    <OrtPraesidium Partei [Adressverwalter 3, Kassier 1, Praesident 2], id:34788, 434>
   <Ort Onex, id:436, 159>
-   <OrtSekretariat Sekretariat [Leitung 2], id:40604, 436>
+   <OrtSekretariat Sekretariat [Leitung 2], id:40606, 436>
    <OrtGewaehlte Exekutive [KommunaleExekutive 1], id:34834, 436>
    <OrtGewaehlte Legislative [KommunaleExekutive 2], id:34833, 436>
    <OrtMitglieder Mitgliedschaften [Mitglied 69], id:1217, 436>
    <OrtPraesidium Partei [Kassier 2, Mitglied 12, Praesident 3], id:34789, 436>
   <Ort Plan-les-Ouates, id:34765, 159>
-   <OrtSekretariat Sekretariat [Leitung 1], id:40613, 34765>
+   <OrtSekretariat Sekretariat [Leitung 1], id:40615, 34765>
    <OrtGewaehlte Exekutive [KommunaleExekutive 4], id:34836, 34765>
    <OrtGewaehlte Legislative [KommunaleExekutive 11], id:34835, 34765>
    <OrtMitglieder Mitgliedschaften [Mitglied 87], id:34866, 34765>
    <OrtPraesidium Partei [Adressverwalter 2, Kassier 1, Mitglied 7, Praesident 2], id:34790, 34765>
   <Ort Pregny-Chambesy, id:36260, 159>
-   <OrtSekretariat Sekretariat [Leitung 1], id:40622, 36260>
+   <OrtSekretariat Sekretariat [Leitung 1], id:40624, 36260>
    <OrtGewaehlte Exekutive [KommunaleExekutive 1], id:36276, 36260>
    <OrtGewaehlte Legislative [KommunaleExekutive 4], id:36277, 36260>
    <OrtMitglieder Mitgliedschaften [Mitglied 18], id:36278, 36260>
    <OrtPraesidium Partei [Kassier 1, Praesident 2], id:36261, 36260>
   <Ort Thônex, id:34767, 159>
-   <OrtSekretariat Sekretariat [Leitung 1], id:40631, 34767>
+   <OrtSekretariat Sekretariat [Leitung 1], id:40633, 34767>
    <OrtGewaehlte Exekutive [KommunaleExekutive 5], id:34837, 34767>
    <OrtGewaehlte Legislative [KommunaleExekutive 12], id:34838, 34767>
    <OrtMitglieder Mitgliedschaften [Mitglied 73], id:34867, 34767>
    <OrtPraesidium Partei [Adressverwalter 1, Kassier 1, Praesident 3], id:34791, 34767>
   <Ort Troinex, id:34768, 159>
-   <OrtSekretariat Sekretariat [Leitung 1], id:40640, 34768>
+   <OrtSekretariat Sekretariat [Leitung 1], id:40642, 34768>
    <OrtGewaehlte Exekutive [KommunaleExekutive 4], id:34840, 34768>
    <OrtGewaehlte Legislative [KommunaleExekutive 3], id:34839, 34768>
    <OrtMitglieder Mitgliedschaften [Mitglied 31], id:34868, 34768>
    <OrtPraesidium Partei [Adressverwalter 2, Kassier 1, Praesident 1], id:34792, 34768>
   <Ort Vernier, id:34769, 159>
-   <OrtSekretariat Sekretariat [Leitung 1], id:40649, 34769>
+   <OrtSekretariat Sekretariat [Leitung 1], id:40651, 34769>
    <OrtGewaehlte Legislative [KommunaleExekutive 5], id:34841, 34769>
    <OrtMitglieder Mitgliedschaften [Mitglied 78], id:34869, 34769>
    <OrtPraesidium Partei [Adressverwalter 1, Kassier 1, Mitglied 3, Praesident 2], id:34793, 34769>
@@ -195,13 +199,13 @@
    <OrtMitglieder Mitgliedschaften [Mitglied 60], id:1218, 438>
    <OrtPraesidium Partei [Adressverwalter 3, Kassier 1, Praesident 4], id:34794, 438>
   <Ort Veyrier, id:34770, 159>
-   <OrtSekretariat Sekretariat [Leitung 1], id:40667, 34770>
+   <OrtSekretariat Sekretariat [Leitung 1], id:40669, 34770>
    <OrtGewaehlte Exekutive [KommunaleExekutive 4], id:34845, 34770>
    <OrtGewaehlte Legislative [KommunaleExekutive 7], id:34846, 34770>
    <OrtMitglieder Mitgliedschaften [Mitglied 86], id:34870, 34770>
    <OrtPraesidium Partei [Adressverwalter 6, Mitglied 22, Praesident 1], id:34795, 34770>
   <Ort Ville de Genève, id:439, 159>
-   <OrtSympathisanten Sympathisanten [Sympathisant 4], id:40672, 439>
+   <OrtSympathisanten Sympathisanten [Sympathisant 4], id:40674, 439>
    <OrtGewaehlte Exekutive [KommunaleExekutive 4], id:34848, 439>
    <OrtGewaehlte Legislative [KommunaleExekutive 17], id:34847, 439>
    <OrtMitglieder Mitgliedschaften [Mitglied 382], id:1219, 439>
