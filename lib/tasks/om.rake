@@ -44,9 +44,10 @@ namespace :om do
   namespace :structure do
     desc 'Render Groups and Roles for (tree_ids)'
     task :render, [:key] do |_t, args|
-      selected = { all: [1] }.to_h if args[:key] == 'all'
       selected ||= Structure::Groups::MAPPINGS.stringify_keys.slice(args[:key]).presence ||
         Structure::Groups::MAPPINGS
+
+      selected = selected.merge(all: [1]) if args[:key].blank?
 
       selected.each do |key, group_ids|
         dir = File.join(File.dirname(__FILE__), '../../generated')

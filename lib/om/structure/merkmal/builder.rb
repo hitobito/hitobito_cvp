@@ -31,6 +31,7 @@ module Structure::Merkmal
         role.type = role_type
         role.group = new_group
         role.group.roles << role
+        role
       end
     end
 
