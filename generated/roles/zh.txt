@@ -1,0 +1,650 @@
+<Bund CVP Schweiz>
+ <BundGewaehlte Departement Bundesrat Nr. 1 [Bundesrat 5, tbd:Pers. Mitarbeiter Bundesrat 3]>
+ <BundGewaehlte Nationalrat [Nationalrat 126, tbd:Nationalrat Partner 12]>
+ <BundGewaehlte Ständerat [Staenderat 47, tbd:Ständerat Partner 2]>
+ <Kanton CVP ZH>
+  <KantonSympathisanten Sympathisanten [Sympathisant 41]>
+  <KantonArbeitsgruppe Anlasseinladungen [tbd:Empfänger 1467]>
+  <KantonArbeitsgruppe Sekretariat [tbd:Empfänger Rechnung Jahresbeitrag CVP CH 1]>
+  <KantonArbeitsgruppe Sekretär Kantonalpartei [tbd:Sekretär Kantonalpartei/Vereinigung 1]>
+  <KantonDelegierte DV [tbd:Mitglied von Amtes wegen 173]>
+   <KantonDelegierte 60+ [tbd:Mitglied gewählt 1]>
+   <KantonDelegierte Affoltern [tbd:Mitglied gewählt 3]>
+   <KantonDelegierte Bülach [tbd:Mitglied gewählt 14]>
+   <KantonDelegierte CVP Frauen [tbd:Mitglied gewählt 8]>
+   <KantonDelegierte Dielsdorf [tbd:Mitglied gewählt 7]>
+   <KantonDelegierte Dietikon [tbd:Mitglied gewählt 17]>
+   <KantonDelegierte Hinwil [tbd:Mitglied gewählt 19]>
+   <KantonDelegierte Horgen [tbd:Mitglied gewählt 25]>
+   <KantonDelegierte JCVP [tbd:Mitglied gewählt 14]>
+   <KantonDelegierte Meilen [tbd:Mitglied gewählt 7]>
+   <KantonDelegierte Pfäffikon [tbd:Mitglied gewählt 6]>
+   <KantonDelegierte Stadt Winterthur [tbd:Mitglied gewählt 23]>
+   <KantonDelegierte Stadt Zürich, Kreis 1 und 2 [tbd:Mitglied gewählt 3]>
+   <KantonDelegierte Stadt Zürich, Kreis 11 und 12 [tbd:Mitglied gewählt 11]>
+   <KantonDelegierte Stadt Zürich, Kreis 3 und 9 [tbd:Mitglied gewählt 9]>
+   <KantonDelegierte Stadt Zürich, Kreis 4 und 5 [tbd:Mitglied gewählt 2]>
+   <KantonDelegierte Stadt Zürich, Kreis 6 und 10 [tbd:Mitglied gewählt 9]>
+   <KantonDelegierte Stadt Zürich, Kreis 7 und 8 [tbd:Mitglied gewählt 5]>
+   <KantonDelegierte Uster [tbd:Mitglied gewählt 10]>
+   <KantonDelegierte Winterthur-Land [tbd:Mitglied gewählt 3]>
+  <KantonExterneKontakte Medienverteiler [Kontakt 207]>
+  <KantonExterneKontakte Newsletter [Kontakt 1508]>
+  <KantonGewaehlte Regierungsrat [KantonaleExekutive 1]>
+  <KantonGewaehlte Judikative>
+   <KantonGewaehlte Obergericht [tbd:Richter 1]>
+  <KantonGewaehlte Legislative>
+   <KantonGewaehlte Fraktion [Fraktionschef 2, KantonaleLegislative 15]>
+  <KantonGewaehlte Newsletter Fraktion [tbd:Empfänger 412]>
+  <KantonMitglieder Mitgliedschaften [Mitglied 27]>
+  <KantonParteigremium Kontrollkommission [Mitglied 4]>
+  <KantonParteigremium Schiedsgericht [Mitglied 5]>
+  <KantonParteigremium Vorstand [Mitglied 49, tbd:Ansprechperson Finanzen 1]>
+  <KantonPraesidium Präsidium [Mitglied 6, Praesident 1, tbd:Quästor 1]>
+  <Region Bezirk Affoltern>
+   <RegionSympathisanten Sympathisanten [Sympathisant 8]>
+   <RegionMitglieder Mitgliedschaften [Mitglied 8]>
+   <RegionPraesidium Vorstand [Praesident 2, tbd:Mitglied gewählt 1, tbd:Mitglied von Amtes wegen 1]>
+   <RegionSekretariat Sekretariat [tbd:OM ADMIN 1]>
+   <Ort Affoltern>
+    <OrtSympathisanten Sympathisanten [Sympathisant 25]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 22]>
+    <OrtPraesidium Vorstand [Mitglied 2, tbd:Quästor 1]>
+    <OrtSekretariat Sekretariat [tbd:OM ADMIN 1, tbd:Zuzüger 1]>
+   <Ort Mettmenstetten>
+    <OrtGewaehlte Exekutive [KommunaleExekutive 1]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 10]>
+    <OrtPraesidium Vorstand [Mitglied 4, Praesident 1, tbd:Aktuar 1, tbd:Quästor 1]>
+    <OrtSekretariat Sekretariat [tbd:OM ADMIN 1]>
+   <Ort Obfelden>
+    <OrtSympathisanten Sympathisanten [Sympathisant 10]>
+    <OrtGewaehlte Bildung>
+     <OrtGewaehlte Schulpflege [Schulpflegekommission 2]>
+    <OrtGewaehlte Exekutive [KommunaleExekutive 1]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 24]>
+    <OrtPraesidium Vorstand [Mitglied 1, Praesident 1, tbd:Quästor 1]>
+    <OrtSekretariat Sekretariat [tbd:OM ADMIN 1]>
+  <Region Bezirk Andelfingen>
+   <RegionSympathisanten Sympathisanten [Sympathisant 36]>
+   <RegionDelegierte DV [Delegierte 1]>
+   <RegionMitglieder Mitgliedschaften [Mitglied 52]>
+   <RegionPraesidium Vorstand [Praesident 3, tbd:Mitglied gewählt 2]>
+   <RegionSekretariat Sekretariat [tbd:Zuzüger 1]>
+   <Ort Feuerthalen-Langwiesen>
+    <OrtGewaehlte Bildung>
+     <OrtGewaehlte Schulpflege [Schulpflegekommission 1]>
+    <OrtGewaehlte Exekutive [KommunaleExekutive 1]>
+  <Region Bezirk Bülach>
+   <RegionSympathisanten Sympathisanten [Sympathisant 10]>
+   <RegionDelegierte DV [Delegierte 16]>
+   <RegionGewaehlte Judikative>
+    <RegionGewaehlte Bezirksgericht [RegionJudikative 2]>
+   <RegionMitglieder Mitgliedschaften [Mitglied 10]>
+   <RegionPraesidium Präsidium [Praesident 5, tbd:Aktuar 1, tbd:Quästor 1]>
+   <RegionPraesidium Vorstand [tbd:Mitglied 1, tbd:Mitglied gewählt 2, tbd:Mitglied von Amtes wegen 1]>
+   <Ort Bassersdorf>
+    <OrtSympathisanten Sympathisanten [Sympathisant 2]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 13]>
+    <OrtPraesidium Vorstand [Mitglied 2, Praesident 1, tbd:Aktuar 1]>
+    <OrtSekretariat Sekretariat [tbd:OM ADMIN 1, tbd:Zuzüger 1]>
+   <Ort Bülach>
+    <OrtSympathisanten Sympathisanten [Sympathisant 1]>
+    <OrtGewaehlte Bildung>
+     <OrtGewaehlte Schulpflege [Schulpflegekommission 1]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 34]>
+    <OrtPraesidium Vorstand [Mitglied 1, Praesident 2, tbd:Aktuar 1, tbd:Quästor 1]>
+    <OrtSekretariat Sekretariat [tbd:OM ADMIN 1, tbd:Zuzüger 4]>
+   <Ort Embrach>
+    <OrtSympathisanten Sympathisanten [Sympathisant 3]>
+    <OrtArbeitsgruppe Übrige Behörden>
+     <OrtArbeitsgruppe Sozialbehörde [tbd:Mitglied 1]>
+    <OrtGewaehlte Bildung>
+     <OrtGewaehlte Schulpflege [Schulpflegekommission 2]>
+    <OrtGewaehlte Exekutive [KommunaleExekutive 1]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 52]>
+    <OrtPraesidium Vorstand [Mitglied 7, Praesident 1, tbd:Aktuar 1]>
+    <OrtSekretariat Sekretariat [tbd:OM ADMIN 1]>
+   <Ort Kloten>
+    <OrtSympathisanten Sympathisanten [Sympathisant 5]>
+    <OrtArbeitsgruppe Übrige Behörden [tbd:Mitglied 2]>
+    <OrtGewaehlte Bildung>
+     <OrtGewaehlte Schulpflege [Schulpflegekommission 7]>
+    <OrtGewaehlte Exekutive [KommunaleExekutive 15]>
+    <OrtGewaehlte Legislative>
+     <OrtGewaehlte Fraktion [Fraktionschef 1, KommunaleExekutive 2]>
+     <OrtGewaehlte RPK [KommunaleExekutive 4]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 85]>
+    <OrtPraesidium Vorstand [Mitglied 4, Praesident 8, tbd:Aktuar 2, tbd:Quästor 2]>
+    <OrtSekretariat Sekretariat [tbd:Empfänger Umzugsmeldung 2]>
+   <Ort Opfikon-Glattbrugg>
+    <OrtSympathisanten Sympathisanten [Sympathisant 2]>
+    <OrtArbeitsgruppe Übrige Behörden>
+     <OrtArbeitsgruppe Sozialbehörden [tbd:Mitglied 1]>
+     <OrtArbeitsgruppe Vormundschaftsbehörden [tbd:Mitglied 1]>
+    <OrtGewaehlte Bildung>
+     <OrtGewaehlte Schulpflege [Schulpflegekommission 2]>
+    <OrtGewaehlte Exekutive [KommunaleExekutive 3]>
+    <OrtGewaehlte Legislative>
+     <OrtGewaehlte Büro [KommunaleExekutive 2]>
+     <OrtGewaehlte Fraktion [Fraktionschef 3, KommunaleExekutive 8]>
+     <OrtGewaehlte GPK [KommunaleExekutive 2]>
+     <OrtGewaehlte RPK [KommunaleExekutive 1]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 75]>
+    <OrtPraesidium Vorstand [Mitglied 5, Praesident 2, tbd:Aktuar 2]>
+    <OrtSekretariat Sekretariat [tbd:Empfänger Umzugsmeldung 1, tbd:OM ADMIN 1]>
+   <Ort Wallisellen>
+    <OrtSympathisanten Sympathisanten [Sympathisant 2]>
+    <OrtGewaehlte Bildung>
+     <OrtGewaehlte Schulpflege [Schulpflegekommission 2]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 22]>
+    <OrtPraesidium Vorstand [Mitglied 1, Praesident 1, tbd:Quästor 1]>
+    <OrtSekretariat Sekretariat [tbd:OM ADMIN 1]>
+  <Region Bezirk Dielsdorf>
+   <RegionGewaehlte Judikative>
+    <RegionGewaehlte Bezirksgericht [RegionJudikative 1]>
+   <RegionMitglieder Mitgliedschaften [Mitglied 5]>
+   <RegionPraesidium Vorstand [Praesident 1, tbd:Aktuar 2, tbd:Mitglied gewählt 3, tbd:Mitglied von Amtes wegen 2, tbd:Quästor 1]>
+   <Ort Niederhasli-Niederglatt>
+    <OrtSympathisanten Sympathisanten [Sympathisant 35]>
+    <OrtArbeitsgruppe Übrige Behörden>
+     <OrtArbeitsgruppe RPK [tbd:Mitglied 1]>
+    <OrtGewaehlte Bildung>
+     <OrtGewaehlte Schulpflege [Schulpflegekommission 2]>
+    <OrtGewaehlte Exekutive [KommunaleExekutive 2]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 57]>
+    <OrtPraesidium Vorstand [Mitglied 3, Praesident 2, tbd:Aktuar 2, tbd:Quästor 1]>
+    <OrtSekretariat Sekretariat [tbd:Zuzüger 2]>
+   <Ort Regensdorf-Furttal>
+    <OrtSympathisanten Sympathisanten [Sympathisant 43]>
+    <OrtArbeitsgruppe Übrige Behörden>
+     <OrtArbeitsgruppe RPK [tbd:Mitglied 3]>
+    <OrtGewaehlte Bildung>
+     <OrtGewaehlte Schulpflege [Schulpflegekommission 2]>
+    <OrtGewaehlte Exekutive [KommunaleExekutive 2]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 38]>
+    <OrtPraesidium Vorstand [Praesident 2, tbd:Quästor 1]>
+    <OrtSekretariat Sekretariat [tbd:OM ADMIN 1]>
+   <Ort zz-Orte ohne CVP Partei>
+    <OrtGewaehlte Exekutive [KommunaleExekutive 1]>
+  <Region Bezirk Dietikon>
+   <RegionSympathisanten Sympathisanten [Sympathisant 1]>
+   <RegionDelegierte DV [Delegierte 8]>
+   <RegionGewaehlte Exekutive>
+    <RegionGewaehlte Bezirksrat [RegionExekutive 1]>
+   <RegionMitglieder Mitgliedschaften [Mitglied 1]>
+   <RegionPraesidium Präsidium [Praesident 3, tbd:Aktuar 1, tbd:Mitglied gewählt 1, tbd:Quästor 1]>
+   <RegionPraesidium Vorstand [tbd:Mitglied gewählt 4, tbd:Mitglied von Amtes wegen 9]>
+   <RegionSekretariat Sekretariat [tbd:OM ADMIN 1]>
+   <Ort Birmensdorf>
+    <OrtSympathisanten Sympathisanten [Sympathisant 16]>
+    <OrtArbeitsgruppe Übrige Behörden [tbd:Mitglied 1]>
+    <OrtGewaehlte Bildung>
+     <OrtGewaehlte Schulpflege [Schulpflegekommission 1]>
+    <OrtGewaehlte Exekutive [KommunaleExekutive 2]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 28]>
+    <OrtPraesidium Vorstand [Mitglied 3, Praesident 1]>
+    <OrtSekretariat Sekretariat [tbd:OM ADMIN 1]>
+   <Ort Dietikon>
+    <OrtSympathisanten Sympathisanten [Sympathisant 39]>
+    <OrtGewaehlte Bildung>
+     <OrtGewaehlte Schulpflege [Schulpflegekommission 4]>
+    <OrtGewaehlte Legislative>
+     <OrtGewaehlte Büro [KommunaleExekutive 1]>
+     <OrtGewaehlte Fraktion [KommunaleExekutive 12]>
+     <OrtGewaehlte GPK [KommunaleExekutive 2]>
+     <OrtGewaehlte RPK [KommunaleExekutive 4]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 140]>
+    <OrtPraesidium Vorstand [Mitglied 5, Praesident 2, tbd:Quästor 1]>
+    <OrtSekretariat Sekretariat [tbd:Zuzüger 1]>
+   <Ort Geroldswil>
+    <OrtSympathisanten Sympathisanten [Sympathisant 2]>
+    <OrtGewaehlte Bildung>
+     <OrtGewaehlte Schulpflege [Schulpflegekommission 1]>
+    <OrtGewaehlte Exekutive [KommunaleExekutive 1]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 30]>
+    <OrtPraesidium Vorstand [Mitglied 1, Praesident 1, tbd:Aktuar 2, tbd:Quästor 1]>
+    <OrtSekretariat Sekretariat [tbd:Empfänger Umzugsmeldung 1, tbd:OM ADMIN 1]>
+   <Ort Oberengstringen>
+    <OrtSympathisanten Sympathisanten [Sympathisant 16]>
+    <OrtGewaehlte Exekutive [KommunaleExekutive 2]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 15]>
+    <OrtPraesidium Vorstand [Mitglied 2, Praesident 1]>
+    <OrtSekretariat Sekretariat [tbd:OM ADMIN 1]>
+   <Ort Schlieren>
+    <OrtSympathisanten Sympathisanten [Sympathisant 50]>
+    <OrtArbeitsgruppe Übrige Behörden [tbd:Mitglied 1]>
+    <OrtGewaehlte Bildung>
+     <OrtGewaehlte Schulpflege [Schulpflegekommission 2]>
+    <OrtGewaehlte Legislative>
+     <OrtGewaehlte Fraktion [Fraktionschef 1, KommunaleExekutive 4]>
+     <OrtGewaehlte RPK [KommunaleExekutive 1]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 52]>
+    <OrtPraesidium Vorstand [Mitglied 3, Praesident 4, tbd:Aktuar 1]>
+    <OrtSekretariat Sekretariat [tbd:Empfänger Umzugsmeldung 2, tbd:Zuzüger 5]>
+   <Ort Uitikon>
+    <OrtSympathisanten Sympathisanten [Sympathisant 13]>
+    <OrtGewaehlte Bildung>
+     <OrtGewaehlte Schulpflege [Schulpflegekommission 1]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 22]>
+    <OrtPraesidium Vorstand [Mitglied 4, Praesident 2, tbd:Quästor 1]>
+    <OrtSekretariat Sekretariat [tbd:OM ADMIN 1, tbd:Zuzüger 1]>
+   <Ort Urdorf>
+    <OrtSympathisanten Sympathisanten [Sympathisant 102]>
+    <OrtGewaehlte Bildung>
+     <OrtGewaehlte Schulpflege [Schulpflegekommission 2]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 46]>
+    <OrtPraesidium Vorstand [Mitglied 11, Praesident 2, tbd:Quästor 1]>
+    <OrtSekretariat Sekretariat [tbd:Empfänger Umzugsmeldung 1, tbd:OM ADMIN 2]>
+  <Region Bezirk Hinwil>
+   <RegionDelegierte DV [Delegierte 15]>
+   <RegionMitglieder Mitgliedschaften [Mitglied 3]>
+   <RegionPraesidium Vorstand [Praesident 4, tbd:Mitglied gewählt 6, tbd:Quästor 1]>
+   <RegionSekretariat Sekretariat [tbd:OM ADMIN 1]>
+   <Ort Bubikon>
+    <OrtSympathisanten Sympathisanten [Sympathisant 21]>
+    <OrtGewaehlte Bildung>
+     <OrtGewaehlte Schulpflege [Schulpflegekommission 1]>
+    <OrtGewaehlte Exekutive [KommunaleExekutive 1]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 29]>
+    <OrtPraesidium Vorstand [Mitglied 5, Praesident 2, tbd:Aktuar 1]>
+    <OrtSekretariat Sekretariat [tbd:OM ADMIN 1, tbd:Zuzüger 2]>
+   <Ort Dürnten>
+    <OrtGewaehlte Bildung>
+     <OrtGewaehlte Schulpflege [Schulpflegekommission 3]>
+    <OrtGewaehlte Exekutive [KommunaleExekutive 1]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 63]>
+    <OrtPraesidium Vorstand [Kassier 1, Mitglied 4, Praesident 2, tbd:Aktuar 1]>
+    <OrtSekretariat Sekretariat [tbd:Empfänger Umzugsmeldung 2, tbd:Zuzüger 2]>
+   <Ort Gossau>
+    <OrtSympathisanten Sympathisanten [Sympathisant 5]>
+    <OrtArbeitsgruppe Übrige Behörden [tbd:Mitglied 1]>
+    <OrtGewaehlte Bildung>
+     <OrtGewaehlte Schulpflege [Schulpflegekommission 1]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 29]>
+    <OrtPraesidium Vorstand [Mitglied 4, Praesident 4, tbd:Aktuar 1, tbd:Quästor 1]>
+    <OrtSekretariat Sekretariat [tbd:OM ADMIN 1]>
+   <Ort Hinwil>
+    <OrtSympathisanten Sympathisanten [Sympathisant 7]>
+    <OrtGewaehlte Bildung>
+     <OrtGewaehlte Schulpflege [Schulpflegekommission 1]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 31]>
+    <OrtPraesidium Vorstand [Mitglied 2, Praesident 1, tbd:Quästor 1]>
+    <OrtSekretariat Sekretariat [tbd:OM ADMIN 1]>
+   <Ort Rüti>
+    <OrtSympathisanten Sympathisanten [Sympathisant 54]>
+    <OrtArbeitsgruppe Club 21 [tbd:Mitglied 17]>
+    <OrtArbeitsgruppe Ehrenmitglieder [tbd:Mitglied 5]>
+    <OrtArbeitsgruppe Streuadressen [tbd:Kontakt 53]>
+    <OrtArbeitsgruppe Streuadressen [tbd:Empfänger 12]>
+    <OrtArbeitsgruppe Weitere Funktionen [tbd:Empfänger Umzugsmeldung 1]>
+    <OrtArbeitsgruppe Übrige Behörden>
+     <OrtArbeitsgruppe Bürgerrechtskommission [tbd:Mitglied 1]>
+     <OrtArbeitsgruppe RPK [tbd:Mitglied 2]>
+     <OrtArbeitsgruppe Sozialbehörde [tbd:Mitglied 1]>
+     <OrtArbeitsgruppe Wahlbüro [tbd:Mitglied 4]>
+    <OrtGewaehlte Bildung>
+     <OrtGewaehlte Schulpflege [Fraktionschef 1, Schulpflegekommission 3]>
+    <OrtGewaehlte Exekutive [Fraktionschef 1, KommunaleExekutive 4]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 176]>
+    <OrtPraesidium Vorstand [Mitglied 4, Praesident 5, tbd:Aktuar 1, tbd:Quästor 2]>
+   <Ort Wald>
+    <OrtSympathisanten Sympathisanten [Sympathisant 1]>
+    <OrtGewaehlte Bildung>
+     <OrtGewaehlte Schulpflege [Schulpflegekommission 2]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 35]>
+    <OrtPraesidium Vorstand [Mitglied 3, Praesident 2]>
+    <OrtSekretariat Sekretariat [tbd:OM ADMIN 1]>
+   <Ort Wetzikon>
+    <OrtGewaehlte Bildung>
+     <OrtGewaehlte Schulpflege [Schulpflegekommission 2]>
+    <OrtGewaehlte Exekutive [KommunaleExekutive 1]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 48]>
+    <OrtPraesidium Vorstand [Praesident 1, tbd:Quästor 1]>
+    <OrtSekretariat Sekretariat [tbd:Empfänger Umzugsmeldung 1, tbd:OM ADMIN 1, tbd:Zuzüger 6]>
+  <Region Bezirk Horgen>
+   <RegionDelegierte DV [Delegierte 11]>
+   <RegionPraesidium Präsidium [Praesident 1]>
+   <RegionPraesidium Vorstand [tbd:Mitglied gewählt 10, tbd:Mitglied von Amtes wegen 4]>
+   <RegionSekretariat Sekretariat [tbd:OM ADMIN 1]>
+   <Ort Adliswil>
+    <OrtSympathisanten Sympathisanten [Sympathisant 7]>
+    <OrtArbeitsgruppe Übrige Behörden>
+     <OrtArbeitsgruppe Sozialbehörden [tbd:Mitglied 2]>
+    <OrtGewaehlte Bildung>
+     <OrtGewaehlte Schulpflege [Schulpflegekommission 3]>
+    <OrtGewaehlte Exekutive [Fraktionschef 1, KommunaleExekutive 2]>
+    <OrtGewaehlte Legislative>
+     <OrtGewaehlte Büro [KommunaleExekutive 1]>
+     <OrtGewaehlte Fraktion [Fraktionschef 2, KommunaleExekutive 9]>
+     <OrtGewaehlte RPK [KommunaleExekutive 1]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 74]>
+    <OrtPraesidium Vorstand [Mitglied 9, Praesident 2, tbd:Aktuar 1]>
+    <OrtSekretariat Sekretariat [tbd:Empfänger Umzugsmeldung 1, tbd:OM ADMIN 1, tbd:Zuzüger 4]>
+   <Ort Horgen>
+    <OrtSympathisanten Sympathisanten [Sympathisant 136]>
+    <OrtArbeitsgruppe Gönner [tbd:Gönner 19]>
+    <OrtArbeitsgruppe Rentner [tbd:Kontakt 14]>
+    <OrtArbeitsgruppe Übrige Behörden>
+     <OrtArbeitsgruppe RPK [tbd:Mitglied 1]>
+    <OrtGewaehlte Bildung>
+     <OrtGewaehlte Schulpflege [Schulpflegekommission 1]>
+    <OrtGewaehlte Exekutive [KommunaleExekutive 1]>
+    <OrtGewaehlte Judikative>
+     <OrtGewaehlte Friedensrichteramt [tbd:Richter 1]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 72]>
+    <OrtPraesidium Vorstand [Mitglied 4, Praesident 1, tbd:Aktuar 1]>
+    <OrtSekretariat Sekretariat [tbd:Empfänger Umzugsmeldung 2, tbd:Zuzüger 2]>
+   <Ort Kilchberg>
+    <OrtSympathisanten Sympathisanten [Sympathisant 38]>
+    <OrtGewaehlte Exekutive [KommunaleExekutive 1]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 22]>
+    <OrtPraesidium Vorstand [Mitglied 4, Praesident 1, tbd:Aktuar 1, tbd:Quästor 1]>
+    <OrtSekretariat Sekretariat [tbd:OM ADMIN 1, tbd:Zuzüger 1]>
+   <Ort Langnau>
+    <OrtSympathisanten Sympathisanten [Sympathisant 33]>
+    <OrtArbeitsgruppe Übrige Behörden [tbd:Mitglied 2]>
+     <OrtArbeitsgruppe RPK [tbd:Mitglied 1]>
+    <OrtGewaehlte Bildung>
+     <OrtGewaehlte Schulpflege [Schulpflegekommission 1]>
+    <OrtGewaehlte Exekutive [Fraktionschef 1, KommunaleExekutive 1]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 51]>
+    <OrtPraesidium Vorstand [Mitglied 2, Praesident 1, tbd:Quästor 1]>
+    <OrtSekretariat Sekretariat [tbd:OM ADMIN 1, tbd:Zuzüger 3]>
+   <Ort Oberrieden>
+    <OrtSympathisanten Sympathisanten [Sympathisant 9]>
+    <OrtArbeitsgruppe Übrige Behörden>
+     <OrtArbeitsgruppe RPK [tbd:Mitglied 1]>
+    <OrtGewaehlte Bildung>
+     <OrtGewaehlte Schulpflege [Schulpflegekommission 1]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 11]>
+    <OrtPraesidium Vorstand [Mitglied 1, Praesident 2]>
+    <OrtSekretariat Sekretariat [tbd:OM ADMIN 1, tbd:Zuzüger 2]>
+   <Ort Richterswil>
+    <OrtArbeitsgruppe Übrige Behörden [tbd:Mitglied 2]>
+     <OrtArbeitsgruppe RPK [tbd:Mitglied 1]>
+    <OrtGewaehlte Bildung>
+     <OrtGewaehlte Schulpflege [Schulpflegekommission 2]>
+    <OrtGewaehlte Exekutive [KommunaleExekutive 1]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 65]>
+    <OrtPraesidium Vorstand [Praesident 4, tbd:Aktuar 1, tbd:Quästor 1]>
+    <OrtSekretariat Sekretariat [tbd:Empfänger Umzugsmeldung 1, tbd:Mitglied 1, tbd:OM ADMIN 1, tbd:Zuzüger 2]>
+   <Ort Rüschlikon>
+    <OrtSympathisanten Sympathisanten [Sympathisant 4]>
+    <OrtGewaehlte Exekutive [Fraktionschef 1, KommunaleExekutive 1]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 20]>
+    <OrtPraesidium Vorstand [Mitglied 2, Praesident 1]>
+    <OrtSekretariat Sekretariat [tbd:OM ADMIN 1]>
+   <Ort Thalwil>
+    <OrtSympathisanten Sympathisanten [Sympathisant 3]>
+    <OrtGewaehlte Bildung>
+     <OrtGewaehlte Schulpflege [Schulpflegekommission 2]>
+    <OrtGewaehlte Exekutive [KommunaleExekutive 1]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 44]>
+    <OrtPraesidium Vorstand [Mitglied 1, Praesident 2]>
+    <OrtSekretariat Sekretariat [tbd:Zuzüger 6]>
+   <Ort Wädenswil>
+    <OrtSympathisanten Sympathisanten [Sympathisant 133]>
+    <OrtArbeitsgruppe Übrige Behörden>
+     <OrtArbeitsgruppe Sozialbehörden [tbd:Mitglied 1]>
+    <OrtGewaehlte Bildung>
+     <OrtGewaehlte Schulpflege [Schulpflegekommission 3]>
+    <OrtGewaehlte Exekutive [Fraktionschef 1, KommunaleExekutive 3]>
+    <OrtGewaehlte Legislative>
+     <OrtGewaehlte Büro [KommunaleExekutive 1]>
+     <OrtGewaehlte Fraktion [Fraktionschef 1, KommunaleExekutive 7]>
+     <OrtGewaehlte GRPK [KommunaleExekutive 1]>
+     <OrtGewaehlte RPLK [KommunaleExekutive 1]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 126]>
+    <OrtPraesidium Vorstand [Mitglied 5, Praesident 4, tbd:Quästor 1]>
+    <OrtSekretariat Sekretariat [tbd:Empfänger Umzugsmeldung 1, tbd:OM ADMIN 1, tbd:Zuzüger 1]>
+  <Region Bezirk Meilen>
+   <RegionSympathisanten Sympathisanten [Sympathisant 15]>
+   <RegionDelegierte DV [Delegierte 19]>
+   <RegionMitglieder Mitgliedschaften [Mitglied 11]>
+   <RegionPraesidium Präsidium [Praesident 2]>
+   <RegionPraesidium Vorstand [tbd:Mitglied gewählt 7, tbd:Mitglied von Amtes wegen 2]>
+   <RegionSekretariat Sekretariat [tbd:OM ADMIN 1]>
+   <Ort Erlenbach-Küsnacht>
+    <OrtSympathisanten Sympathisanten [Sympathisant 11]>
+    <OrtGewaehlte Bildung>
+     <OrtGewaehlte Schulpflege [Schulpflegekommission 1]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 56]>
+    <OrtPraesidium Vorstand [Mitglied 3, Praesident 3, tbd:Aktuar 1]>
+    <OrtSekretariat Sekretariat [tbd:OM ADMIN 1, tbd:Zuzüger 4]>
+   <Ort Herrliberg>
+    <OrtSympathisanten Sympathisanten [Sympathisant 5]>
+    <OrtGewaehlte Bildung>
+     <OrtGewaehlte Schulpflege [Schulpflegekommission 1]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 22]>
+   <Ort Hombrechtikon>
+    <OrtSympathisanten Sympathisanten [Sympathisant 10]>
+    <OrtGewaehlte Bildung>
+     <OrtGewaehlte Schulpflege [Schulpflegekommission 1]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 22]>
+    <OrtPraesidium Vorstand [Mitglied 1, Praesident 1]>
+    <OrtSekretariat Sekretariat [tbd:Zuzüger 1]>
+   <Ort Meilen>
+    <OrtSympathisanten Sympathisanten [Sympathisant 29]>
+    <OrtGewaehlte Bildung>
+     <OrtGewaehlte Schulpflege [Schulpflegekommission 1]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 32]>
+    <OrtPraesidium Vorstand [Mitglied 4, Praesident 1, tbd:Aktuar 1]>
+    <OrtSekretariat Sekretariat [tbd:OM ADMIN 1, tbd:Zuzüger 2]>
+   <Ort Männedorf>
+    <OrtSympathisanten Sympathisanten [Sympathisant 51]>
+    <OrtGewaehlte Bildung>
+     <OrtGewaehlte Schulpflege [Schulpflegekommission 2]>
+    <OrtGewaehlte Exekutive [KommunaleExekutive 2]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 34]>
+    <OrtPraesidium Vorstand [Mitglied 3, Praesident 2]>
+    <OrtSekretariat Sekretariat [tbd:OM ADMIN 1, tbd:Zuzüger 3]>
+   <Ort Oetwil am See>
+    <OrtSympathisanten Sympathisanten [Sympathisant 5]>
+    <OrtGewaehlte Bildung>
+     <OrtGewaehlte Schulpflege [Schulpflegekommission 1]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 8]>
+   <Ort Stäfa>
+    <OrtSympathisanten Sympathisanten [Sympathisant 1]>
+    <OrtGewaehlte Bildung>
+     <OrtGewaehlte Schulpflege [Schulpflegekommission 1]>
+    <OrtGewaehlte Exekutive [KommunaleExekutive 1]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 28]>
+    <OrtPraesidium Vorstand [Mitglied 3, Praesident 4, tbd:Aktuar 1]>
+    <OrtSekretariat Sekretariat [tbd:OM ADMIN 1, tbd:Zuzüger 3]>
+   <Ort Uetikon am See>
+    <OrtSympathisanten Sympathisanten [Sympathisant 32]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 16]>
+    <OrtPraesidium Vorstand [Mitglied 3, Praesident 1, tbd:Aktuar 1]>
+    <OrtSekretariat Sekretariat [tbd:OM ADMIN 1]>
+   <Ort Zollikon>
+    <OrtSympathisanten Sympathisanten [Sympathisant 13]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 8]>
+   <Ort Zumikon>
+    <OrtSympathisanten Sympathisanten [Sympathisant 8]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 13]>
+    <OrtPraesidium Vorstand [Mitglied 1, Praesident 1]>
+    <OrtSekretariat Sekretariat [tbd:OM ADMIN 1, tbd:Zuzüger 1]>
+  <Region Bezirk Pfäffikon>
+   <RegionSympathisanten Sympathisanten [Sympathisant 13]>
+   <RegionDelegierte DV [Delegierte 8]>
+   <RegionMitglieder Mitgliedschaften [Mitglied 29]>
+   <RegionPraesidium Vorstand [Praesident 2, tbd:Mitglied gewählt 1, tbd:Mitglied von Amtes wegen 1, tbd:Quästor 1]>
+   <Ort Effretikon>
+    <OrtSympathisanten Sympathisanten [Sympathisant 34]>
+    <OrtGewaehlte Bildung>
+     <OrtGewaehlte Schulpflege [Schulpflegekommission 1]>
+    <OrtGewaehlte Exekutive [KommunaleExekutive 1]>
+    <OrtGewaehlte Legislative>
+     <OrtGewaehlte Büro [KommunaleExekutive 1]>
+     <OrtGewaehlte Fraktion [Fraktionschef 1, KommunaleExekutive 3]>
+     <OrtGewaehlte RPK [KommunaleExekutive 1]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 48]>
+    <OrtPraesidium Vorstand [Mitglied 6, Praesident 2, tbd:Aktuar 1, tbd:Quästor 1]>
+    <OrtSekretariat Sekretariat [tbd:OM ADMIN 1]>
+   <Ort Gönner [tbd:Mitglied 1]>
+   <Ort zz-Orte ohne CVP Partei>
+    <OrtGewaehlte Bildung>
+     <OrtGewaehlte Schulpflege [Schulpflegekommission 1]>
+  <Region Bezirk Uster>
+   <RegionSympathisanten Sympathisanten [Sympathisant 3]>
+   <RegionDelegierte DV [Delegierte 3]>
+   <RegionMitglieder Mitgliedschaften [Mitglied 12]>
+   <RegionPraesidium Vorstand [Praesident 5, tbd:Mitglied von Amtes wegen 1]>
+   <Ort Dübendorf>
+    <OrtSympathisanten Sympathisanten [Sympathisant 21]>
+    <OrtGewaehlte Exekutive [KommunaleExekutive 3]>
+    <OrtGewaehlte Legislative [KommunaleExekutive 5]>
+     <OrtGewaehlte Büro [KommunaleExekutive 2]>
+     <OrtGewaehlte Fraktion [KommunaleExekutive 8]>
+     <OrtGewaehlte GPK [KommunaleExekutive 2]>
+     <OrtGewaehlte KRL [KommunaleExekutive 2]>
+     <OrtGewaehlte RPK [KommunaleExekutive 1]>
+    <OrtGewaehlte Schulpflege [Fraktionschef 1, Schulpflegekommission 8]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 61]>
+    <OrtPraesidium Vorstand [Mitglied 10, Praesident 9, tbd:Aktuar 1, tbd:Quästor 1]>
+    <OrtSekretariat Sekretariat [tbd:Empfänger Umzugsmeldung 1, tbd:OM ADMIN 1, tbd:Zuzüger 1]>
+   <Ort Fällanden>
+    <OrtSympathisanten Sympathisanten [Sympathisant 4]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 32]>
+    <OrtPraesidium Vorstand [Mitglied 3, Praesident 1, tbd:Quästor 1]>
+    <OrtSekretariat Sekretariat [tbd:OM ADMIN 1, tbd:Zuzüger 1]>
+   <Ort Greifensee>
+    <OrtGewaehlte Exekutive [KommunaleExekutive 1]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 23]>
+    <OrtPraesidium Vorstand [Mitglied 4, Praesident 1]>
+    <OrtSekretariat Sekretariat [tbd:OM ADMIN 1, tbd:Zuzüger 1]>
+   <Ort Maur-Egg>
+    <OrtSympathisanten Sympathisanten [Sympathisant 9]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 46]>
+    <OrtPraesidium Partei [Adressverwalter 40, Praesident 2]>
+   <Ort Schwerzenbach>
+    <OrtSympathisanten Sympathisanten [Sympathisant 13]>
+    <OrtGewaehlte Exekutive [KommunaleExekutive 1]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 15]>
+    <OrtPraesidium Vorstand [Mitglied 2, Praesident 1, tbd:Aktuar 1]>
+   <Ort Uster>
+    <OrtSympathisanten Sympathisanten [Sympathisant 47]>
+    <OrtGewaehlte Bildung>
+     <OrtGewaehlte Schulpflege [Schulpflegekommission 1]>
+    <OrtGewaehlte Legislative>
+     <OrtGewaehlte Fraktion [KommunaleExekutive 3]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 43]>
+    <OrtPraesidium Vorstand [Mitglied 2, Praesident 1, tbd:Aktuar 1]>
+    <OrtSekretariat Sekretariat [tbd:OM ADMIN 1, tbd:Zuzüger 3]>
+   <Ort Volketswil>
+    <OrtSympathisanten Sympathisanten [Sympathisant 8]>
+    <OrtArbeitsgruppe Übrige Behörden>
+     <OrtArbeitsgruppe RPK [tbd:Mitglied 1]>
+    <OrtGewaehlte Exekutive [Fraktionschef 1, KommunaleExekutive 1]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 31]>
+    <OrtPraesidium Vorstand [Mitglied 1, Praesident 2, tbd:Quästor 2]>
+    <OrtSekretariat Sekretariat [tbd:OM ADMIN 1]>
+  <Region Bezirk Winterthur>
+   <RegionSympathisanten Sympathisanten [Sympathisant 6]>
+   <RegionDelegierte DV [Delegierte 3]>
+   <RegionGewaehlte Judikative>
+    <RegionGewaehlte Bezirksgericht [RegionJudikative 2]>
+   <RegionMitglieder Mitgliedschaften [Mitglied 14]>
+   <RegionPraesidium Vorstand [Praesident 1, tbd:Aktuar 1, tbd:Mitglied gewählt 3, tbd:Mitglied von Amtes wegen 2, tbd:Quästor 1]>
+   <RegionSekretariat Sekretariat [tbd:Mitglied 1, tbd:OM ADMIN 1]>
+   <Ort Seuzach-Hettlingen>
+    <OrtMitglieder Mitgliedschaften [Mitglied 8]>
+    <OrtPraesidium Vorstand [Mitglied 1, Praesident 1]>
+    <OrtSekretariat Sekretariat [tbd:Zuzüger 1]>
+   <Ort Wiesendangen>
+    <OrtArbeitsgruppe Übrige Behörden>
+     <OrtArbeitsgruppe RPK [tbd:Mitglied 2]>
+    <OrtGewaehlte Bildung>
+     <OrtGewaehlte Schulpflege [Schulpflegekommission 4]>
+    <OrtGewaehlte Exekutive [KommunaleExekutive 7]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 64]>
+    <OrtPraesidium Vorstand [Mitglied 8, Praesident 3, tbd:Quästor 3]>
+    <OrtSekretariat Sekretariat [tbd:OM ADMIN 2, tbd:Zuzüger 2]>
+   <Ort Winterthur>
+    <OrtSympathisanten Sympathisanten [Sympathisant 1361]>
+    <OrtArbeitsgruppe 100er [tbd:Kontakt 43]>
+    <OrtArbeitsgruppe 60plus [tbd:Kontakt 130]>
+    <OrtArbeitsgruppe Behördenmitglieder [tbd:Kontakt 10]>
+    <OrtArbeitsgruppe Geschäftsleitung [tbd:Mitglied 23, tbd:Präsident 4, tbd:Vizepräsident 2]>
+    <OrtArbeitsgruppe Stadtkreise>
+     <OrtArbeitsgruppe Altstadt-Töss [tbd:Kontakt 60]>
+     <OrtArbeitsgruppe Oberwinterthur [tbd:Kontakt 35]>
+     <OrtArbeitsgruppe Seen-Mattenbach [tbd:Kontakt 91]>
+     <OrtArbeitsgruppe Wülflingen-Veltheim [tbd:Kontakt 60]>
+    <OrtArbeitsgruppe erweiterte GL [tbd:Mitglied 5]>
+    <OrtExterneKontakte Newsletter [Kontakt 1468]>
+    <OrtGewaehlte Bildung>
+     <OrtGewaehlte Schulpflege [Schulpflegekommission 15]>
+    <OrtGewaehlte Exekutive [KommunaleExekutive 1]>
+    <OrtGewaehlte Legislative>
+     <OrtGewaehlte Fraktion [Fraktionschef 1, KommunaleExekutive 6]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 361]>
+    <OrtSekretariat Sekretariat [tbd:Empfänger Umzugsmeldung 1, tbd:Mitglied 2, tbd:OM ADMIN 1, tbd:Zuzüger 7]>
+   <Ort Zell>
+    <OrtSympathisanten Sympathisanten [Sympathisant 4]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 14]>
+    <OrtPraesidium Vorstand [Mitglied 2, Praesident 1]>
+    <OrtSekretariat Sekretariat [tbd:OM ADMIN 1]>
+  <Region Bezirk Zürich>
+   <RegionSympathisanten Sympathisanten [Sympathisant 7]>
+   <RegionDelegierte DV [Delegierte 82]>
+   <RegionGewaehlte Exekutive>
+    <RegionGewaehlte Stadtrat [RegionExekutive 1]>
+   <RegionGewaehlte Judikative>
+    <RegionGewaehlte Bezirksgericht [RegionJudikative 5]>
+   <RegionGewaehlte Legislative>
+    <RegionGewaehlte Büro [RegionLegislative 1]>
+    <RegionGewaehlte Fraktion [RegionExekutive 1, RegionLegislative 9]>
+   <RegionMitglieder Mitgliedschaften [Mitglied 5]>
+   <RegionPraesidium Präsidium [Praesident 3, tbd:Mitglied gewählt 1, tbd:Mitglied von Amtes wegen 1, tbd:Quästor 2]>
+   <RegionPraesidium Vorstand [tbd:Mitglied gewählt 8, tbd:Mitglied von Amtes wegen 15]>
+   <RegionSekretariat Sekretariat [tbd:Empfänger Umzugsmeldung 3, tbd:Geschäftsführer 5, tbd:OM ADMIN 1]>
+   <Ort Gönnerclub [tbd:Mitglied 4]>
+   <Ort Medienverteiler [tbd:Empfänger 108]>
+   <Ort Newsletter [tbd:Empfänger 341]>
+   <Ort Zürich 1 + 2>
+    <OrtSympathisanten Sympathisanten [Sympathisant 11]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 55]>
+    <OrtPraesidium Vorstand [Mitglied 2, Praesident 3, tbd:Quästor 1]>
+    <OrtSekretariat Sekretariat [tbd:Zuzüger 3]>
+   <Ort Zürich 11>
+    <OrtSympathisanten Sympathisanten [Sympathisant 7]>
+    <OrtGewaehlte Bildung>
+     <OrtGewaehlte Schulpflege [Schulpflegekommission 1]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 74]>
+    <OrtPraesidium Vorstand [Mitglied 8, Praesident 1, tbd:Quästor 1]>
+    <OrtSekretariat Sekretariat [tbd:Zuzüger 1]>
+   <Ort Zürich 12>
+    <OrtSympathisanten Sympathisanten [Sympathisant 9]>
+    <OrtGewaehlte Bildung>
+     <OrtGewaehlte Schulpflege [Schulpflegekommission 4]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 37]>
+    <OrtPraesidium Vorstand [Mitglied 6, Praesident 3, tbd:Quästor 2]>
+   <Ort Zürich 3+9>
+    <OrtSympathisanten Sympathisanten [Sympathisant 49]>
+    <OrtGewaehlte Bildung>
+     <OrtGewaehlte Schulpflege [Schulpflegekommission 24, tbd:Aktuar 1, tbd:Quästor 2]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 86]>
+    <OrtPraesidium Vorstand [Mitglied 5]>
+    <OrtSekretariat Sekretariat [tbd:Zuzüger 9]>
+   <Ort Zürich 4+5>
+    <OrtSympathisanten Sympathisanten [Sympathisant 57]>
+    <OrtGewaehlte Bildung>
+     <OrtGewaehlte Schulpflege [Schulpflegekommission 2]>
+    <OrtGewaehlte Judikative>
+     <OrtGewaehlte Friedensrichteramt [tbd:Richter 1]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 60]>
+    <OrtPraesidium Vorstand [Mitglied 2, tbd:Quästor 2]>
+    <OrtSekretariat Sekretariat [tbd:Zuzüger 7]>
+   <Ort Zürich 6 + 10>
+    <OrtSympathisanten Sympathisanten [Sympathisant 25]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 83]>
+    <OrtPraesidium Vorstand [Mitglied 13, Praesident 1, tbd:Aktuar 1, tbd:Quästor 1]>
+    <OrtSekretariat Sekretariat [tbd:Zuzüger 1]>
+   <Ort Zürich 7+8>
+    <OrtSympathisanten Sympathisanten [Sympathisant 133]>
+    <OrtGewaehlte Bildung>
+     <OrtGewaehlte Schulpflege [Schulpflegekommission 1]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 86]>
+    <OrtPraesidium Vorstand [Mitglied 7, Praesident 1, tbd:Quästor 2]>
+    <OrtSekretariat Sekretariat [tbd:Empfänger Umzugsmeldung 1, tbd:OM ADMIN 1, tbd:Zuzüger 18]>

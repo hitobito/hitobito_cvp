@@ -1,0 +1,22 @@
+<Bund CVP Schweiz>
+ <BundGewaehlte Departement Bundesrat Nr. 1 [Bundesrat 5, tbd:Pers. Mitarbeiter Bundesrat 3]>
+ <BundGewaehlte Nationalrat [Nationalrat 126, tbd:Nationalrat Partner 12]>
+ <BundGewaehlte Ständerat [Staenderat 47, tbd:Ständerat Partner 2]>
+ <Kanton CVP NE>
+  <KantonSympathisanten Sympathisanten [Sympathisant 518]>
+  <KantonArbeitsgruppe Politische Kommission [Mitglied 1]>
+  <KantonGewaehlte Législatif [KantonaleExekutive 4]>
+  <KantonMitglieder Mitgliedschaften [Mitglied 89]>
+  <KantonPraesidium Partei [Mitglied 11, Praesident 6, tbd:Ansprechperson Finanzen 2, tbd:Empfänger Rechnung Jahresbeitrag CVP CH 2, tbd:Gönner 1, tbd:Kassier 1, tbd:Kontakt Bundeshausfraktion 1, tbd:Sekretär Kantonalpartei/Vereinigung 2, tbd:Zuzüger 8]>
+  <Ort Littoral / Entre-deux-Lacs>
+   <OrtSympathisanten Sympathisanten [Sympathisant 2]>
+   <OrtGewaehlte Législatif / conseil général [KommunaleExekutive 3]>
+   <OrtMitglieder Mitgliedschaften [Mitglied 31]>
+   <OrtPraesidium Partei [Praesident 1]>
+  <Ort Montagnes>
+   <OrtGewaehlte Exécutif / conseil communal [KommunaleExekutive 1]>
+   <OrtGewaehlte Législatif / conseil général [KommunaleExekutive 3]>
+   <OrtMitglieder Mitgliedschaften [Mitglied 24]>
+   <OrtPraesidium Partei [Adressverwalter 1, Praesident 2]>
+  <Ort Vallées>
+   <OrtMitglieder Mitgliedschaften [Mitglied 10]>

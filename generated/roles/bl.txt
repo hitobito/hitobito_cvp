@@ -1,0 +1,149 @@
+<Bund CVP Schweiz>
+ <BundGewaehlte Departement Bundesrat Nr. 1 [Bundesrat 5, tbd:Pers. Mitarbeiter Bundesrat 3]>
+ <BundGewaehlte Nationalrat [Nationalrat 126, tbd:Nationalrat Partner 12]>
+ <BundGewaehlte Ständerat [Staenderat 47, tbd:Ständerat Partner 2]>
+ <Kanton CVP BL>
+  <KantonSympathisanten Sympathisanten [Sympathisant 17]>
+  <KantonArbeitsgruppe BL/BS Organisationen [tbd:Merkuria Basel 32]>
+   <KantonArbeitsgruppe HKBB [Mitglied 52]>
+   <KantonArbeitsgruppe KAB [Mitglied 1, Praesident 1]>
+   <KantonArbeitsgruppe KAB Grossbasel-West [Mitglied 1]>
+   <KantonArbeitsgruppe Mittelstandsvereinigung Basel [Mitglied 20, tbd:Sympathisant 10, tbd:Vorstandsmitglied 9]>
+   <KantonArbeitsgruppe Vereinigung Christlicher Unternehmer Basel [Mitglied 39]>
+  <KantonArbeitsgruppe Petition>
+   <KantonArbeitsgruppe 2015 [Mitglied 230]>
+  <KantonExterneKontakte Newsletter [Kontakt 689]>
+  <KantonGewaehlte Regierungsrat [KantonaleExekutive 6]>
+  <KantonGewaehlte Judikative>
+   <KantonGewaehlte Jugendgericht [tbd:Mitglied 1]>
+   <KantonGewaehlte Kantonsgericht [MitgliedKantonalesGerichtErsteInstanz 1, tbd:Mitglied 2, tbd:Vizepräsident 1]>
+   <KantonGewaehlte Steuer- und Enteignungsgericht [tbd:Mitglied 1, tbd:Präsident 1, tbd:Vizepräsident 1]>
+   <KantonGewaehlte Strafgericht [tbd:Mitglied 2, tbd:Präsident 1, tbd:Vizepräsident 1]>
+   <KantonGewaehlte Zivilkreisgericht West [tbd:Mitglied 2, tbd:Präsident 1]>
+  <KantonGewaehlte Legislative [KantonaleExekutive 3, KantonaleLegislative 20]>
+  <KantonMitglieder Mitgliedschaften [Mitglied 168]>
+  <KantonParteigremium Parteirat [Mitglied 50]>
+  <KantonParteigremium Personalkommission [Mitglied 1]>
+  <KantonParteigremium Schiedsgericht [Mitglied 2]>
+  <KantonParteigremium Sektionskonferenz [Mitglied 31]>
+  <KantonParteigremium Wahlkampfteam [Mitglied 9]>
+  <KantonPraesidium Partei [Mitglied 8, Praesident 2, tbd:Ansprechperson Finanzen 1, tbd:Botschafter 1, tbd:Delegierte Frauen 1, tbd:Gönner 2, tbd:Kader Mitgl. 257, tbd:Kassier 1, tbd:Landrat 03 Kandidat 41, tbd:Landrat 07 Kandidat 51, tbd:Medienverteiler 29, tbd:OM Ansprechperson 2, tbd:Plakatierer 4, tbd:Quästor 1, tbd:Sekretär Kantonalpartei/Vereinigung 4, tbd:Wahlkampfleiter 1, tbd:potentieller Wähler 858]>
+  <KantonPraesidium Parteivorstand [Mitglied 28]>
+  <Ort Birsfelden>
+   <OrtSympathisanten Sympathisanten [Sympathisant 5]>
+   <OrtGewaehlte Exekutive [KommunaleExekutive 1]>
+   <OrtMitglieder Mitgliedschaften [Mitglied 42]>
+   <OrtPraesidium Partei [Adressverwalter 1, Mitglied 1, Praesident 1]>
+  <Ort Muttenz>
+   <OrtSympathisanten Sympathisanten [Sympathisant 19]>
+   <OrtGewaehlte Exekutive [KommunaleExekutive 2]>
+   <OrtMitglieder Mitgliedschaften [Mitglied 108]>
+   <OrtPraesidium Partei [Adressverwalter 2, Mitglied 10, Praesident 5, tbd:OM Ansprechperson 3]>
+  <Region Wahlkreis Allschwil/Schönenbuch>
+   <RegionSympathisanten Sympathisanten [Sympathisant 1]>
+   <RegionGewaehlte Exekutive [RegionExekutive 2]>
+   <RegionMitglieder Mitgliedschaften [Mitglied 200]>
+   <RegionPraesidium Partei [Praesident 1, tbd:Empfänger Umzugsmeldung 1, tbd:OM Ansprechperson 2, tbd:Zuzüger 5]>
+  <Region Wahlkreis Binningen (inkl. Bottmingen)>
+   <RegionSympathisanten Sympathisanten [Sympathisant 33]>
+   <RegionGewaehlte Legislative [RegionLegislative 5]>
+   <RegionMitglieder Mitgliedschaften [Mitglied 106]>
+   <RegionPraesidium Partei [Praesident 2, tbd:Empfänger Umzugsmeldung 1, tbd:OM Ansprechperson 2, tbd:Vorstandsmitglied 9, tbd:Zuzüger 5]>
+  <Region Wahlkreis Gelterkinden>
+   <RegionMitglieder Mitgliedschaften [Mitglied 3]>
+  <Region Wahlkreis Laufental>
+   <RegionSympathisanten Sympathisanten [Sympathisant 14]>
+   <RegionMitglieder Mitgliedschaften [Mitglied 151]>
+   <RegionPraesidium Partei [Praesident 1, tbd:OM Ansprechperson 2, tbd:Vorstandsmitglied 2, tbd:Zuzüger 2]>
+   <Ort Blauen>
+    <OrtPraesidium Partei [Mitglied 1]>
+   <Ort Brislach>
+    <OrtSympathisanten Sympathisanten [Sympathisant 1]>
+    <OrtPraesidium Partei [Praesident 1]>
+   <Ort Burg>
+    <OrtPraesidium Partei [Praesident 1]>
+   <Ort Dittingen>
+    <OrtMitglieder Mitgliedschaften [Mitglied 19]>
+   <Ort Grellingen>
+    <OrtSympathisanten Sympathisanten [Sympathisant 23]>
+    <OrtGewaehlte Exekutive [Fraktionschef 1, KommunaleExekutive 6]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 49]>
+    <OrtPraesidium Partei [Adressverwalter 1, Kassier 1, Mitglied 7, Praesident 3, tbd:OM Ansprechperson 1]>
+   <Ort Laufen>
+    <OrtSympathisanten Sympathisanten [Sympathisant 68]>
+    <OrtGewaehlte Exekutive [KommunaleExekutive 7]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 136]>
+    <OrtPraesidium Partei [Adressverwalter 7, Mitglied 2, Praesident 2, tbd:OM Ansprechperson 1]>
+   <Ort Liesberg>
+    <OrtSympathisanten Sympathisanten [Sympathisant 67]>
+    <OrtGewaehlte Exekutive [KommunaleExekutive 2]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 32]>
+    <OrtPraesidium Partei [Praesident 1]>
+   <Ort Nenzlingen>
+    <OrtPraesidium Partei [Praesident 1]>
+   <Ort Röschenz>
+    <OrtGewaehlte Exekutive [KommunaleExekutive 4]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 59]>
+    <OrtPraesidium Partei [tbd:Sekretär 1, tbd:Vorstand 1]>
+   <Ort Zwingen>
+    <OrtSympathisanten Sympathisanten [Sympathisant 28]>
+    <OrtGewaehlte Exekutive [KommunaleExekutive 2]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 71]>
+  <Region Wahlkreis Liestal>
+   <RegionSympathisanten Sympathisanten [Sympathisant 173]>
+   <RegionMitglieder Mitgliedschaften [Mitglied 53]>
+   <RegionPraesidium Partei [Praesident 1, tbd:Empfänger Umzugsmeldung 2, tbd:OM Ansprechperson 2, tbd:Vorstandsmitglied 4, tbd:Zuzüger 10]>
+  <Region Wahlkreis Münchenstein>
+   <Ort Arlesheim>
+    <OrtSympathisanten Sympathisanten [Sympathisant 93]>
+    <OrtGewaehlte Exekutive [KommunaleExekutive 1]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 117]>
+    <OrtPraesidium Partei [Adressverwalter 3, Mitglied 6, Praesident 1, tbd:OM Ansprechperson 2]>
+   <Ort Münchenstein>
+    <OrtSympathisanten Sympathisanten [Sympathisant 31]>
+    <OrtArbeitsgruppe Wahlkampfteam [tbd:Mitglied 1]>
+    <OrtGewaehlte Exekutive [Fraktionschef 1, KommunaleExekutive 1]>
+    <OrtGewaehlte Schulpflege [Schulpflegekommission 1]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 44]>
+    <OrtPraesidium Partei [Adressverwalter 3, Mitglied 6, Praesident 3, tbd:OM Ansprechperson 1, tbd:Sekretär 1]>
+  <Region Wahlkreis Oberwil>
+   <Ort Ettingen>
+    <OrtSympathisanten Sympathisanten [Sympathisant 2]>
+    <OrtGewaehlte Exekutive [Fraktionschef 1]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 29]>
+    <OrtPraesidium Partei [Adressverwalter 2, Kassier 1, Mitglied 1, Praesident 1, tbd:OM Ansprechperson 1]>
+   <Ort Oberwil>
+    <OrtGewaehlte Exekutive [KommunaleExekutive 1]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 62]>
+    <OrtPraesidium Partei [Adressverwalter 5, Kassier 1, Mitglied 6, Praesident 1, tbd:OM Ansprechperson 1]>
+   <Ort Therwil/Biel-Benken>
+    <OrtSympathisanten Sympathisanten [Sympathisant 2]>
+    <OrtGewaehlte Exekutive [KommunaleExekutive 4]>
+    <OrtGewaehlte Schulpflege [Schulpflegekommission 4]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 105]>
+    <OrtPraesidium Partei [Adressverwalter 2, Kassier 1, Mitglied 10, Praesident 2, tbd:OM Ansprechperson 1]>
+  <Region Wahlkreis Reinach>
+   <Ort Aesch/Pfeffingen>
+    <OrtSympathisanten Sympathisanten [Sympathisant 1]>
+    <OrtGewaehlte Exekutive [KommunaleExekutive 1]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 268]>
+    <OrtPraesidium Partei [Adressverwalter 5, Kassier 1, Mitglied 8, Praesident 1, tbd:OM Ansprechperson 1, tbd:Sekretär 1]>
+   <Ort Reinach>
+    <OrtSympathisanten Sympathisanten [Sympathisant 294]>
+    <OrtGewaehlte Exekutive [KommunaleExekutive 1]>
+    <OrtGewaehlte Legislative [KommunaleExekutive 5]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 213]>
+    <OrtPraesidium Partei [Adressverwalter 4, Mitglied 9, Praesident 2, tbd:Delegierter Bezirk 1, tbd:OM Ansprechperson 1]>
+  <Region Wahlkreis Sissach>
+   <RegionSympathisanten Sympathisanten [Sympathisant 1]>
+   <RegionMitglieder Mitgliedschaften [Mitglied 2]>
+  <Region Wahlkreis Waldenburg>
+   <RegionGewaehlte Exekutive [RegionExekutive 1]>
+   <RegionMitglieder Mitgliedschaften [Mitglied 20]>
+   <RegionPraesidium Partei [tbd:OM Ansprechperson 1, tbd:Vorstandsmitglied 1]>
+  <Region Wahlreis Pratteln>
+   <RegionSympathisanten Sympathisanten [Sympathisant 11]>
+   <RegionGewaehlte Exekutive [RegionExekutive 1]>
+   <RegionGewaehlte Legislative [RegionLegislative 3]>
+   <RegionMitglieder Mitgliedschaften [Mitglied 31]>
+   <RegionPraesidium Partei [Praesident 2, tbd:Aktuar 1, tbd:Gönner 1, tbd:Kassier 2, tbd:OM Ansprechperson 2, tbd:Vorstandsmitglied 5, tbd:Zuzüger 2]>

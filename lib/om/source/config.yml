@@ -1,0 +1,199 @@
+files:
+  - 16_Verbandstruktur
+  - 01_KontaktDaten
+  - 03_Kampagnenstamm
+  - 06_SpendenHistory
+  - 07_Mitgliedschaft
+  - 09_MerkmalStamm
+  - 11_Notizen
+  - 13_Verbindungen
+
+migrate:
+  01_KontaktDaten:
+    alter: |
+      -- Modify datatypes:
+      ALTER TABLE kontakt_daten
+        ALTER COLUMN kunden_id TYPE UUID USING kunden_id::uuid,
+        ALTER COLUMN kundennummer TYPE INTEGER USING kundennummer::integer,
+        ALTER COLUMN kontaktnummer TYPE INTEGER USING kontaktnummer::integer,
+        ALTER COLUMN anrede_code TYPE INTEGER USING anrede_code::integer,
+        ALTER COLUMN jahr_geburt TYPE INTEGER USING jahr_geburt::integer,
+        ALTER COLUMN monat_geburt TYPE INTEGER USING monat_geburt::integer,
+        ALTER COLUMN tag_geburt TYPE INTEGER USING tag_geburt::integer,
+        ALTER COLUMN postleitzahl_zusatzziffer TYPE INTEGER USING postleitzahl_zusatzziffer::integer,
+        ALTER COLUMN hausnummer TYPE INTEGER USING hausnummer::integer,
+        ALTER COLUMN hausnummer DROP NOT NULL;
+
+      -- Update some values:
+      UPDATE kontakt_daten SET hausnummer=NULL where hausnummer = 0;
+      UPDATE kontakt_daten SET email = LOWER(email);
+
+      -- Create mv without deleted kontakts:
+      CREATE MATERIALIZED VIEW kontakts AS
+        SELECT * FROM kontakt_daten WHERE loeschflag IS NULL;
+
+      -- Create mv without groups:
+      CREATE MATERIALIZED VIEW people AS
+        SELECT * FROM kontakts
+        WHERE kunden_id NOT IN (SELECT DISTINCT kunden_id FROM verbandstruktur WHERE kunden_id IS NOT NUll);
+
+      -- Create indices on mv:
+      CREATE INDEX midx_kontakts_kunden_id ON kontakts(kunden_id);
+      CREATE INDEX midx_people_kunden_id ON people(kunden_id);
+
+  02_Adresscodes:
+    alter: |
+      ALTER TABLE adresscodes
+        ALTER COLUMN kunden_id TYPE UUID USING kunden_id::uuid;
+  03_Kampagnenstamm:
+      alter: |
+        ALTER TABLE kampagnenstamm
+          ALTER COLUMN kampagnen_nummer TYPE INTEGER USING kampagnen_nummer::integer,
+          ALTER COLUMN postaufgabe_am DROP NOT NULL,
+          ALTER COLUMN aufbereitet_am DROP NOT NULL,
+          ALTER COLUMN abgeliefert_am DROP NOT NULL;
+
+        UPDATE kampagnenstamm
+          SET postaufgabe_am = NULL WHERE postaufgabe_am = '00000000';
+        UPDATE kampagnenstamm
+          SET aufbereitet_am = NULL WHERE aufbereitet_am = '00000000';
+        UPDATE kampagnenstamm
+          SET abgeliefert_am = NULL WHERE abgeliefert_am = '00000000';
+
+
+        ALTER TABLE kampagnenstamm
+          ALTER COLUMN auftraggeber_kunden_id TYPE UUID USING auftraggeber_kunden_id::uuid,
+          ALTER COLUMN postaufgabe_am TYPE DATE USING postaufgabe_am::date,
+          ALTER COLUMN aufbereitet_am TYPE DATE USING aufbereitet_am::date,
+          ALTER COLUMN abgeliefert_am TYPE DATE USING abgeliefert_am::date;
+  06_SpendenHistory:
+    alter: |
+      ALTER TABLE spenden_history
+        ALTER COLUMN kunden_id TYPE UUID USING kunden_id::uuid,
+        ALTER COLUMN kostentraeger_id TYPE UUID USING kostentraeger_id::uuid,
+        ALTER COLUMN kampagnen_nummer TYPE INTEGER USING kampagnen_nummer::integer,
+        ALTER COLUMN spenden_nummer TYPE INTEGER USING spenden_nummer::integer,
+        ALTER COLUMN detail_nummer TYPE INTEGER USING detail_nummer::integer,
+        ALTER COLUMN spenden_datum TYPE DATE USING spenden_datum::date;
+
+      CREATE INDEX idx_spenden_history_kunden_id ON spenden_history(kunden_id);
+  07_Mitgliedschaft:
+    alter: |
+      -- For Indices on strings:
+      CREATE EXTENSION IF NOT EXISTS pg_trgm;
+
+      -- Modify datatypes create fk to verband:
+      ALTER TABLE mitgliedschaft
+        ALTER COLUMN kunden_id TYPE UUID USING kunden_id::uuid,
+        ALTER COLUMN organisations_id TYPE UUID USING organisations_id::uuid,
+        ALTER COLUMN mitgliedschafts_nummer TYPE INTEGER USING mitgliedschafts_nummer::integer,
+        ADD COLUMN struktur_id INTEGER;
+
+      -- Update foreign key to verband:
+      UPDATE mitgliedschaft
+      SET struktur_id = verbandstruktur.verbandstruktur_id
+      FROM verbandstruktur
+      WHERE verbandstruktur.kunden_id = mitgliedschaft.organisations_id
+      AND verbandstruktur.bezeichnung_d = 'Mitgliedschaften';
+
+      -- CREATE indices for mv query:
+      CREATE INDEX idx_mitgliedschaft_kunden_id ON mitgliedschaft(kunden_id);
+
+      -- Create mv without deleted kontakts and duplicate entries (about 10_000):
+      CREATE MATERIALIZED VIEW mitgliedschafts AS
+      SELECT DISTINCT ON(struktur_id, kunden_id) * FROM mitgliedschaft
+      WHERE kunden_id IN (
+        SELECT kunden_id FROM people
+      ) ORDER BY struktur_id, kunden_id, erfassungs_datum DESC;
+
+      -- Add indices:
+      CREATE INDEX midx_mitgliedschaft_struktur_id ON mitgliedschafts(struktur_id);
+      CREATE INDEX midx_mitgliedschaft_kunden_id ON mitgliedschafts(kunden_id);
+      CREATE INDEX midx_mitgliedschaft_label ON mitgliedschafts USING gin(lower(mitgliedschafts_bezeichnung) gin_trgm_ops);
+  09_MerkmalStamm:
+    alter: |
+      -- Create a primary key:
+      ALTER TABLE merkmal_stamm ADD COLUMN ID SERIAL PRIMARY KEY;
+      CREATE INDEX idx_merkmal_stamm_label ON merkmal_stamm USING gin(lower(merkmal_bezeichnung_d) gin_trgm_ops);
+
+  10_KontoStamm:
+    alter: |
+      ALTER TABLE konto_stamm
+        ALTER COLUMN id_konto_referenz TYPE UUID USING id_konto_referenz::uuid;
+  13_Verbindungen:
+    alter: |
+      ALTER TABLE verbindungen
+        ALTER COLUMN kunden_id_1 TYPE UUID USING kunden_id_1::uuid,
+        ALTER COLUMN kunden_id_2 TYPE UUID USING kunden_id_2::uuid,
+        ALTER COLUMN struktur_id TYPE INTEGER USING struktur_id::integer,
+        ALTER COLUMN datum_von DROP NOT NULL,
+        ALTER COLUMN datum_bis DROP NOT NULL,
+        ADD COLUMN merkmal_id INTEGER;
+
+
+      -- Update foreign key to merkmal_stamm:
+      UPDATE verbindungen
+      SET merkmal_id = merkmal_stamm.id
+      FROM merkmal_stamm
+      WHERE merkmal_stamm.merkmal_gruppe = verbindungen.hauptcocde_verbindungsart
+      AND merkmal_stamm.merkmal = verbindungen.code_verbindungsart;
+
+      -- Update datum_von und datum_bis:
+      UPDATE verbindungen SET datum_von = NULL WHERE datum_von = '00000000';
+      UPDATE verbindungen SET datum_bis = NULL WHERE datum_bis = '00000000';
+
+      -- Change datum_von und datum_bis to date:
+      ALTER TABLE verbindungen
+        ALTER COLUMN datum_von TYPE DATE USING datum_von::date,
+        ALTER COLUMN datum_bis TYPE DATE USING datum_bis::date;
+
+      CREATE INDEX idx_verbindungen_struktur_id ON verbindungen(struktur_id);
+      CREATE INDEX idx_verbindungen_kunden_id_1 ON verbindungen(kunden_id_1);
+      CREATE INDEX idx_verbindungen_merkmalstamm ON verbindungen(merkmal_id);
+
+      -- Most Verbindungen are duplicate:
+      -- Some reference entries from merkmalstamm which do not exist:
+      CREATE MATERIALIZED VIEW verbindungs AS
+      SELECT * FROM verbindungen
+        WHERE kunden_id_1 IN (SELECT DISTINCT kunden_id FROM people)
+        AND merkmal_id IN (SELECT id FROM merkmal_stamm);
+
+      CREATE INDEX midx_verbindungen_struktur_id ON verbindungs(struktur_id);
+      CREATE INDEX midx_verbindungen_kunden_id_1 ON verbindungs(kunden_id_1);
+      CREATE INDEX midx_verbindungen_merkmalstamm ON verbindungs(merkmal_id);
+  16_Verbandstruktur:
+    alter: |
+      ALTER TABLE verbandstruktur
+        ADD COLUMN lft INTEGER,
+        ADD COLUMN rgt INTEGER,
+        ADD COLUMN layer_group_id INTEGER DEFAULT 0,
+        ADD COLUMN depth INTEGER DEFAULT 0 NOT NULL,
+        ADD COLUMN children_count INTEGER DEFAULT 0 NOT NULL,
+        ALTER COLUMN kunden_id TYPE UUID USING kunden_id::uuid,
+        ALTER COLUMN created_on TYPE INTEGER USING created_on::integer,
+        ALTER COLUMN created_at TYPE INTEGER USING created_at::integer,
+        ALTER COLUMN updated_on TYPE INTEGER USING updated_on::integer,
+        ALTER COLUMN updated_at TYPE INTEGER USING updated_at::integer,
+        ALTER COLUMN verbandstruktur_id TYPE INTEGER USING verbandstruktur_id::integer,
+        ALTER COLUMN ref_verbandstruktur_id TYPE INTEGER USING ref_verbandstruktur_id::integer,
+        ALTER COLUMN ref_verbandstruktur_id DROP NOT NULL,
+        ALTER COLUMN strukturtyp DROP NOT NULL;
+      UPDATE verbandstruktur SET ref_verbandstruktur_id = 1 WHERE ref_verbandstruktur_id = 99999999;
+      UPDATE verbandstruktur SET ref_verbandstruktur_id = NULL WHERE verbandstruktur_id = 1;
+
+      -- Add indices:
+      CREATE INDEX ref_id ON verbandstruktur(ref_verbandstruktur_id);
+      CREATE INDEX depth ON verbandstruktur(depth);
+
+      -- Delete groups which have no parent:
+      DELETE FROM verbandstruktur v
+        WHERE NOT EXISTS (
+          SELECT FROM verbandstruktur v2
+          WHERE v.ref_verbandstruktur_id = v2.verbandstruktur_id
+        ) AND v.ref_verbandstruktur_id IS NOT NULL;
+
+  17_Referenznummern:
+    alter: |
+      ALTER TABLE referenznummern
+        ALTER COLUMN kunden_id TYPE UUID USING kunden_id::uuid,
+        ALTER COLUMN mailingsnummer TYPE INTEGER USING mailingsnummer::integer;

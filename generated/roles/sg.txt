@@ -1,0 +1,560 @@
+<Bund CVP Schweiz>
+ <BundGewaehlte Departement Bundesrat Nr. 1 [Bundesrat 5, tbd:Pers. Mitarbeiter Bundesrat 3]>
+ <BundGewaehlte Nationalrat [Nationalrat 126, tbd:Nationalrat Partner 12]>
+ <BundGewaehlte Ständerat [Staenderat 47, tbd:Ständerat Partner 2]>
+ <Kanton CVP SG>
+  <KantonSympathisanten Sympathisanten [Sympathisant 47]>
+  <KantonArbeitsgruppe Diverse Funktionen [Mitglied 52, Praesident 92, tbd:Ansprechperson Finanzen 1, tbd:Empfänger Rechnung Jahresbeitrag CVP CH 2, tbd:Gemeinderatsmitglied 137, tbd:Parteirat 42, tbd:Sekretär Kantonalpartei/Vereinigung 1, tbd:Stadtparlamentarier 47, tbd:Sympathisant/-in Wettbewerb 28.4.07 9, tbd:VIP 7]>
+  <KantonArbeitsgruppe Erneuerung>
+   <KantonArbeitsgruppe AG 1 Profil [Mitglied 7]>
+   <KantonArbeitsgruppe AG 2 Themen [Mitglied 8]>
+   <KantonArbeitsgruppe AG 3 Organisation [Mitglied 11]>
+   <KantonArbeitsgruppe Ausschuss [Mitglied 5]>
+   <KantonArbeitsgruppe OP/RP [tbd:Ansprechperson 39]>
+  <KantonArbeitsgruppe Freundeskreis [Gast 10, Mitglied 151, Praesident 1]>
+  <KantonArbeitsgruppe Gesinnungskreis [Mitglied 81]>
+   <KantonArbeitsgruppe Eidgenössische Räte>
+    <KantonArbeitsgruppe Nationalrat (3600) [Mitglied 14]>
+    <KantonArbeitsgruppe Ständerat (4200) [Mitglied 2]>
+   <KantonArbeitsgruppe Kantonale Exekutive>
+    <KantonArbeitsgruppe Regierungspräsident (8760) [Mitglied 1]>
+    <KantonArbeitsgruppe Regierungsrat (8400) [Mitglied 4]>
+    <KantonArbeitsgruppe Staatssekretär (7200) [Mitglied 1]>
+   <KantonArbeitsgruppe Weitere Mandate und Funktionen [Mitglied 4]>
+   <KantonArbeitsgruppe Weitere kantonale Mandate>
+    <KantonArbeitsgruppe Erziehungsrat (1680) [Mitglied 5]>
+    <KantonArbeitsgruppe Hochschulrat (720) [Mitglied 1]>
+    <KantonArbeitsgruppe Rat der Pädagogischen Hochschule (720) [Mitglied 2]>
+    <KantonArbeitsgruppe Universitätsrat (720) [Mitglied 6]>
+    <KantonArbeitsgruppe Verwaltungskom. Sozialversicherungsanstalt (720) [Mitglied 1]>
+    <KantonArbeitsgruppe Verwaltungsrat GVA(360) [Mitglied 3]>
+  <KantonArbeitsgruppe KMU-Forum [Gast 2, Mitglied 43, Praesident 4, tbd:Sympathisant 25, tbd:von Amtes wegen 12]>
+  <KantonArbeitsgruppe Präzis [tbd:Empfänger 144, tbd:nicht erwünscht 11]>
+  <KantonArbeitsgruppe Vereinigung ehemaliger Kantonsräte [Mitglied 158, Praesident 1, tbd:Empfänger Einladung 15, tbd:Vorstandsmitglied 16]>
+  <KantonArbeitsgruppe Wahlstäbe [tbd:Bezirk Delegierter 5, tbd:Plakatierer 12]>
+   <KantonArbeitsgruppe 2015 Eidgenössische Wahlen [Mitglied 7]>
+   <KantonArbeitsgruppe 2019 eidgenössische Wahlen [Mitglied 1]>
+   <KantonArbeitsgruppe 2020 Kantonsratswahlen [Mitglied 9]>
+   <KantonArbeitsgruppe 2020 Regierungswahlen [Mitglied 15]>
+  <KantonDelegierte Delegiertenversammlung [tbd:Delegierter von Amtes wegen 19]>
+   <KantonDelegierte Regionalpartei Rheintal>
+    <KantonDelegierte Altstätten [mit Lüchingen und Lienz] [Delegierte 12, tbd:Delegierter von Amtes wegen 4]>
+    <KantonDelegierte Au-Heerbrugg [Delegierte 3, tbd:Delegierter von Amtes wegen 2]>
+    <KantonDelegierte Balgach [Delegierte 3, tbd:Delegierter von Amtes wegen 2]>
+    <KantonDelegierte Berneck [Delegierte 5, tbd:Delegierter von Amtes wegen 2]>
+    <KantonDelegierte Diepoldsau-Schmitter [Delegierte 6, tbd:Delegierter von Amtes wegen 3]>
+    <KantonDelegierte Marbach [Delegierte 1, tbd:Delegierter von Amtes wegen 1]>
+    <KantonDelegierte Oberriet (mit Montlingen und Kriessern) [Delegierte 11, tbd:Delegierter von Amtes wegen 3]>
+    <KantonDelegierte Präsident Regionalpartei [tbd:Delegierter von Amtes wegen 1]>
+    <KantonDelegierte Rebstein [Delegierte 3, tbd:Delegierter von Amtes wegen 1]>
+    <KantonDelegierte Rheineck [Delegierte 1, tbd:Delegierter von Amtes wegen 1]>
+    <KantonDelegierte Rüthi [Delegierte 3, tbd:Delegierter von Amtes wegen 5]>
+    <KantonDelegierte St. Margrethen [Delegierte 3, tbd:Delegierter von Amtes wegen 2]>
+    <KantonDelegierte Widnau [Delegierte 7, tbd:Delegierter von Amtes wegen 4]>
+   <KantonDelegierte Regionalpartei Rorschach>
+    <KantonDelegierte Goldach-Untereggen [Delegierte 7, tbd:Delegierter von Amtes wegen 3]>
+    <KantonDelegierte Mörschwil [Delegierte 7, tbd:Delegierter von Amtes wegen 3]>
+    <KantonDelegierte Präsident Regionalpartei [tbd:Delegierter von Amtes wegen 1]>
+    <KantonDelegierte Rorschach [Delegierte 3, tbd:Delegierter von Amtes wegen 2]>
+    <KantonDelegierte Rorschacherberg [Delegierte 8, tbd:Delegierter von Amtes wegen 4]>
+    <KantonDelegierte Steinach [Delegierte 6, tbd:Delegierter von Amtes wegen 2]>
+    <KantonDelegierte Thal-Staad- Altenrhein [Delegierte 4, tbd:Delegierter von Amtes wegen 3]>
+    <KantonDelegierte Tübach [tbd:Delegierter von Amtes wegen 1]>
+   <KantonDelegierte Regionalpartei Sarganserland>
+    <KantonDelegierte Bad Ragaz-Taminatal [Delegierte 5, tbd:Delegierter von Amtes wegen 4]>
+    <KantonDelegierte Flums [mit Portels, Kleinberg] [Delegierte 3, tbd:Delegierter von Amtes wegen 2]>
+    <KantonDelegierte Mels [mit Plons, Heiligkreuz, Mädris, Vermol] [Delegierte 5, tbd:Delegierter von Amtes wegen 8]>
+    <KantonDelegierte Quarten [mit Unterterzen, Mols, Murg, Quinten] [Delegierte 2, tbd:Delegierter von Amtes wegen 2]>
+    <KantonDelegierte Sargans [Delegierte 7, tbd:Delegierter von Amtes wegen 4]>
+    <KantonDelegierte Vilters-Wangs [Delegierte 4, tbd:Delegierter von Amtes wegen 1]>
+    <KantonDelegierte Walenstadt [Delegierte 5, tbd:Delegierter von Amtes wegen 3]>
+   <KantonDelegierte Regionalpartei See-Gaster>
+    <KantonDelegierte Amden [Delegierte 4, tbd:Delegierter von Amtes wegen 3]>
+    <KantonDelegierte Benken [Delegierte 3, tbd:Delegierter von Amtes wegen 1]>
+    <KantonDelegierte Eschenbach [mit Neuhaus, Ermenswil] [Delegierte 10, tbd:Delegierter von Amtes wegen 4]>
+    <KantonDelegierte Gommiswald-Ernetschwil-Rieden [Delegierte 4, tbd:Delegierter von Amtes wegen 4]>
+    <KantonDelegierte Kaltbrunn [Delegierte 3, tbd:Delegierter von Amtes wegen 2]>
+    <KantonDelegierte Rapperswil-Jona [mit Bollingen, Lenggis, Kempraten [Delegierte 10, tbd:Delegierter von Amtes wegen 5]>
+    <KantonDelegierte Schmerikon [Delegierte 2, tbd:Delegierter von Amtes wegen 3]>
+    <KantonDelegierte Schänis [mit Maseltrangen, Rufi] [Delegierte 4, tbd:Delegierter von Amtes wegen 2]>
+    <KantonDelegierte Uznach [Delegierte 4, tbd:Delegierter von Amtes wegen 2]>
+    <KantonDelegierte Weesen [Delegierte 1, tbd:Delegierter von Amtes wegen 1]>
+   <KantonDelegierte Regionalpartei St. Gallen-Gossau>
+    <KantonDelegierte Andwil [Delegierte 3, tbd:Delegierter von Amtes wegen 2]>
+    <KantonDelegierte Eggersriet-Grub [Delegierte 5, tbd:Delegierter von Amtes wegen 2]>
+    <KantonDelegierte Gaiserwald [Delegierte 9, tbd:Delegierter von Amtes wegen 2]>
+    <KantonDelegierte Gossau-Arnegg [Delegierte 16, tbd:Delegierter von Amtes wegen 5]>
+    <KantonDelegierte Muolen-Häggenschwil [Delegierte 8, tbd:Delegierter von Amtes wegen 2]>
+    <KantonDelegierte Stadt St. Gallen [Delegierte 19, tbd:Delegierter von Amtes wegen 5]>
+    <KantonDelegierte Waldkirch-Bernhardzell [Delegierte 10, tbd:Delegierter von Amtes wegen 3]>
+    <KantonDelegierte Wittenbach [Delegierte 7, tbd:Delegierter von Amtes wegen 4]>
+   <KantonDelegierte Regionalpartei Toggenburg>
+    <KantonDelegierte Bütschwil-Ganterschwil [Delegierte 7, tbd:Delegierter von Amtes wegen 2]>
+    <KantonDelegierte Ebnat Kappel [Delegierte 2, tbd:Delegierter von Amtes wegen 2]>
+    <KantonDelegierte Kirchberg [Delegierte 6, tbd:Delegierter von Amtes wegen 2]>
+    <KantonDelegierte Lichtensteig-Krinau [Delegierte 4, tbd:Delegierter von Amtes wegen 3]>
+    <KantonDelegierte Lütisburg [mit Rindal] [Delegierte 2, tbd:Delegierter von Amtes wegen 2]>
+    <KantonDelegierte Mosnang [Delegierte 12, tbd:Delegierter von Amtes wegen 3]>
+    <KantonDelegierte Neckertal [Delegierte 2, tbd:Delegierter von Amtes wegen 3]>
+    <KantonDelegierte Nesslau [Delegierte 3, tbd:Delegierter von Amtes wegen 2]>
+    <KantonDelegierte Oberhelfenschwil [mit Necker, Wigetshof] [Delegierte 4, tbd:Delegierter von Amtes wegen 2]>
+    <KantonDelegierte Wattwil [mit Ulisbach] [Delegierte 5, tbd:Delegierter von Amtes wegen 2]>
+    <KantonDelegierte Wildhaus-Alt St. Johann [Delegierte 2, tbd:Delegierter von Amtes wegen 1]>
+   <KantonDelegierte Regionalpartei Werdenberg>
+    <KantonDelegierte Buchs [Delegierte 6, tbd:Delegierter von Amtes wegen 2]>
+    <KantonDelegierte Gams [Delegierte 6, tbd:Delegierter von Amtes wegen 2]>
+    <KantonDelegierte Grabs [Delegierte 2, tbd:Delegierter von Amtes wegen 3]>
+    <KantonDelegierte Sennwald [mit Frümsen, Haag, Sax, Salez] [Delegierte 1, tbd:Delegierter von Amtes wegen 1]>
+   <KantonDelegierte Regionalpartei Wil-Untertoggenburg>
+    <KantonDelegierte Degersheim [mit Wolfertswil, Magdenau, Dicken] [Delegierte 1, tbd:Delegierter von Amtes wegen 1]>
+    <KantonDelegierte Flawil [mit Alterswil, Egg] [Delegierte 8, tbd:Delegierter von Amtes wegen 2]>
+    <KantonDelegierte Jonschwil-Schwarzenbach [Delegierte 2, tbd:Delegierter von Amtes wegen 1]>
+    <KantonDelegierte Niederbüren [Delegierte 2, tbd:Delegierter von Amtes wegen 1]>
+    <KantonDelegierte Niederhelfenschwil (inkl. Zuckenriet, Lenggenwil) [tbd:Delegierter von Amtes wegen 1]>
+    <KantonDelegierte Oberbüren [mit Niederwil, Sonnental] [Delegierte 4, tbd:Delegierter von Amtes wegen 2]>
+    <KantonDelegierte Oberuzwil [mit Bichwil, Niederglatt] [Delegierte 5, tbd:Delegierter von Amtes wegen 2]>
+    <KantonDelegierte Stadt Wil und Bronschhofen [Delegierte 12, tbd:Delegierter von Amtes wegen 4]>
+    <KantonDelegierte Uzwil [mit Niederuzwil, Henau, Algetshausen] [Delegierte 7, tbd:Delegierter von Amtes wegen 2]>
+    <KantonDelegierte Zuzwil [mit Züberwangen] [Delegierte 4, tbd:Delegierter von Amtes wegen 2]>
+  <KantonExterneKontakte Adressen Stadt St.Gallen>
+   <KantonExterneKontakte Firmenadressen [Kontakt 340]>
+   <KantonExterneKontakte Gewerbe Stadt St.Gallen [Kontakt 183]>
+  <KantonExterneKontakte Communiqués [Kontakt 2888]>
+  <KantonExterneKontakte Firmenadressen>
+   <KantonExterneKontakte Rheintal [Kontakt 16]>
+   <KantonExterneKontakte Rorschach [Kontakt 3]>
+   <KantonExterneKontakte Sarganserland [Kontakt 10]>
+   <KantonExterneKontakte Seegaster [Kontakt 10]>
+   <KantonExterneKontakte St. Gallen-Gossau [Kontakt 25]>
+   <KantonExterneKontakte Toggenburg [Kontakt 1]>
+   <KantonExterneKontakte Werdenberg [Kontakt 2]>
+   <KantonExterneKontakte Wil-Untertoggenburg [Kontakt 6]>
+  <KantonExterneKontakte Medienverteiler [Kontakt 58]>
+  <KantonExterneKontakte Newsletter [Kontakt 2941]>
+  <KantonExterneKontakte Sponsoren [Spender 23]>
+  <KantonExterneKontakte Verteiler Juristen [Kontakt 80]>
+  <KantonGewaehlte Abteilungspräsident Versicherungsgericht (6240) [MitgliedKantonalesGerichtErsteInstanz 1]>
+  <KantonGewaehlte Abteilungsvizepräsident Versicherungsgericht (720) [MitgliedKantonalesGerichtErsteInstanz 1]>
+  <KantonGewaehlte Ersatzrichter der Anklagekammer (720) [MitgliedKantonalesGerichtErsteInstanz 2]>
+  <KantonGewaehlte Ersatzrichter des Kantonsgerichts (720) [MitgliedKantonalesGerichtErsteInstanz 3]>
+  <KantonGewaehlte Ersatzrichter des Verwaltungsgerichts (360) [MitgliedKantonalesGerichtErsteInstanz 1]>
+  <KantonGewaehlte Regierungsrat [KantonaleExekutive 9, tbd:Staatssekretär 1]>
+  <KantonGewaehlte Fachrichter Versicherungsgericht (360) [MitgliedKantonalesGerichtErsteInstanz 3]>
+  <KantonGewaehlte Fachrichter der Verwaltungsrekurskommission (360) [MitgliedKantonalesGerichtErsteInstanz 7]>
+  <KantonGewaehlte Fraktion [Fraktionschef 3, KantonaleLegislative 65, tbd:Gast 2, tbd:Vorstandsmitglied 25]>
+  <KantonGewaehlte Handelsrichter (360) [tbd:Mitglied 12]>
+  <KantonGewaehlte Hauptamtlicher Kantonsrichter (7200) [MitgliedKantonalesGerichtErsteInstanz 3]>
+  <KantonGewaehlte Judikative>
+   <KantonGewaehlte Anklagekammer [MitgliedKantonalesGerichtErsteInstanz 2]>
+   <KantonGewaehlte Handelsgericht [MitgliedKantonalesGerichtErsteInstanz 12]>
+   <KantonGewaehlte Kantonsgericht [MitgliedKantonalesGerichtErsteInstanz 9]>
+   <KantonGewaehlte Staatsanwaltschaft [Staatsanwaltschaft 10]>
+   <KantonGewaehlte Versicherungsgericht [MitgliedKantonalesGerichtErsteInstanz 7]>
+   <KantonGewaehlte Verwaltungsgericht [MitgliedKantonalesGerichtErsteInstanz 3]>
+   <KantonGewaehlte Verwaltungsrekurskommission [MitgliedKantonalesGerichtErsteInstanz 11]>
+  <KantonGewaehlte Kantonsgerichtpräsident (7560) [MitgliedKantonalesGerichtErsteInstanz 1]>
+  <KantonGewaehlte Legislative [KantonaleLegislative 71]>
+  <KantonGewaehlte Nebenamt. Richter Verwaltungsrekurskom. (720) [MitgliedKantonalesGerichtErsteInstanz 1]>
+  <KantonGewaehlte Nebenamtliche Richter Versicherungsgericht (720) [MitgliedKantonalesGerichtErsteInstanz 2]>
+  <KantonGewaehlte Richter Verwaltungsrekurskommission (6480) [MitgliedKantonalesGerichtErsteInstanz 1]>
+  <KantonGewaehlte Verwaltungsgerichtspräsident (7560) [MitgliedKantonalesGerichtErsteInstanz 1]>
+  <KantonGewaehlte Vizepräsident Verwaltungsgericht (7200) [MitgliedKantonalesGerichtErsteInstanz 1]>
+  <KantonKommission Fachkommissionen>
+   <KantonKommission Baudepartement (BD) [Mitglied 9, Praesident 2]>
+   <KantonKommission Bildung (BLD) [Mitglied 7, Praesident 2]>
+   <KantonKommission Departement des Innern (DI) [Mitglied 6, Praesident 3]>
+   <KantonKommission Finanzen (FD) [Mitglied 12, Praesident 3]>
+   <KantonKommission Gesundheit (GD) [Mitglied 9, Praesident 3]>
+   <KantonKommission Sicherheit (SJD) [Mitglied 12, Praesident 2]>
+   <KantonKommission Volkswirtschaftsdepartement (VD) [Mitglied 6, Praesident 2]>
+  <KantonMitglieder Mitgliedschaften [Mitglied 51]>
+  <KantonParteigremium Kontrollkommission [Mitglied 8, Praesident 1]>
+  <KantonParteigremium Parteivorstand [Mitglied 56]>
+  <KantonPraesidium Parteileitung [Mitglied 27]>
+  <Region Regionalpartei Rheintal>
+   <RegionGewaehlte Kreisgericht [RegionJudikative 5]>
+   <RegionPraesidium Partei [Kassier 1, Mitglied 3, Praesident 3, tbd:Delegierter 119, tbd:Parteivorstand 7, tbd:Vorstandsmitglied 5, tbd:Weitere Vorstandsmitglieder 2]>
+   <Ort Altstätten (mit Lüchingen, Lienz und Eichberg)>
+    <OrtSympathisanten Sympathisanten [Sympathisant 50]>
+    <OrtGewaehlte Exekutive [Fraktionschef 1, KommunaleExekutive 4]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 184]>
+    <OrtPraesidium Partei [Adressverwalter 3, Kassier 3, Mitglied 21, Praesident 3]>
+   <Ort Au-Heerbrugg>
+    <OrtSympathisanten Sympathisanten [Sympathisant 1]>
+    <OrtGewaehlte Exekutive [Fraktionschef 2, KommunaleExekutive 3]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 89]>
+    <OrtPraesidium Partei [Kassier 1, Mitglied 1, Praesident 2]>
+   <Ort Balgach>
+    <OrtGewaehlte Exekutive [KommunaleExekutive 5]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 96]>
+    <OrtPraesidium Partei [Adressverwalter 2, Kassier 2, Mitglied 10, Praesident 4]>
+   <Ort Berneck>
+    <OrtSympathisanten Sympathisanten [Sympathisant 132]>
+    <OrtGewaehlte Exekutive [KommunaleExekutive 3]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 81]>
+    <OrtPraesidium Partei [Adressverwalter 6, Mitglied 3, Praesident 3, tbd:Revisor 1]>
+   <Ort Diepoldsau-Schmitter>
+    <OrtSympathisanten Sympathisanten [Sympathisant 4]>
+    <OrtGewaehlte Exekutive [KommunaleExekutive 2]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 109]>
+    <OrtPraesidium Partei [Adressverwalter 1, Kassier 1, Praesident 3]>
+   <Ort Marbach>
+    <OrtSympathisanten Sympathisanten [Sympathisant 1]>
+    <OrtGewaehlte Exekutive [Fraktionschef 2, KommunaleExekutive 3]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 43]>
+    <OrtPraesidium Partei [Mitglied 1]>
+   <Ort Oberriet (mit Montlingen und Kriessern)>
+    <OrtSympathisanten Sympathisanten [Sympathisant 15]>
+    <OrtGewaehlte Exekutive [KommunaleExekutive 4]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 111]>
+    <OrtPraesidium Partei [Adressverwalter 2, Kassier 1, Mitglied 6, Praesident 2]>
+   <Ort Rebstein>
+    <OrtGewaehlte Exekutive [KommunaleExekutive 2]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 58]>
+    <OrtPraesidium Partei [Kassier 2, Mitglied 1, Praesident 1]>
+   <Ort Rheineck>
+    <OrtSympathisanten Sympathisanten [Sympathisant 1]>
+    <OrtGewaehlte Exekutive [KommunaleExekutive 1]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 13]>
+    <OrtPraesidium Partei [Praesident 1]>
+   <Ort Rüthi [tbd:Abonnent Newsletter 1]>
+    <OrtSympathisanten Sympathisanten [Sympathisant 1]>
+    <OrtGewaehlte Exekutive [Fraktionschef 2, KommunaleExekutive 2]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 59]>
+    <OrtPraesidium Partei [Adressverwalter 2, Mitglied 5, Praesident 4]>
+   <Ort St. Margrethen>
+    <OrtSympathisanten Sympathisanten [Sympathisant 2]>
+    <OrtGewaehlte Exekutive [KommunaleExekutive 1]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 48]>
+    <OrtPraesidium Partei [Adressverwalter 1, Mitglied 4, Praesident 3]>
+   <Ort Widnau>
+    <OrtSympathisanten Sympathisanten [Sympathisant 2]>
+    <OrtGewaehlte Exekutive [KommunaleExekutive 2]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 120]>
+    <OrtPraesidium Partei [Adressverwalter 1, Kassier 2, Mitglied 5, Praesident 2]>
+  <Region Regionalpartei Rorschach>
+   <RegionGewaehlte Kreisgericht [RegionJudikative 3]>
+   <RegionPraesidium Partei [Praesident 2, tbd:Delegierter 2, tbd:Parteivorstand 2, tbd:Weitere Vorstandsmitglieder 5]>
+   <Ort Goldach-Untereggen>
+    <OrtSympathisanten Sympathisanten [Sympathisant 11]>
+    <OrtGewaehlte Exekutive [Fraktionschef 3, KommunaleExekutive 2]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 108]>
+    <OrtPraesidium Partei [Adressverwalter 1, Kassier 1, Mitglied 14, Praesident 3]>
+   <Ort Mörschwil>
+    <OrtSympathisanten Sympathisanten [Sympathisant 1]>
+    <OrtGewaehlte Exekutive [Fraktionschef 2, KommunaleExekutive 2]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 165]>
+    <OrtPraesidium Partei [Adressverwalter 2, Kassier 2, Mitglied 6, Praesident 3]>
+   <Ort Rorschach>
+    <OrtGewaehlte Exekutive [KommunaleExekutive 1]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 67]>
+    <OrtPraesidium Partei [Adressverwalter 2, Mitglied 7, Praesident 2]>
+   <Ort Rorschacherberg>
+    <OrtSympathisanten Sympathisanten [Sympathisant 1]>
+    <OrtGewaehlte Exekutive [KommunaleExekutive 1]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 89]>
+    <OrtPraesidium Partei [Adressverwalter 5, Kassier 1, Mitglied 7, Praesident 4]>
+   <Ort Steinach>
+    <OrtSympathisanten Sympathisanten [Sympathisant 16]>
+    <OrtGewaehlte Exekutive [Fraktionschef 2, KommunaleExekutive 2]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 71]>
+    <OrtPraesidium Partei [Adressverwalter 2, Kassier 2, Mitglied 6, Praesident 2]>
+   <Ort Thal-Staad-Altenrhein>
+    <OrtSympathisanten Sympathisanten [Sympathisant 2]>
+    <OrtGewaehlte Exekutive [KommunaleExekutive 2]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 53]>
+    <OrtPraesidium Partei [Kassier 3, Mitglied 5, Praesident 5]>
+   <Ort Tübach>
+    <OrtMitglieder Mitgliedschaften [Mitglied 16]>
+    <OrtPraesidium Partei [Praesident 1]>
+  <Region Regionalpartei Sarganserland>
+   <RegionGewaehlte Kreisgericht [RegionJudikative 3]>
+   <RegionPraesidium Partei [Kassier 1, Mitglied 3, Praesident 3, tbd:Delegierter 12, tbd:Parteivorstand 1]>
+   <Ort Bad Ragaz-Taminatal>
+    <OrtSympathisanten Sympathisanten [Sympathisant 3]>
+    <OrtGewaehlte Exekutive [KommunaleExekutive 2]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 136]>
+    <OrtPraesidium Partei [Adressverwalter 3, Kassier 1, Mitglied 2, Praesident 4, tbd:GPK Pfäfers 1, tbd:Mandatsträger/Kontakt 1, tbd:Schulrat Ragaz 1]>
+   <Ort Flums [mit Portels, Kleinberg]>
+    <OrtGewaehlte Exekutive [KommunaleExekutive 1]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 37]>
+    <OrtPraesidium Partei [Adressverwalter 1, Mitglied 2, Praesident 3, tbd:Schulrat 1]>
+   <Ort Mels [mit Plons, Heiligkreuz, Mädris, Vermol]>
+    <OrtSympathisanten Sympathisanten [Sympathisant 2]>
+    <OrtGewaehlte Exekutive [KommunaleExekutive 3]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 116]>
+    <OrtPraesidium Partei [Adressverwalter 2, Kassier 2, Mitglied 4, Praesident 6]>
+   <Ort Quarten [mit Unterterzen, Mols, Murg, Quinten]>
+    <OrtGewaehlte Exekutive [Fraktionschef 1, KommunaleExekutive 2]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 43]>
+    <OrtPraesidium Partei [Adressverwalter 2, Kassier 1, Mitglied 3, Praesident 2]>
+   <Ort Sargans>
+    <OrtSympathisanten Sympathisanten [Sympathisant 5]>
+    <OrtGewaehlte Exekutive [KommunaleExekutive 1]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 86]>
+    <OrtPraesidium Partei [Adressverwalter 2, Kassier 1, Mitglied 6, Praesident 4]>
+   <Ort Vilters-Wangs>
+    <OrtSympathisanten Sympathisanten [Sympathisant 1]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 39]>
+    <OrtPraesidium Partei [Adressverwalter 1, Kassier 1, Mitglied 3, Praesident 1]>
+   <Ort Walenstadt>
+    <OrtSympathisanten Sympathisanten [Sympathisant 2]>
+    <OrtGewaehlte Exekutive [Fraktionschef 1, KommunaleExekutive 1]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 81]>
+    <OrtPraesidium Partei [Adressverwalter 1, Kassier 1, Mitglied 4, Praesident 2, tbd:Delegierter 2]>
+  <Region Regionalpartei See-Gaster>
+   <RegionGewaehlte Kreisgericht [RegionJudikative 4]>
+   <RegionPraesidium Partei [Kassier 1, Mitglied 6, Praesident 4, tbd:Empfänger Umzugsmeldung 1, tbd:Weitere Vorstandsmitglieder 1]>
+   <Ort Amden>
+    <OrtSympathisanten Sympathisanten [Sympathisant 1]>
+    <OrtGewaehlte Exekutive [Fraktionschef 1, KommunaleExekutive 2]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 69]>
+    <OrtPraesidium Partei [Adressverwalter 2, Mitglied 1, Praesident 2]>
+   <Ort Benken>
+    <OrtSympathisanten Sympathisanten [Sympathisant 5]>
+    <OrtGewaehlte Exekutive [Fraktionschef 2, KommunaleExekutive 2]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 71]>
+    <OrtPraesidium Partei [Adressverwalter 1, Kassier 1, Mitglied 6, Praesident 2]>
+   <Ort Eschenbach-St.Gallenkappel-Goldingen>
+    <OrtSympathisanten Sympathisanten [Sympathisant 7]>
+    <OrtGewaehlte Exekutive [Fraktionschef 2, KommunaleExekutive 2]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 125]>
+    <OrtPraesidium Partei [Adressverwalter 4, Kassier 1, Mitglied 3, Praesident 2]>
+   <Ort Gommiswald-Ernetschwil-Rieden>
+    <OrtSympathisanten Sympathisanten [Sympathisant 6]>
+    <OrtGewaehlte Exekutive [Fraktionschef 1]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 55]>
+    <OrtPraesidium Partei [Adressverwalter 1, Kassier 1, Mitglied 4, Praesident 2]>
+   <Ort Kaltbrunn>
+    <OrtSympathisanten Sympathisanten [Sympathisant 7]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 71]>
+    <OrtPraesidium Partei [Adressverwalter 4, Kassier 1, Mitglied 5, Praesident 2]>
+   <Ort Rapperswil-Jona [mit Bollingen, Lenggis, Kempraten>
+    <OrtSympathisanten Sympathisanten [Sympathisant 34]>
+    <OrtGewaehlte Exekutive [Fraktionschef 1, KommunaleExekutive 1]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 274]>
+    <OrtPraesidium Partei [Adressverwalter 7, Kassier 2, Mitglied 5, Praesident 4]>
+   <Ort Schmerikon>
+    <OrtSympathisanten Sympathisanten [Sympathisant 2]>
+    <OrtGewaehlte Exekutive [KommunaleExekutive 2]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 49]>
+    <OrtPraesidium Partei [Adressverwalter 1, Kassier 1, Mitglied 4, Praesident 3]>
+   <Ort Schänis [mit Maseltrangen, Rufi]>
+    <OrtGewaehlte Exekutive [KommunaleExekutive 2]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 56]>
+    <OrtPraesidium Partei [Adressverwalter 2, Praesident 2]>
+   <Ort Uznach>
+    <OrtSympathisanten Sympathisanten [Sympathisant 6]>
+    <OrtGewaehlte Exekutive [Fraktionschef 1, KommunaleExekutive 2]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 77]>
+    <OrtPraesidium Partei [Adressverwalter 2, Praesident 1]>
+   <Ort Weesen>
+    <OrtSympathisanten Sympathisanten [Sympathisant 1]>
+    <OrtGewaehlte Exekutive [KommunaleExekutive 1]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 26]>
+  <Region Regionalpartei St. Gallen-Gossau>
+   <RegionDelegierte Delegiertenversammlung>
+    <RegionDelegierte Andwil>
+     <RegionDelegierte Delegierte aufgrund Mitgliederzahl [Delegierte 5]>
+     <RegionDelegierte Kantonsrat [Delegierte 2]>
+     <RegionDelegierte Ortsparteipräsident [Delegierte 2]>
+    <RegionDelegierte Eggersriet-Grub>
+     <RegionDelegierte Delegierte aufgrund Mitgliederzahl [Delegierte 5]>
+     <RegionDelegierte Kantonsrat [Delegierte 1]>
+     <RegionDelegierte Mitglied Parteileitung [Delegierte 1]>
+     <RegionDelegierte Ortsparteipräsident [Delegierte 1]>
+    <RegionDelegierte Gaiserwald>
+     <RegionDelegierte Delegierte aufgrund Mitgliederzahl [Delegierte 5]>
+     <RegionDelegierte Kantonsrat [Delegierte 1]>
+     <RegionDelegierte Ortsparteipräsident [Delegierte 1]>
+     <RegionDelegierte Regierungsrat [Delegierte 1]>
+    <RegionDelegierte Gossau-Arnegg>
+     <RegionDelegierte Delegierte aufgrund Mitgliederzahl [Delegierte 11]>
+     <RegionDelegierte Kantonsrat [Delegierte 2]>
+     <RegionDelegierte Ortsparteipräsident [Delegierte 3]>
+     <RegionDelegierte Regierungsrat [Delegierte 1]>
+    <RegionDelegierte Kontrollkommission [Delegierte 2]>
+    <RegionDelegierte Muolen-Häggenschwil>
+     <RegionDelegierte Delegierte aufgrund Mitgliederzahl [Delegierte 6]>
+     <RegionDelegierte Mitglied Parteileitung [Delegierte 1]>
+     <RegionDelegierte Ortsparteipräsident [Delegierte 1]>
+     <RegionDelegierte zus. Delegierte gemäss Statuten [Delegierte 1]>
+    <RegionDelegierte Stadt St. Gallen>
+     <RegionDelegierte Delegierte aufgrund Mitgliederzahl [Delegierte 14]>
+     <RegionDelegierte Kantonsrat [Delegierte 2]>
+     <RegionDelegierte Mitglied Parteileitung [Delegierte 1]>
+     <RegionDelegierte Ortsparteipräsident [Delegierte 1]>
+    <RegionDelegierte Waldkirch-Bernhardzell>
+     <RegionDelegierte Delegierte aufgrund Mitgliederzahl [Delegierte 8]>
+     <RegionDelegierte Kantonsrat [Delegierte 1]>
+     <RegionDelegierte Ortsparteipräsident [Delegierte 3]>
+    <RegionDelegierte Wittenbach>
+     <RegionDelegierte Delegierte aufgrund Mitgliederzahl [Delegierte 7]>
+     <RegionDelegierte Ortsparteipräsident [Delegierte 2]>
+   <RegionGewaehlte Kreisgericht [RegionJudikative 9]>
+   <RegionPraesidium Partei [Praesident 2]>
+   <RegionPraesidium Vorstand [Kassier 2, Mitglied 8, Praesident 2]>
+   <Ort Andwil>
+    <OrtGewaehlte Exekutive [Fraktionschef 1, KommunaleExekutive 3]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 72]>
+    <OrtPraesidium Partei [Adressverwalter 3, Kassier 1, Mitglied 10, Praesident 2]>
+   <Ort Eggersriet-Grub>
+    <OrtGewaehlte Exekutive [Fraktionschef 1, KommunaleExekutive 2]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 64]>
+    <OrtPraesidium Partei [Adressverwalter 2, Kassier 2, Mitglied 3, Praesident 1]>
+   <Ort Gaiserwald>
+    <OrtSympathisanten Sympathisanten [Sympathisant 34]>
+    <OrtGewaehlte Exekutive [Fraktionschef 2, KommunaleExekutive 4]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 150]>
+    <OrtPraesidium Partei [Adressverwalter 1, Kassier 1, Mitglied 5, Praesident 2]>
+   <Ort Gossau-Arnegg>
+    <OrtSympathisanten Sympathisanten [Sympathisant 8]>
+    <OrtExterneKontakte Helfer-Pool [Kontakt 3]>
+    <OrtGewaehlte Exekutive [KommunaleExekutive 3]>
+    <OrtGewaehlte Legislative [KommunaleExekutive 16]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 269]>
+    <OrtPraesidium Partei [Adressverwalter 6, Kassier 2, Mitglied 11, Praesident 5]>
+   <Ort Muolen-Häggenschwil>
+    <OrtSympathisanten Sympathisanten [Sympathisant 2]>
+    <OrtGewaehlte Exekutive [Fraktionschef 2, KommunaleExekutive 6]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 137]>
+    <OrtPraesidium Partei [Adressverwalter 1, Kassier 2, Mitglied 8, Praesident 2]>
+   <Ort Stadt St. Gallen>
+    <OrtSympathisanten Sympathisanten [Sympathisant 151]>
+    <OrtExterneKontakte Club96 [Kontakt 89]>
+    <OrtExterneKontakte Newsletter [Kontakt 286]>
+    <OrtExterneKontakte Sponsoren [Spender 4]>
+    <OrtGewaehlte Exekutive [KommunaleExekutive 1]>
+    <OrtGewaehlte Legislative [Fraktionschef 1, KommunaleExekutive 19]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 386]>
+    <OrtPraesidium Partei [Adressverwalter 19, Kassier 3, Mitglied 14, Praesident 1]>
+   <Ort Waldkirch-Bernhardzell>
+    <OrtSympathisanten Sympathisanten [Sympathisant 6]>
+    <OrtGewaehlte Exekutive [Fraktionschef 1, KommunaleExekutive 1]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 191]>
+    <OrtPraesidium Partei [Adressverwalter 2, Mitglied 6, Praesident 3]>
+   <Ort Wittenbach>
+    <OrtGewaehlte Amtsträger>
+     <OrtGewaehlte Politische Gemeinde [MitgliedWeitereGemeindeKommissionen 2, tbd:Gemeinderat 1]>
+     <OrtGewaehlte Primarschulgemeinde [MitgliedWeitereGemeindeKommissionen 2, Schulpflegekommission 2]>
+     <OrtGewaehlte Regionale Oberstufenschulgemeinde Grünau [Schulpflegekommission 5]>
+    <OrtGewaehlte Exekutive [Fraktionschef 1, KommunaleExekutive 3]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 165]>
+    <OrtPraesidium Partei [Adressverwalter 4, Kassier 1, Mitglied 6, Praesident 6]>
+  <Region Regionalpartei Toggenburg>
+   <RegionGewaehlte Kreisgericht [RegionJudikative 3]>
+   <RegionPraesidium Partei [Kassier 1, Mitglied 4, Praesident 3, tbd:Parteivorstand 7, tbd:Weitere Vorstandsmitglieder 5]>
+   <Ort Bütschwil-Ganterschwil>
+    <OrtGewaehlte Exekutive [KommunaleExekutive 2]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 156]>
+    <OrtPraesidium Partei [Adressverwalter 3, Kassier 1, Mitglied 13, Praesident 3]>
+   <Ort Ebnat Kappel>
+    <OrtSympathisanten Sympathisanten [Sympathisant 1]>
+    <OrtGewaehlte Exekutive [KommunaleExekutive 1]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 36]>
+    <OrtPraesidium Partei [Adressverwalter 3, Kassier 1, Mitglied 2, Praesident 2]>
+   <Ort Kirchberg>
+    <OrtGewaehlte Exekutive [KommunaleExekutive 4]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 158]>
+    <OrtPraesidium Partei [Adressverwalter 4, Kassier 1, Mitglied 3, Praesident 2]>
+   <Ort Lichtensteig-Krinau>
+    <OrtGewaehlte Exekutive [Fraktionschef 1]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 41]>
+    <OrtPraesidium Partei [Adressverwalter 1, Kassier 1, Mitglied 2, Praesident 3]>
+   <Ort Lütisburg [mit Rindal]>
+    <OrtSympathisanten Sympathisanten [Sympathisant 1]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 40]>
+    <OrtPraesidium Partei [Praesident 2]>
+   <Ort Mosnang>
+    <OrtSympathisanten Sympathisanten [Sympathisant 2]>
+    <OrtGewaehlte Exekutive [KommunaleExekutive 3]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 186]>
+    <OrtPraesidium Partei [Adressverwalter 3, Kassier 2, Mitglied 12, Praesident 3]>
+   <Ort Neckertal>
+    <OrtSympathisanten Sympathisanten [Sympathisant 9]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 45]>
+    <OrtPraesidium Partei [Kassier 1, Praesident 3]>
+   <Ort Nesslau>
+    <OrtMitglieder Mitgliedschaften [Mitglied 52]>
+    <OrtPraesidium Partei [Adressverwalter 1, Mitglied 6, Praesident 2]>
+   <Ort Oberhelfenschwil [mit Necker, Wigetshof]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 76]>
+    <OrtPraesidium Partei [Adressverwalter 2, Kassier 1, Mitglied 3, Praesident 1]>
+   <Ort Wattwil [mit Ulisbach]>
+    <OrtSympathisanten Sympathisanten [Sympathisant 2]>
+    <OrtGewaehlte Exekutive [Fraktionschef 1, KommunaleExekutive 2]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 69]>
+    <OrtPraesidium Partei [Adressverwalter 6, Kassier 1, Mitglied 11, Praesident 2]>
+   <Ort Wildhaus-Alt St. Johann>
+    <OrtMitglieder Mitgliedschaften [Mitglied 54]>
+    <OrtPraesidium Partei [Kassier 1, Mitglied 1, Praesident 3]>
+  <Region Regionalpartei Werdenberg>
+   <RegionGewaehlte Kreisgericht [RegionJudikative 1]>
+   <RegionPraesidium Partei [Kassier 1, Praesident 3, tbd:Weitere Vorstandsmitglieder 5]>
+   <Ort Buchs>
+    <OrtSympathisanten Sympathisanten [Sympathisant 6]>
+    <OrtGewaehlte Exekutive [KommunaleExekutive 1]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 70]>
+    <OrtPraesidium Partei [Adressverwalter 2, Kassier 1, Mitglied 6, Praesident 2]>
+   <Ort Gams>
+    <OrtGewaehlte Exekutive [Fraktionschef 1]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 89]>
+    <OrtPraesidium Partei [Kassier 3, Mitglied 6, Praesident 2]>
+   <Ort Grabs>
+    <OrtGewaehlte Exekutive [KommunaleExekutive 1]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 20]>
+    <OrtPraesidium Partei [Kassier 1, Mitglied 3, Praesident 1]>
+   <Ort Sennwald [mit Frümsen, Haag, Sax, Salez]>
+    <OrtGewaehlte Exekutive [KommunaleExekutive 1]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 11]>
+    <OrtPraesidium Partei [Praesident 1]>
+  <Region Regionalpartei Wil-Untertoggenburg>
+   <RegionGewaehlte Kreisgericht [RegionJudikative 5]>
+   <RegionPraesidium Partei [Praesident 2]>
+   <Ort Degersheim [mit Wolfertswil, Magdenau, Dicken]>
+    <OrtSympathisanten Sympathisanten [Sympathisant 4]>
+    <OrtGewaehlte Exekutive [Fraktionschef 1, KommunaleExekutive 2]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 62]>
+    <OrtPraesidium Partei [Adressverwalter 1, Kassier 1, Mitglied 4, Praesident 2]>
+   <Ort Flawil [mit Alterswil, Egg]>
+    <OrtGewaehlte Exekutive [Fraktionschef 2, KommunaleExekutive 1]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 101]>
+    <OrtPraesidium Partei [Adressverwalter 2, Kassier 3, Mitglied 1, Praesident 1]>
+   <Ort Jonschwil-Schwarzenbach>
+    <OrtSympathisanten Sympathisanten [Sympathisant 8]>
+    <OrtGewaehlte Exekutive [KommunaleExekutive 2]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 91]>
+    <OrtPraesidium Partei [Praesident 1]>
+   <Ort Niederbüren>
+    <OrtSympathisanten Sympathisanten [Sympathisant 15]>
+    <OrtGewaehlte Exekutive [Fraktionschef 1, KommunaleExekutive 2]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 69]>
+    <OrtPraesidium Partei [Kassier 1, Mitglied 4, Praesident 1]>
+   <Ort Niederhelfenschwil (inkl. Zuckenriet, Lenggenwil)>
+    <OrtMitglieder Mitgliedschaften [Mitglied 13]>
+    <OrtPraesidium Partei [Praesident 1]>
+   <Ort Oberbüren [mit Niederwil, Sonnental]>
+    <OrtGewaehlte Exekutive [Fraktionschef 1, KommunaleExekutive 2]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 47]>
+    <OrtPraesidium Partei [Adressverwalter 1, Kassier 1, Mitglied 4, Praesident 2]>
+   <Ort Oberuzwil [mit Bichwil, Niederglatt]>
+    <OrtSympathisanten Sympathisanten [Sympathisant 1]>
+    <OrtGewaehlte Exekutive [Fraktionschef 1, KommunaleExekutive 1]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 84]>
+    <OrtPraesidium Partei [Adressverwalter 1, Kassier 1, Mitglied 3, Praesident 2]>
+   <Ort Uzwil [mit Niederuzwil, Henau, Algetshausen]>
+    <OrtSympathisanten Sympathisanten [Sympathisant 27]>
+    <OrtGewaehlte Exekutive [Fraktionschef 1, KommunaleExekutive 7]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 110]>
+    <OrtPraesidium Partei [Adressverwalter 5, Kassier 1, Mitglied 11, Praesident 1]>
+   <Ort Wil>
+    <OrtSympathisanten Sympathisanten [Sympathisant 13]>
+    <OrtGewaehlte Exekutive [Fraktionschef 1]>
+    <OrtGewaehlte Legislative [KommunaleExekutive 7]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 257]>
+    <OrtPraesidium Partei [Adressverwalter 10, Kassier 3, Mitglied 9, Praesident 3]>
+   <Ort Zuzwil [mit Züberwangen]>
+    <OrtSympathisanten Sympathisanten [Sympathisant 1]>
+    <OrtGewaehlte Exekutive [KommunaleExekutive 1]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 101]>
+    <OrtPraesidium Partei [Adressverwalter 3, Kassier 1, Mitglied 4, Praesident 3]>

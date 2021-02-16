@@ -1,0 +1,8 @@
+<Bund CVP Schweiz>
+ <BundGewaehlte Departement Bundesrat Nr. 1 [Bundesrat 5, tbd:Pers. Mitarbeiter Bundesrat 3]>
+ <BundGewaehlte Nationalrat [Nationalrat 126, tbd:Nationalrat Partner 12]>
+ <BundGewaehlte Ständerat [Staenderat 47, tbd:Ständerat Partner 2]>
+ <Kanton CVP BE Jura Sud>
+  <KantonSympathisanten Sympathisanten [Sympathisant 6]>
+  <KantonMitglieder Mitgliedschaften [Mitglied 20]>
+  <KantonPraesidium Partei [Mitglied 5, Praesident 3, tbd:Ansprechperson Finanzen 2, tbd:Empfänger Rechnung Jahresbeitrag CVP CH 2, tbd:Empfänger Umzugsmeldung 1, tbd:Kassier 1, tbd:Sekretär Kantonalpartei/Vereinigung 1]>

@@ -1,0 +1,10 @@
+<Bund id=1, label=CVP Schweiz, parent_id=>
+ <BundArbeitsgruppe id=37, label=Anlässe, parent_id=1>
+ <BundGewaehlte id=35010, label=Bundeskanzlei, parent_id=1>
+ <BundGewaehlte id=14763, label=Departement Bundesrat Nr. 1, parent_id=1>
+ <BundGewaehlte id=14615, label=Kantonale Fraktionen, parent_id=1>
+ <BundGewaehlte id=14860, label=Nationalrat, parent_id=1>
+ <BundGewaehlte id=14861, label=Ständerat, parent_id=1>
+ <BundParteigremium id=40, label=Fraktionsvorstand, parent_id=1>
+ <BundPraesidium id=14870, label=Fraktions-Präsidium, parent_id=1>
+ <BundSekretariat id=39, label=Fraktionssekretariat, parent_id=1>

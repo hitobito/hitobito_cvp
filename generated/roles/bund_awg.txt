@@ -1,0 +1,20 @@
+<Bund CVP Schweiz>
+ <Vereinigung AWG>
+  <VereinigungPraesidium AWG Schweiz [Praesident 4]>
+  <Kanton AWG LU>
+   <KantonExterneKontakte Newsletter [Kontakt 135]>
+   <KantonMitglieder Mitgliedschaften [Mitglied 18]>
+  <Kanton GR>
+   <KantonSympathisanten Sympathisanten [Sympathisant 1]>
+   <KantonMitglieder Mitgliedschaften [Mitglied 12]>
+  <Kanton SG>
+   <KantonMitglieder Mitgliedschaften [Mitglied 191]>
+  <Kanton TG [tbd:Mitglied 1, tbd:Präsident 1, tbd:Vorstandsmitglied 1]>
+  <Kanton UR>
+   <KantonMitglieder Mitgliedschaften [Mitglied 99]>
+  <Kanton VD>
+   <KantonArbeitsgruppe Interessenten [tbd:Interessent 1]>
+  <Kanton ZG [tbd:Mitglied 1]>
+  <Kanton ZH>
+   <KantonSympathisanten Sympathisanten [Sympathisant 78]>
+   <KantonMitglieder Mitgliedschaften [Mitglied 121]>

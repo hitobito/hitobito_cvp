@@ -1,0 +1,75 @@
+<Bund CVP Schweiz>
+ <BundGewaehlte Departement Bundesrat Nr. 1 [Bundesrat 5, tbd:Pers. Mitarbeiter Bundesrat 3]>
+ <BundGewaehlte Nationalrat [Nationalrat 126, tbd:Nationalrat Partner 12]>
+ <BundGewaehlte Ständerat [Staenderat 47, tbd:Ständerat Partner 2]>
+ <Kanton CVP ZG>
+  <KantonSympathisanten Sympathisanten [Sympathisant 216]>
+  <KantonDelegierte DV [Delegierte 324]>
+  <KantonGewaehlte Fraktion [Fraktionschef 2, KantonaleLegislative 43]>
+  <KantonGewaehlte Judikative [tbd:Richter 34]>
+  <KantonGewaehlte Legislative [KantonaleLegislative 46]>
+  <KantonMitglieder Mitgliedschaften [Mitglied 858]>
+  <KantonParteigremium Kontrollkommission [Mitglied 5]>
+  <KantonParteigremium Schiedsgericht [Mitglied 5]>
+  <KantonParteigremium Wahlkampfteam [Mitglied 30]>
+  <KantonParteigremium Zentralvorstand [Mitglied 67, Praesident 3]>
+  <KantonPraesidium Partei [Praesident 4, tbd:Ansprechperson Finanzen 1, tbd:Botschafter 2, tbd:Empfänger Rechnung Jahresbeitrag CVP CH 3, tbd:Empfänger Umzugsmeldung 1, tbd:Medien 8, tbd:OM Ansprechperson 2, tbd:Plakatierer 1, tbd:Sekretär Kantonalpartei/Vereinigung 1, tbd:Zuzüger 8]>
+  <KantonPraesidium Präsidium [Mitglied 13]>
+  <Ort Baar>
+   <OrtSympathisanten Sympathisanten [Sympathisant 3]>
+   <OrtGewaehlte Exekutive [KommunaleExekutive 3]>
+   <OrtGewaehlte Mandatsträger [tbd:Bürgerrat 5, tbd:Delegierter 39, tbd:Kantonsrat 3, tbd:Kirchenrat 3, tbd:Kommissionsmitglied 44, tbd:Mitglied der RGPK 5, tbd:Regierungsrat 2, tbd:Richter 3]>
+   <OrtMitglieder Mitgliedschaften [Mitglied 243]>
+   <OrtPraesidium Partei [Adressverwalter 2, Kassier 1, Praesident 2]>
+   <OrtPraesidium Vorstand [Mitglied 9]>
+  <Ort Cham>
+   <OrtArbeitsgruppe Ehemalige [tbd:Kommissionsmitglied 16, tbd:Mandatsträger 25, tbd:Vorstandsmitglied 12]>
+   <OrtGewaehlte Exekutive [Fraktionschef 4, KommunaleExekutive 2]>
+   <OrtMitglieder Mitgliedschaften [Mitglied 270]>
+   <OrtPraesidium Partei [Adressverwalter 5, Mitglied 24, Praesident 4, tbd:Baufachkommission 1, tbd:Behördenapero 67, tbd:Bürgerrat 1, tbd:Delegierter Kanton 19, tbd:Finanzkommission 3, tbd:Gericht 3, tbd:Grundstück Gewinnsteuer 4, tbd:Kantonsrat 3, tbd:Kirchenrat 1, tbd:LLC Vorstand 2, tbd:Mandatsträger 9, tbd:Planungskommission 2, tbd:Planungskommission Papieri 3, tbd:Rechnungsprüfungskommission Mitgl. 3, tbd:Schulkommission 2, tbd:Sozialkommission 3, tbd:Stimm und Urnenbüro 5, tbd:Verkehrskommission 4, tbd:personeller Pool Gemeindebauten 2, tbd:städtebauliches und arch. Leitbild 1]>
+  <Ort Hünenberg>
+   <OrtSympathisanten Sympathisanten [Sympathisant 2]>
+   <OrtArbeitsgruppe Arbeitsgruppenmitglied [tbd:Mitglied 1]>
+   <OrtArbeitsgruppe Korporationsrat Präsidium [tbd:Mitglied 1]>
+   <OrtArbeitsgruppe RPK Bürgergemeinde [tbd:Mitglied 1]>
+   <OrtArbeitsgruppe RPK Einwohnergemeinde [tbd:Mitglied 1]>
+   <OrtArbeitsgruppe RPK Kath. Kirchgem. Cham-Hün. [tbd:Mitglied 2]>
+   <OrtArbeitsgruppe RPK-Präsident Einwohnergemeinde [tbd:Präsident 1]>
+   <OrtArbeitsgruppe Stimmenzähler [tbd:Mitglied 5]>
+   <OrtGewaehlte Exekutive [KommunaleExekutive 2]>
+   <OrtMitglieder Mitgliedschaften [Mitglied 234]>
+   <OrtPraesidium Partei [Adressverwalter 8, Mitglied 13, Praesident 3, tbd:Bürgerrat 2, tbd:Friedensrichter 1, tbd:Kantonsrat 2, tbd:Kirchenrat 2]>
+  <Ort Menzingen>
+   <OrtGewaehlte Exekutive [KommunaleExekutive 5]>
+   <OrtMitglieder Mitgliedschaften [Mitglied 171]>
+   <OrtPraesidium Partei [Praesident 2, tbd:Vorstand 7]>
+  <Ort Neuheim>
+   <OrtGewaehlte Exekutive [KommunaleExekutive 4]>
+   <OrtMitglieder Mitgliedschaften [Mitglied 55]>
+   <OrtPraesidium Partei [Praesident 2]>
+  <Ort Oberägeri>
+   <OrtSympathisanten Sympathisanten [Sympathisant 1]>
+   <OrtGewaehlte Exekutive [KommunaleExekutive 2]>
+   <OrtMitglieder Mitgliedschaften [Mitglied 161]>
+   <OrtPraesidium Partei [Praesident 2]>
+  <Ort Risch-Rotkreuz>
+   <OrtSympathisanten Sympathisanten [Sympathisant 88]>
+   <OrtMitglieder Mitgliedschaften [Mitglied 159]>
+   <OrtPraesidium Partei [Adressverwalter 3, Praesident 3, tbd:Delegierter 2, tbd:Sekretär 1]>
+  <Ort Stadt Zug>
+   <OrtSympathisanten Sympathisanten [Sympathisant 24]>
+   <OrtGewaehlte Legislative [KommunaleExekutive 2]>
+   <OrtMitglieder Mitgliedschaften [Mitglied 220]>
+   <OrtPraesidium Partei [Adressverwalter 2, Praesident 2]>
+  <Ort Steinhausen>
+   <OrtGewaehlte Exekutive [KommunaleExekutive 2]>
+   <OrtMitglieder Mitgliedschaften [Mitglied 175]>
+   <OrtPraesidium Partei [Adressverwalter 3, Praesident 2]>
+  <Ort Unterägeri>
+   <OrtGewaehlte Exekutive [KommunaleExekutive 2]>
+   <OrtMitglieder Mitgliedschaften [Mitglied 79]>
+   <OrtPraesidium Partei [Adressverwalter 1, Praesident 3]>
+  <Ort Walchwil>
+   <OrtGewaehlte Exekutive [KommunaleExekutive 3]>
+   <OrtMitglieder Mitgliedschaften [Mitglied 147]>
+   <OrtPraesidium Partei [Praesident 5]>

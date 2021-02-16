@@ -5,6 +5,9 @@ dist: xenial
 cache: bundler
 services:
   - mysql
+branches:
+  only:
+    - master
 env:
   global:
     - HEADLESS=true
