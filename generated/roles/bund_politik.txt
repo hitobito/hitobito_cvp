@@ -1,0 +1,3 @@
+<Bund CVP Schweiz>
+ <BundArbeitsgruppe Die Politik>
+  <BundArbeitsgruppe Inserenten [tbd:Mitglied 1]>

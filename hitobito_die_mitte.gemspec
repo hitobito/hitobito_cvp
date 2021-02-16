@@ -15,5 +15,7 @@ Gem::Specification.new do |s|
 
   s.files = Dir['{app,config,db,lib}/**/*'] + ['Rakefile']
   s.test_files = Dir['test/**/*']
+  s.add_runtime_dependency 'pg' # for migration
+
   # rubocop:enable SingleSpaceBeforeFirstArg
 end

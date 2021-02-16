@@ -7,6 +7,9 @@ cache:
   yarn: true
 services:
   - mysql
+branches:
+  only:
+    - master
 env:
   global:
     - HEADLESS=true

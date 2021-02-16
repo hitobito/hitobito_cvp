@@ -1,0 +1,47 @@
+<Bund CVP Schweiz>
+ <BundExterneKontakte allgemeine Kontakte>
+  <BundExterneKontakte Dienstleistungen (MS) [tbd:Dienstleistungen 67]>
+  <BundExterneKontakte Diverses>
+   <BundExterneKontakte Adressen Philipp Kutter (NR-Wahlen 2015) [Kontakt 395]>
+   <BundExterneKontakte Adressen Reto Nause September 2019 (Buch) [Kontakt 52]>
+   <BundExterneKontakte Adressen Reto Nause September 2019 (K) [Kontakt 48]>
+   <BundExterneKontakte Adressen Reto Nause September 2019 (Koni Hädener) [Kontakt 126]>
+   <BundExterneKontakte Adressen Reto Nause September 2019 (TC) [Kontakt 115]>
+   <BundExterneKontakte Petition CVP Stadt Bern (nur für Mailversand) [Kontakt 176]>
+   <BundExterneKontakte Rechnungsempfänger Wordpress [tbd:Empfänger 1]>
+  <BundExterneKontakte Expertengruppen (DF)>
+   <BundExterneKontakte Banken (JG) [Kontakt 6]>
+   <BundExterneKontakte Bildung (IC) [Kontakt 5]>
+   <BundExterneKontakte Biochemie (IC) [Kontakt 1]>
+   <BundExterneKontakte Digitalisierung (JG) [Kontakt 9]>
+   <BundExterneKontakte Gesundheit (JP) [Kontakt 10]>
+   <BundExterneKontakte Migration (SE) [Kontakt 2]>
+   <BundExterneKontakte Post (IC) [Kontakt 1]>
+   <BundExterneKontakte Rechtsfragen (SE) [Kontakt 6]>
+   <BundExterneKontakte Religion (SE) [Kontakt 2]>
+   <BundExterneKontakte Service Public (IC) [Kontakt 1]>
+   <BundExterneKontakte Sicherheit (SE) [Kontakt 6]>
+   <BundExterneKontakte Staatsfinanzen (IC) [Kontakt 3]>
+   <BundExterneKontakte Strassenverkehr (IC) [Kontakt 2]>
+   <BundExterneKontakte Tabak (JP) [Kontakt 2]>
+   <BundExterneKontakte Telekommunikation (IC) [Kontakt 2]>
+   <BundExterneKontakte Umwelt (JG) [Kontakt 3]>
+   <BundExterneKontakte Verkehr (IC) [Kontakt 2]>
+   <BundExterneKontakte Wirtschaft (JG) [Kontakt 5]>
+  <BundExterneKontakte Firmen>
+   <BundExterneKontakte Grossfirmen Mai 2017 (ab 800 MA) [Kontakt 154]>
+   <BundExterneKontakte KMU Mai 2017 (bis 799 MA) [Kontakt 127]>
+  <BundExterneKontakte Medien (MA) [tbd:Zu versorgen 154]>
+   <BundExterneKontakte Fachzeitschriften>
+    <BundExterneKontakte Fachmedien [tbd:Fachzeitschriften (Medienverteiler) 638]>
+   <BundExterneKontakte Print>
+    <BundExterneKontakte Tagesmedien [tbd:Journalist 4]>
+    <BundExterneKontakte Zu versorgen [tbd:Zu versorgen 255]>
+   <BundExterneKontakte Radio>
+    <BundExterneKontakte Zu versorgen [tbd:Zu versorgen 52]>
+   <BundExterneKontakte TV>
+    <BundExterneKontakte Zu versorgen [tbd:Zu versorgen 44]>
+   <BundExterneKontakte online>
+    <BundExterneKontakte Verteiler [tbd:Zu versorgen 18]>
+  <BundExterneKontakte Parteien (MS) [tbd:Parteien 4]>
+  <BundExterneKontakte Wordpress-Rechnungen [Kontakt 135]>

@@ -1,0 +1,11 @@
+<Bund CVP Schweiz>
+ <BundGewaehlte Departement Bundesrat Nr. 1 [Bundesrat 5, tbd:Pers. Mitarbeiter Bundesrat 3]>
+ <BundGewaehlte Nationalrat [Nationalrat 126, tbd:Nationalrat Partner 12]>
+ <BundGewaehlte Ständerat [Staenderat 47, tbd:Ständerat Partner 2]>
+ <Kanton CVP AI>
+  <KantonSympathisanten Sympathisanten [Sympathisant 33]>
+  <KantonGewaehlte Regierungsrat [KantonaleExekutive 1]>
+  <KantonGewaehlte Judikative [MitgliedKantonalesGerichtErsteInstanz 7, tbd:Bezirksrichter 1]>
+  <KantonGewaehlte Legislative [KantonaleLegislative 20]>
+  <KantonMitglieder Mitgliedschaften [Mitglied 160]>
+  <KantonPraesidium Partei [Mitglied 6, Praesident 4, tbd:Ansprechperson OM 1, tbd:Empfänger Rechnung Jahresbeitrag CVP CH 2, tbd:Kassier 1, tbd:Plakatierer 1, tbd:Sekretär Kantonalpartei/Vereinigung 2, tbd:Zuzüger 7]>
