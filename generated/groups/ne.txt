@@ -1,0 +1,22 @@
+<Bund id=1, label=CVP Schweiz, parent_id=>
+ <BundGewaehlte id=14763, label=Departement Bundesrat Nr. 1, parent_id=1>
+ <BundGewaehlte id=14860, label=Nationalrat, parent_id=1>
+ <BundGewaehlte id=14861, label=Ständerat, parent_id=1>
+ <Kanton id=164, label=CVP NE, parent_id=1>
+  <KantonSympathisanten id=40419, label=Sympathisanten, parent_id=164>
+  <KantonArbeitsgruppe id=36337, label=Politische Kommission, parent_id=164>
+  <KantonGewaehlte id=39503, label=Législatif, parent_id=164>
+  <KantonMitglieder id=503, label=Mitgliedschaften, parent_id=164>
+  <KantonPraesidium id=504, label=Partei, parent_id=164>
+  <Ort id=37503, label=Littoral / Entre-deux-Lacs, parent_id=164>
+   <OrtSympathisanten id=40420, label=Sympathisanten, parent_id=37503>
+   <OrtGewaehlte id=39502, label=Législatif / conseil général, parent_id=37503>
+   <OrtMitglieder id=37507, label=Mitgliedschaften, parent_id=37503>
+   <OrtPraesidium id=37504, label=Partei, parent_id=37503>
+  <Ort id=37493, label=Montagnes, parent_id=164>
+   <OrtGewaehlte id=39505, label=Exécutif / conseil communal, parent_id=37493>
+   <OrtGewaehlte id=39504, label=Législatif / conseil général, parent_id=37493>
+   <OrtMitglieder id=37498, label=Mitgliedschaften, parent_id=37493>
+   <OrtPraesidium id=37497, label=Partei, parent_id=37493>
+  <Ort id=37499, label=Vallées, parent_id=164>
+   <OrtMitglieder id=37501, label=Mitgliedschaften, parent_id=37499>

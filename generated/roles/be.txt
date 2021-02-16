@@ -1,0 +1,75 @@
+<Bund CVP Schweiz>
+ <BundGewaehlte Departement Bundesrat Nr. 1 [Bundesrat 5, tbd:Pers. Mitarbeiter Bundesrat 3]>
+ <BundGewaehlte Nationalrat [Nationalrat 126, tbd:Nationalrat Partner 12]>
+ <BundGewaehlte Ständerat [Staenderat 47, tbd:Ständerat Partner 2]>
+ <Kanton CVP BE>
+  <KantonArbeitsgruppe 2019 Nominationsveranstaltung [Mitglied 118]>
+  <KantonArbeitsgruppe Aktionen-Mitmachen>
+   <KantonArbeitsgruppe Briefchäschtele [Mitglied 12]>
+   <KantonArbeitsgruppe Diverses [Mitglied 1]>
+   <KantonArbeitsgruppe Karten schreiben [Mitglied 6]>
+   <KantonArbeitsgruppe Leserbriefe schreiben [Mitglied 7]>
+   <KantonArbeitsgruppe Plakate daheim aufstellen [Mitglied 4]>
+   <KantonArbeitsgruppe Plakatieren [Mitglied 3]>
+   <KantonArbeitsgruppe Spenden [Mitglied 5]>
+   <KantonArbeitsgruppe Telefonaktion [Mitglied 3]>
+   <KantonArbeitsgruppe Unterschriften sammeln [Mitglied 9]>
+  <KantonArbeitsgruppe Komitees>
+   <KantonArbeitsgruppe Fabian Stocker [Mitglied 91]>
+   <KantonArbeitsgruppe Reto Nause>
+    <KantonArbeitsgruppe AWG [Mitglied 222]>
+    <KantonArbeitsgruppe Grossfirma [Mitglied 71]>
+    <KantonArbeitsgruppe Verband [Mitglied 16]>
+  <KantonArbeitsgruppe Medienmitteilungen d + f [tbd:Empfänger 93]>
+  <KantonDelegierte DV>
+   <KantonDelegierte Delegierte von Amtes wegen [tbd:von Amtes wegen 43]>
+   <KantonDelegierte Email-Einladung [tbd:Empfänger Email Einladung 56]>
+   <KantonDelegierte Ersatzdelegierte [tbd:Ersatzdelegierte Kanton 2]>
+  <KantonExterneKontakte Firmen [Spender 1]>
+  <KantonExterneKontakte KMU-Adressen>
+   <KantonExterneKontakte Adressen November 2016 [Kontakt 36]>
+   <KantonExterneKontakte Versand für Nationalratswahlen 2015 [Kontakt 2580]>
+  <KantonExterneKontakte Newsletter d [Kontakt 429]>
+  <KantonExterneKontakte Newsletter f [Kontakt 86]>
+  <KantonGewaehlte Judikative [MitgliedKantonalesGerichtErsteInstanz 2]>
+  <KantonGewaehlte Legislative [KantonaleLegislative 5]>
+  <KantonPraesidium Partei [Mitglied 32, Praesident 8, tbd:Botschafter 2, tbd:Empfänger Rechnung Jahresbeitrag CVP CH 2, tbd:Empfänger Umzugsmeldung 3, tbd:Kassier 1, tbd:Kontakt Bundeshausfraktion 1, tbd:Plakatierer 11, tbd:Sekretär Kantonalpartei/Vereinigung 7, tbd:Zuzüger 11]>
+  <Ort Bern (Stadt)>
+   <OrtSympathisanten Sympathisanten [Sympathisant 188]>
+   <OrtArbeitsgruppe Adressen Grossratswahlen 2018 [tbd:Kontakt 301]>
+   <OrtArbeitsgruppe DV Bezirk [tbd:Delegierter 1]>
+   <OrtArbeitsgruppe Petition Radiostudio 2018 (nur für Mailversand) [tbd:Kontakt 18]>
+   <OrtGewaehlte Exekutive [KommunaleExekutive 1]>
+   <OrtGewaehlte Legislative [KommunaleExekutive 3]>
+   <OrtMitglieder Mitgliedschaften [Mitglied 105]>
+   <OrtPraesidium Partei [Adressverwalter 15, Kassier 1, Praesident 4, tbd:Sekretär 1]>
+   <OrtPraesidium Vorstand [Mitglied 14]>
+  <Ort Biel>
+   <OrtSympathisanten Sympathisanten [Sympathisant 12]>
+   <OrtGewaehlte Legislative [KommunaleExekutive 2]>
+   <OrtMitglieder Mitgliedschaften [Mitglied 49]>
+   <OrtPraesidium Partei [Adressverwalter 10]>
+  <Ort Bolligen-Ittingen-Ostermundigen>
+   <OrtSympathisanten Sympathisanten [Sympathisant 27]>
+   <OrtArbeitsgruppe DV Bezirk [tbd:Delegierter 1]>
+   <OrtMitglieder Mitgliedschaften [Mitglied 83]>
+   <OrtPraesidium Partei [Adressverwalter 2, Kassier 1]>
+   <OrtPraesidium Vorstand [Mitglied 3]>
+  <Ort Burgdorf>
+   <OrtSympathisanten Sympathisanten [Sympathisant 18]>
+   <OrtMitglieder Mitgliedschaften [Mitglied 43]>
+   <OrtPraesidium Partei [Adressverwalter 2, Kassier 1, Praesident 2, tbd:Sekretär 1]>
+  <Ort Köniz [betreut durch Kehrsatz]>
+   <OrtSympathisanten Sympathisanten [Sympathisant 112]>
+   <OrtGewaehlte Legislative [KommunaleExekutive 1]>
+   <OrtMitglieder Mitgliedschaften [Mitglied 46]>
+   <OrtPraesidium Partei [Adressverwalter 2, Mitglied 1, Praesident 1, tbd:Empfänger Email Einladung 1]>
+  <Ort Muri>
+   <OrtSympathisanten Sympathisanten [Sympathisant 15]>
+   <OrtMitglieder Mitgliedschaften [Mitglied 1]>
+  <Ort Thun>
+   <OrtSympathisanten Sympathisanten [Sympathisant 99]>
+   <OrtArbeitsgruppe Ehrenmitglieder [tbd:Mitglied 1]>
+   <OrtGewaehlte Exekutive [KommunaleExekutive 1]>
+   <OrtMitglieder Mitgliedschaften [Mitglied 51]>
+   <OrtPraesidium Vorstand [Adressverwalter 4, Kassier 1, Mitglied 4, Praesident 4, tbd:Sekretär 1]>

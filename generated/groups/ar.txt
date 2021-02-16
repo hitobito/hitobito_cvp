@@ -1,0 +1,21 @@
+<Bund id=1, label=CVP Schweiz, parent_id=>
+ <BundGewaehlte id=14763, label=Departement Bundesrat Nr. 1, parent_id=1>
+ <BundGewaehlte id=14860, label=Nationalrat, parent_id=1>
+ <BundGewaehlte id=14861, label=Ständerat, parent_id=1>
+ <Kanton id=153, label=CVP AR, parent_id=1>
+  <KantonSympathisanten id=40419, label=Sympathisanten, parent_id=153>
+  <KantonExterneKontakte id=40274, label=Newsletter, parent_id=153>
+  <KantonGewaehlte id=358, label=Legislative, parent_id=153>
+  <KantonMitglieder id=359, label=Mitgliedschaften, parent_id=153>
+  <KantonPraesidium id=360, label=Partei, parent_id=153>
+  <Ort id=356, label=Heiden, parent_id=153>
+   <OrtSympathisanten id=40420, label=Sympathisanten, parent_id=356>
+   <OrtExterneKontakte id=40275, label=Newsletter, parent_id=356>
+   <OrtMitglieder id=902, label=Mitgliedschaften, parent_id=356>
+   <OrtPraesidium id=903, label=Partei, parent_id=356>
+  <Ort id=357, label=Herisau, parent_id=153>
+   <OrtSympathisanten id=40421, label=Sympathisanten, parent_id=357>
+   <OrtExterneKontakte id=40276, label=Newsletter, parent_id=357>
+   <OrtGewaehlte id=904, label=Legislative, parent_id=357>
+   <OrtMitglieder id=905, label=Mitgliedschaften, parent_id=357>
+   <OrtPraesidium id=906, label=Partei, parent_id=357>

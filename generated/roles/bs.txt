@@ -1,0 +1,58 @@
+<Bund CVP Schweiz>
+ <BundGewaehlte Departement Bundesrat Nr. 1 [Bundesrat 5, tbd:Pers. Mitarbeiter Bundesrat 3]>
+ <BundGewaehlte Nationalrat [Nationalrat 126, tbd:Nationalrat Partner 12]>
+ <BundGewaehlte Ständerat [Staenderat 47, tbd:Ständerat Partner 2]>
+ <Kanton CVP BS>
+  <KantonSympathisanten Sympathisanten [Sympathisant 18]>
+  <KantonArbeitsgruppe Arbeitsgruppe Schule, Erziehung, Bildung (SEB) [Mitglied 18, tbd:Sympathisant 12, tbd:Vorstandsmitglied 3]>
+  <KantonArbeitsgruppe BL/BS Organisationen>
+   <KantonArbeitsgruppe KAB [Mitglied 23, tbd:Sympathisant 1]>
+   <KantonArbeitsgruppe Mittelstandsvereinigung Basel [Mitglied 97, Praesident 1, tbd:Kassier 1, tbd:Sympathisant 33]>
+  <KantonArbeitsgruppe Diverse Funktionen [Praesident 2, tbd:Ansprechperson Finanzen 1, tbd:Empfänger Einladung 109, tbd:Empfänger Rechnung Jahresbeitrag CVP CH 1, tbd:Kassier 1, tbd:Medienverteiler 22, tbd:Plakatierer 2, tbd:Sekretär Kantonalpartei/Vereinigung 1]>
+  <KantonArbeitsgruppe Finanzen>
+   <KantonArbeitsgruppe Patronat [Mitglied 3, tbd:Sympathisant 68]>
+  <KantonArbeitsgruppe Ratsexterne Kommissionen>
+   <KantonArbeitsgruppe Erziehungsrat [Mitglied 1]>
+   <KantonArbeitsgruppe Verwaltungsrat BVB [Mitglied 1]>
+  <KantonExterneKontakte Donatoren [Spender 129, tbd:Gast 11]>
+  <KantonExterneKontakte Fundraising [Spender 40]>
+   <KantonExterneKontakte Grossunternehmen [Kontakt 86]>
+   <KantonExterneKontakte KMU [Kontakt 121]>
+   <KantonExterneKontakte Verbände [Kontakt 29]>
+   <KantonExterneKontakte Zünfte [Kontakt 29]>
+  <KantonExterneKontakte Medienverteiler [Kontakt 62]>
+  <KantonExterneKontakte Newsletter [Kontakt 650]>
+  <KantonGewaehlte Regierungsrat [KantonaleExekutive 2]>
+  <KantonGewaehlte Judikative>
+   <KantonGewaehlte Appellationsgericht [tbd:Ersatzrichter 1, tbd:Richter 3]>
+   <KantonGewaehlte Sozialversicherungsgericht [tbd:Richter 4]>
+   <KantonGewaehlte Strafgericht [tbd:Ersatzrichter 1, tbd:Präsident 1, tbd:Richter 5]>
+   <KantonGewaehlte Zivilgericht [tbd:Präsident 2, tbd:Richter 3]>
+  <KantonGewaehlte Legislative [KantonaleLegislative 15, tbd:Fraktionspräsident 1, tbd:Präsident 1]>
+  <KantonMitglieder Mitgliedschaften [Mitglied 24]>
+  <KantonParteigremium Vorstand [Mitglied 24]>
+  <KantonPraesidium Parteileitung [Mitglied 15]>
+  <KantonSekretariat Partei [Mitarbeiter 1]>
+  <Ort Riehen>
+   <OrtSympathisanten Sympathisanten [Sympathisant 23]>
+   <OrtGewaehlte Exekutive [KommunaleExekutive 2]>
+   <OrtGewaehlte Legislative [KommunaleExekutive 4]>
+   <OrtMitglieder Mitgliedschaften [Mitglied 89]>
+   <OrtPraesidium Partei [Adressverwalter 10, Kassier 1, Mitglied 10, Praesident 1]>
+  <Region Stadt Basel>
+   <RegionArbeitsgruppe Basler Bürger [tbd:Mitglied 141]>
+   <RegionGewaehlte Exekutive [RegionExekutive 1]>
+   <RegionGewaehlte Legislative [RegionLegislative 7]>
+   <Ort Grossbasel-Ost>
+    <OrtSympathisanten Sympathisanten [Sympathisant 56]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 117]>
+    <OrtPraesidium Partei [Adressverwalter 11, Kassier 3, Mitglied 14, Praesident 1]>
+   <Ort Grossbasel-West>
+    <OrtSympathisanten Sympathisanten [Sympathisant 65]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 126]>
+    <OrtPraesidium Partei [Adressverwalter 11, Kassier 1, Mitglied 8, Praesident 1]>
+   <Ort Kleinbasel>
+    <OrtSympathisanten Sympathisanten [Sympathisant 32]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 89]>
+    <OrtPraesidium Partei [Adressverwalter 6, Kassier 2, Mitglied 13, Praesident 3]>
+   <Ort Stiftungskommission [tbd:Mitglied 1]>

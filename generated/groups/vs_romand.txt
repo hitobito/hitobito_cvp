@@ -1,0 +1,312 @@
+<Bund id=1, label=CVP Schweiz, parent_id=>
+ <BundGewaehlte id=14763, label=Departement Bundesrat Nr. 1, parent_id=1>
+ <BundGewaehlte id=14860, label=Nationalrat, parent_id=1>
+ <BundGewaehlte id=14861, label=Ständerat, parent_id=1>
+ <Kanton id=176, label=CVP VS. Romand, parent_id=1>
+  <KantonSympathisanten id=40419, label=Sympathisanten, parent_id=176>
+  <KantonArbeitsgruppe id=33488, label=Bureau, parent_id=176>
+  <KantonArbeitsgruppe id=39902, label=Candidats à la constituante, parent_id=176>
+  <KantonArbeitsgruppe id=39143, label=Candidats à la députation, parent_id=176>
+  <KantonArbeitsgruppe id=38880, label=Candidats élections communales 2016, parent_id=176>
+   <KantonArbeitsgruppe id=38942, label=Candidature Présidence, parent_id=38880>
+   <KantonArbeitsgruppe id=38943, label=Candidature Vice-Présidence, parent_id=38880>
+   <KantonArbeitsgruppe id=38945, label=Candidature conseiller général, parent_id=38880>
+  <KantonArbeitsgruppe id=40341, label=Candidats élections communales 2020, parent_id=176>
+   <KantonArbeitsgruppe id=40343, label=Candidature Vice-Présidence, parent_id=40341>
+   <KantonArbeitsgruppe id=40403, label=Candidature conseil bourgeoisial, parent_id=40341>
+   <KantonArbeitsgruppe id=40344, label=Candidature conseiller général, parent_id=40341>
+   <KantonArbeitsgruppe id=40401, label=Candidature juge, parent_id=40341>
+   <KantonArbeitsgruppe id=40402, label=Candidature vice-juge, parent_id=40341>
+   <KantonArbeitsgruppe id=40342, label=Cantidature Présidence, parent_id=40341>
+  <KantonArbeitsgruppe id=36361, label=CoPoVr, parent_id=176>
+  <KantonArbeitsgruppe id=33486, label=Commission Energie, parent_id=176>
+  <KantonArbeitsgruppe id=33487, label=Commission Famille, parent_id=176>
+  <KantonArbeitsgruppe id=33485, label=Commission électorale, parent_id=176>
+  <KantonArbeitsgruppe id=40045, label=Communiqué, parent_id=176>
+  <KantonArbeitsgruppe id=36360, label=Conférence élargie des groupes (CEG), parent_id=176>
+  <KantonArbeitsgruppe id=33490, label=Conseil de parti, parent_id=176>
+   <KantonArbeitsgruppe id=33499, label=Autorités, parent_id=33490>
+   <KantonArbeitsgruppe id=33556, label=Comité Exécutif, parent_id=33490>
+   <KantonArbeitsgruppe id=33491, label=Conthey, parent_id=33490>
+   <KantonArbeitsgruppe id=39715, label=Délégués, parent_id=33490>
+   <KantonArbeitsgruppe id=33492, label=Entremont, parent_id=33490>
+   <KantonArbeitsgruppe id=33493, label=Hérens, parent_id=33490>
+   <KantonArbeitsgruppe id=36568, label=JDC, parent_id=33490>
+   <KantonArbeitsgruppe id=33494, label=Martigny, parent_id=33490>
+   <KantonArbeitsgruppe id=33495, label=Monthey, parent_id=33490>
+   <KantonArbeitsgruppe id=33496, label=Sierre, parent_id=33490>
+   <KantonArbeitsgruppe id=33497, label=Sion, parent_id=33490>
+   <KantonArbeitsgruppe id=33498, label=St. Maurice, parent_id=33490>
+  <KantonArbeitsgruppe id=36710, label=Ehemalige Beamte, parent_id=176>
+  <KantonArbeitsgruppe id=36569, label=Übrige Funktionen, parent_id=176>
+  <KantonExterneKontakte id=37956, label=Newsletter, parent_id=176>
+  <KantonGewaehlte id=33208, label=Regierungsrat, parent_id=176>
+  <KantonGewaehlte id=36709, label=Judikative, parent_id=176>
+  <KantonGewaehlte id=643, label=Legislative, parent_id=176>
+  <KantonMitglieder id=645, label=Mitgliedschaften, parent_id=176>
+  <KantonPraesidium id=647, label=Partei, parent_id=176>
+  <Region id=640, label=Conthey, parent_id=176>
+   <RegionMitglieder id=2164, label=Mitgliedschaften, parent_id=640>
+   <RegionPraesidium id=2166, label=Partei, parent_id=640>
+   <Ort id=33183, label=Ardon, parent_id=640>
+    <OrtGewaehlte id=37101, label=Exekutive, parent_id=33183>
+    <OrtMitglieder id=33457, label=Mitgliedschaften, parent_id=33183>
+    <OrtPraesidium id=33184, label=Partei, parent_id=33183>
+   <Ort id=2162, label=Chamoson, parent_id=640>
+    <OrtGewaehlte id=37049, label=Exekutive, parent_id=2162>
+    <OrtMitglieder id=4184, label=Mitgliedschaften, parent_id=2162>
+    <OrtPraesidium id=4185, label=Partei, parent_id=2162>
+   <Ort id=2163, label=Conthey, parent_id=640>
+    <OrtMitglieder id=4186, label=Mitgliedschaften, parent_id=2163>
+    <OrtPraesidium id=4187, label=Partei, parent_id=2163>
+   <Ort id=2165, label=Nendaz, parent_id=640>
+    <OrtGewaehlte id=37047, label=Exekutive, parent_id=2165>
+    <OrtMitglieder id=4188, label=Mitgliedschaften, parent_id=2165>
+    <OrtPraesidium id=4189, label=Partei, parent_id=2165>
+   <Ort id=2167, label=Vetroz, parent_id=640>
+    <OrtGewaehlte id=37046, label=Exekutive, parent_id=2167>
+    <OrtMitglieder id=4190, label=Mitgliedschaften, parent_id=2167>
+    <OrtPraesidium id=33201, label=Partei, parent_id=2167>
+  <Region id=641, label=Entremont, parent_id=176>
+   <RegionMitglieder id=33458, label=Mitgliedschaften, parent_id=641>
+   <RegionPraesidium id=2169, label=Partei, parent_id=641>
+   <Ort id=33199, label=Bourg-St-Pierre, parent_id=641>
+    <OrtMitglieder id=33460, label=Mitgliedschaften, parent_id=33199>
+   <Ort id=33197, label=Liddes, parent_id=641>
+    <OrtGewaehlte id=37108, label=Exekutive, parent_id=33197>
+    <OrtMitglieder id=33461, label=Mitgliedschaften, parent_id=33197>
+    <OrtPraesidium id=33198, label=Partei, parent_id=33197>
+   <Ort id=2168, label=Orsieres, parent_id=641>
+    <OrtGewaehlte id=37051, label=Exekutive, parent_id=2168>
+    <OrtMitglieder id=33462, label=Mitgliedschaften, parent_id=2168>
+    <OrtPraesidium id=4191, label=Partei, parent_id=2168>
+   <Ort id=2170, label=Sembrancher, parent_id=641>
+    <OrtSympathisanten id=40430, label=Sympathisanten, parent_id=2170>
+    <OrtGewaehlte id=37050, label=Exekutive, parent_id=2170>
+    <OrtMitglieder id=33463, label=Mitgliedschaften, parent_id=2170>
+    <OrtPraesidium id=4192, label=Partei, parent_id=2170>
+   <Ort id=40308, label=Val de Bagnes, parent_id=641>
+    <OrtArbeitsgruppe id=40310, label=Exekutiv, parent_id=40308>
+    <OrtMitglieder id=40313, label=Mitgliedschaften, parent_id=40308>
+    <OrtPraesidium id=40309, label=Partei, parent_id=40308>
+  <Region id=642, label=Hérens, parent_id=176>
+   <RegionMitglieder id=33465, label=Mitgliedschaften, parent_id=642>
+   <RegionPraesidium id=2175, label=Partei, parent_id=642>
+   <Ort id=33175, label=Ayent, parent_id=642>
+    <OrtMitglieder id=33466, label=Mitgliedschaften, parent_id=33175>
+    <OrtPraesidium id=33176, label=Partei, parent_id=33175>
+   <Ort id=2172, label=Evolene, parent_id=642>
+    <OrtGewaehlte id=37053, label=Exekutive, parent_id=2172>
+    <OrtMitglieder id=33467, label=Mitgliedschaften, parent_id=2172>
+    <OrtPraesidium id=4194, label=Partei, parent_id=2172>
+   <Ort id=33181, label=Hérémence, parent_id=642>
+    <OrtGewaehlte id=37100, label=Exekutive, parent_id=33181>
+    <OrtMitglieder id=33468, label=Mitgliedschaften, parent_id=33181>
+    <OrtPraesidium id=33182, label=Partei, parent_id=33181>
+   <Ort id=2174, label=Mont-Noble, parent_id=642>
+    <OrtGewaehlte id=37086, label=Exekutive, parent_id=2174>
+    <OrtMitglieder id=4196, label=Mitgliedschaften, parent_id=2174>
+    <OrtPraesidium id=4197, label=Partei, parent_id=2174>
+   <Ort id=2176, label=St. Martin, parent_id=642>
+    <OrtGewaehlte id=37054, label=Exekutive, parent_id=2176>
+    <OrtMitglieder id=33470, label=Mitgliedschaften, parent_id=2176>
+    <OrtPraesidium id=4198, label=Partei, parent_id=2176>
+   <Ort id=33177, label=Vex, parent_id=642>
+    <OrtGewaehlte id=37098, label=Exekutive, parent_id=33177>
+    <OrtMitglieder id=33471, label=Mitgliedschaften, parent_id=33177>
+    <OrtPraesidium id=33178, label=Partei, parent_id=33177>
+  <Region id=644, label=Martigny, parent_id=176>
+   <RegionMitglieder id=33474, label=Mitgliedschaften, parent_id=644>
+   <RegionPraesidium id=2185, label=Partei, parent_id=644>
+   <Ort id=2178, label=Bovernier, parent_id=644>
+    <OrtGewaehlte id=37061, label=Exekutive, parent_id=2178>
+    <OrtMitglieder id=33472, label=Mitgliedschaften, parent_id=2178>
+    <OrtPraesidium id=4200, label=Partei, parent_id=2178>
+   <Ort id=2179, label=Charrat, parent_id=644>
+    <OrtGewaehlte id=37062, label=Exekutive, parent_id=2179>
+    <OrtMitglieder id=33473, label=Mitgliedschaften, parent_id=2179>
+    <OrtPraesidium id=4201, label=Partei, parent_id=2179>
+   <Ort id=2180, label=Fully, parent_id=644>
+    <OrtGewaehlte id=37055, label=Exekutive, parent_id=2180>
+    <OrtMitglieder id=33440, label=Mitgliedschaften, parent_id=2180>
+    <OrtPraesidium id=4202, label=Partei, parent_id=2180>
+   <Ort id=2181, label=Iserables, parent_id=644>
+    <OrtMitglieder id=4203, label=Mitgliedschaften, parent_id=2181>
+    <OrtPraesidium id=4204, label=Partei, parent_id=2181>
+   <Ort id=2182, label=Leytron, parent_id=644>
+    <OrtGewaehlte id=37059, label=Exekutive, parent_id=2182>
+    <OrtMitglieder id=4205, label=Mitgliedschaften, parent_id=2182>
+    <OrtPraesidium id=4206, label=Partei, parent_id=2182>
+   <Ort id=2183, label=Martigny, parent_id=644>
+    <OrtGewaehlte id=37056, label=Exekutive, parent_id=2183>
+    <OrtMitglieder id=4207, label=Mitgliedschaften, parent_id=2183>
+    <OrtPraesidium id=33202, label=Partei, parent_id=2183>
+   <Ort id=2184, label=Martigny-Combe, parent_id=644>
+    <OrtGewaehlte id=37057, label=Exekutive, parent_id=2184>
+    <OrtMitglieder id=33441, label=Mitgliedschaften, parent_id=2184>
+    <OrtPraesidium id=4208, label=Partei, parent_id=2184>
+   <Ort id=2186, label=Riddes, parent_id=644>
+    <OrtMitglieder id=33442, label=Mitgliedschaften, parent_id=2186>
+    <OrtPraesidium id=4209, label=Partei, parent_id=2186>
+   <Ort id=2187, label=Saillon, parent_id=644>
+    <OrtGewaehlte id=37060, label=Exekutive, parent_id=2187>
+    <OrtMitglieder id=33443, label=Mitgliedschaften, parent_id=2187>
+    <OrtPraesidium id=4210, label=Partei, parent_id=2187>
+   <Ort id=33191, label=Saxon, parent_id=644>
+    <OrtMitglieder id=33444, label=Mitgliedschaften, parent_id=33191>
+    <OrtPraesidium id=33192, label=Partei, parent_id=33191>
+   <Ort id=33189, label=Trient, parent_id=644>
+    <OrtMitglieder id=33445, label=Mitgliedschaften, parent_id=33189>
+  <Region id=646, label=Monthey, parent_id=176>
+   <RegionMitglieder id=33446, label=Mitgliedschaften, parent_id=646>
+   <RegionPraesidium id=2191, label=Partei, parent_id=646>
+   <Ort id=2188, label=Champery, parent_id=646>
+    <OrtGewaehlte id=37066, label=Exekutive, parent_id=2188>
+    <OrtMitglieder id=4211, label=Mitgliedschaften, parent_id=2188>
+    <OrtPraesidium id=33203, label=Partei, parent_id=2188>
+   <Ort id=2189, label=Collombey-Muraz, parent_id=646>
+    <OrtGewaehlte id=37064, label=Exekutive, parent_id=2189>
+    <OrtPraesidium id=33204, label=Partei, parent_id=2189>
+   <Ort id=2190, label=Monthey, parent_id=646>
+    <OrtGewaehlte id=37065, label=Exekutive, parent_id=2190>
+    <OrtMitglieder id=4213, label=Mitgliedschaften, parent_id=2190>
+    <OrtPraesidium id=4214, label=Partei, parent_id=2190>
+   <Ort id=2192, label=Port-Valais, parent_id=646>
+    <OrtGewaehlte id=37069, label=Exekutive, parent_id=2192>
+    <OrtMitglieder id=33448, label=Mitgliedschaften, parent_id=2192>
+    <OrtPraesidium id=4215, label=Partei, parent_id=2192>
+   <Ort id=2193, label=St-Gingolph, parent_id=646>
+    <OrtMitglieder id=33449, label=Mitgliedschaften, parent_id=2193>
+    <OrtPraesidium id=4216, label=Partei, parent_id=2193>
+   <Ort id=2194, label=Troistorrents, parent_id=646>
+    <OrtGewaehlte id=37067, label=Exekutive, parent_id=2194>
+    <OrtMitglieder id=33450, label=Mitgliedschaften, parent_id=2194>
+    <OrtPraesidium id=4217, label=Partei, parent_id=2194>
+   <Ort id=2195, label=Val d`Illiez, parent_id=646>
+    <OrtGewaehlte id=37068, label=Exekutive, parent_id=2195>
+    <OrtMitglieder id=4218, label=Mitgliedschaften, parent_id=2195>
+    <OrtPraesidium id=4219, label=Partei, parent_id=2195>
+   <Ort id=2196, label=Vionnaz, parent_id=646>
+    <OrtGewaehlte id=37063, label=Exekutive, parent_id=2196>
+    <OrtMitglieder id=4220, label=Mitgliedschaften, parent_id=2196>
+    <OrtPraesidium id=4221, label=Partei, parent_id=2196>
+   <Ort id=2197, label=Vouvry, parent_id=646>
+    <OrtGewaehlte id=37087, label=Exekutive, parent_id=2197>
+    <OrtMitglieder id=4222, label=Mitgliedschaften, parent_id=2197>
+    <OrtPraesidium id=33205, label=Partei, parent_id=2197>
+  <Region id=648, label=Sierre, parent_id=176>
+   <RegionPraesidium id=2204, label=Partei, parent_id=648>
+   <Ort id=2201, label=Anniviers, parent_id=648>
+    <OrtGewaehlte id=37088, label=Exekutive, parent_id=2201>
+    <OrtMitglieder id=4226, label=Mitgliedschaften, parent_id=2201>
+    <OrtPraesidium id=33206, label=Partei, parent_id=2201>
+   <Ort id=2198, label=Chalais, parent_id=648>
+    <OrtSympathisanten id=40463, label=Sympathisanten, parent_id=2198>
+    <OrtMitglieder id=33456, label=Mitgliedschaften, parent_id=2198>
+    <OrtPraesidium id=4223, label=Partei, parent_id=2198>
+   <Ort id=2200, label=Chippis, parent_id=648>
+    <OrtGewaehlte id=37072, label=Exekutive, parent_id=2200>
+    <OrtMitglieder id=33454, label=Mitgliedschaften, parent_id=2200>
+    <OrtPraesidium id=4225, label=Partei, parent_id=2200>
+   <Ort id=38586, label=Crans-Montana, parent_id=648>
+    <OrtMitglieder id=38588, label=Mitgliedschaften, parent_id=38586>
+    <OrtPraesidium id=38587, label=Partei, parent_id=38586>
+   <Ort id=2202, label=Grone, parent_id=648>
+    <OrtGewaehlte id=37077, label=Exekutive, parent_id=2202>
+    <OrtMitglieder id=4227, label=Mitgliedschaften, parent_id=2202>
+    <OrtPraesidium id=4228, label=Partei, parent_id=2202>
+   <Ort id=2203, label=Lens, parent_id=648>
+    <OrtGewaehlte id=37075, label=Exekutive, parent_id=2203>
+    <OrtMitglieder id=33453, label=Mitgliedschaften, parent_id=2203>
+    <OrtPraesidium id=4229, label=Partei, parent_id=2203>
+   <Ort id=33193, label=Miège, parent_id=648>
+    <OrtGewaehlte id=37106, label=Exekutive, parent_id=33193>
+    <OrtMitglieder id=33452, label=Mitgliedschaften, parent_id=33193>
+    <OrtPraesidium id=33194, label=Partei, parent_id=33193>
+   <Ort id=2206, label=Sierre, parent_id=648>
+    <OrtGewaehlte id=37073, label=Exekutive, parent_id=2206>
+    <OrtMitglieder id=4232, label=Mitgliedschaften, parent_id=2206>
+    <OrtPraesidium id=4233, label=Partei, parent_id=2206>
+   <Ort id=33475, label=St-Léonard, parent_id=648>
+    <OrtArbeitsgruppe id=39028, label=Anciens élus, parent_id=33475>
+    <OrtArbeitsgruppe id=39030, label=Commissions, parent_id=33475>
+    <OrtGewaehlte id=39027, label=Elus, parent_id=33475>
+    <OrtGewaehlte id=37110, label=Exekutive, parent_id=33475>
+    <OrtMitglieder id=33507, label=Mitgliedschaften, parent_id=33475>
+    <OrtPraesidium id=33476, label=Partei, parent_id=33475>
+   <Ort id=2207, label=Venthone, parent_id=648>
+    <OrtSympathisanten id=40471, label=Sympathisanten, parent_id=2207>
+    <OrtGewaehlte id=37090, label=Exekutive, parent_id=2207>
+    <OrtMitglieder id=4234, label=Mitgliedschaften, parent_id=2207>
+    <OrtPraesidium id=4235, label=Partei, parent_id=2207>
+   <Ort id=2208, label=Veyras, parent_id=648>
+    <OrtSympathisanten id=40472, label=Sympathisanten, parent_id=2208>
+    <OrtGewaehlte id=37076, label=Exekutive, parent_id=2208>
+    <OrtMitglieder id=4236, label=Mitgliedschaften, parent_id=2208>
+    <OrtPraesidium id=4237, label=Partei, parent_id=2208>
+  <Region id=649, label=Sion, parent_id=176>
+   <RegionMitglieder id=34889, label=Mitgliedschaften, parent_id=649>
+   <RegionPraesidium id=33557, label=Partei, parent_id=649>
+   <Ort id=2209, label=Arbaz, parent_id=649>
+    <OrtGewaehlte id=37081, label=Exekutive, parent_id=2209>
+    <OrtMitglieder id=33431, label=Mitgliedschaften, parent_id=2209>
+    <OrtPraesidium id=4238, label=Partei, parent_id=2209>
+   <Ort id=33170, label=Grimisuat, parent_id=649>
+    <OrtGewaehlte id=37095, label=Exekutive, parent_id=33170>
+    <OrtMitglieder id=33430, label=Mitgliedschaften, parent_id=33170>
+    <OrtPraesidium id=33171, label=Partei, parent_id=33170>
+   <Ort id=2210, label=Saviese, parent_id=649>
+    <OrtSympathisanten id=40476, label=Sympathisanten, parent_id=2210>
+    <OrtGewaehlte id=37078, label=Exekutive, parent_id=2210>
+    <OrtMitglieder id=33428, label=Mitgliedschaften, parent_id=2210>
+    <OrtPraesidium id=4239, label=Partei, parent_id=2210>
+   <Ort id=2211, label=Sion, parent_id=649>
+    <OrtSympathisanten id=40477, label=Sympathisanten, parent_id=2211>
+    <OrtGewaehlte id=37079, label=Exekutive, parent_id=2211>
+    <OrtGewaehlte id=36805, label=Legislative, parent_id=2211>
+    <OrtMitglieder id=4240, label=Mitgliedschaften, parent_id=2211>
+    <OrtPraesidium id=33207, label=Partei, parent_id=2211>
+   <Ort id=2212, label=Veysonnaz, parent_id=649>
+    <OrtGewaehlte id=37080, label=Exekutive, parent_id=2212>
+    <OrtMitglieder id=4241, label=Mitgliedschaften, parent_id=2212>
+    <OrtPraesidium id=4242, label=Partei, parent_id=2212>
+  <Region id=650, label=St. Maurice, parent_id=176>
+   <RegionMitglieder id=2216, label=Mitgliedschaften, parent_id=650>
+   <RegionPraesidium id=2217, label=Partei, parent_id=650>
+   <Ort id=2213, label=Collonges, parent_id=650>
+    <OrtGewaehlte id=37089, label=Exekutive, parent_id=2213>
+    <OrtMitglieder id=33432, label=Mitgliedschaften, parent_id=2213>
+    <OrtPraesidium id=4243, label=Partei, parent_id=2213>
+   <Ort id=2214, label=Dorenaz, parent_id=650>
+    <OrtMitglieder id=33433, label=Mitgliedschaften, parent_id=2214>
+    <OrtPraesidium id=4244, label=Partei, parent_id=2214>
+   <Ort id=2215, label=Evionnaz, parent_id=650>
+    <OrtGewaehlte id=37084, label=Exekutive, parent_id=2215>
+    <OrtMitglieder id=33434, label=Mitgliedschaften, parent_id=2215>
+    <OrtPraesidium id=4245, label=Partei, parent_id=2215>
+   <Ort id=33187, label=Finhaut, parent_id=650>
+    <OrtGewaehlte id=37103, label=Exekutive, parent_id=33187>
+    <OrtMitglieder id=33435, label=Mitgliedschaften, parent_id=33187>
+    <OrtPraesidium id=33188, label=Partei, parent_id=33187>
+   <Ort id=33185, label=Massongex, parent_id=650>
+    <OrtSympathisanten id=40484, label=Sympathisanten, parent_id=33185>
+    <OrtGewaehlte id=37102, label=Exekutive, parent_id=33185>
+    <OrtMitglieder id=33436, label=Mitgliedschaften, parent_id=33185>
+    <OrtPraesidium id=33186, label=Partei, parent_id=33185>
+   <Ort id=2218, label=Salvan, parent_id=650>
+    <OrtGewaehlte id=37085, label=Exekutive, parent_id=2218>
+    <OrtMitglieder id=33437, label=Mitgliedschaften, parent_id=2218>
+    <OrtPraesidium id=4246, label=Partei, parent_id=2218>
+   <Ort id=2219, label=St. Maurice, parent_id=650>
+    <OrtGewaehlte id=37083, label=Exekutive, parent_id=2219>
+    <OrtMitglieder id=33438, label=Mitgliedschaften, parent_id=2219>
+    <OrtPraesidium id=4247, label=Partei, parent_id=2219>
+   <Ort id=2220, label=Vernayaz, parent_id=650>
+    <OrtGewaehlte id=37091, label=Exekutive, parent_id=2220>
+    <OrtMitglieder id=4248, label=Mitgliedschaften, parent_id=2220>
+    <OrtPraesidium id=4249, label=Partei, parent_id=2220>
+   <Ort id=2221, label=Verossaz, parent_id=650>
+    <OrtSympathisanten id=40488, label=Sympathisanten, parent_id=2221>
+    <OrtGewaehlte id=37092, label=Exekutive, parent_id=2221>
+    <OrtMitglieder id=33508, label=Mitgliedschaften, parent_id=2221>
+    <OrtPraesidium id=4250, label=Partei, parent_id=2221>

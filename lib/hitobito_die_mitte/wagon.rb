@@ -15,7 +15,8 @@ module HitobitoDieMitte
     # Add a load path for this specific wagon
     config.autoload_paths += %W[ #{config.root}/app/abilities
                                  #{config.root}/app/domain
-                                 #{config.root}/app/jobs ]
+                                 #{config.root}/app/jobs
+                                 #{config.root}/lib/om]
 
     config.to_prepare do
       # extend application classes here
