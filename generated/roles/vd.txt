@@ -1,0 +1,63 @@
+<Bund CVP Schweiz>
+ <BundGewaehlte Departement Bundesrat Nr. 1 [Bundesrat 5, tbd:Pers. Mitarbeiter Bundesrat 3]>
+ <BundGewaehlte Nationalrat [Nationalrat 126, tbd:Nationalrat Partner 12]>
+ <BundGewaehlte Ständerat [Staenderat 47, tbd:Ständerat Partner 2]>
+ <Kanton CVP VD>
+  <KantonSympathisanten Sympathisanten [Sympathisant 222]>
+  <KantonExterneKontakte Newsletter [Kontakt 469]>
+  <KantonGewaehlte Legislative [KantonaleLegislative 3]>
+  <KantonMitglieder Mitgliedschaften [Mitglied 92]>
+  <KantonPraesidium Partei [Praesident 7, tbd:Ansprechperson Finanzen 1, tbd:Empfänger Rechnung Jahresbeitrag CVP CH 2, tbd:Empfänger Umzugsmeldung 1, tbd:Kassier 2, tbd:Medienverteiler 12, tbd:OM Ansprechperson 2, tbd:Sekretär Kantonalpartei/Vereinigung 3]>
+  <Ort Aigle-Chablais>
+   <OrtMitglieder Mitgliedschaften [Mitglied 10]>
+   <OrtPraesidium Partei [Praesident 1]>
+  <Ort Crissier>
+   <OrtSympathisanten Sympathisanten [Sympathisant 4]>
+   <OrtMitglieder Mitgliedschaften [Mitglied 15]>
+  <Ort Echallens - Gros-de-Vaud>
+   <OrtSympathisanten Sympathisanten [Sympathisant 72]>
+   <OrtMitglieder Mitgliedschaften [Mitglied 20]>
+   <OrtPraesidium Partei [Praesident 2]>
+  <Ort Jura - Nord vaudois>
+   <OrtSympathisanten Sympathisanten [Sympathisant 23]>
+   <OrtMitglieder Mitgliedschaften [Mitglied 16]>
+   <OrtPraesidium Partei [Adressverwalter 1]>
+  <Ort Lausanne>
+   <OrtSympathisanten Sympathisanten [Sympathisant 98]>
+   <OrtMitglieder Mitgliedschaften [Mitglied 137]>
+   <OrtPraesidium Partei [Adressverwalter 10, Praesident 3]>
+  <Ort Lavaux-Oron>
+   <OrtSympathisanten Sympathisanten [Sympathisant 24]>
+   <OrtMitglieder Mitgliedschaften [Mitglied 23]>
+   <OrtPraesidium Partei [Adressverwalter 4, Praesident 3]>
+  <Ort Morges>
+   <OrtSympathisanten Sympathisanten [Sympathisant 92]>
+   <OrtMitglieder Mitgliedschaften [Mitglied 17]>
+   <OrtPraesidium Partei [Adressverwalter 2, Kassier 1, Mitglied 4, tbd:Sekretär 1]>
+  <Ort Nyon Région>
+   <OrtSympathisanten Sympathisanten [Sympathisant 47]>
+   <OrtMitglieder Mitgliedschaften [Mitglied 51]>
+   <OrtPraesidium Partei [Adressverwalter 3, Mitglied 9, Praesident 1]>
+  <Ort Ouest lausannois>
+   <OrtSympathisanten Sympathisanten [Sympathisant 29]>
+   <OrtMitglieder Mitgliedschaften [Mitglied 16]>
+  <Ort Prilly>
+   <OrtSympathisanten Sympathisanten [Sympathisant 7]>
+   <OrtMitglieder Mitgliedschaften [Mitglied 40]>
+   <OrtPraesidium Partei [Adressverwalter 2, Praesident 2]>
+  <Ort Villeneuve>
+   <OrtMitglieder Mitgliedschaften [Mitglied 25]>
+   <OrtPraesidium Partei [Adressverwalter 1, Kassier 1, Praesident 1, tbd:Sekretär 1]>
+  <Region Riviera-Pays d'Enhaut>
+   <Ort La Tour-de Peilz>
+    <OrtMitglieder Mitgliedschaften [Mitglied 24]>
+    <OrtPraesidium Parti [Praesident 2]>
+   <Ort Montreux>
+    <OrtSympathisanten Sympathisanten [Sympathisant 3]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 9]>
+    <OrtPraesidium Parti [Praesident 1]>
+   <Ort Parti [tbd:Präsident 1]>
+   <Ort Vevey>
+    <OrtSympathisanten Sympathisanten [Sympathisant 7]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 40]>
+    <OrtPraesidium Parti [Praesident 2]>

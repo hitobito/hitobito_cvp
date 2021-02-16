@@ -1,0 +1,30 @@
+<Bund CVP Schweiz>
+ <BundGewaehlte Departement Bundesrat Nr. 1 [Bundesrat 5, tbd:Pers. Mitarbeiter Bundesrat 3]>
+ <BundGewaehlte Nationalrat [Nationalrat 126, tbd:Nationalrat Partner 12]>
+ <BundGewaehlte Ständerat [Staenderat 47, tbd:Ständerat Partner 2]>
+ <Kanton CVP SH>
+  <KantonArbeitsgruppe Bankrat [Mitglied 1]>
+  <KantonGewaehlte Legislative [KantonaleLegislative 5]>
+  <KantonMitglieder Mitgliedschaften [Mitglied 61]>
+  <KantonPraesidium Partei [Mitglied 13, Praesident 7, tbd:Ansprechperson Finanzen 2, tbd:Empfänger Rechnung Jahresbeitrag CVP CH 2, tbd:Kontakt Bundeshausfraktion 1, tbd:Medien 1, tbd:OM Ansprechperson 1, tbd:Sekretär Kantonalpartei/Vereinigung 1]>
+  <Ort Neuhausen am Rheinfall>
+   <OrtSympathisanten Sympathisanten [Sympathisant 6]>
+   <OrtGewaehlte Exekutive [KommunaleExekutive 1]>
+   <OrtGewaehlte Legislative [KommunaleExekutive 2]>
+   <OrtMitglieder Mitgliedschaften [Mitglied 43]>
+   <OrtPraesidium Partei [Adressverwalter 1, Mitglied 11, Praesident 1]>
+  <Ort Ramsen>
+   <OrtSympathisanten Sympathisanten [Sympathisant 3]>
+   <OrtGewaehlte Exekutive [KommunaleExekutive 1]>
+   <OrtMitglieder Mitgliedschaften [Mitglied 37]>
+   <OrtPraesidium Partei [Adressverwalter 1, Praesident 1]>
+  <Ort Schaffhausen>
+   <OrtSympathisanten Sympathisanten [Sympathisant 17]>
+   <OrtGewaehlte Legislative [KommunaleExekutive 1]>
+   <OrtMitglieder Mitgliedschaften [Mitglied 51]>
+   <OrtPraesidium Partei [Praesident 2]>
+  <Ort Stein am Rhein>
+   <OrtSympathisanten Sympathisanten [Sympathisant 5]>
+   <OrtGewaehlte Exekutive [KommunaleExekutive 2]>
+   <OrtMitglieder Mitgliedschaften [Mitglied 9]>
+   <OrtPraesidium Partei [Adressverwalter 1]>

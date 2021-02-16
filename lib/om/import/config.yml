@@ -1,0 +1,526 @@
+groups:
+  ignored:
+    - !ruby/regexp '/^Codes.*?/'
+    - !ruby/regexp '/^Funktionen.*?/'
+    - !ruby/regexp '/^Kandidierende.*?/'
+    - !ruby/regexp '/^Wettbewerb*?/'
+    - !ruby/regexp '/^Papierkorb.*?/'
+    - !ruby/regexp '/^Wahlen*?/'
+    - !ruby/regexp '/^Kantonsratswahlen/'
+    - !ruby/regexp '/^Gemeinderatswahlen/'
+
+  deleted:
+    - [29, 1] # Kantonalparteien
+    - [42, 2] # JCVP > Kantonalparteien
+
+  create:
+    Bund:
+      - Sympathisanten
+    Kanton:
+      - Sympathisanten
+    Region:
+      - Sympathisanten
+    Ort:
+      - Sympathisanten
+    Vereinigung:
+      - Sympathisanten
+
+  moves:
+    by_parent_id:
+    - [37881, 167] # SG > Partei > Gesinnungskreis
+    - [37572, 163] # LU > Parteivorstand > (e. Kantonratsw-Wahlkreisgruppen, i. Parteisekretär)
+    - [3486, 1639] # SG > Gams > Mitgliedschaften > Mitgliedschaften
+
+    - [41, 2] # JCVP > Gremien
+    - [18, 3] # CVP Frauen > Kantonalsektion
+    - [10, 4] # 60+ > Kantonalsektionen
+    - [12, 5] # AWG > Kantonalsektionen
+    - [13, 6] # CSV > Kantonalsektionen
+
+    - [14652, 1] # Fraktion > CVP-Fraktion
+    - [8, 1]     # Fraktion
+
+    - [150, 40284] # CSP Oberwallis
+
+  renames:
+    KantonGewaehlte:
+      from: Exekutive
+      to: Regierungsrat
+
+  types:
+    Bund:
+      Kanton:
+        - ids: [
+            151, # ag
+            152, # ai
+            153, # ar
+            154, # be
+            155, # be_jura
+            156, # bl
+            157, # bs
+            158, # fr
+            159, # ge
+            160, # gl
+            161, # gr
+            162, # ju
+            163, # lu
+            164, # ne
+            165, # nw
+            166, # ow
+            167, # sg
+            168, # sh
+            169, # so
+            170, # sz
+            171, # tg
+            172, # ti
+            173, # ur
+            174, # vd
+            175, # vs_ober
+            176, # vs_romand
+            177, # zg
+            5181, # zh
+            40284, # csp oberwallis
+          ]
+      Vereinigung:
+        - ids: [2, 3, 4, 5, 6]
+      BundMitglieder:
+      - !ruby/regexp /Mitgliedschaften/i
+      BundDelegierte:
+      - !ruby/regexp /^Delegiertenversammlung/i
+      BundGewaehlte:
+      - !ruby/regexp /Nationalrat|Ständerat|Bundesrat/i
+      - !ruby/regexp /Kantonale Fraktionen/i
+      - !ruby/regexp /Bundeskanzlei/i
+      BundKommission:
+      - !ruby/regexp /Kommission/i
+      BundPraesidium:
+      - !ruby/regexp /^Präsidium/i
+      - !ruby/regexp /^Fraktions-Präsidium/i
+      BundParteigremium:
+      - !ruby/regexp /^Fraktionsvorstand/i
+      BundSekretariat:
+      - !ruby/regexp /^Generalsekretariat/i
+      - !ruby/regexp /^Fraktionssekretariat/i
+      BundExterneKontakte:
+      - !ruby/regexp /^Kontakte/i
+      - !ruby/regexp /^allgemeine Kontakte/i
+      - !ruby/regexp /^Newsletter$/i
+      - !ruby/regexp /^Communiqués$/i
+      - !ruby/regexp /^Medienverteiler$/i
+      default: BundArbeitsgruppe
+    BundDelegierte:
+      default: BundDelegierte
+    BundExterneKontakte:
+      default: BundExterneKontakte
+    BundArbeitsgruppe:
+      default: BundArbeitsgruppe
+    Vereinigung:
+      VereinigungExterneKontakte:
+        - ids: [14620]
+      VereinigungPraesidium:
+        - !ruby/regexp /^Parteileitung/i
+        - !ruby/regexp /^CVP Frauen Schweiz/i
+        - !ruby/regexp /^Vorstand$/i # 60+
+        - !ruby/regexp /^AWG Schweiz$/i # AWG
+        - !ruby/regexp /^CSV Schweiz$/i # AWG
+      VereinigungArbeitsgruppe:
+        - !ruby/regexp /^Delegierte/i
+        - !ruby/regexp /^Freundeskreis/i
+        - ids: [
+          36627, # 60+ Kantonale Verantwortliche
+        ]
+      default: Kanton
+    VereinigungExterneKontakte:
+      default: VereinigungExterneKontakte
+    VereinigungArbeitsgruppe:
+      default: VereinigungArbeitsgruppe
+
+    Kanton:
+      Region:
+      - !ruby/regexp /^Regionalpartei/i
+      - !ruby/regexp /^Bezirk/i
+      - !ruby/regexp /^(Wahlkreis|Wahlreis)/i
+      - !ruby/regexp /^Amteipartei/i
+      - ids: [
+          34890, # BS
+          423, 424, 422, 428, 429, 430, 431, 421, # FR
+          470, # GR
+          485, 486, 487, 39884,  # JU
+          581, 582, 584, 585, 586, 587, 590, 591, # TI
+          38911, # VD
+          629, 630, 632, 634, 638, 639, # VS. Overwallis
+          640, 641, 642, 644, 646, 648, 649, 650, # VS. Romand
+        ]
+      Ort:
+        - !ruby/regexp /^Kreispartei/i
+        - ids: [
+            356, 357, # AR
+            420, # BS
+            361, 362, 363, 364, 369, 372, 376, 380, 39919, # BE
+            399, 407, # BL
+            34750, 34751, 34752, 34753, 34755, 34757, 34758, 432, 34759, 34760, 34761, 34762, 34754,
+            36513, 34756, 434, 34765, 36260, 34767, 34768, 34769, 438, 34770, 439, 436, 34766,
+            34764, # GE
+            14570, 14569, 5092, # GL
+            37503, 37493, 37499, # NE
+            505, 506, 507, 508, 509, 510, 512, 516, 519, 520, 521, # NW
+            522, 523, 524, 526, 528, 531, 532, # OW
+            547, 549, 550, 551, # SH
+            600, 601, 602, 603, 604, 608, 609, 610, # UR
+            37857, 616, 617, 624, 620, 36301, 36298, 618, 36304, 626, 628, # VD
+            652, 658, 660, 663, 665, 666, 668, 669, 670, 671, 672, # ZG
+          ]
+      KantonSekretariat:
+        - ids: [419]
+      KantonArbeitsgruppe:
+      - !ruby/regexp /Fraktions-AG/i
+      - !ruby/regexp /Fraktionsausflug/i
+      KantonParteigremium:
+      - ids:
+        - 37548 # AG Parteivorstand
+        - 1045  # BS Vorstand
+        - 35083 # OW Vorstand
+        - 35016 # SG Parteivorstand
+        - 33657 # SO Erweiterte Parteileitung
+        - 35579 # SZ Revisionsstelle
+        - 35665 # SZ Vorstandsausschuss
+        - 35666 # SZ Präsidenten der Vereinigung
+        - 36180 # SZ Fraktionsvorstand
+        - 1837  # TG Parteivorstand
+        - 39802 # TG Rechnungsprüfungskommission
+        - 5198  # ZH Vorstand
+      - !ruby/regexp /Schiedsgericht/
+      - !ruby/regexp /Kontrollkommission/i
+      - !ruby/regexp /^Sektionskonferenz|Parteirat|Personalkommission$/i # BL
+      - !ruby/regexp /^Wahlkampfteam$/i # BL #ZG
+      - !ruby/regexp /^Parteirat$/i # BL
+      - !ruby/regexp /^Comité Directeur$/i # FR
+      - !ruby/regexp /^Zentralvorstand$/i # ZG
+      KantonPraesidium:
+      - !ruby/regexp /^Partei$/i
+      - !ruby/regexp /Parteivorstand|Parteileitung|Vorstand/i
+      - !ruby/regexp /^Präsidium$/i
+      KantonGewaehlte:
+      - !ruby/regexp /Regionalpartei/i
+      - !ruby/regexp /Fraktion/i
+      - !ruby/regexp /^Magistrats$/i
+      - !ruby/regexp /Exekutive|Legislative|Judikative/i
+      - !ruby/regexp /Richter|Ersatzrichter|Gericht/i
+      - !ruby/regexp /^Mandate$/i
+      - !ruby/regexp /^Législatif$/i
+      KantonKommission:
+      - !ruby/regexp /^Kommissionen$/i
+      - !ruby/regexp /^Politische Kommissionen$/i
+      - !ruby/regexp /^Politikkommission$/i
+      - !ruby/regexp /^Fachkommissionen$/i
+      - !ruby/regexp /^Commissions$/i
+      KantonDelegierte:
+      - !ruby/regexp /Delegiertenversammlung/i
+      - !ruby/regexp /^DV$/i
+      - !ruby/regexp /^DV Schweiz$/i
+      - !ruby/regexp /^Delegierte Weinfelden DV TG$/i
+      KantonExterneKontakte:
+      - !ruby/regexp /^Adressen$/i
+      - !ruby/regexp /^KMU-Adressen$/i
+      - !ruby/regexp /^Firmenadressen$/i
+      - !ruby/regexp /^Adressen Stadt/i
+      - !ruby/regexp /Verteiler Juristen/i
+      - !ruby/regexp /Newsletter/i
+      - !ruby/regexp /Communiqués/i
+      - !ruby/regexp /Medienverteiler/i
+      - !ruby/regexp /^Medien$/i
+      - !ruby/regexp /^Firmen$/i
+      - !ruby/regexp /^Fundraising$/i
+      - !ruby/regexp /^Donatoren$/i
+      - !ruby/regexp /^Bettelbrief$/i
+      - !ruby/regexp /^Sponsoren$/i
+      KantonMitglieder:
+      - !ruby/regexp /Mitgliedschaften/i
+      default: KantonArbeitsgruppe
+    KantonDelegierte:
+      default: KantonDelegierte
+    KantonGewaehlte:
+      default: KantonGewaehlte
+    KantonExterneKontakte:
+      default: KantonExterneKontakte
+    KantonArbeitsgruppe:
+      default: KantonArbeitsgruppe
+    KantonKommission:
+      default: KantonKommission
+    Region:
+      RegionPraesidium:
+      - !ruby/regexp /^Partei/i
+      - !ruby/regexp /^Vorstand/i
+      - !ruby/regexp /^Präsidium/i
+      RegionDelegierte:
+      - !ruby/regexp /Delegiertenversammlung/i
+      - !ruby/regexp /^DV$/i
+      RegionGewaehlte:
+      - !ruby/regexp /Kreisgericht/i
+      - !ruby/regexp /Exekutive|Legislative|Judikative/i
+      RegionSekretariat:
+      - !ruby/regexp /Sekretariat/i
+      RegionMitglieder:
+      - !ruby/regexp /Mitgliedschaften/i
+      RegionArbeitsgruppe:
+      - !ruby/regexp /Vertrauensleute/i
+      - !ruby/regexp /Députés cantonau/i
+      - !ruby/regexp /Seniorenrat/i # 60+ > LU > Sursee
+
+      - !ruby/regexp /Bürger/i  # Unklar
+      - !ruby/regexp /Exekutive|Legislative|Judikative/i # Gewählte nicht definiert
+      default: Ort
+    RegionPraesidium:
+      RegionPraesidium:
+      - !ruby/regexp /Vorstand/i
+    RegionDelegierte:
+      default: RegionDelegierte
+    RegionArbeitsgruppe:
+      default: RegionArbeitsgruppe
+    RegionGewaehlte:
+      default: RegionGewaehlte
+    Ort:
+      OrtPraesidium:
+      - !ruby/regexp /Partei/i
+      - !ruby/regexp /Vorstand/i
+      - !ruby/regexp /^Parti$/i
+      OrtSekretariat:
+      - !ruby/regexp /Sekretariat/i
+      OrtMitglieder:
+      - !ruby/regexp /Mitgliedschaften/i
+      OrtGewaehlte:
+      - !ruby/regexp /Exekutive/i
+      - !ruby/regexp /^Exécutif/i
+      - !ruby/regexp /Legislative/i
+      - !ruby/regexp /^Législatif/i
+      - !ruby/regexp /Judikative/i
+      - !ruby/regexp /^Elus$/i
+      - !ruby/regexp /Amtsträger/i
+      - !ruby/regexp /Mandat/i
+      - !ruby/regexp /Schulpflege|Bildung/i
+      - !ruby/regexp /Finanzkommission/i
+      OrtExterneKontakte:
+      - !ruby/regexp /Helfer-Pool|Newsletter|Club96/i
+      - !ruby/regexp /^Firmen$/
+      - !ruby/regexp /^Sponsoren$/i
+      default: OrtArbeitsgruppe
+    OrtGewaehlte:
+      default: OrtGewaehlte
+    OrtArbeitsgruppe:
+      default: OrtArbeitsgruppe
+roles_new:
+  ignored:
+    - Wahlbüro
+  moves:
+    -
+      from: Mitglieder
+      to: Sympathisanten
+      label: !ruby/regexp /symp/i
+
+  types:
+    BundDelegierte:
+      Delegierte:
+      - !ruby/regexp /^Delegierter$/i
+    BundGewaehlte:
+      Nationalrat:
+      - !ruby/regexp /^Nationalrat$/i
+      Staenderat:
+      - !ruby/regexp /^Ständerat$/i
+      Bundesrat:
+      - !ruby/regexp /^Bundesrat$/i
+    BundExterneKontakte:
+      Kontakt:
+      - !ruby/regexp /^Kontakt$/i
+    BundSympathisanten:
+      Sympathisant:
+      - !ruby/regexp /symp/i
+    BundParteigremium:
+      Mitglied:
+      - !ruby/regexp /^Mitglied$/i
+    VereinigungPraesidium:
+      Praesident:
+      - !ruby/regexp /Präsident/i
+      Mitglied:
+      - !ruby/regexp /Mitglied/i
+      Kassier:
+      - !ruby/regexp /Kassier/i
+    VereinigungArbeitsgruppe:
+      Praesident:
+      - !ruby/regexp /Präsident/i
+      Mitglied:
+      - !ruby/regexp /^Mitglied$/i
+      - !ruby/regexp /^Kontakt$/i
+      Gast:
+      - !ruby/regexp /^Gast$/i
+    VereinigungSympathisanten:
+      Sympathisant:
+      - !ruby/regexp /symp/i
+    KantonPraesidium:
+      Praesident:
+      - !ruby/regexp /Präsident/i
+      Mitglied:
+      - !ruby/regexp /Mitglied/i
+    KantonParteigremium:
+      Praesident:
+      - !ruby/regexp /Präsident/i
+      Mitglied:
+      - !ruby/regexp /Mitglied/i
+    KantonSekretariat:
+      Mitarbeiter:
+        - !ruby/regexp /^Empfänger/i
+    KantonGewaehlte:
+      MitgliedKantonalesGerichtErsteInstanz:
+      - ['Ersatzrichter', 'Mitglied']
+      - ['Richter', 'Mitglied']
+      - ['Handelsgericht', 'Richter']
+      - ['Handelsgericht', 'Fachrichter']
+      - ['Kantonsgericht', 'Präsident']
+      - ['Kantonsgericht', 'Richter']
+      - ['Kantonsgericht', 'Ersatzrichter']
+      - ['Verwaltungsgericht', 'Präsident']
+      - ['Verwaltungsgericht', 'Richter']
+      - ['Verwaltungsgericht', 'Ersatzrichter']
+      - ['Versicherungsgericht', 'Richter']
+      - ['Versicherungsgericht', 'Fachrichter']
+      - ['Fachrichter der Verwaltungsrekurskommission', 'Mitglied']
+      - ['Abteilungspräsident Versicherungsgericht', 'Mitglied']
+      - ['Abteilungsvizepräsident Versicherungsgericht', 'Mitglied']
+      - ['Fachrichter Versicherungsgericht', 'Mitglied']
+      - ['Hauptamtlicher Kantonsrichter', 'Mitglied']
+      - ['Verwaltungsgerichtspräsident', 'Mitglied']
+      - ['Vizepräsident Verwaltungsgericht', 'Mitglied']
+      - ['Anklagekammer', 'Ersatzrichter']
+      - ['Kantonsgerichtpräsident', 'Mitglied']
+      - ['Verwaltungsrekurskommission', 'Präsident']
+      - ['Verwaltungsrekurskommission', 'Richter']
+      - ['Verwaltungsrekurskommission', 'Fachrichter']
+      - !ruby/regexp /Richteramt/i
+      - !ruby/regexp /^Kantonsrichter$/i
+      MitgliedKantonalesGerichtZweiteInstanz:
+      - ['Ersatzrichter', 'Mitglied']
+      KantonaleLegislative:
+      - ['Legislative', 'Mitglied']
+      - ['Fraktion', 'Mitglied']
+      Fraktionschef:
+      - ['Fraktion', 'Fraktionspräsident']
+      - ['Fraktion', 'Präsident']
+      Staatsanwaltschaft:
+      - !ruby/regexp /Staatsanwalt/i
+      KantonaleExekutive:
+      - !ruby/regexp /Kantonsrat/i
+      - ['Exekutive', 'Mitglied']
+      - ['Staatssekretär \(7200\)', 'Mitglied']
+      - ['Regierungsrat \(8400\)', 'Mitglied']
+      - ['Regierungsrat', 'Mitglied']
+      - ['Regierungpräsident \(8760\)', 'Mitglied']
+    KantonKommission:
+      Praesident:
+      - !ruby/regexp /Präsident/i
+      Mitglied:
+      - !ruby/regexp /Mitglied/i
+    KantonExterneKontakte:
+      Spender:
+        - ['Firmen', 'Spender Firmen']
+        - ['Fundraising', 'Kontakt']
+        - ['Bettelbrief', 'Kontakt']
+        - ['Donatoren', 'Kontakt']
+        - ['Sponsoren', 'Mitglied']
+      Kontakt:
+      - !ruby/regexp /Kontakt/i
+      - !ruby/regexp /Empfänger/i
+    KantonDelegierte:
+      Delegierte:
+      - !ruby/regexp /^Delegierter$/i # exclude 'Delegierte von Amtes wegen'
+    KantonArbeitsgruppe:
+      Praesident:
+      - !ruby/regexp /Präsident/i
+      Mitglied:
+      - !ruby/regexp /^Mitglied$/i
+      - !ruby/regexp /^Kontakt$/i
+      Gast:
+      - !ruby/regexp /^Gast$/i
+    KantonMitglieder:
+      Mitglied:
+      - !ruby/regexp /einzel|ehren|jugend|jeune|indi|senior|fam/i
+    KantonSympathisanten:
+      Sympathisant:
+      - !ruby/regexp /symp/i
+    RegionDelegierte:
+      Delegierte:
+      - !ruby/regexp /Delegierter|Mitglied/i
+    RegionGewaehlte:
+      RegionLegislative:
+      - ['Legislative', 'Mitglied']
+      - ['Büro', 'Mitglied']
+      - ['Fraktion', 'Mitglied']
+      RegionJudikative:
+      - ['Judikative', 'Mitglied']
+      - ['Bezirksgericht', 'Mitglied']
+      - ['Kreisgericht', 'Präsident']
+      - ['Kreisgericht', 'Mitglied']
+      - ['Kreisgericht', 'Mitglied nebenamtlich']
+      - !ruby/regexp /^Richter$/
+      - !ruby/regexp /^Amtsrichter$/
+      - !ruby/regexp /^Amtsgerichtspräsident$/
+      - !ruby/regexp /^Staatsanwalt$/
+      RegionExekutive:
+      - ['Exekutive', 'Mitglied']
+      - ['Bezirksrat', 'Mitglied']
+      - ['Stadtrat', 'Mitglied']
+      - !ruby/regexp /^Präsident$/
+      - !ruby/regexp /^Vizepräsident$/
+      - !ruby/regexp /^Präfekt$/
+      - !ruby/regexp /^Vizepräfekt$/
+      Delegierte:
+      - !ruby/regexp /Delegierter|Mitglied/i
+    RegionPraesidium:
+      Praesident:
+      - !ruby/regexp /Präsident/i
+      Vizepraesident:
+      - !ruby/regexp /Vizepräsident/i
+      Kassier:
+      - !ruby/regexp /Finanzen/i
+      Mitglied:
+      - !ruby/regexp /Ressort/i
+    RegionMitglieder:
+      Mitglied:
+      - !ruby/regexp /einzel|ehren|jugend|jeune|indi|senior|fam/i
+    RegionSympathisanten:
+      Sympathisant:
+      - !ruby/regexp /symp/i
+    OrtPraesidium:
+      Praesident:
+      - !ruby/regexp /Präsident/i
+      Vizepraesident:
+      - !ruby/regexp /Vizepräsident/i
+      Kassier:
+      - !ruby/regexp /Finanzen/i
+      - !ruby/regexp /Kassier/i
+      Mitglied:
+      - !ruby/regexp /Ressort|Mitglied/i
+      Adressverwalter:
+      - !ruby/regexp /Umzug|Zuzüger/i
+    OrtMitglieder:
+      Mitglied:
+      - !ruby/regexp /einzel|ehren|jugend|jeune|indi|senior|fam/i
+    OrtSympathisanten:
+      Sympathisant:
+      - !ruby/regexp /symp/i
+    OrtGewaehlte:
+      Fraktionschef:
+      - !ruby/regexp /Präsident/i
+      MitgliedWeitereGemeindeKommissionen:
+      - !ruby/regexp /GPK Mitglied/i
+      - ['Finanzkommission', 'Mitglied']
+      Schulpflegekommission:
+      - !ruby/regexp /Schulrat|Schulparlament|Schulpflege/i
+      - ['Schulpflege', 'Mitglied']
+      - ['Schulpflege', 'Präsident']
+      KommunaleExekutive:
+      - !ruby/regexp /Exekutive/i
+      - !ruby/regexp /^Mitglied$/i
+    OrtExterneKontakte:
+      Spender:
+      - ['Sponsoren', 'Kontakt']
+      Kontakt:
+        - !ruby/regexp /Kontakt|Mitglied|Empfänger/i
