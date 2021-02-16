@@ -1,0 +1,90 @@
+<Bund CVP Schweiz>
+ <Vereinigung JCVP>
+  <VereinigungArbeitsgruppe Delegiertenversammlung [tbd:Delegierter 2]>
+  <VereinigungExterneKontakte JCVPSchweiz [tbd:Medienverteiler 10, tbd:Newsletter (nicht erwünscht) 13, tbd:OM Ansprechperson 1, tbd:PAZ 60, tbd:Präsident Kantonalpartei oder Vereinigung 3, tbd:Sekretär 3, tbd:Sekretär Kantonalpartei/Vereinigung 3]>
+   <VereinigungExterneKontakte Medienverteiler [tbd:Empfänger 5]>
+   <VereinigungExterneKontakte Newsletter [tbd:Empfänger 1677]>
+  <VereinigungPraesidium Parteileitung [Mitglied 16, Praesident 3]>
+  <Kanton JCVP AG>
+   <KantonMitglieder Mitgliedschaften [Mitglied 97]>
+  <Kanton JCVP AI [tbd:Kontakt 1]>
+  <Kanton JCVP BE>
+   <KantonSympathisanten Sympathisanten [Sympathisant 15]>
+   <KantonMitglieder Mitgliedschaften [Mitglied 52]>
+  <Kanton JCVP BL [tbd:Mitglied 1, tbd:Sympathisant 2, tbd:potentieller Wähler 6]>
+   <KantonSympathisanten Sympathisanten [Sympathisant 8]>
+   <KantonMitglieder Mitgliedschaften [Mitglied 37]>
+  <Kanton JCVP BS>
+   <KantonSympathisanten Sympathisanten [Sympathisant 5]>
+   <KantonMitglieder Mitgliedschaften [Mitglied 32]>
+  <Kanton JCVP FR>
+   <KantonSympathisanten Sympathisanten [Sympathisant 241]>
+   <KantonMitglieder Mitgliedschaften [Mitglied 214]>
+  <Kanton JCVP GE>
+   <KantonSympathisanten Sympathisanten [Sympathisant 3]>
+   <KantonMitglieder Mitgliedschaften [Mitglied 32]>
+  <Kanton JCVP GL>
+   <KantonSympathisanten Sympathisanten [Sympathisant 2]>
+   <KantonMitglieder Mitgliedschaften [Mitglied 16]>
+  <Kanton JCVP GR>
+   <KantonSympathisanten Sympathisanten [Sympathisant 26]>
+   <KantonArbeitsgruppe JCVP Surselva [tbd:Sympathisant 11]>
+   <KantonArbeitsgruppe Verschiedene Funktionen [Mitglied 36, Praesident 1, tbd:Medien Graubünden 64, tbd:Newsletterempfänger 56, tbd:Passivmitglied 23, tbd:Revisor 2, tbd:Vorstandsmitglied 6]>
+   <KantonMitglieder Mitgliedschaften [Mitglied 96]>
+   <KantonPraesidium Vorstand [Praesident 2, tbd:Aktuar 2, tbd:Kassier 1, tbd:Medien 1, tbd:Webadministrator 1]>
+  <Kanton JCVP JU>
+   <KantonSympathisanten Sympathisanten [Sympathisant 51]>
+   <KantonArbeitsgruppe Funktion [Praesident 5, tbd:Vorstandsmitglied 11]>
+   <KantonMitglieder Mitgliedschaften [Mitglied 184]>
+  <Kanton JCVP LU>
+   <KantonSympathisanten Sympathisanten [Sympathisant 143]>
+   <KantonArbeitsgruppe Info [tbd:Jmpuls 1408, tbd:Newsletter (CVP online Info) 153]>
+   <KantonArbeitsgruppe JCVP Wahlkreis Luzern-Land>
+    <KantonArbeitsgruppe Kriens>
+     <KantonArbeitsgruppe Freunde [Mitglied 71]>
+     <KantonArbeitsgruppe Spender [Mitglied 166]>
+     <KantonArbeitsgruppe bärebiss [tbd:Empfänger 1416]>
+   <KantonExterneKontakte Newsletter [Kontakt 266]>
+   <KantonMitglieder Mitgliedschaften [Mitglied 139]>
+  <Kanton JCVP NE>
+   <KantonMitglieder Mitgliedschaften [Mitglied 2]>
+  <Kanton JCVP NW>
+   <KantonMitglieder Mitgliedschaften [Mitglied 19]>
+  <Kanton JCVP OW>
+   <KantonMitglieder Mitgliedschaften [Mitglied 24]>
+  <Kanton JCVP Oberwallis>
+   <KantonSympathisanten Sympathisanten [Sympathisant 12]>
+   <KantonMitglieder Mitgliedschaften [Mitglied 66]>
+  <Kanton JCVP SG>
+   <KantonSympathisanten Sympathisanten [Sympathisant 47]>
+   <KantonArbeitsgruppe Alte Funktionen [tbd:Kassier 1, tbd:Mitglied nicht zahlend 21, tbd:Vorstandsmitglied 7]>
+   <KantonExterneKontakte Newsletter [Kontakt 1]>
+   <KantonMitglieder Mitgliedschaften [Mitglied 204]>
+   <KantonPraesidium Parteileitung [Mitglied 10, Praesident 4]>
+   <KantonPraesidium Parteivorstand [Mitglied 4]>
+  <Kanton JCVP SH [tbd:Mitglied 3, tbd:Präsident 1, tbd:Sympathisant 1]>
+  <Kanton JCVP SO>
+   <KantonSympathisanten Sympathisanten [Sympathisant 21]>
+   <KantonExterneKontakte Newsletter [Kontakt 46]>
+   <KantonMitglieder Mitgliedschaften [Mitglied 51]>
+  <Kanton JCVP SZ>
+   <KantonSympathisanten Sympathisanten [Sympathisant 7]>
+   <KantonMitglieder Mitgliedschaften [Mitglied 48]>
+  <Kanton JCVP TG>
+   <KantonSympathisanten Sympathisanten [Sympathisant 401]>
+   <KantonArbeitsgruppe Gönner [Mitglied 81]>
+   <KantonMitglieder Mitgliedschaften [Mitglied 72]>
+   <KantonPraesidium Vorstand [Mitglied 2, Praesident 1, tbd:Kassier 1, tbd:Sekretär 1]>
+  <Kanton JCVP TI [tbd:Mitglied 260, tbd:Präsident 2, tbd:Sympathisant 425]>
+  <Kanton JCVP UR>
+   <KantonMitglieder Mitgliedschaften [Mitglied 67]>
+  <Kanton JCVP VD>
+   <KantonArbeitsgruppe Parti [Praesident 1]>
+  <Kanton JCVP VS-Romand [tbd:Mitglied 73, tbd:Präsident 1]>
+  <Kanton JCVP Valais romand>
+   <KantonMitglieder Mitgliedschaften [Mitglied 3]>
+  <Kanton JCVP ZG>
+   <KantonMitglieder Mitgliedschaften [Mitglied 59]>
+  <Kanton JCVP ZH>
+   <KantonSympathisanten Sympathisanten [Sympathisant 41]>
+   <KantonMitglieder Mitgliedschaften [Mitglied 93]>

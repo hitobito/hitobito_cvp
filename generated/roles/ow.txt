@@ -1,0 +1,47 @@
+<Bund CVP Schweiz>
+ <BundGewaehlte Departement Bundesrat Nr. 1 [Bundesrat 5, tbd:Pers. Mitarbeiter Bundesrat 3]>
+ <BundGewaehlte Nationalrat [Nationalrat 126, tbd:Nationalrat Partner 12]>
+ <BundGewaehlte Ständerat [Staenderat 47, tbd:Ständerat Partner 2]>
+ <Kanton CVP OW>
+  <KantonSympathisanten Sympathisanten [Sympathisant 1]>
+  <KantonGewaehlte Regierungsrat [KantonaleExekutive 1]>
+  <KantonGewaehlte Judikative>
+   <KantonGewaehlte Kantonsgericht [tbd:Mitglied 3]>
+   <KantonGewaehlte Obergericht [tbd:Mitglied 9]>
+   <KantonGewaehlte Verwaltungsgericht [tbd:Mitglied 3]>
+  <KantonGewaehlte Legislative [KantonaleLegislative 43, tbd:Fraktionspräsident 2, tbd:Präsident 1]>
+  <KantonMitglieder Mitgliedschaften [Mitglied 5]>
+  <KantonParteigremium Vorstand [Mitglied 3, Praesident 2, tbd:Sekretär 2]>
+  <KantonPraesidium Partei [Mitglied 8, Praesident 5, tbd:Ansprechperson Finanzen 1, tbd:Empfänger Rechnung Jahresbeitrag CVP CH 2, tbd:Leserbriefschreiber/-in Verantw. 1, tbd:OM Ansprechperson 2, tbd:Sekretär (administrativ) 1, tbd:Sekretär Kantonalpartei/Vereinigung 3]>
+  <Ort Alpnach>
+   <OrtGewaehlte Exekutive [KommunaleExekutive 6]>
+   <OrtMitglieder Mitgliedschaften [Mitglied 95]>
+   <OrtPraesidium Partei [Adressverwalter 3, Kassier 1, Mitglied 9, Praesident 2, tbd:Interessent 154, tbd:Sekretär 1]>
+  <Ort Engelberg [mit Grafenort]>
+   <OrtSympathisanten Sympathisanten [Sympathisant 1]>
+   <OrtGewaehlte Exekutive [KommunaleExekutive 1]>
+   <OrtMitglieder Mitgliedschaften [Mitglied 91]>
+   <OrtPraesidium Partei [Adressverwalter 1, Praesident 3]>
+  <Ort Giswil>
+   <OrtSympathisanten Sympathisanten [Sympathisant 1]>
+   <OrtGewaehlte Exekutive [KommunaleExekutive 2]>
+   <OrtMitglieder Mitgliedschaften [Mitglied 50]>
+   <OrtPraesidium Partei [Adressverwalter 1, Kassier 1, Mitglied 7, Praesident 3]>
+  <Ort Kerns [mit Melchtal]>
+   <OrtGewaehlte Exekutive [Fraktionschef 1, KommunaleExekutive 5]>
+   <OrtMitglieder Mitgliedschaften [Mitglied 125]>
+   <OrtPraesidium Partei [Adressverwalter 2, Mitglied 5, Praesident 2]>
+  <Ort Lungern [mit Bürglen]>
+   <OrtGewaehlte Exekutive [Fraktionschef 1, KommunaleExekutive 4]>
+   <OrtMitglieder Mitgliedschaften [Mitglied 57]>
+   <OrtPraesidium Partei [Adressverwalter 1, Mitglied 2, Praesident 2]>
+  <Ort Sachseln [mit Flüeli Ranft]>
+   <OrtSympathisanten Sympathisanten [Sympathisant 1]>
+   <OrtGewaehlte Exekutive [Fraktionschef 1, KommunaleExekutive 1]>
+   <OrtMitglieder Mitgliedschaften [Mitglied 154]>
+   <OrtPraesidium Partei [Adressverwalter 1, Praesident 1]>
+  <Ort Sarnen [mit Ramersberg, Wilen, Stalden & Kägiswil]>
+   <OrtSympathisanten Sympathisanten [Sympathisant 4]>
+   <OrtGewaehlte Exekutive [Fraktionschef 2, KommunaleExekutive 5]>
+   <OrtMitglieder Mitgliedschaften [Mitglied 154]>
+   <OrtPraesidium Partei [Adressverwalter 6, Kassier 1, Mitglied 13, Praesident 3, tbd:Revisor 3, tbd:Sekretär 1]>

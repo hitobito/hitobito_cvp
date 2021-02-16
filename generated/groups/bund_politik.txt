@@ -1,0 +1,3 @@
+<Bund id=1, label=CVP Schweiz, parent_id=>
+ <BundArbeitsgruppe id=7, label=Die Politik, parent_id=1>
+  <BundArbeitsgruppe id=36711, label=Inserenten, parent_id=7>

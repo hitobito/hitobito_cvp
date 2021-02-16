@@ -1,0 +1,232 @@
+<Bund CVP Schweiz>
+ <BundArbeitsgruppe Arbeitsgruppen (PN/WiMi)>
+  <BundArbeitsgruppe AG LGBT(JYM) [tbd:Mitglied 19, tbd:Präsident 1]>
+  <BundArbeitsgruppe Ausländerpolitik und Migration (SE) [tbd:Mitglied 1]>
+  <BundArbeitsgruppe Aussenpolitik (PN) [tbd:Mitglied 6, tbd:Präsident 1]>
+  <BundArbeitsgruppe Bildung (IC) [tbd:Mitglied 72, tbd:Präsident 1]>
+  <BundArbeitsgruppe Biopolitik (IC) [tbd:Mitglied 1]>
+  <BundArbeitsgruppe Familie (SJ) [tbd:Mitglied 30, tbd:Präsident 3]>
+  <BundArbeitsgruppe Finanzen (IC) [tbd:Mitglied 17, tbd:Präsident 1]>
+  <BundArbeitsgruppe Gesundheit (SE) [tbd:Mitglied 30, tbd:Präsident 1]>
+  <BundArbeitsgruppe Landwirtschaft (JYM) [tbd:Mitglied 22, tbd:Präsident 1]>
+  <BundArbeitsgruppe Sicherheitspolitik (SE) [tbd:Mitglied 43, tbd:Präsident 1]>
+  <BundArbeitsgruppe Steuern (JYM) [tbd:Mitglied 81, tbd:Präsident 2]>
+  <BundArbeitsgruppe Umwelt- und Energiepolitik (JYM) [tbd:Mitglied 20, tbd:Präsident 1]>
+  <BundArbeitsgruppe Verkehrspolitik (IC) [tbd:Mitglied 9]>
+  <BundArbeitsgruppe Wirtschaft (JYM) [tbd:Mitglied 95, tbd:Präsident 2]>
+  <BundArbeitsgruppe soziale Sicherheit (SE) [tbd:Mitglied 10, tbd:Präsident 1]>
+ <BundArbeitsgruppe Gäste Delegiertenversammlung (CS)>
+  <BundArbeitsgruppe Email Einladung [tbd:Empfänger 94]>
+  <BundArbeitsgruppe Post Einladungen [tbd:Empfänger 141]>
+ <BundArbeitsgruppe Gönner (LS)>
+  <BundArbeitsgruppe Gold Card [tbd:Gönner 11]>
+  <BundArbeitsgruppe Silver Card [tbd:Gönner 79]>
+  <BundArbeitsgruppe Silver-Plus Card [tbd:Gönner 13]>
+ <BundArbeitsgruppe Inaktive Gruppierungen>
+  <BundArbeitsgruppe ICT-Forum [tbd:Interessent 196, tbd:Medien 22, tbd:Mitglied 71, tbd:Unterzeichner Petition 640]>
+  <BundArbeitsgruppe Kommissionen>
+   <BundArbeitsgruppe Kommission für Bildung [tbd:Mitglied 2]>
+   <BundArbeitsgruppe Kommission für Familienfragen [tbd:Mitglied 14, tbd:Präsident 1]>
+   <BundArbeitsgruppe Kommission für Gesundheitsfragen [tbd:Mitglied 24, tbd:Präsident 2]>
+   <BundArbeitsgruppe Kommission für soziale Sicherheit [tbd:Mitglied 21]>
+ <BundArbeitsgruppe Parteivorstand CVP CH (SZ)>
+  <BundArbeitsgruppe 60+ [tbd:Mitglied 2]>
+  <BundArbeitsgruppe AG [tbd:Mitglied 8]>
+  <BundArbeitsgruppe AI [tbd:Mitglied 4]>
+  <BundArbeitsgruppe AR [tbd:Mitglied 4]>
+  <BundArbeitsgruppe AWG [tbd:Mitglied 3]>
+  <BundArbeitsgruppe BE [tbd:Mitglied 12]>
+  <BundArbeitsgruppe BL [tbd:Mitglied 6]>
+  <BundArbeitsgruppe BS [tbd:Mitglied 5]>
+  <BundArbeitsgruppe CSP VS-Oberwallis [tbd:Mitglied 4]>
+  <BundArbeitsgruppe CSV [tbd:Mitglied 4]>
+  <BundArbeitsgruppe CVP Frauen [tbd:Mitglied 4]>
+  <BundArbeitsgruppe FR-Sense [tbd:Mitglied 3]>
+  <BundArbeitsgruppe FR-französisch [tbd:Mitglied 8]>
+  <BundArbeitsgruppe Fraktion [tbd:Mitglied 5]>
+  <BundArbeitsgruppe GE [tbd:Mitglied 6]>
+  <BundArbeitsgruppe GL [tbd:Mitglied 4]>
+  <BundArbeitsgruppe GR [tbd:Mitglied 4]>
+  <BundArbeitsgruppe JCVP [tbd:Mitglied 8]>
+  <BundArbeitsgruppe JU [tbd:Mitglied 5]>
+  <BundArbeitsgruppe Jura-Sud [tbd:Mitglied 4]>
+  <BundArbeitsgruppe LU [tbd:Mitglied 5]>
+  <BundArbeitsgruppe NE [tbd:Mitglied 2]>
+  <BundArbeitsgruppe NW [tbd:Mitglied 7]>
+  <BundArbeitsgruppe OW [tbd:Mitglied 5]>
+  <BundArbeitsgruppe SG [tbd:Mitglied 4]>
+  <BundArbeitsgruppe SH [tbd:Mitglied 10]>
+  <BundArbeitsgruppe SO [tbd:Mitglied 5]>
+  <BundArbeitsgruppe SZ [tbd:Mitglied 6]>
+  <BundArbeitsgruppe TG [tbd:Mitglied 4]>
+  <BundArbeitsgruppe TI [tbd:Mitglied 7]>
+  <BundArbeitsgruppe UR [tbd:Mitglied 6]>
+  <BundArbeitsgruppe VD [tbd:Mitglied 8]>
+  <BundArbeitsgruppe VS-Oberwallis [tbd:Mitglied 4]>
+  <BundArbeitsgruppe VS_Romand [tbd:Mitglied 3]>
+  <BundArbeitsgruppe ZG [tbd:Mitglied 5]>
+  <BundArbeitsgruppe ZH [tbd:Mitglied 3]>
+ <BundArbeitsgruppe Präsidenten KPP/Sekretäre KP/Vereinigungen (SZ)>
+  <BundArbeitsgruppe 60+ [tbd:Präsident Kantonalpartei oder Vereinigung 1, tbd:Sekretär Kantonalpartei/Vereinigung 2]>
+  <BundArbeitsgruppe AG [tbd:Präsident Kantonalpartei oder Vereinigung 1, tbd:Sekretär Kantonalpartei/Vereinigung 2]>
+  <BundArbeitsgruppe AI [tbd:Präsident Kantonalpartei oder Vereinigung 2]>
+  <BundArbeitsgruppe AR [tbd:Präsident Kantonalpartei oder Vereinigung 1, tbd:Sekretär Kantonalpartei/Vereinigung 2]>
+  <BundArbeitsgruppe AWG [tbd:Präsident Kantonalpartei oder Vereinigung 2]>
+  <BundArbeitsgruppe BE [tbd:Präsident Kantonalpartei oder Vereinigung 4, tbd:Sekretär Kantonalpartei/Vereinigung 3]>
+  <BundArbeitsgruppe BL [tbd:Präsident Kantonalpartei oder Vereinigung 2, tbd:Sekretär Kantonalpartei/Vereinigung 1]>
+  <BundArbeitsgruppe BS [tbd:Präsident Kantonalpartei oder Vereinigung 2, tbd:Sekretär Kantonalpartei/Vereinigung 1]>
+  <BundArbeitsgruppe CSP VS Oberwallis [tbd:Präsident Kantonalpartei oder Vereinigung 2, tbd:Sekretär Kantonalpartei/Vereinigung 1]>
+  <BundArbeitsgruppe CSV [tbd:Präsident Kantonalpartei oder Vereinigung 3, tbd:Sekretär Kantonalpartei/Vereinigung 1]>
+  <BundArbeitsgruppe CVP Frauen [tbd:Präsident Kantonalpartei oder Vereinigung 1, tbd:Sekretär Kantonalpartei/Vereinigung 1]>
+  <BundArbeitsgruppe FR-Sense [tbd:Präsident Kantonalpartei oder Vereinigung 1, tbd:Sekretär Kantonalpartei/Vereinigung 1]>
+  <BundArbeitsgruppe FR-französisch [tbd:Präsident Kantonalpartei oder Vereinigung 5, tbd:Sekretär Kantonalpartei/Vereinigung 1]>
+  <BundArbeitsgruppe GE [tbd:Präsident Kantonalpartei oder Vereinigung 3, tbd:Sekretär Kantonalpartei/Vereinigung 1]>
+  <BundArbeitsgruppe GL [tbd:Präsident Kantonalpartei oder Vereinigung 1, tbd:Sekretär Kantonalpartei/Vereinigung 2]>
+  <BundArbeitsgruppe GR [tbd:Präsident Kantonalpartei oder Vereinigung 2, tbd:Sekretär Kantonalpartei/Vereinigung 1]>
+  <BundArbeitsgruppe JCVP [tbd:Präsident Kantonalpartei oder Vereinigung 2, tbd:Sekretär Kantonalpartei/Vereinigung 4]>
+  <BundArbeitsgruppe JU [tbd:Präsident Kantonalpartei oder Vereinigung 4, tbd:Sekretär Kantonalpartei/Vereinigung 2]>
+  <BundArbeitsgruppe Jura-Sud [tbd:Präsident Kantonalpartei oder Vereinigung 2, tbd:Sekretär Kantonalpartei/Vereinigung 3]>
+  <BundArbeitsgruppe LU [tbd:Präsident Kantonalpartei oder Vereinigung 2, tbd:Sekretär Kantonalpartei/Vereinigung 1]>
+  <BundArbeitsgruppe NE [tbd:Präsident Kantonalpartei oder Vereinigung 2, tbd:Sekretär Kantonalpartei/Vereinigung 1]>
+  <BundArbeitsgruppe NW [tbd:Präsident Kantonalpartei oder Vereinigung 2, tbd:Sekretär Kantonalpartei/Vereinigung 1]>
+  <BundArbeitsgruppe OW [tbd:Präsident Kantonalpartei oder Vereinigung 1, tbd:Sekretär Kantonalpartei/Vereinigung 3]>
+  <BundArbeitsgruppe SG [tbd:Präsident Kantonalpartei oder Vereinigung 1, tbd:Sekretär Kantonalpartei/Vereinigung 2]>
+  <BundArbeitsgruppe SH [tbd:Präsident Kantonalpartei oder Vereinigung 5, tbd:Sekretär Kantonalpartei/Vereinigung 3]>
+  <BundArbeitsgruppe SO [tbd:Präsident Kantonalpartei oder Vereinigung 1, tbd:Sekretär Kantonalpartei/Vereinigung 1]>
+  <BundArbeitsgruppe SZ [tbd:Präsident Kantonalpartei oder Vereinigung 2, tbd:Sekretär Kantonalpartei/Vereinigung 1]>
+  <BundArbeitsgruppe TG [tbd:Präsident Kantonalpartei oder Vereinigung 1]>
+  <BundArbeitsgruppe TI [tbd:Präsident Kantonalpartei oder Vereinigung 2, tbd:Sekretär Kantonalpartei/Vereinigung 2]>
+  <BundArbeitsgruppe UR [tbd:Präsident Kantonalpartei oder Vereinigung 3, tbd:Sekretär Kantonalpartei/Vereinigung 1]>
+  <BundArbeitsgruppe VD [tbd:Präsident Kantonalpartei oder Vereinigung 4, tbd:Sekretär Kantonalpartei/Vereinigung 3]>
+  <BundArbeitsgruppe VS-Oberwallis [tbd:Präsident Kantonalpartei oder Vereinigung 2, tbd:Sekretär Kantonalpartei/Vereinigung 1]>
+  <BundArbeitsgruppe VS-Romand [tbd:Präsident Kantonalpartei oder Vereinigung 2, tbd:Sekretär Kantonalpartei/Vereinigung 3]>
+  <BundArbeitsgruppe ZG [tbd:Präsident Kantonalpartei oder Vereinigung 2, tbd:Sekretär Kantonalpartei/Vereinigung 1]>
+  <BundArbeitsgruppe ZH [tbd:Präsident Kantonalpartei oder Vereinigung 1, tbd:Sekretär Kantonalpartei/Vereinigung 1]>
+ <BundArbeitsgruppe Regierungsrat (SJ)>
+  <BundArbeitsgruppe Regierungsrat nach Kantonen>
+   <BundArbeitsgruppe AG [tbd:Regierungsrat 1]>
+   <BundArbeitsgruppe AI [tbd:Regierungsrat 5]>
+   <BundArbeitsgruppe BL [tbd:Regierungsrat 1]>
+   <BundArbeitsgruppe BS [tbd:Regierungsrat 1]>
+   <BundArbeitsgruppe FR [tbd:Regierungsrat 3]>
+   <BundArbeitsgruppe GE [tbd:Regierungsrat 1]>
+   <BundArbeitsgruppe GL [tbd:Regierungsrat 1]>
+   <BundArbeitsgruppe GR [tbd:Regierungsrat 2]>
+   <BundArbeitsgruppe JU [tbd:Regierungsrat 2]>
+   <BundArbeitsgruppe LU [tbd:Regierungsrat 2]>
+   <BundArbeitsgruppe NW [tbd:Regierungsrat 3]>
+   <BundArbeitsgruppe OW [tbd:Regierungsrat 3]>
+   <BundArbeitsgruppe SG [tbd:Regierungsrat 5]>
+   <BundArbeitsgruppe SO [tbd:Regierungsrat 2]>
+   <BundArbeitsgruppe SZ [tbd:Regierungsrat 4]>
+   <BundArbeitsgruppe TG [tbd:Regierungsrat 1]>
+   <BundArbeitsgruppe TI [tbd:Regierungsrat 1]>
+   <BundArbeitsgruppe UR [tbd:Regierungsrat 4]>
+   <BundArbeitsgruppe VS [tbd:Regierungsrat 3]>
+   <BundArbeitsgruppe ZG [tbd:Regierungsrat 4]>
+   <BundArbeitsgruppe ZH [tbd:Regierungsrat 1]>
+  <BundArbeitsgruppe Regierungsrat nach Konferenzen>
+   <BundArbeitsgruppe BPUK [tbd:Mitglied 10]>
+   <BundArbeitsgruppe EDK [tbd:Mitglied 7]>
+   <BundArbeitsgruppe EnDK [tbd:Mitglied 5]>
+   <BundArbeitsgruppe FDK [tbd:Mitglied 8]>
+   <BundArbeitsgruppe GDK [tbd:Mitglied 6]>
+   <BundArbeitsgruppe KKJPD [tbd:Mitglied 5]>
+   <BundArbeitsgruppe KWL [tbd:Mitglied 7]>
+   <BundArbeitsgruppe KöV [tbd:Mitglied 8]>
+   <BundArbeitsgruppe SODK [tbd:Mitglied 3]>
+   <BundArbeitsgruppe VDK [tbd:Mitglied 5]>
+  <BundArbeitsgruppe Regierungsräte alt [tbd:Regierungsrat 84]>
+ <BundArbeitsgruppe Schiedsgericht (JM) [tbd:Mitglied 8]>
+ <BundArbeitsgruppe Sekretäre (Administration Kantonalparteien)>
+  <BundArbeitsgruppe AG [tbd:Sekretär (administrativ) 1]>
+  <BundArbeitsgruppe BE [tbd:Sekretär (administrativ) 2]>
+  <BundArbeitsgruppe BS [tbd:Sekretär (administrativ) 1]>
+  <BundArbeitsgruppe FR-französisch [tbd:Sekretär (administrativ) 1]>
+  <BundArbeitsgruppe JU [tbd:Sekretär (administrativ) 1]>
+  <BundArbeitsgruppe LU [tbd:Sekretär (administrativ) 2]>
+  <BundArbeitsgruppe SG [tbd:Sekretär (administrativ) 1]>
+  <BundArbeitsgruppe SZ [tbd:Sekretär (administrativ) 1]>
+ <BundArbeitsgruppe Sommerparteitag (CS)>
+  <BundArbeitsgruppe Einladung (MG) [tbd:Empfänger 1590]>
+  <BundArbeitsgruppe Gönner 2014 (RT) [tbd:Gönner 9]>
+ <BundArbeitsgruppe Vereinigungen>
+  <BundArbeitsgruppe B-Club (SJ) [tbd:Aufsichtsbehörde über die Bundesanwaltschaft 1, tbd:Bundesanwalt 2, tbd:Bundesgericht nebenamtlicher Richter 5, tbd:Bundesricher Ersatz 1, tbd:Bundesrichter 21, tbd:Bundesstrafgericht nebenamtlicher Richter 4, tbd:Bundesverwaltungsrichter 20, tbd:Ersatzrichter Militärkassationsgericht 2, tbd:Mitglied 2, tbd:Richetr am Militärkassationsgericht 3, tbd:Richter Bundesstrafgericht 4]>
+  <BundArbeitsgruppe CVP-International [tbd:Mitglied 66]>
+  <BundArbeitsgruppe CVP-nahe Botschafter [tbd:Botschafter 25, tbd:Konsul 1, tbd:Weitere 5, tbd:a.Botschafter 5]>
+  <BundArbeitsgruppe Frauenznacht [tbd:Empfänger Einladung 182]>
+  <BundArbeitsgruppe KMU-Forum (CS) [tbd:Basic Card 8, tbd:Business Card 27, tbd:Business Plus Card 6, tbd:Gast 79, tbd:Interessent 441, tbd:Präsident 4]>
+  <BundArbeitsgruppe forum politique suisse (CS)>
+   <BundArbeitsgruppe Gäste>
+    <BundArbeitsgruppe 2014 Winter [tbd:Gast 13]>
+    <BundArbeitsgruppe 2015 Frühling [tbd:Gast 1]>
+    <BundArbeitsgruppe 2015 Herbst [tbd:Gast 2]>
+    <BundArbeitsgruppe 2015 Winter [tbd:Gast 7]>
+    <BundArbeitsgruppe 2016 Frühjahr [tbd:Gast 5]>
+    <BundArbeitsgruppe 2016 Herbst [tbd:Gast 10]>
+    <BundArbeitsgruppe 2016 Winter [tbd:Gast 4]>
+    <BundArbeitsgruppe 2017 Herbst [tbd:Gast 3]>
+    <BundArbeitsgruppe 2017 Winter [tbd:Gast 11]>
+    <BundArbeitsgruppe 2018 Frühjahr [tbd:Gast 3]>
+    <BundArbeitsgruppe 2018 Winter [tbd:Gast 2]>
+    <BundArbeitsgruppe fixe Gäste [tbd:Gast 26]>
+   <BundArbeitsgruppe Vorstand [tbd:Mitglied 13, tbd:Präsident 2]>
+ <BundDelegierte Delegiertenversammlung (CS)>
+  <BundDelegierte 60+ (7) [Delegierte 14]>
+  <BundDelegierte AG (28) [Delegierte 45]>
+  <BundDelegierte AI (7) [Delegierte 9]>
+  <BundDelegierte AR (7) [Delegierte 20]>
+  <BundDelegierte AWG (7) [Delegierte 1]>
+  <BundDelegierte BE (7) [Delegierte 13]>
+  <BundDelegierte BE-Jura Sud (7) [Delegierte 14]>
+  <BundDelegierte BL (8) [Delegierte 15]>
+  <BundDelegierte BS (7) [Delegierte 10]>
+  <BundDelegierte CSP Oberwallis (7) [Delegierte 15]>
+  <BundDelegierte CSV (7) [Delegierte 14]>
+  <BundDelegierte CVP Frauen (7) [Delegierte 12]>
+  <BundDelegierte FR-Sense (7) [Delegierte 12]>
+  <BundDelegierte FR-französisch (12) [Delegierte 23]>
+  <BundDelegierte GE (7) [Delegierte 23]>
+  <BundDelegierte GL (7) [Delegierte 9]>
+  <BundDelegierte GR (8) [Delegierte 19]>
+  <BundDelegierte JCVP (7) [Delegierte 25]>
+  <BundDelegierte JU (9) [Delegierte 22]>
+  <BundDelegierte LU (50) [Delegierte 75]>
+  <BundDelegierte NE (7) [Delegierte 16]>
+  <BundDelegierte NW (7) [Delegierte 20]>
+  <BundDelegierte OW (7) [Delegierte 15]>
+  <BundDelegierte SG (24) [Delegierte 36]>
+  <BundDelegierte SH (7) [Delegierte 16]>
+  <BundDelegierte SO (15) [Delegierte 21]>
+  <BundDelegierte SZ (12) [Delegierte 19]>
+  <BundDelegierte TG (9) [Delegierte 17]>
+  <BundDelegierte TI (28) [Delegierte 36]>
+  <BundDelegierte UR (7) [Delegierte 17]>
+  <BundDelegierte VD (7) [Delegierte 19]>
+  <BundDelegierte VS-Oberwallis (8) [Delegierte 12]>
+  <BundDelegierte VS-Romand (19) [Delegierte 33]>
+  <BundDelegierte ZG (8) [Delegierte 17]>
+  <BundDelegierte ZH (18) [Delegierte 31]>
+ <BundExterneKontakte Communiqués [tbd:Empfänger 7617]>
+ <BundExterneKontakte Kontakte>
+  <BundExterneKontakte Expertenliste>
+   <BundExterneKontakte Bahn [tbd:Mitglied 3]>
+   <BundExterneKontakte Bildung [tbd:Mitglied 4]>
+   <BundExterneKontakte Biotechnologie [tbd:Mitglied 6]>
+   <BundExterneKontakte Energie [tbd:Mitglied 7]>
+   <BundExterneKontakte Flugverkehr [tbd:Mitglied 1]>
+   <BundExterneKontakte Hochschulen [tbd:Mitglied 2]>
+   <BundExterneKontakte Jugend [tbd:Mitglied 1]>
+   <BundExterneKontakte Kultur [tbd:Mitglied 1]>
+   <BundExterneKontakte Leben [tbd:Mitglied 5]>
+   <BundExterneKontakte Medien/Werbung [tbd:Mitglied 2]>
+   <BundExterneKontakte Musik [tbd:Mitglied 1]>
+   <BundExterneKontakte Recht [tbd:Mitglied 6]>
+   <BundExterneKontakte Strasse [tbd:Mitglied 3]>
+   <BundExterneKontakte Telekom [tbd:Mitglied 2]>
+  <BundExterneKontakte Gesundheitsinitiative [Kontakt 89, tbd:Newsletter 418]>
+ <BundExterneKontakte Medienverteiler [tbd:Empfänger 2991]>
+ <BundExterneKontakte Newsletter [tbd:Empfänger 9448]>
+ <BundKommission Kontrollkommission (JM) [tbd:Mitglied 2, tbd:Präsident 1]>
+ <BundPraesidium Präsidium (LS) [tbd:Empfänger Einladung 3, tbd:Mitglied 20, tbd:Präsident 2, tbd:Vizepräsident 4]>
+ <BundSekretariat Generalsekretariat (JM) [tbd:Generalsekretär 6, tbd:Geschäftsführer 2, tbd:Mitarbeiter 43]>

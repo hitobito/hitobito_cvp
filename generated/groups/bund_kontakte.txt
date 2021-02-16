@@ -1,0 +1,47 @@
+<Bund id=1, label=CVP Schweiz, parent_id=>
+ <BundExterneKontakte id=9, label=allgemeine Kontakte, parent_id=1>
+  <BundExterneKontakte id=14621, label=Dienstleistungen (MS), parent_id=9>
+  <BundExterneKontakte id=38397, label=Diverses, parent_id=9>
+   <BundExterneKontakte id=38398, label=Adressen Philipp Kutter (NR-Wahlen 2015), parent_id=38397>
+   <BundExterneKontakte id=40289, label=Adressen Reto Nause September 2019 (Buch), parent_id=38397>
+   <BundExterneKontakte id=40288, label=Adressen Reto Nause September 2019 (K), parent_id=38397>
+   <BundExterneKontakte id=40298, label=Adressen Reto Nause September 2019 (Koni Hädener), parent_id=38397>
+   <BundExterneKontakte id=40286, label=Adressen Reto Nause September 2019 (TC), parent_id=38397>
+   <BundExterneKontakte id=39804, label=Petition CVP Stadt Bern (nur für Mailversand), parent_id=38397>
+   <BundExterneKontakte id=39874, label=Rechnungsempfänger Wordpress, parent_id=38397>
+  <BundExterneKontakte id=39415, label=Expertengruppen (DF), parent_id=9>
+   <BundExterneKontakte id=39416, label=Banken (JG), parent_id=39415>
+   <BundExterneKontakte id=39417, label=Bildung (IC), parent_id=39415>
+   <BundExterneKontakte id=39418, label=Biochemie (IC), parent_id=39415>
+   <BundExterneKontakte id=39419, label=Digitalisierung (JG), parent_id=39415>
+   <BundExterneKontakte id=39420, label=Gesundheit (JP), parent_id=39415>
+   <BundExterneKontakte id=39421, label=Migration (SE), parent_id=39415>
+   <BundExterneKontakte id=39422, label=Post (IC), parent_id=39415>
+   <BundExterneKontakte id=39423, label=Rechtsfragen (SE), parent_id=39415>
+   <BundExterneKontakte id=39424, label=Religion (SE), parent_id=39415>
+   <BundExterneKontakte id=39425, label=Service Public (IC), parent_id=39415>
+   <BundExterneKontakte id=39426, label=Sicherheit (SE), parent_id=39415>
+   <BundExterneKontakte id=39427, label=Staatsfinanzen (IC), parent_id=39415>
+   <BundExterneKontakte id=39428, label=Strassenverkehr (IC), parent_id=39415>
+   <BundExterneKontakte id=39429, label=Tabak (JP), parent_id=39415>
+   <BundExterneKontakte id=39430, label=Telekommunikation (IC), parent_id=39415>
+   <BundExterneKontakte id=39431, label=Umwelt (JG), parent_id=39415>
+   <BundExterneKontakte id=39432, label=Verkehr (IC), parent_id=39415>
+   <BundExterneKontakte id=39433, label=Wirtschaft (JG), parent_id=39415>
+  <BundExterneKontakte id=39235, label=Firmen, parent_id=9>
+   <BundExterneKontakte id=39237, label=Grossfirmen Mai 2017 (ab 800 MA), parent_id=39235>
+   <BundExterneKontakte id=39236, label=KMU Mai 2017 (bis 799 MA), parent_id=39235>
+  <BundExterneKontakte id=11, label=Medien (MA), parent_id=9>
+   <BundExterneKontakte id=47, label=Fachzeitschriften, parent_id=11>
+    <BundExterneKontakte id=264, label=Fachmedien, parent_id=47>
+   <BundExterneKontakte id=51, label=Print, parent_id=11>
+    <BundExterneKontakte id=33155, label=Tagesmedien, parent_id=51>
+    <BundExterneKontakte id=33158, label=Zu versorgen, parent_id=51>
+   <BundExterneKontakte id=49, label=Radio, parent_id=11>
+    <BundExterneKontakte id=33159, label=Zu versorgen, parent_id=49>
+   <BundExterneKontakte id=50, label=TV, parent_id=11>
+    <BundExterneKontakte id=33160, label=Zu versorgen, parent_id=50>
+   <BundExterneKontakte id=48, label=online, parent_id=11>
+    <BundExterneKontakte id=33149, label=Verteiler, parent_id=48>
+  <BundExterneKontakte id=14622, label=Parteien (MS), parent_id=9>
+  <BundExterneKontakte id=40002, label=Wordpress-Rechnungen, parent_id=9>

@@ -1,0 +1,313 @@
+<Bund CVP Schweiz>
+ <BundGewaehlte Departement Bundesrat Nr. 1 [Bundesrat 5, tbd:Pers. Mitarbeiter Bundesrat 3]>
+ <BundGewaehlte Nationalrat [Nationalrat 126, tbd:Nationalrat Partner 12]>
+ <BundGewaehlte Ständerat [Staenderat 47, tbd:Ständerat Partner 2]>
+ <Kanton CVP VS. Oberwallis>
+  <KantonSympathisanten Sympathisanten [Sympathisant 98]>
+  <KantonArbeitsgruppe Club [Mitglied 29]>
+  <KantonExterneKontakte Newsletter [Kontakt 662]>
+  <KantonGewaehlte Regierungsrat [KantonaleExekutive 1]>
+  <KantonGewaehlte Fraktion [Fraktionschef 2, tbd:Sekretär 1, tbd:Vorstandsmitglied 7]>
+  <KantonGewaehlte Judikative [MitgliedKantonalesGerichtErsteInstanz 2, Staatsanwaltschaft 5, tbd:Bezirksrichter 1, tbd:Bundesrichter 1, tbd:Ersatzrichter 1]>
+  <KantonGewaehlte Legislative [KantonaleLegislative 42, tbd:Suppleant 37]>
+  <KantonMitglieder Mitgliedschaften [Mitglied 1151]>
+  <KantonPraesidium Partei [Mitglied 36, Praesident 3, tbd:Ansprechperson Finanzen 1, tbd:Bundesrat 1, tbd:Delegierter CVP Schweiz 8, tbd:Empfänger Rechnung Jahresbeitrag CVP CH 1, tbd:Ersatzdelegierter 5, tbd:Nationalrat 2, tbd:Sekretär Kantonalpartei/Vereinigung 1, tbd:Ständerat 1, tbd:Zuzüger 21]>
+  <Region Brig>
+   <RegionGewaehlte Exekutive [RegionExekutive 2]>
+   <RegionPraesidium Partei [Praesident 2, tbd:Mitglied 100er Club 2]>
+   <Ort Brig-Glis-Gamsen-Brigerbad>
+    <OrtSympathisanten Sympathisanten [Sympathisant 76]>
+    <OrtArbeitsgruppe Burgergemeinde [tbd:Burgerpräsident 1, tbd:Burgerrat 1]>
+    <OrtGewaehlte Exekutive [Fraktionschef 1, KommunaleExekutive 2]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 181]>
+    <OrtPraesidium Partei [Adressverwalter 2, Kassier 1, Mitglied 53, Praesident 2]>
+   <Ort Eggerberg>
+    <OrtSympathisanten Sympathisanten [Sympathisant 2]>
+    <OrtGewaehlte Exekutive [KommunaleExekutive 1]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 9]>
+    <OrtPraesidium Partei [Mitglied 2, Praesident 1]>
+   <Ort Gondo-Zwischbergen>
+    <OrtGewaehlte Exekutive [Fraktionschef 1]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 2]>
+    <OrtPraesidium Partei [Praesident 1]>
+   <Ort Mund-Naters-Birgisch>
+    <OrtSympathisanten Sympathisanten [Sympathisant 26]>
+    <OrtGewaehlte Exekutive [Fraktionschef 4, KommunaleExekutive 7]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 160]>
+    <OrtPraesidium Partei [Adressverwalter 2, Mitglied 44, Praesident 5]>
+   <Ort Ried-Brig>
+    <OrtSympathisanten Sympathisanten [Sympathisant 25]>
+    <OrtGewaehlte Exekutive [Fraktionschef 3, KommunaleExekutive 4]>
+    <OrtGewaehlte Judikative [tbd:Vizerichter 1]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 49]>
+    <OrtPraesidium Partei [Adressverwalter 1, Mitglied 29, Praesident 1]>
+   <Ort Simplon Dorf>
+    <OrtSympathisanten Sympathisanten [Sympathisant 1]>
+    <OrtGewaehlte Exekutive [Fraktionschef 2, KommunaleExekutive 1]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 8]>
+    <OrtPraesidium Partei [Mitglied 1, Praesident 1]>
+   <Ort Termen>
+    <OrtSympathisanten Sympathisanten [Sympathisant 6]>
+    <OrtArbeitsgruppe Burgergemeinde [tbd:Burgerrat 1]>
+    <OrtGewaehlte Exekutive [Fraktionschef 1, KommunaleExekutive 7]>
+    <OrtGewaehlte Judikative [tbd:Vizerichter 1]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 18]>
+    <OrtPraesidium Partei [Mitglied 2, Praesident 1]>
+  <Region Goms>
+   <RegionGewaehlte Exekutive [RegionExekutive 2]>
+   <RegionPraesidium Partei [Praesident 1]>
+   <Ort Bellwald>
+    <OrtGewaehlte Exekutive [Fraktionschef 1]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 5]>
+   <Ort Binn>
+    <OrtSympathisanten Sympathisanten [Sympathisant 1]>
+    <OrtGewaehlte Exekutive [KommunaleExekutive 2]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 2]>
+   <Ort Blitzingen>
+    <OrtSympathisanten Sympathisanten [Sympathisant 1]>
+    <OrtGewaehlte Exekutive [Fraktionschef 1]>
+   <Ort Ernen>
+    <OrtGewaehlte Exekutive [Fraktionschef 2, KommunaleExekutive 1]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 8]>
+   <Ort Fiesch>
+    <OrtGewaehlte Exekutive [Fraktionschef 1]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 8]>
+   <Ort Lax>
+    <OrtMitglieder Mitgliedschaften [Mitglied 2]>
+   <Ort Münster-Geschinen>
+    <OrtSympathisanten Sympathisanten [Sympathisant 2]>
+    <OrtGewaehlte Exekutive [Fraktionschef 2, KommunaleExekutive 2]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 4]>
+    <OrtPraesidium Partei [Praesident 1]>
+   <Ort Obergoms>
+    <OrtSympathisanten Sympathisanten [Sympathisant 1]>
+    <OrtGewaehlte Exekutive [Fraktionschef 1]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 14]>
+   <Ort Reckingen-Gluringen>
+    <OrtSympathisanten Sympathisanten [Sympathisant 3]>
+    <OrtGewaehlte Exekutive [Fraktionschef 2, KommunaleExekutive 1]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 4]>
+  <Region Leuk>
+   <RegionGewaehlte Exekutive [RegionExekutive 1]>
+   <RegionPraesidium Partei [Praesident 2, tbd:Revisor 1, tbd:Vorstandsmitglied 3]>
+   <Ort Agarn>
+    <OrtArbeitsgruppe Burgergemeinde [tbd:Burgerrat 1]>
+    <OrtGewaehlte Exekutive [Fraktionschef 1, KommunaleExekutive 4]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 21]>
+    <OrtPraesidium Partei [Praesident 1]>
+   <Ort Albinen>
+    <OrtSympathisanten Sympathisanten [Sympathisant 1]>
+    <OrtGewaehlte Exekutive [KommunaleExekutive 5]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 13]>
+    <OrtPraesidium Partei [tbd:Kontakt 1]>
+   <Ort Ergisch>
+    <OrtGewaehlte Exekutive [KommunaleExekutive 1]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 1]>
+   <Ort Erschmatt-Leuk>
+    <OrtSympathisanten Sympathisanten [Sympathisant 2]>
+    <OrtArbeitsgruppe Burgergemeinde [tbd:Burgerrat 2]>
+    <OrtGewaehlte Exekutive [Fraktionschef 4, KommunaleExekutive 3]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 47]>
+    <OrtPraesidium Partei [Praesident 5, tbd:Sekretär 1]>
+   <Ort Gampel-Bratsch>
+    <OrtArbeitsgruppe Burgergemeinde [tbd:Burgerpräsident 1]>
+    <OrtGewaehlte Exekutive [Fraktionschef 1, KommunaleExekutive 4]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 47]>
+    <OrtPraesidium Partei [Praesident 3]>
+   <Ort Guttet-Feschel>
+    <OrtSympathisanten Sympathisanten [Sympathisant 3]>
+    <OrtGewaehlte Exekutive [Fraktionschef 1, KommunaleExekutive 1]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 7]>
+    <OrtPraesidium Partei [Praesident 1]>
+   <Ort Inden>
+    <OrtSympathisanten Sympathisanten [Sympathisant 1]>
+    <OrtArbeitsgruppe Burgergemeinde [tbd:Burgerrat 1]>
+    <OrtGewaehlte Exekutive [Fraktionschef 1, KommunaleExekutive 1]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 2]>
+    <OrtPraesidium Partei [tbd:Kontakt 1]>
+   <Ort Leukerbad>
+    <OrtArbeitsgruppe Burgergemeinde [tbd:Burgerrat 1]>
+    <OrtGewaehlte Exekutive [Fraktionschef 1, KommunaleExekutive 2]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 21]>
+    <OrtPraesidium Partei [Praesident 1]>
+   <Ort Salgesch>
+    <OrtSympathisanten Sympathisanten [Sympathisant 1]>
+    <OrtArbeitsgruppe Burgergemeinde [tbd:Burgerrat 1]>
+    <OrtGewaehlte Exekutive [Fraktionschef 3, KommunaleExekutive 5]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 69]>
+    <OrtPraesidium Partei [Praesident 1]>
+   <Ort Turtmann>
+    <OrtGewaehlte Exekutive [Fraktionschef 1, KommunaleExekutive 3]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 29]>
+    <OrtPraesidium Partei [tbd:Kontakt 1]>
+   <Ort Unterems>
+    <OrtMitglieder Mitgliedschaften [Mitglied 1]>
+   <Ort Varen>
+    <OrtGewaehlte Exekutive [KommunaleExekutive 2]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 13]>
+    <OrtPraesidium Partei [tbd:Kontakt 1]>
+  <Region Oestl. Raron>
+   <RegionGewaehlte Exekutive [RegionExekutive 2]>
+   <Ort Betten>
+    <OrtSympathisanten Sympathisanten [Sympathisant 1]>
+    <OrtGewaehlte Exekutive [Fraktionschef 3, KommunaleExekutive 1]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 4]>
+    <OrtPraesidium Partei [tbd:Kontakt 1]>
+   <Ort Bitsch>
+    <OrtSympathisanten Sympathisanten [Sympathisant 1]>
+    <OrtGewaehlte Exekutive [Fraktionschef 2, KommunaleExekutive 1]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 8]>
+    <OrtPraesidium Partei [tbd:Kontakt 1]>
+   <Ort Grengiols>
+    <OrtGewaehlte Exekutive [KommunaleExekutive 2]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 4]>
+    <OrtPraesidium Partei [tbd:Kontakt 1]>
+   <Ort Mörel-Filet>
+    <OrtGewaehlte Exekutive [KommunaleExekutive 1]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 11]>
+    <OrtPraesidium Partei [Praesident 1]>
+   <Ort Riederalp>
+    <OrtMitglieder Mitgliedschaften [Mitglied 12]>
+    <OrtPraesidium Partei [Praesident 1]>
+  <Region Visp>
+   <RegionGewaehlte Exekutive [RegionExekutive 2]>
+   <Ort Baltschieder>
+    <OrtGewaehlte Exekutive [KommunaleExekutive 1]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 3]>
+   <Ort Eisten>
+    <OrtSympathisanten Sympathisanten [Sympathisant 1]>
+    <OrtGewaehlte Exekutive [Fraktionschef 1, KommunaleExekutive 1]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 2]>
+    <OrtPraesidium Partei [Praesident 1]>
+   <Ort Grächen>
+    <OrtSympathisanten Sympathisanten [Sympathisant 3]>
+    <OrtGewaehlte Exekutive [Fraktionschef 1, KommunaleExekutive 4]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 12]>
+    <OrtPraesidium Partei [Praesident 1]>
+   <Ort Lalden>
+    <OrtSympathisanten Sympathisanten [Sympathisant 1]>
+   <Ort Randa>
+    <OrtSympathisanten Sympathisanten [Sympathisant 2]>
+    <OrtGewaehlte Exekutive [Fraktionschef 1, KommunaleExekutive 1]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 3]>
+   <Ort Saas Almagell>
+    <OrtGewaehlte Exekutive [Fraktionschef 2, KommunaleExekutive 4]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 7]>
+    <OrtPraesidium Partei [Praesident 1]>
+   <Ort Saas Balen>
+    <OrtSympathisanten Sympathisanten [Sympathisant 2]>
+    <OrtGewaehlte Exekutive [Fraktionschef 3, KommunaleExekutive 3]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 15]>
+    <OrtPraesidium Partei [Praesident 1]>
+   <Ort Saas Fee>
+    <OrtGewaehlte Exekutive [Fraktionschef 1, KommunaleExekutive 3]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 28]>
+    <OrtPraesidium Partei [Praesident 1]>
+   <Ort Saas Grund>
+    <OrtSympathisanten Sympathisanten [Sympathisant 1]>
+    <OrtGewaehlte Exekutive [Fraktionschef 1, KommunaleExekutive 3]>
+    <OrtGewaehlte Judikative [tbd:Richter 1]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 20]>
+    <OrtPraesidium Partei [Mitglied 3, Praesident 1]>
+   <Ort St. Niklaus>
+    <OrtSympathisanten Sympathisanten [Sympathisant 3]>
+    <OrtGewaehlte Exekutive [Fraktionschef 1, KommunaleExekutive 6]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 39]>
+    <OrtPraesidium Partei [Praesident 1]>
+   <Ort Stalden>
+    <OrtSympathisanten Sympathisanten [Sympathisant 1]>
+    <OrtGewaehlte Exekutive [Fraktionschef 1, KommunaleExekutive 7]>
+    <OrtGewaehlte Judikative [tbd:Richter 1]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 48]>
+    <OrtPraesidium Partei [Praesident 1]>
+   <Ort Staldenried>
+    <OrtSympathisanten Sympathisanten [Sympathisant 1]>
+    <OrtGewaehlte Exekutive [KommunaleExekutive 3]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 16]>
+    <OrtPraesidium Partei [Praesident 2]>
+   <Ort Täsch>
+    <OrtSympathisanten Sympathisanten [Sympathisant 1]>
+    <OrtGewaehlte Exekutive [Fraktionschef 1]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 1]>
+   <Ort Törbel>
+    <OrtGewaehlte Exekutive [KommunaleExekutive 2]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 8]>
+    <OrtPraesidium Partei [Praesident 1]>
+   <Ort Visp>
+    <OrtSympathisanten Sympathisanten [Sympathisant 1]>
+    <OrtGewaehlte Exekutive [Fraktionschef 2, KommunaleExekutive 5]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 60]>
+    <OrtPraesidium Partei [Praesident 1]>
+   <Ort Visperterminen>
+    <OrtSympathisanten Sympathisanten [Sympathisant 1]>
+    <OrtGewaehlte Exekutive [Fraktionschef 1, KommunaleExekutive 2]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 7]>
+    <OrtPraesidium Partei [Praesident 1]>
+   <Ort Zeneggen>
+    <OrtSympathisanten Sympathisanten [Sympathisant 1]>
+    <OrtGewaehlte Exekutive [Fraktionschef 1]>
+   <Ort Zermatt>
+    <OrtGewaehlte Exekutive [Fraktionschef 3, KommunaleExekutive 3]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 37]>
+    <OrtPraesidium Partei [Praesident 1]>
+  <Region Westl. Raron>
+   <RegionGewaehlte Exekutive [RegionExekutive 3]>
+   <RegionPraesidium Partei [Praesident 1, tbd:Kassier 1, tbd:Vorstandsmitglied 3]>
+   <Ort Ausserberg>
+    <OrtSympathisanten Sympathisanten [Sympathisant 1]>
+    <OrtGewaehlte Exekutive [KommunaleExekutive 3]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 25]>
+    <OrtPraesidium Partei [Praesident 1]>
+   <Ort Blatten>
+    <OrtGewaehlte Exekutive [Fraktionschef 1, KommunaleExekutive 1]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 4]>
+    <OrtPraesidium Partei [Praesident 1]>
+   <Ort Bürchen>
+    <OrtSympathisanten Sympathisanten [Sympathisant 1]>
+    <OrtGewaehlte Exekutive [KommunaleExekutive 4]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 16]>
+    <OrtPraesidium Partei [Praesident 1]>
+   <Ort Eischoll>
+    <OrtSympathisanten Sympathisanten [Sympathisant 3]>
+    <OrtGewaehlte Exekutive [KommunaleExekutive 2]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 4]>
+    <OrtPraesidium Partei [Praesident 1]>
+   <Ort Ferden>
+    <OrtSympathisanten Sympathisanten [Sympathisant 1]>
+    <OrtGewaehlte Exekutive [Fraktionschef 1]>
+    <OrtGewaehlte Judikative [tbd:Richter 1]>
+    <OrtPraesidium Partei [Praesident 1]>
+   <Ort Kippel>
+    <OrtSympathisanten Sympathisanten [Sympathisant 2]>
+    <OrtGewaehlte Exekutive [Fraktionschef 1, KommunaleExekutive 3]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 9]>
+    <OrtPraesidium Partei [Praesident 1]>
+   <Ort Niedergesteln>
+    <OrtSympathisanten Sympathisanten [Sympathisant 1]>
+    <OrtGewaehlte Exekutive [Fraktionschef 1, KommunaleExekutive 3]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 11]>
+    <OrtPraesidium Partei [Praesident 1]>
+   <Ort Raron>
+    <OrtSympathisanten Sympathisanten [Sympathisant 1]>
+    <OrtArbeitsgruppe Burgergemeinde [tbd:Burgerrat 1]>
+    <OrtArbeitsgruppe Juduikative [tbd:Richter 1]>
+    <OrtGewaehlte Exekutive [Fraktionschef 1, KommunaleExekutive 6]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 44]>
+    <OrtPraesidium Partei [Mitglied 1, Praesident 2]>
+   <Ort Steg-Hohtenn>
+    <OrtArbeitsgruppe Burgergemeinde [tbd:Burgerrat 1]>
+    <OrtGewaehlte Exekutive [Fraktionschef 3, KommunaleExekutive 2]>
+    <OrtGewaehlte Judikative [tbd:Richter 1]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 36]>
+    <OrtPraesidium Partei [Adressverwalter 1, Praesident 1]>
+   <Ort Unterbäch>
+    <OrtSympathisanten Sympathisanten [Sympathisant 2]>
+    <OrtGewaehlte Exekutive [Fraktionschef 2, KommunaleExekutive 2]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 3]>
+    <OrtPraesidium Partei [Praesident 1]>
+   <Ort Wiler>
+    <OrtSympathisanten Sympathisanten [Sympathisant 1]>
+    <OrtGewaehlte Exekutive [Fraktionschef 2, KommunaleExekutive 1]>
+    <OrtGewaehlte Judikative [tbd:Richter 1, tbd:Vizerichter 1]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 4]>
+    <OrtPraesidium Partei [Praesident 1]>

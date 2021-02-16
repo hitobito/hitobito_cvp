@@ -1,0 +1,8 @@
+#!/usr/bin/env bash
+# asdf-plugin: ruby 2.2.2
+# asdf-plugin: ruby 2.3.1
+# asdf-plugin: ruby 2.5.3
+# asdf-plugin: ruby 2.4.5
+# asdf-plugin: ruby 2.5.5
+# asdf-plugin: ruby 2.6.2
+exec /home/ama/.asdf/bin/asdf exec "spring" "$@"
