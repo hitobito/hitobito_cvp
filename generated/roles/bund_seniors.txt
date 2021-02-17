@@ -1,29 +1,6 @@
 <Bund CVP Schweiz>
  <Vereinigung 60+>
-  <VereinigungArbeitsgruppe Kantonale Verantwortliche>
-   <VereinigungArbeitsgruppe AI [tbd:Kontaktperson 3]>
-   <VereinigungArbeitsgruppe AR [tbd:Kontaktperson 3]>
-   <VereinigungArbeitsgruppe BE [tbd:Kontaktperson 2]>
-   <VereinigungArbeitsgruppe BL [tbd:Kontaktperson 1]>
-   <VereinigungArbeitsgruppe BS [tbd:Kontaktperson 1]>
-   <VereinigungArbeitsgruppe FR [tbd:Kontaktperson 2]>
-   <VereinigungArbeitsgruppe GL [tbd:Kontaktperson 1]>
-   <VereinigungArbeitsgruppe GR [tbd:Kontaktperson 2]>
-   <VereinigungArbeitsgruppe JU [tbd:Kontaktperson 1]>
-   <VereinigungArbeitsgruppe LU [tbd:Kontaktperson 1]>
-   <VereinigungArbeitsgruppe NW [tbd:Kontaktperson 2]>
-   <VereinigungArbeitsgruppe OW [tbd:Kontaktperson 1]>
-   <VereinigungArbeitsgruppe SG [tbd:Kontaktperson 3]>
-   <VereinigungArbeitsgruppe SH [tbd:Kontaktperson 1]>
-   <VereinigungArbeitsgruppe SO [tbd:Kontaktperson 2]>
-   <VereinigungArbeitsgruppe SZ [tbd:Kontaktperson 2]>
-   <VereinigungArbeitsgruppe TG [tbd:Kontaktperson 1]>
-   <VereinigungArbeitsgruppe UR [tbd:Kontaktperson 1]>
-   <VereinigungArbeitsgruppe VD [tbd:Kontaktperson 1]>
-   <VereinigungArbeitsgruppe VS-CSP Oberwallis [tbd:Kontaktperson 2]>
-   <VereinigungArbeitsgruppe VS-CVP Oberwallis [tbd:Kontaktperson 2]>
-   <VereinigungArbeitsgruppe ZG [tbd:Kontaktperson 2]>
-   <VereinigungArbeitsgruppe ZH [tbd:Kontaktperson 1]>
+  <VereinigungExterneKontakte ExterneKontakte [Kontakt 38]>
   <VereinigungPraesidium Vorstand [Mitglied 7, Praesident 3]>
   <Kanton 60+ AG>
    <KantonMitglieder Mitgliedschaften [Mitglied 261]>
@@ -44,6 +21,7 @@
   <Kanton 60+ GR>
    <KantonMitglieder Mitgliedschaften [Mitglied 391]>
   <Kanton 60+ LU>
+   <KantonMitglieder Mitglieder [Mitglied 12]>
    <KantonExterneKontakte Newsletter [Kontakt 679]>
    <Region Wahlkreis Entlebuch>
     <RegionMitglieder Mitgliedschaften [Mitglied 12]>
@@ -55,7 +33,6 @@
     <RegionSympathisanten Sympathisanten [Sympathisant 61]>
     <RegionMitglieder Mitgliedschaften [Mitglied 591]>
    <Region Wahlkreis Sursee>
-    <RegionArbeitsgruppe Seniorenrat [tbd:Mitglied 12]>
     <RegionMitglieder Mitgliedschaften [Mitglied 693]>
    <Region Wahlkreis Willisau>
     <RegionMitglieder Mitgliedschaften [Mitglied 289]>
@@ -92,4 +69,6 @@
    <KantonMitglieder Mitgliedschaften [Mitglied 156]>
   <Kanton 60+ ZH>
    <KantonMitglieder Mitgliedschaften [Mitglied 78]>
-  <Kanton Weitere Funktionen [tbd:Betreuung Homepage 1, tbd:Revisor 2, tbd:Sekretär 1, tbd:Sekretär Kantonalpartei/Vereinigung 1]>
+  <Kanton Weitere Funktionen>
+   <KantonParteigremium Parteigremium [Mitglied 2]>
+   <KantonSekretariat Sekretariat [Leitung 2, Mitarbeiter 1]>

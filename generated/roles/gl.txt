@@ -1,15 +1,18 @@
 <Bund CVP Schweiz>
- <BundGewaehlte Departement Bundesrat Nr. 1 [Bundesrat 5, tbd:Pers. Mitarbeiter Bundesrat 3]>
- <BundGewaehlte Nationalrat [Nationalrat 126, tbd:Nationalrat Partner 12]>
- <BundGewaehlte Ständerat [Staenderat 47, tbd:Ständerat Partner 2]>
+ <BundArbeitsgruppe Arbeitsgruppe [Mitglied 5]>
+ <BundGewaehlte Departement Bundesrat Nr. 1 [Bundesrat 5]>
+ <BundGewaehlte Nationalrat [Nationalrat 138]>
+ <BundGewaehlte Ständerat [Staenderat 47]>
  <Kanton CVP GL>
   <KantonSympathisanten Sympathisanten [Sympathisant 2]>
-  <KantonArbeitsgruppe Rechnung Sektionen [tbd:Empfänger 2]>
+  <KantonSekretariat Sekretariat [Leitung 1, Mitarbeiter 2]>
+  <KantonArbeitsgruppe Arbeitsgruppe [Mitglied 1]>
+  <KantonArbeitsgruppe Rechnung Sektionen [Mitglied 2]>
   <KantonGewaehlte Regierungsrat [KantonaleExekutive 1]>
-  <KantonGewaehlte Judikative [Staatsanwaltschaft 1, tbd:Richter 6]>
+  <KantonGewaehlte Judikative [MitgliedKantonalesGerichtErsteInstanz 6, Staatsanwaltschaft 1]>
   <KantonGewaehlte Legislative [KantonaleLegislative 41]>
   <KantonMitglieder Mitgliedschaften [Mitglied 4]>
-  <KantonPraesidium Partei [Praesident 2, tbd:Ansprechperson Finanzen 2, tbd:Empfänger Rechnung Jahresbeitrag CVP CH 1, tbd:Empfänger Umzugsmeldung 1, tbd:Kassier 1, tbd:OM Ansprechperson 2, tbd:Sekretär Kantonalpartei/Vereinigung 1]>
+  <KantonPraesidium Partei [Kassier 2, Mitglied 2, Praesident 2]>
   <Ort Glarus Mitte>
    <OrtSympathisanten Sympathisanten [Sympathisant 42]>
    <OrtMitglieder Mitgliedschaften [Mitglied 62]>

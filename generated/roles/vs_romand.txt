@@ -1,34 +1,39 @@
 <Bund CVP Schweiz>
- <BundGewaehlte Departement Bundesrat Nr. 1 [Bundesrat 5, tbd:Pers. Mitarbeiter Bundesrat 3]>
- <BundGewaehlte Nationalrat [Nationalrat 126, tbd:Nationalrat Partner 12]>
- <BundGewaehlte Ständerat [Staenderat 47, tbd:Ständerat Partner 2]>
+ <BundArbeitsgruppe Arbeitsgruppe [Mitglied 5]>
+ <BundGewaehlte Departement Bundesrat Nr. 1 [Bundesrat 5]>
+ <BundGewaehlte Nationalrat [Nationalrat 141]>
+ <BundGewaehlte Ständerat [Staenderat 48]>
  <Kanton CVP VS. Romand>
   <KantonSympathisanten Sympathisanten [Sympathisant 2]>
+  <KantonParteigremium Parteigremium [Mitglied 14]>
+  <KantonPraesidium Praesidium [Kassier 2, Mitglied 121, Vizepraesident 12]>
+  <KantonDelegierte Delegierte [Delegierte 4, Ersatzdelegierte 49]>
+  <KantonGewaehlte Gewaehlte [Staatsanwaltschaft 5, WeitereMandate 49]>
+  <KantonSekretariat Sekretariat [Mitarbeiter 3]>
+  <KantonArbeitsgruppe Arbeitsgruppe [Praesident 5]>
   <KantonArbeitsgruppe Bureau [Mitglied 13]>
-  <KantonArbeitsgruppe Candidats à la constituante [tbd:Kandidat 60]>
-  <KantonArbeitsgruppe Candidats à la députation [tbd:Kantonsrat 44, tbd:Kantonsrat Stellvertreter 39]>
-  <KantonArbeitsgruppe Candidats élections communales 2016 [tbd:Kandidat 220]>
-   <KantonArbeitsgruppe Candidature Présidence [tbd:Kandidat 10]>
-   <KantonArbeitsgruppe Candidature Vice-Présidence [tbd:Kandidat 12]>
-   <KantonArbeitsgruppe Candidature conseiller général [tbd:Kandidat 206]>
-  <KantonArbeitsgruppe Candidats élections communales 2020 [tbd:Kandidat 195]>
-   <KantonArbeitsgruppe Candidature Vice-Présidence [tbd:Kandidat 2]>
-   <KantonArbeitsgruppe Candidature conseil bourgeoisial [tbd:Kandidat 15]>
-   <KantonArbeitsgruppe Candidature conseiller général [tbd:Kandidat 65]>
-   <KantonArbeitsgruppe Candidature juge [tbd:Kandidat 29]>
-   <KantonArbeitsgruppe Candidature vice-juge [tbd:Kandidat 23]>
-   <KantonArbeitsgruppe Cantidature Présidence [tbd:Kandidat 7]>
+  <KantonArbeitsgruppe Candidats à la constituante [Mitglied 60]>
+  <KantonArbeitsgruppe Candidats élections communales 2016 [Mitglied 220]>
+   <KantonArbeitsgruppe Candidature Présidence [Mitglied 10]>
+   <KantonArbeitsgruppe Candidature Vice-Présidence [Mitglied 12]>
+   <KantonArbeitsgruppe Candidature conseiller général [Mitglied 206]>
+  <KantonArbeitsgruppe Candidats élections communales 2020 [Mitglied 195]>
+   <KantonArbeitsgruppe Candidature Vice-Présidence [Mitglied 2]>
+   <KantonArbeitsgruppe Candidature conseil bourgeoisial [Mitglied 15]>
+   <KantonArbeitsgruppe Candidature conseiller général [Mitglied 65]>
+   <KantonArbeitsgruppe Candidature juge [Mitglied 29]>
+   <KantonArbeitsgruppe Candidature vice-juge [Mitglied 23]>
+   <KantonArbeitsgruppe Cantidature Présidence [Mitglied 7]>
   <KantonArbeitsgruppe CoPoVr [Mitglied 19]>
   <KantonArbeitsgruppe Commission Energie [Mitglied 15, Praesident 2]>
   <KantonArbeitsgruppe Commission Famille [Mitglied 9, Praesident 2]>
   <KantonArbeitsgruppe Commission électorale [Mitglied 9, Praesident 1]>
-  <KantonArbeitsgruppe Communiqué [tbd:Empfänger 26]>
+  <KantonArbeitsgruppe Communiqué [Mitglied 26]>
   <KantonArbeitsgruppe Conférence élargie des groupes (CEG) [Mitglied 6]>
   <KantonArbeitsgruppe Conseil de parti>
    <KantonArbeitsgruppe Autorités [Mitglied 23]>
    <KantonArbeitsgruppe Comité Exécutif [Mitglied 42]>
    <KantonArbeitsgruppe Conthey [Mitglied 16]>
-   <KantonArbeitsgruppe Délégués [tbd:Delegierter 4]>
    <KantonArbeitsgruppe Entremont [Mitglied 16]>
    <KantonArbeitsgruppe Hérens [Mitglied 10]>
    <KantonArbeitsgruppe JDC [Mitglied 13]>
@@ -38,16 +43,16 @@
    <KantonArbeitsgruppe Sion [Mitglied 29]>
    <KantonArbeitsgruppe St. Maurice [Mitglied 11]>
   <KantonArbeitsgruppe Ehemalige Beamte [Mitglied 8]>
-  <KantonArbeitsgruppe Übrige Funktionen [Praesident 10, tbd:Ansprechperson Finanzen 2, tbd:Botschafter 9, tbd:Comité Exécutif 14, tbd:Empfänger Rechnung Jahresbeitrag CVP CH 1, tbd:Nationalrat 3, tbd:Newsletter 540, tbd:OM Ansprechperson 1, tbd:Staatsanwalt 5, tbd:Ständerat 1, tbd:Vorstandsmitglied 121, tbd:administrativer Sekretär 2]>
+  <KantonArbeitsgruppe Übrige Funktionen [Mitglied 550, Praesident 10]>
   <KantonExterneKontakte Newsletter [Kontakt 2206]>
-  <KantonGewaehlte Regierungsrat [KantonaleExekutive 13, tbd:Präsident 5, tbd:Vizepräsident 10]>
-  <KantonGewaehlte Judikative [tbd:Ersatzrichter 2, tbd:Richter 2]>
-  <KantonGewaehlte Legislative [KantonaleLegislative 103, tbd:Ersatzmitglied 49, tbd:Suppleant 30, tbd:Vizepräsident 2]>
+  <KantonGewaehlte Regierungsrat [KantonaleExekutive 13]>
+  <KantonGewaehlte Judikative [MitgliedKantonalesGerichtErsteInstanz 4]>
+  <KantonGewaehlte Legislative [KantonaleLegislative 147, WeitereMandate 30]>
   <KantonMitglieder Mitgliedschaften [Mitglied 3745]>
-  <KantonPraesidium Partei [tbd:Zuzüger 29]>
+  <KantonPraesidium Partei [Mitglied 29]>
   <Region Conthey>
    <RegionMitglieder Mitgliedschaften [Mitglied 1]>
-   <RegionPraesidium Partei [Praesident 1, tbd:Vizepräfekt 1]>
+   <RegionPraesidium Partei [Praesident 1]>
    <Ort Ardon>
     <OrtGewaehlte Exekutive [Fraktionschef 2]>
     <OrtMitglieder Mitgliedschaften [Mitglied 52]>
@@ -69,7 +74,7 @@
     <OrtPraesidium Partei [Praesident 2]>
   <Region Entremont>
    <RegionMitglieder Mitgliedschaften [Mitglied 5]>
-   <RegionPraesidium Partei [Praesident 3, tbd:Präfekt 1, tbd:Vizepräfekt 1]>
+   <RegionPraesidium Partei [Praesident 3]>
    <Ort Bourg-St-Pierre>
     <OrtMitglieder Mitgliedschaften [Mitglied 1]>
    <Ort Liddes>
@@ -86,12 +91,13 @@
     <OrtMitglieder Mitgliedschaften [Mitglied 24]>
     <OrtPraesidium Partei [Adressverwalter 5, Praesident 4]>
    <Ort Val de Bagnes>
-    <OrtArbeitsgruppe Exekutiv [tbd:Mitglied 2, tbd:Präsident 2, tbd:Vizepräsident 4]>
-    <OrtMitglieder Mitgliedschaften [Mitglied 479]>
+    <OrtPraesidium Praesidium [Vizepraesident 4]>
+    <OrtArbeitsgruppe Exekutiv [Praesident 2]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 481]>
     <OrtPraesidium Partei [Adressverwalter 5, Praesident 10]>
   <Region Hérens>
    <RegionMitglieder Mitgliedschaften [Mitglied 4]>
-   <RegionPraesidium Partei [Praesident 3, tbd:Präfekt 1]>
+   <RegionPraesidium Partei [Praesident 3]>
    <Ort Ayent>
     <OrtMitglieder Mitgliedschaften [Mitglied 54]>
     <OrtPraesidium Partei [Adressverwalter 2, Praesident 3]>
@@ -117,7 +123,7 @@
     <OrtPraesidium Partei [Adressverwalter 1, Praesident 2]>
   <Region Martigny>
    <RegionMitglieder Mitgliedschaften [Mitglied 4]>
-   <RegionPraesidium Partei [Praesident 3, tbd:Vizepräfekt 1]>
+   <RegionPraesidium Partei [Praesident 3]>
    <Ort Bovernier>
     <OrtGewaehlte Exekutive [Fraktionschef 1]>
     <OrtMitglieder Mitgliedschaften [Mitglied 40]>
@@ -159,7 +165,7 @@
     <OrtMitglieder Mitgliedschaften [Mitglied 2]>
   <Region Monthey>
    <RegionMitglieder Mitgliedschaften [Mitglied 57]>
-   <RegionPraesidium Partei [Praesident 1, tbd:Präfekt 1]>
+   <RegionPraesidium Partei [Praesident 1]>
    <Ort Champery>
     <OrtGewaehlte Exekutive [Fraktionschef 1]>
     <OrtMitglieder Mitgliedschaften [Mitglied 15]>
@@ -195,7 +201,7 @@
     <OrtMitglieder Mitgliedschaften [Mitglied 12]>
     <OrtPraesidium Partei [Praesident 1]>
   <Region Sierre>
-   <RegionPraesidium Partei [Praesident 4, tbd:Kassier 1, tbd:Präfekt 1]>
+   <RegionPraesidium Partei [Mitglied 1, Praesident 4]>
    <Ort Anniviers>
     <OrtGewaehlte Exekutive [Fraktionschef 1]>
     <OrtMitglieder Mitgliedschaften [Mitglied 146]>
@@ -228,11 +234,9 @@
     <OrtMitglieder Mitgliedschaften [Mitglied 195]>
     <OrtPraesidium Partei [Adressverwalter 1, Praesident 2]>
    <Ort St-Léonard>
-    <OrtArbeitsgruppe Anciens élus [tbd:Mitglied 13]>
-    <OrtArbeitsgruppe Commissions [tbd:Mitglied 16]>
     <OrtGewaehlte Elus [KommunaleExekutive 4]>
     <OrtGewaehlte Exekutive [Fraktionschef 1]>
-    <OrtMitglieder Mitgliedschaften [Mitglied 130]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 159]>
     <OrtPraesidium Partei [Adressverwalter 2, Praesident 4]>
    <Ort Venthone>
     <OrtSympathisanten Sympathisanten [Sympathisant 1]>
@@ -246,7 +250,7 @@
     <OrtPraesidium Partei [Praesident 4]>
   <Region Sion>
    <RegionMitglieder Mitgliedschaften [Mitglied 10]>
-   <RegionPraesidium Partei [Praesident 4, tbd:Präfekt 1, tbd:Vizepräfekt 1]>
+   <RegionPraesidium Partei [Praesident 4]>
    <Ort Arbaz>
     <OrtGewaehlte Exekutive [Fraktionschef 1]>
     <OrtMitglieder Mitgliedschaften [Mitglied 13]>
@@ -272,7 +276,7 @@
     <OrtPraesidium Partei [Praesident 1]>
   <Region St. Maurice>
    <RegionMitglieder Mitgliedschaften [Mitglied 5]>
-   <RegionPraesidium Partei [Praesident 1, tbd:Präfekt 1]>
+   <RegionPraesidium Partei [Praesident 1]>
    <Ort Collonges>
     <OrtGewaehlte Exekutive [Fraktionschef 1]>
     <OrtMitglieder Mitgliedschaften [Mitglied 7]>

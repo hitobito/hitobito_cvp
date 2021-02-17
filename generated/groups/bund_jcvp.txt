@@ -1,43 +1,49 @@
 <Bund id=1, label=CVP Schweiz, parent_id=>
  <Vereinigung id=2, label=JCVP, parent_id=1>
+  <VereinigungSekretariat id=40432, label=Sekretariat, parent_id=2>
+  <VereinigungDelegierte id=40433, label=Delegierte, parent_id=2>
   <VereinigungArbeitsgruppe id=234, label=Delegiertenversammlung, parent_id=2>
   <VereinigungExterneKontakte id=14620, label=JCVPSchweiz, parent_id=2>
-   <VereinigungExterneKontakte id=39412, label=Medienverteiler, parent_id=14620>
-   <VereinigungExterneKontakte id=39411, label=Newsletter, parent_id=14620>
   <VereinigungPraesidium id=235, label=Parteileitung, parent_id=2>
   <Kanton id=236, label=JCVP AG, parent_id=2>
    <KantonMitglieder id=36463, label=Mitgliedschaften, parent_id=236>
   <Kanton id=237, label=JCVP AI, parent_id=2>
+   <KantonExterneKontakte id=40473, label=ExterneKontakte, parent_id=237>
   <Kanton id=238, label=JCVP BE, parent_id=2>
-   <KantonSympathisanten id=40423, label=Sympathisanten, parent_id=238>
+   <KantonSympathisanten id=40481, label=Sympathisanten, parent_id=238>
    <KantonMitglieder id=36267, label=Mitgliedschaften, parent_id=238>
   <Kanton id=239, label=JCVP BL, parent_id=2>
-   <KantonSympathisanten id=40424, label=Sympathisanten, parent_id=239>
+   <KantonSympathisanten id=40496, label=Sympathisanten, parent_id=239>
+   <KantonExterneKontakte id=40503, label=ExterneKontakte, parent_id=239>
    <KantonMitglieder id=36565, label=Mitgliedschaften, parent_id=239>
   <Kanton id=240, label=JCVP BS, parent_id=2>
-   <KantonSympathisanten id=40425, label=Sympathisanten, parent_id=240>
+   <KantonSympathisanten id=40511, label=Sympathisanten, parent_id=240>
    <KantonMitglieder id=36673, label=Mitgliedschaften, parent_id=240>
   <Kanton id=241, label=JCVP FR, parent_id=2>
-   <KantonSympathisanten id=40426, label=Sympathisanten, parent_id=241>
+   <KantonSympathisanten id=40526, label=Sympathisanten, parent_id=241>
    <KantonMitglieder id=36658, label=Mitgliedschaften, parent_id=241>
   <Kanton id=38742, label=JCVP GE, parent_id=2>
-   <KantonSympathisanten id=40427, label=Sympathisanten, parent_id=38742>
+   <KantonSympathisanten id=40541, label=Sympathisanten, parent_id=38742>
    <KantonMitglieder id=38744, label=Mitgliedschaften, parent_id=38742>
   <Kanton id=243, label=JCVP GL, parent_id=2>
-   <KantonSympathisanten id=40428, label=Sympathisanten, parent_id=243>
+   <KantonSympathisanten id=40556, label=Sympathisanten, parent_id=243>
    <KantonMitglieder id=39699, label=Mitgliedschaften, parent_id=243>
   <Kanton id=244, label=JCVP GR, parent_id=2>
-   <KantonSympathisanten id=40429, label=Sympathisanten, parent_id=244>
-   <KantonArbeitsgruppe id=690, label=JCVP Surselva, parent_id=244>
+   <KantonSympathisanten id=40571, label=Sympathisanten, parent_id=244>
+   <KantonParteigremium id=40572, label=Parteigremium, parent_id=244>
+   <KantonPraesidium id=40573, label=Praesidium, parent_id=244>
+   <KantonSekretariat id=40576, label=Sekretariat, parent_id=244>
+   <KantonExterneKontakte id=40578, label=ExterneKontakte, parent_id=244>
    <KantonArbeitsgruppe id=36321, label=Verschiedene Funktionen, parent_id=244>
    <KantonMitglieder id=36316, label=Mitgliedschaften, parent_id=244>
    <KantonPraesidium id=39062, label=Vorstand, parent_id=244>
   <Kanton id=38800, label=JCVP JU, parent_id=2>
-   <KantonSympathisanten id=40430, label=Sympathisanten, parent_id=38800>
+   <KantonSympathisanten id=40586, label=Sympathisanten, parent_id=38800>
+   <KantonPraesidium id=40588, label=Praesidium, parent_id=38800>
    <KantonArbeitsgruppe id=38801, label=Funktion, parent_id=38800>
    <KantonMitglieder id=38802, label=Mitgliedschaften, parent_id=38800>
   <Kanton id=246, label=JCVP LU, parent_id=2>
-   <KantonSympathisanten id=40431, label=Sympathisanten, parent_id=246>
+   <KantonSympathisanten id=40601, label=Sympathisanten, parent_id=246>
    <KantonArbeitsgruppe id=695, label=Info, parent_id=246>
    <KantonArbeitsgruppe id=693, label=JCVP Wahlkreis Luzern-Land, parent_id=246>
     <KantonArbeitsgruppe id=2365, label=Kriens, parent_id=693>
@@ -53,38 +59,48 @@
   <Kanton id=40378, label=JCVP OW, parent_id=2>
    <KantonMitglieder id=40380, label=Mitgliedschaften, parent_id=40378>
   <Kanton id=258, label=JCVP Oberwallis, parent_id=2>
-   <KantonSympathisanten id=40435, label=Sympathisanten, parent_id=258>
+   <KantonSympathisanten id=40661, label=Sympathisanten, parent_id=258>
    <KantonMitglieder id=36537, label=Mitgliedschaften, parent_id=258>
   <Kanton id=250, label=JCVP SG, parent_id=2>
-   <KantonSympathisanten id=40436, label=Sympathisanten, parent_id=250>
+   <KantonSympathisanten id=40676, label=Sympathisanten, parent_id=250>
+   <KantonPraesidium id=40678, label=Praesidium, parent_id=250>
    <KantonArbeitsgruppe id=37044, label=Alte Funktionen, parent_id=250>
    <KantonExterneKontakte id=39234, label=Newsletter, parent_id=250>
    <KantonMitglieder id=37031, label=Mitgliedschaften, parent_id=250>
    <KantonPraesidium id=35770, label=Parteileitung, parent_id=250>
    <KantonPraesidium id=35769, label=Parteivorstand, parent_id=250>
   <Kanton id=251, label=JCVP SH, parent_id=2>
+   <KantonSympathisanten id=40691, label=Sympathisanten, parent_id=251>
+   <KantonPraesidium id=40693, label=Praesidium, parent_id=251>
+   <KantonMitglieder id=40697, label=Mitglieder, parent_id=251>
   <Kanton id=252, label=JCVP SO, parent_id=2>
-   <KantonSympathisanten id=40438, label=Sympathisanten, parent_id=252>
+   <KantonSympathisanten id=40706, label=Sympathisanten, parent_id=252>
    <KantonExterneKontakte id=39287, label=Newsletter, parent_id=252>
    <KantonMitglieder id=37589, label=Mitgliedschaften, parent_id=252>
   <Kanton id=253, label=JCVP SZ, parent_id=2>
-   <KantonSympathisanten id=40439, label=Sympathisanten, parent_id=253>
+   <KantonSympathisanten id=40721, label=Sympathisanten, parent_id=253>
    <KantonMitglieder id=36367, label=Mitgliedschaften, parent_id=253>
   <Kanton id=254, label=JCVP TG, parent_id=2>
-   <KantonSympathisanten id=40440, label=Sympathisanten, parent_id=254>
-   <KantonArbeitsgruppe id=37383, label=Gönner, parent_id=254>
+   <KantonSympathisanten id=40736, label=Sympathisanten, parent_id=254>
+   <KantonSekretariat id=40741, label=Sekretariat, parent_id=254>
+   <KantonExterneKontakte id=37383, label=Gönner, parent_id=254>
    <KantonMitglieder id=37001, label=Mitgliedschaften, parent_id=254>
    <KantonPraesidium id=37000, label=Vorstand, parent_id=254>
   <Kanton id=255, label=JCVP TI, parent_id=2>
+   <KantonSympathisanten id=40750, label=Sympathisanten, parent_id=255>
+   <KantonPraesidium id=40752, label=Praesidium, parent_id=255>
+   <KantonMitglieder id=40756, label=Mitglieder, parent_id=255>
   <Kanton id=256, label=JCVP UR, parent_id=2>
    <KantonMitglieder id=36117, label=Mitgliedschaften, parent_id=256>
   <Kanton id=257, label=JCVP VD, parent_id=2>
    <KantonArbeitsgruppe id=36210, label=Parti, parent_id=257>
   <Kanton id=259, label=JCVP VS-Romand, parent_id=2>
+   <KantonPraesidium id=40797, label=Praesidium, parent_id=259>
+   <KantonMitglieder id=40801, label=Mitglieder, parent_id=259>
   <Kanton id=39310, label=JCVP Valais romand, parent_id=2>
    <KantonMitglieder id=39312, label=Mitgliedschaften, parent_id=39310>
   <Kanton id=40413, label=JCVP ZG, parent_id=2>
    <KantonMitglieder id=40415, label=Mitgliedschaften, parent_id=40413>
   <Kanton id=261, label=JCVP ZH, parent_id=2>
-   <KantonSympathisanten id=40447, label=Sympathisanten, parent_id=261>
+   <KantonSympathisanten id=40840, label=Sympathisanten, parent_id=261>
    <KantonMitglieder id=36838, label=Mitgliedschaften, parent_id=261>
