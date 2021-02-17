@@ -1,12 +1,23 @@
 <Bund CVP Schweiz>
- <BundGewaehlte Departement Bundesrat Nr. 1 [Bundesrat 5, tbd:Pers. Mitarbeiter Bundesrat 3]>
- <BundGewaehlte Nationalrat [Nationalrat 126, tbd:Nationalrat Partner 12]>
- <BundGewaehlte Ständerat [Staenderat 47, tbd:Ständerat Partner 2]>
+ <BundArbeitsgruppe Arbeitsgruppe [Mitglied 5]>
+ <BundGewaehlte Departement Bundesrat Nr. 1 [Bundesrat 5]>
+ <BundGewaehlte Nationalrat [Nationalrat 155]>
+ <BundGewaehlte Ständerat [Staenderat 51]>
  <Kanton CVP LU>
-  <KantonSympathisanten Sympathisanten [Sympathisant 6]>
-  <KantonArbeitsgruppe 60+ [tbd:Ansprechperson Amt 7, tbd:Ansprechperson Ort 50]>
-  <KantonArbeitsgruppe DV Kt. Luzern [Gast 199, tbd:Delegierter Ortspartei 589, tbd:Delegierter Vereinigung 69, tbd:Delegierter von Amtes wegen 334]>
-  <KantonArbeitsgruppe Eidgenössische Delegierte [Mitglied 66, tbd:Ersatzmitglied 44]>
+  <KantonSympathisanten Sympathisanten [Sympathisant 20]>
+  <KantonPraesidium Praesidium [Mitglied 35]>
+  <KantonDelegierte Delegierte [Delegierte 772, DelegierteVonAmtesWegen 368, Ersatzdelegierte 53]>
+  <KantonGewaehlte Gewaehlte [MitgliedKantonalesGerichtErsteInstanz 1, WeitereMandate 64]>
+  <KantonSekretariat Sekretariat [Leitung 1]>
+  <KantonExterneKontakte ExterneKontakte [Kontakt 6, Medien 40, Spender 838]>
+  <KantonArbeitsgruppe Arbeitsgruppe [Mitglied 66, Praesident 10]>
+  <KantonArbeitsgruppe Jurist [Mitglied 333]>
+  <KantonArbeitsgruppe Einwohnerrat [Mitglied 88]>
+  <KantonArbeitsgruppe Gemeindammann [Mitglied 112]>
+  <KantonArbeitsgruppe Gemeinderat [Mitglied 467]>
+  <KantonArbeitsgruppe 60+ [Mitglied 57]>
+  <KantonArbeitsgruppe DV Kt. Luzern [Gast 199]>
+  <KantonArbeitsgruppe Eidgenössische Delegierte [Mitglied 66]>
   <KantonArbeitsgruppe KONKRET Wettbewerb>
    <KantonArbeitsgruppe 2013 Herbst [Mitglied 845]>
    <KantonArbeitsgruppe 2014 Frühling [Mitglied 204]>
@@ -16,7 +27,7 @@
   <KantonArbeitsgruppe LUGA>
    <KantonArbeitsgruppe 2014 [Mitglied 2291]>
    <KantonArbeitsgruppe 2018 [Mitglied 1189]>
-  <KantonArbeitsgruppe Medienmitteilungen CVP LU [tbd:Empfänger 3638]>
+  <KantonArbeitsgruppe Medienmitteilungen CVP LU [Mitglied 3638]>
   <KantonArbeitsgruppe Rechnung OP>
    <KantonArbeitsgruppe Wahlkreis Entlebuch>
     <KantonArbeitsgruppe Doppleschwand [Mitglied 1]>
@@ -106,505 +117,660 @@
     <KantonArbeitsgruppe Zell [Mitglied 1]>
   <KantonArbeitsgruppe Vereinigung/Kommission>
    <KantonArbeitsgruppe CDK>
-    <KantonArbeitsgruppe Newsletter CDK [tbd:Empfänger 52]>
+    <KantonArbeitsgruppe Newsletter CDK [Mitglied 52]>
    <KantonArbeitsgruppe LWK>
-    <KantonArbeitsgruppe Newsletter LWK [tbd:Empfänger 254]>
-   <KantonArbeitsgruppe Movimento [Mitglied 9, tbd:Sympathisant 14]>
-  <KantonArbeitsgruppe Verschiedene Funktionen [Praesident 3, tbd:Amtsrichter 1, tbd:Autor Leserbriefe 38, tbd:Bildung 62, tbd:Botschafter 3, tbd:Donatorenklub 275, tbd:Grossratskandidat 2007 92, tbd:Jurist 333, tbd:Kantonsratskandidat 2011 88, tbd:Kirchenrat 50, tbd:Klerus 58, tbd:Medien 40, tbd:Parteien 6, tbd:Regierungsstatthalter 4, tbd:Senioren 6, tbd:Senioren Kontaktperson 29, tbd:Spender Firmen 263, tbd:Spender privat 300, tbd:Staatspersonal 561]>
+    <KantonArbeitsgruppe Newsletter LWK [Mitglied 254]>
+   <KantonArbeitsgruppe Movimento [Mitglied 9]>
+  <KantonArbeitsgruppe Verschiedene Funktionen [Mitglied 902, Praesident 3]>
   <KantonArbeitsgruppe Zuger Messe>
    <KantonArbeitsgruppe 2014 [Mitglied 166]>
   <KantonArbeitsgruppe e. Kantonsrats-Wahlkreisgruppen [Mitglied 4]>
   <KantonArbeitsgruppe h. Vereinigungen gemäss Art. 36; [Mitglied 5]>
   <KantonArbeitsgruppe i. Parteisekretär [Mitglied 1]>
   <KantonExterneKontakte Newsletter CVP LU [Kontakt 4987]>
-  <KantonGewaehlte Regierungsrat [KantonaleExekutive 18, tbd:Gemeinderat 467]>
+  <KantonGewaehlte Regierungsrat [KantonaleExekutive 22]>
   <KantonGewaehlte Judikative>
-   <KantonGewaehlte Arbeitsgericht [tbd:Mitglied 2, tbd:Präsident 1]>
-   <KantonGewaehlte Bezirksgericht [tbd:Mitglied 15, tbd:Präsident 8]>
-   <KantonGewaehlte Kantonsgericht [MitgliedKantonalesGerichtErsteInstanz 3, tbd:Ersatzmitglied 9, tbd:Mitglied 31]>
-   <KantonGewaehlte Kriminalgericht [tbd:Mitglied 2, tbd:Präsident 1]>
+   <KantonGewaehlte Kantonsgericht [MitgliedKantonalesGerichtErsteInstanz 3]>
    <KantonGewaehlte Richterpool [MitgliedKantonalesGerichtErsteInstanz 4]>
-   <KantonGewaehlte Schlichtungsbehörde [tbd:Mitglied 2]>
-   <KantonGewaehlte Strafverfolgungsbehörde [tbd:Mitglied 16]>
-  <KantonGewaehlte Legislative [KantonaleLegislative 475]>
-  <KantonMitglieder Mitgliedschaften [Mitglied 10915]>
-  <KantonPraesidium Partei [Mitglied 436, Praesident 413, tbd:Ansprechperson Finanzen 1, tbd:Einwohnerrat 88, tbd:Empfänger Rechnung Jahresbeitrag CVP CH 1, tbd:Friedensrichter 4, tbd:Gemeindammann 112, tbd:Nationalrat 17, tbd:Plakatierer 65, tbd:Regierungsrat 4, tbd:Ressort Finanzen 3, tbd:Ressort Kommunikation 1, tbd:Ressort Wahlen 1, tbd:Sekretär Kantonalpartei/Vereinigung 1, tbd:Staatsschreiber 5, tbd:Ständerat 4, tbd:Zuzüger 29]>
+  <KantonGewaehlte Legislative [KantonaleLegislative 478]>
+  <KantonMitglieder Mitgliedschaften [Mitglied 10983]>
+  <KantonPraesidium Partei [Kassier 4, Mitglied 467, Praesident 413]>
   <Region Wahlkreis Entlebuch>
-   <RegionPraesidium Partei [Kassier 3, Mitglied 3, Praesident 2, tbd:Parteileitungsmitglied 13]>
+   <RegionPraesidium Partei [Kassier 3, Mitglied 16, Praesident 2]>
    <Ort Doppleschwand>
     <OrtSympathisanten Sympathisanten [Sympathisant 21]>
-    <OrtGewaehlte Exekutive [Fraktionschef 1, KommunaleExekutive 5, tbd:Gemeindammann 2, tbd:Gemeindeschreiber 2, tbd:Sozialvorsteher 1]>
+    <OrtArbeitsgruppe Arbeitsgruppe [Mitglied 2]>
+    <OrtGewaehlte Gewaehlte [MitgliedWeitereGemeindeKommissionen 4, Schulpflegekommission 5]>
+    <OrtGewaehlte Exekutive [Fraktionschef 1, KommunaleExekutive 7, MitgliedWeitereGemeindeKommissionen 3]>
     <OrtMitglieder Mitgliedschaften [Mitglied 22]>
-    <OrtPraesidium Partei [Adressverwalter 2, Kassier 1, Mitglied 7, Praesident 3, tbd:Bildungskommission 5, tbd:Plakatierer 2, tbd:Rechnungsprüfungskommission Mitgl. 4]>
+    <OrtPraesidium Partei [Adressverwalter 2, Kassier 1, Mitglied 7, Praesident 3]>
    <Ort Entlebuch>
     <OrtSympathisanten Sympathisanten [Sympathisant 292]>
-    <OrtGewaehlte Exekutive [Fraktionschef 1, KommunaleExekutive 6, tbd:Gemeindammann 1, tbd:Gemeindeschreiber 1]>
+    <OrtArbeitsgruppe Arbeitsgruppe [Mitglied 3]>
+    <OrtGewaehlte Gewaehlte [MitgliedWeitereGemeindeKommissionen 7, Schulpflegekommission 6]>
+    <OrtGewaehlte Exekutive [Fraktionschef 1, KommunaleExekutive 7, MitgliedWeitereGemeindeKommissionen 1]>
     <OrtMitglieder Mitgliedschaften [Mitglied 24]>
-    <OrtPraesidium Partei [Adressverwalter 2, Kassier 2, Mitglied 17, Praesident 4, tbd:Bildungskommission 6, tbd:Einbürgerungskommission 4, tbd:Plakatierer 1, tbd:Rechnungsprüfungskommission Mitgl. 3, tbd:Urnenbüro Mitgl. 2]>
+    <OrtPraesidium Partei [Adressverwalter 2, Kassier 2, Mitglied 17, Praesident 4]>
    <Ort Escholzmatt-Marbach>
     <OrtSympathisanten Sympathisanten [Sympathisant 140]>
-    <OrtGewaehlte Exekutive [Fraktionschef 3, KommunaleExekutive 6, tbd:Gemeindammann 1, tbd:Gemeindeschreiber 3]>
+    <OrtArbeitsgruppe Arbeitsgruppe [Mitglied 8]>
+    <OrtGewaehlte Gewaehlte [MitgliedWeitereGemeindeKommissionen 2, Schulpflegekommission 6]>
+    <OrtSekretariat Sekretariat [Webadministrator 1]>
+    <OrtGewaehlte Exekutive [Fraktionschef 3, KommunaleExekutive 7, MitgliedWeitereGemeindeKommissionen 3]>
     <OrtMitglieder Mitgliedschaften [Mitglied 26]>
-    <OrtPraesidium Partei [Adressverwalter 3, Kassier 1, Mitglied 22, Praesident 3, tbd:Bildungskommission 6, tbd:Einbürgerungskommission 1, tbd:Plakatierer 2, tbd:Rechnungsprüfungskommission Mitgl. 1, tbd:Urnenbüro Mitgl. 6, tbd:Webadministrator 1]>
+    <OrtPraesidium Partei [Adressverwalter 3, Kassier 1, Mitglied 22, Praesident 3]>
    <Ort Flühli>
     <OrtSympathisanten Sympathisanten [Sympathisant 46]>
-    <OrtGewaehlte Exekutive [Fraktionschef 1, KommunaleExekutive 4, tbd:Gemeindammann 1, tbd:Gemeindeschreiber 1]>
+    <OrtArbeitsgruppe Arbeitsgruppe [Mitglied 1]>
+    <OrtGewaehlte Gewaehlte [MitgliedWeitereGemeindeKommissionen 2, Schulpflegekommission 5]>
+    <OrtGewaehlte Exekutive [Fraktionschef 1, KommunaleExekutive 5, MitgliedWeitereGemeindeKommissionen 1]>
     <OrtMitglieder Mitgliedschaften [Mitglied 16]>
-    <OrtPraesidium Partei [Kassier 2, Mitglied 8, Praesident 2, tbd:Bildungskommission 5, tbd:Plakatierer 1, tbd:Rechnungsprüfungskommission Mitgl. 2]>
+    <OrtPraesidium Partei [Kassier 2, Mitglied 8, Praesident 2]>
    <Ort Hasle>
     <OrtSympathisanten Sympathisanten [Sympathisant 40]>
-    <OrtGewaehlte Exekutive [Fraktionschef 2, KommunaleExekutive 7, tbd:Gemeindeschreiber 1, tbd:Sozialvorsteher 2]>
+    <OrtGewaehlte Gewaehlte [MitgliedWeitereGemeindeKommissionen 3, Schulpflegekommission 3]>
+    <OrtSekretariat Sekretariat [Webadministrator 1]>
+    <OrtGewaehlte Exekutive [Fraktionschef 2, KommunaleExekutive 7, MitgliedWeitereGemeindeKommissionen 3]>
     <OrtMitglieder Mitgliedschaften [Mitglied 18]>
-    <OrtPraesidium Partei [Adressverwalter 2, Kassier 1, Mitglied 12, Praesident 1, tbd:Bildungskommission 3, tbd:Rechnungsprüfungskommission Mitgl. 3, tbd:Webadministrator 1]>
-   <Ort Newsletter [tbd:Empfänger 272]>
+    <OrtPraesidium Partei [Adressverwalter 2, Kassier 1, Mitglied 12, Praesident 1]>
+   <Ort Newsletter>
+    <OrtArbeitsgruppe Arbeitsgruppe [Mitglied 272]>
    <Ort Romoos>
     <OrtSympathisanten Sympathisanten [Sympathisant 40]>
-    <OrtGewaehlte Exekutive [Fraktionschef 1, KommunaleExekutive 6, tbd:Gemeindammann 1, tbd:Gemeindeschreiber 1, tbd:Sozialvorsteher 2]>
+    <OrtArbeitsgruppe Arbeitsgruppe [Mitglied 1]>
+    <OrtGewaehlte Gewaehlte [Schulpflegekommission 3]>
+    <OrtGewaehlte Exekutive [Fraktionschef 1, KommunaleExekutive 7, MitgliedWeitereGemeindeKommissionen 3]>
     <OrtMitglieder Mitgliedschaften [Mitglied 9]>
-    <OrtPraesidium Partei [Kassier 2, Mitglied 11, Praesident 1, tbd:Bildungskommission 3, tbd:Plakatierer 1]>
+    <OrtPraesidium Partei [Kassier 2, Mitglied 11, Praesident 1]>
    <Ort Schüpfheim>
     <OrtSympathisanten Sympathisanten [Sympathisant 99]>
-    <OrtGewaehlte Exekutive [Fraktionschef 2, KommunaleExekutive 7, tbd:Gemeindammann 1, tbd:Gemeindeschreiber 2, tbd:Sozialvorsteher 1]>
+    <OrtArbeitsgruppe Arbeitsgruppe [Mitglied 5]>
+    <OrtGewaehlte Gewaehlte [MitgliedWeitereGemeindeKommissionen 8, Schulpflegekommission 3]>
+    <OrtSekretariat Sekretariat [Webadministrator 1]>
+    <OrtGewaehlte Exekutive [Fraktionschef 2, KommunaleExekutive 8, MitgliedWeitereGemeindeKommissionen 3]>
     <OrtMitglieder Mitgliedschaften [Mitglied 56]>
-    <OrtPraesidium Partei [Adressverwalter 8, Kassier 2, Mitglied 19, Praesident 2, tbd:Bildungskommission 3, tbd:Einbürgerungskommission 6, tbd:Plakatierer 1, tbd:Rechnungsprüfungskommission Mitgl. 2, tbd:Urnenbüro Mitgl. 4, tbd:Webadministrator 1]>
+    <OrtPraesidium Partei [Adressverwalter 8, Kassier 2, Mitglied 19, Praesident 2]>
    <Ort Werthenstein>
     <OrtSympathisanten Sympathisanten [Sympathisant 73]>
-    <OrtGewaehlte Exekutive [Fraktionschef 1, KommunaleExekutive 3, tbd:Gemeindammann 1, tbd:Gemeindeschreiber 2]>
+    <OrtArbeitsgruppe Arbeitsgruppe [Mitglied 5]>
+    <OrtGewaehlte Gewaehlte [MitgliedWeitereGemeindeKommissionen 3, Schulpflegekommission 3]>
+    <OrtGewaehlte Exekutive [Fraktionschef 1, KommunaleExekutive 4, MitgliedWeitereGemeindeKommissionen 2]>
     <OrtMitglieder Mitgliedschaften [Mitglied 15]>
-    <OrtPraesidium Partei [Adressverwalter 1, Kassier 1, Mitglied 15, Praesident 2, tbd:Bildungskommission 3, tbd:Einbürgerungskommission 1, tbd:Plakatierer 2, tbd:Rechnungsprüfungskommission Mitgl. 2, tbd:Urnenbüro Mitgl. 3]>
+    <OrtPraesidium Partei [Adressverwalter 1, Kassier 1, Mitglied 15, Praesident 2]>
    <Ort Wolhusen>
     <OrtSympathisanten Sympathisanten [Sympathisant 105]>
-    <OrtGewaehlte Exekutive [KommunaleExekutive 6, tbd:Gemeindammann 1, tbd:Gemeindeschreiber 4]>
+    <OrtArbeitsgruppe Arbeitsgruppe [Mitglied 3]>
+    <OrtGewaehlte Gewaehlte [MitgliedWeitereGemeindeKommissionen 3, Schulpflegekommission 4]>
+    <OrtGewaehlte Exekutive [KommunaleExekutive 7, MitgliedWeitereGemeindeKommissionen 4]>
     <OrtMitglieder Mitgliedschaften [Mitglied 16]>
-    <OrtPraesidium Partei [Adressverwalter 4, Kassier 3, Mitglied 18, Praesident 2, tbd:Bildungskommission 4, tbd:Einbürgerungskommission 2, tbd:Plakatierer 1, tbd:Rechnungsprüfungskommission Mitgl. 1, tbd:Urnenbüro Mitgl. 2]>
+    <OrtPraesidium Partei [Adressverwalter 4, Kassier 3, Mitglied 18, Praesident 2]>
   <Region Wahlkreis Hochdorf>
-   <RegionPraesidium Partei [Kassier 2, Mitglied 5, Praesident 4, tbd:Parteileitungsmitglied 20]>
+   <RegionPraesidium Partei [Kassier 2, Mitglied 25, Praesident 4]>
    <Ort Aesch>
     <OrtSympathisanten Sympathisanten [Sympathisant 193]>
-    <OrtGewaehlte Exekutive [Fraktionschef 1, KommunaleExekutive 6, tbd:Gemeindammann 1, tbd:Gemeindeschreiber 3]>
+    <OrtArbeitsgruppe Arbeitsgruppe [Mitglied 1]>
+    <OrtGewaehlte Gewaehlte [MitgliedWeitereGemeindeKommissionen 1]>
+    <OrtGewaehlte Exekutive [Fraktionschef 1, KommunaleExekutive 7, MitgliedWeitereGemeindeKommissionen 3]>
     <OrtMitglieder Mitgliedschaften [Mitglied 1]>
-    <OrtPraesidium Partei [Kassier 3, Mitglied 7, Praesident 1, tbd:Plakatierer 1, tbd:Rechnungsprüfungskommission Mitgl. 1]>
+    <OrtPraesidium Partei [Kassier 3, Mitglied 7, Praesident 1]>
    <Ort Altwis>
     <OrtSympathisanten Sympathisanten [Sympathisant 21]>
-    <OrtGewaehlte Exekutive [Fraktionschef 1, KommunaleExekutive 3, tbd:Gemeindammann 1]>
+    <OrtArbeitsgruppe Arbeitsgruppe [Mitglied 1]>
+    <OrtGewaehlte Gewaehlte [Schulpflegekommission 1]>
+    <OrtGewaehlte Exekutive [Fraktionschef 1, KommunaleExekutive 4]>
     <OrtMitglieder Mitgliedschaften [Mitglied 9]>
-    <OrtPraesidium Partei [Kassier 2, Mitglied 7, Praesident 1, tbd:Bildungskommission 1, tbd:Plakatierer 1]>
+    <OrtPraesidium Partei [Kassier 2, Mitglied 7, Praesident 1]>
    <Ort Ballwil>
     <OrtSympathisanten Sympathisanten [Sympathisant 588]>
-    <OrtGewaehlte Exekutive [Fraktionschef 2, KommunaleExekutive 6, tbd:Gemeindammann 1, tbd:Gemeindeschreiber 2]>
+    <OrtArbeitsgruppe Arbeitsgruppe [Mitglied 6]>
+    <OrtGewaehlte Gewaehlte [MitgliedWeitereGemeindeKommissionen 4, Schulpflegekommission 3]>
+    <OrtGewaehlte Exekutive [Fraktionschef 2, KommunaleExekutive 7, MitgliedWeitereGemeindeKommissionen 2]>
     <OrtMitglieder Mitgliedschaften [Mitglied 9]>
-    <OrtPraesidium Partei [Adressverwalter 7, Kassier 2, Mitglied 11, Praesident 5, tbd:Bildungskommission 3, tbd:Einbürgerungskommission 1, tbd:Rechnungsprüfungskommission Mitgl. 3, tbd:Urnenbüro Mitgl. 6]>
+    <OrtPraesidium Partei [Adressverwalter 7, Kassier 2, Mitglied 11, Praesident 5]>
    <Ort Emmen>
     <OrtSympathisanten Sympathisanten [Sympathisant 532]>
-    <OrtArbeitsgruppe Donatoren [tbd:Kontakt 38]>
-    <OrtArbeitsgruppe Info-Mail [tbd:Empfänger 69]>
-    <OrtArbeitsgruppe Neuzuzüger>
-     <OrtArbeitsgruppe 2019 [tbd:Kontakt 307]>
+    <OrtArbeitsgruppe Arbeitsgruppe [Mitglied 5]>
+    <OrtGewaehlte Gewaehlte [MitgliedWeitereGemeindeKommissionen 7, Schulpflegekommission 3]>
+    <OrtExterneKontakte ExterneKontakte [Kontakt 345]>
+    <OrtArbeitsgruppe Info-Mail [Mitglied 69]>
     <OrtExterneKontakte Newsletter [Kontakt 96]>
     <OrtGewaehlte Exekutive [Fraktionschef 1, KommunaleExekutive 3]>
-    <OrtGewaehlte Legislative [tbd:Einwohnerrat 17]>
+    <OrtGewaehlte Legislative [KommunaleLegislative 17]>
     <OrtMitglieder Mitgliedschaften [Mitglied 154]>
-    <OrtPraesidium Partei [Adressverwalter 5, Kassier 2, Mitglied 18, Praesident 4, tbd:Bildungskommission 3, tbd:Einbürgerungskommission 3, tbd:Plakatierer 1, tbd:Rechnungsprüfungskommission Mitgl. 4, tbd:Urnenbüro Mitgl. 4]>
+    <OrtPraesidium Partei [Adressverwalter 5, Kassier 2, Mitglied 18, Praesident 4]>
    <Ort Ermensee>
     <OrtSympathisanten Sympathisanten [Sympathisant 45]>
-    <OrtGewaehlte Exekutive [KommunaleExekutive 3, tbd:Sozialvorsteher 1]>
+    <OrtArbeitsgruppe Arbeitsgruppe [Mitglied 5]>
+    <OrtGewaehlte Gewaehlte [MitgliedWeitereGemeindeKommissionen 9, Schulpflegekommission 2]>
+    <OrtSekretariat Sekretariat [Webadministrator 2]>
+    <OrtGewaehlte Exekutive [KommunaleExekutive 3, MitgliedWeitereGemeindeKommissionen 1]>
     <OrtMitglieder Mitgliedschaften [Mitglied 8]>
-    <OrtPraesidium Partei [Adressverwalter 1, Kassier 1, Mitglied 3, Praesident 1, tbd:Bildungskommission 2, tbd:Einbürgerungskommission 4, tbd:Rechnungsprüfungskommission Mitgl. 5, tbd:Urnenbüro Mitgl. 5, tbd:Webadministrator 2]>
+    <OrtPraesidium Partei [Adressverwalter 1, Kassier 1, Mitglied 3, Praesident 1]>
    <Ort Eschenbach>
     <OrtSympathisanten Sympathisanten [Sympathisant 291]>
-    <OrtGewaehlte Exekutive [Fraktionschef 1, KommunaleExekutive 5, tbd:Gemeindammann 2, tbd:Gemeindeschreiber 1, tbd:Sozialvorsteher 2]>
+    <OrtArbeitsgruppe Arbeitsgruppe [Mitglied 4]>
+    <OrtGewaehlte Gewaehlte [MitgliedWeitereGemeindeKommissionen 7, Schulpflegekommission 4]>
+    <OrtGewaehlte Exekutive [Fraktionschef 1, KommunaleExekutive 7, MitgliedWeitereGemeindeKommissionen 3]>
     <OrtMitglieder Mitgliedschaften [Mitglied 31]>
-    <OrtPraesidium Partei [Adressverwalter 7, Kassier 1, Mitglied 24, Praesident 3, tbd:Bildungskommission 4, tbd:Einbürgerungskommission 4, tbd:Plakatierer 4, tbd:Rechnungsprüfungskommission Mitgl. 3]>
+    <OrtPraesidium Partei [Adressverwalter 7, Kassier 1, Mitglied 24, Praesident 3]>
    <Ort Hitzkirch>
     <OrtSympathisanten Sympathisanten [Sympathisant 91]>
-    <OrtGewaehlte Exekutive [Fraktionschef 2, KommunaleExekutive 9, tbd:Gemeindammann 1, tbd:Gemeindeschreiber 2]>
+    <OrtArbeitsgruppe Arbeitsgruppe [Mitglied 8]>
+    <OrtGewaehlte Gewaehlte [MitgliedWeitereGemeindeKommissionen 14, Schulpflegekommission 5]>
+    <OrtSekretariat Sekretariat [Webadministrator 1]>
+    <OrtParteigremium Parteigremium [Mitglied 5]>
+    <OrtGewaehlte Exekutive [Fraktionschef 2, KommunaleExekutive 10, MitgliedWeitereGemeindeKommissionen 2]>
     <OrtMitglieder Mitgliedschaften [Mitglied 207]>
-    <OrtPraesidium Partei [Adressverwalter 3, Kassier 3, Mitglied 19, Praesident 3, tbd:Bildungskommission 5, tbd:Controllingkommission 5, tbd:Delegierter CVP Schweiz 1, tbd:Delegierter Kanton 10, tbd:Einbürgerungskommission 6, tbd:Friedensrichter 1, tbd:Ortsplanungskommission 2, tbd:Personalkommission 5, tbd:Plakatierer 2, tbd:Rechnungsprüfungskommission Mitgl. 5, tbd:Urnenbüro Mitgl. 6, tbd:Webadministrator 1]>
+    <OrtPraesidium Partei [Adressverwalter 3, Kassier 3, Mitglied 24, Praesident 3]>
    <Ort Hochdorf>
     <OrtSympathisanten Sympathisanten [Sympathisant 680]>
-    <OrtGewaehlte Exekutive [Fraktionschef 1, KommunaleExekutive 6, tbd:Gemeindammann 1, tbd:Gemeindeschreiber 2]>
+    <OrtArbeitsgruppe Arbeitsgruppe [Mitglied 13]>
+    <OrtGewaehlte Gewaehlte [MitgliedWeitereGemeindeKommissionen 29, Schulpflegekommission 6]>
+    <OrtSekretariat Sekretariat [Webadministrator 1]>
+    <OrtParteigremium Parteigremium [Mitglied 4]>
+    <OrtGewaehlte Exekutive [Fraktionschef 1, KommunaleExekutive 7, MitgliedWeitereGemeindeKommissionen 2]>
     <OrtMitglieder Mitgliedschaften [Mitglied 9]>
-    <OrtPraesidium Partei [Adressverwalter 17, Kassier 3, Mitglied 22, Praesident 3, tbd:AG Schulraumplanung 2, tbd:ARA Kommission 2, tbd:Bibliothekskommission 1, tbd:Bildungskommission 6, tbd:Bürgerrechtskommission 3, tbd:Controllingkommission 4, tbd:Delegierter 1, tbd:Delegierter CVP Schweiz 1, tbd:Delegierter Kanton 11, tbd:Delegierter von Amtes wegen 5, tbd:Einbürgerungskommission 1, tbd:Feuerwehrkommission 2, tbd:Friedhofkommission 2, tbd:Jugendkommission 1, tbd:Kantonsrat 2, tbd:Kulturkommission 3, tbd:Musikschulkommission 1, tbd:Personalfindungsgruppe 2, tbd:Plakatierer 3, tbd:Raumplanungskommission 3, tbd:Rechnungsprüfungskommission Mitgl. 3, tbd:Sportkommission 2, tbd:Umweltkommission 3, tbd:Urnenbüro Mitgl. 10, tbd:Verantwortlicher CVP 60+ 2, tbd:Webadministrator 1]>
+    <OrtPraesidium Partei [Adressverwalter 17, Kassier 3, Mitglied 26, Praesident 3]>
    <Ort Hohenrain>
     <OrtSympathisanten Sympathisanten [Sympathisant 119]>
-    <OrtGewaehlte Exekutive [Fraktionschef 1, KommunaleExekutive 4, tbd:Gemeindeschreiber 2, tbd:Sozialvorsteher 1]>
+    <OrtArbeitsgruppe Arbeitsgruppe [Mitglied 3]>
+    <OrtGewaehlte Gewaehlte [Rechnungspruefungskommission 3, Schulpflegekommission 6]>
+    <OrtExterneKontakte ExterneKontakte [Kontakt 421]>
+    <OrtGewaehlte Exekutive [Fraktionschef 1, KommunaleExekutive 4, MitgliedWeitereGemeindeKommissionen 3]>
     <OrtMitglieder Mitgliedschaften [Mitglied 434]>
-    <OrtPraesidium Partei [Adressverwalter 2, Kassier 1, Mitglied 5, Praesident 3, tbd:Bildungskommission 6, tbd:Interessent 421, tbd:Rechnungs und Controllingkommission 3, tbd:Urnenbüro Mitgl. 3]>
+    <OrtPraesidium Partei [Adressverwalter 2, Kassier 1, Mitglied 5, Praesident 3]>
    <Ort Inwil>
     <OrtSympathisanten Sympathisanten [Sympathisant 72]>
-    <OrtGewaehlte Exekutive [KommunaleExekutive 11, tbd:Sozialvorsteher 1]>
+    <OrtArbeitsgruppe Arbeitsgruppe [Mitglied 1]>
+    <OrtGewaehlte Gewaehlte [MitgliedWeitereGemeindeKommissionen 4, Schulpflegekommission 9]>
+    <OrtGewaehlte Exekutive [KommunaleExekutive 11, MitgliedWeitereGemeindeKommissionen 1]>
     <OrtMitglieder Mitgliedschaften [Mitglied 120]>
-    <OrtPraesidium Partei [Adressverwalter 2, Kassier 2, Mitglied 9, Praesident 4, tbd:Bildungskommission 9, tbd:Einbürgerungskommission 2, tbd:Plakatierer 1, tbd:Rechnungsprüfungskommission Mitgl. 2]>
-   <Ort Newsletter [tbd:Empfänger 610]>
+    <OrtPraesidium Partei [Adressverwalter 2, Kassier 2, Mitglied 9, Praesident 4]>
+   <Ort Newsletter>
+    <OrtArbeitsgruppe Arbeitsgruppe [Mitglied 610]>
    <Ort Rain>
     <OrtSympathisanten Sympathisanten [Sympathisant 9]>
-    <OrtGewaehlte Exekutive [Fraktionschef 1, KommunaleExekutive 6, tbd:Gemeindammann 1, tbd:Gemeindeschreiber 1]>
+    <OrtArbeitsgruppe Arbeitsgruppe [Mitglied 2]>
+    <OrtGewaehlte Gewaehlte [Schulpflegekommission 2]>
+    <OrtGewaehlte Exekutive [Fraktionschef 1, KommunaleExekutive 7, MitgliedWeitereGemeindeKommissionen 1]>
     <OrtMitglieder Mitgliedschaften [Mitglied 184]>
-    <OrtPraesidium Partei [Adressverwalter 7, Kassier 2, Mitglied 9, Praesident 1, tbd:Bildungskommission 2, tbd:Plakatierer 1, tbd:Urnenbüro Mitgl. 1]>
+    <OrtPraesidium Partei [Adressverwalter 7, Kassier 2, Mitglied 9, Praesident 1]>
    <Ort Rothenburg>
     <OrtSympathisanten Sympathisanten [Sympathisant 153]>
-    <OrtGewaehlte Exekutive [Fraktionschef 2, KommunaleExekutive 4, tbd:Gemeindeschreiber 2]>
+    <OrtArbeitsgruppe Arbeitsgruppe [Mitglied 7]>
+    <OrtGewaehlte Gewaehlte [MitgliedWeitereGemeindeKommissionen 5, Schulpflegekommission 5]>
+    <OrtSekretariat Sekretariat [Webadministrator 1]>
+    <OrtGewaehlte Exekutive [Fraktionschef 2, KommunaleExekutive 4, MitgliedWeitereGemeindeKommissionen 2]>
     <OrtMitglieder Mitgliedschaften [Mitglied 125]>
-    <OrtPraesidium Partei [Adressverwalter 4, Kassier 2, Mitglied 12, Praesident 5, tbd:Bildungskommission 5, tbd:Einbürgerungskommission 2, tbd:Plakatierer 3, tbd:Rechnungsprüfungskommission Mitgl. 3, tbd:Urnenbüro Mitgl. 4, tbd:Webadministrator 1]>
+    <OrtPraesidium Partei [Adressverwalter 4, Kassier 2, Mitglied 12, Praesident 5]>
    <Ort Römerswil>
     <OrtSympathisanten Sympathisanten [Sympathisant 110]>
-    <OrtGewaehlte Exekutive [Fraktionschef 2, KommunaleExekutive 5, tbd:Gemeindeschreiber 1]>
+    <OrtArbeitsgruppe Arbeitsgruppe [Mitglied 5]>
+    <OrtGewaehlte Gewaehlte [MitgliedWeitereGemeindeKommissionen 6, Schulpflegekommission 5]>
+    <OrtGewaehlte Exekutive [Fraktionschef 2, KommunaleExekutive 5, MitgliedWeitereGemeindeKommissionen 1]>
     <OrtMitglieder Mitgliedschaften [Mitglied 22]>
-    <OrtPraesidium Partei [Adressverwalter 4, Kassier 1, Mitglied 14, Praesident 3, tbd:Bildungskommission 5, tbd:Einbürgerungskommission 3, tbd:Plakatierer 1, tbd:Rechnungsprüfungskommission Mitgl. 3, tbd:Urnenbüro Mitgl. 4]>
+    <OrtPraesidium Partei [Adressverwalter 4, Kassier 1, Mitglied 14, Praesident 3]>
    <Ort Schongau>
     <OrtSympathisanten Sympathisanten [Sympathisant 23]>
-    <OrtGewaehlte Exekutive [KommunaleExekutive 5, tbd:Gemeindammann 1, tbd:Gemeindeschreiber 1, tbd:Sozialvorsteher 1]>
+    <OrtArbeitsgruppe Arbeitsgruppe [Mitglied 1]>
+    <OrtGewaehlte Exekutive [KommunaleExekutive 6, MitgliedWeitereGemeindeKommissionen 2]>
     <OrtMitglieder Mitgliedschaften [Mitglied 4]>
-    <OrtPraesidium Partei [Adressverwalter 1, Kassier 1, Mitglied 4, Praesident 1, tbd:Plakatierer 1]>
+    <OrtPraesidium Partei [Adressverwalter 1, Kassier 1, Mitglied 4, Praesident 1]>
   <Region Wahlkreis Luzern-Land>
-   <RegionPraesidium Partei [Kassier 1, Mitglied 3, Praesident 3, tbd:Parteileitungsmitglied 12]>
+   <RegionPraesidium Partei [Kassier 1, Mitglied 15, Praesident 3]>
    <Ort Adligenswil>
     <OrtSympathisanten Sympathisanten [Sympathisant 92]>
-    <OrtArbeitsgruppe Neuzuzüger>
-     <OrtArbeitsgruppe 2015 [tbd:Kontakt 124]>
-     <OrtArbeitsgruppe 2017 [tbd:Kontakt 139]>
-     <OrtArbeitsgruppe 2019 [tbd:Kontakt 157]>
-    <OrtArbeitsgruppe Spendenaufruf Frühling 2016 [tbd:Kontakt 145]>
-    <OrtGewaehlte Exekutive [Fraktionschef 1, KommunaleExekutive 3, tbd:Gemeindammann 1, tbd:Gemeindeschreiber 2]>
+    <OrtArbeitsgruppe Arbeitsgruppe [Mitglied 7]>
+    <OrtGewaehlte Gewaehlte [MitgliedWeitereGemeindeKommissionen 3, Schulpflegekommission 5]>
+    <OrtExterneKontakte ExterneKontakte [Kontakt 565, Spender 17]>
+    <OrtGewaehlte Exekutive [Fraktionschef 1, KommunaleExekutive 4, MitgliedWeitereGemeindeKommissionen 2]>
     <OrtMitglieder Mitgliedschaften [Mitglied 90]>
-    <OrtPraesidium Partei [Adressverwalter 7, Kassier 2, Mitglied 17, Praesident 3, tbd:Bildungskommission 5, tbd:Einbürgerungskommission 2, tbd:Gönner 17, tbd:Plakatierer 1, tbd:Rechnungsprüfungskommission Mitgl. 1, tbd:Urnenbüro Mitgl. 6]>
+    <OrtPraesidium Partei [Adressverwalter 7, Kassier 2, Mitglied 17, Praesident 3]>
    <Ort Buchrain>
     <OrtSympathisanten Sympathisanten [Sympathisant 58]>
-    <OrtGewaehlte Exekutive [Fraktionschef 1, KommunaleExekutive 4, tbd:Sozialvorsteher 1]>
+    <OrtArbeitsgruppe Arbeitsgruppe [Mitglied 8]>
+    <OrtGewaehlte Gewaehlte [MitgliedWeitereGemeindeKommissionen 11, Schulpflegekommission 2]>
+    <OrtGewaehlte Exekutive [Fraktionschef 1, KommunaleExekutive 4, MitgliedWeitereGemeindeKommissionen 1]>
     <OrtMitglieder Mitgliedschaften [Mitglied 60]>
-    <OrtPraesidium Partei [Adressverwalter 2, Kassier 1, Mitglied 13, Praesident 1, tbd:Bildungskommission 2, tbd:Einbürgerungskommission 4, tbd:Miglied Gemeindeplanungskommission 4, tbd:Plakatierer 1, tbd:Rechnungsprüfungskommission Mitgl. 3, tbd:Urnenbüro Mitgl. 7]>
+    <OrtPraesidium Partei [Adressverwalter 2, Kassier 1, Mitglied 13, Praesident 1]>
    <Ort Dierikon>
     <OrtSympathisanten Sympathisanten [Sympathisant 14]>
-    <OrtGewaehlte Exekutive [Fraktionschef 2, KommunaleExekutive 8, tbd:Gemeindammann 2, tbd:Gemeindeschreiber 1, tbd:Sozialvorsteher 2]>
+    <OrtArbeitsgruppe Arbeitsgruppe [Mitglied 2]>
+    <OrtGewaehlte Gewaehlte [MitgliedWeitereGemeindeKommissionen 7, Schulpflegekommission 2]>
+    <OrtGewaehlte Exekutive [Fraktionschef 2, KommunaleExekutive 10, MitgliedWeitereGemeindeKommissionen 3]>
     <OrtMitglieder Mitgliedschaften [Mitglied 17]>
-    <OrtPraesidium Partei [Kassier 1, Mitglied 11, Praesident 5, tbd:Bildungskommission 2, tbd:Einbürgerungskommission 5, tbd:Plakatierer 1, tbd:Rechnungsprüfungskommission Mitgl. 2, tbd:Urnenbüro Mitgl. 1]>
+    <OrtPraesidium Partei [Kassier 1, Mitglied 11, Praesident 5]>
    <Ort Ebikon>
     <OrtSympathisanten Sympathisanten [Sympathisant 723]>
-    <OrtGewaehlte Exekutive [Fraktionschef 2, KommunaleExekutive 4, tbd:Gemeindammann 1, tbd:Gemeindeschreiber 2]>
+    <OrtArbeitsgruppe Arbeitsgruppe [Mitglied 13]>
+    <OrtGewaehlte Gewaehlte [MitgliedWeitereGemeindeKommissionen 14, Schulpflegekommission 7]>
+    <OrtSekretariat Sekretariat [Webadministrator 1]>
+    <OrtExterneKontakte ExterneKontakte [Spender 11]>
+    <OrtGewaehlte Exekutive [Fraktionschef 2, KommunaleExekutive 5, MitgliedWeitereGemeindeKommissionen 2]>
     <OrtMitglieder Mitgliedschaften [Mitglied 193]>
-    <OrtPraesidium Partei [Adressverwalter 10, Kassier 2, Mitglied 125, Praesident 3, tbd:Bildungskommission 7, tbd:Einbürgerungskommission 4, tbd:Gönner 11, tbd:Kommission für Gesellschaftsfragen 3, tbd:PUEK 3, tbd:Plakatierer 2, tbd:Rechnungsprüfungskommission Mitgl. 4, tbd:Urnenbüro Mitgl. 11, tbd:Webadministrator 1]>
+    <OrtPraesidium Partei [Adressverwalter 10, Kassier 2, Mitglied 125, Praesident 3]>
    <Ort Gisikon>
     <OrtSympathisanten Sympathisanten [Sympathisant 23]>
-    <OrtGewaehlte Exekutive [KommunaleExekutive 3, tbd:Sozialvorsteher 1]>
+    <OrtGewaehlte Gewaehlte [Schulpflegekommission 1]>
+    <OrtGewaehlte Exekutive [KommunaleExekutive 3, MitgliedWeitereGemeindeKommissionen 1]>
     <OrtMitglieder Mitgliedschaften [Mitglied 1]>
-    <OrtPraesidium Partei [Kassier 1, Mitglied 5, Praesident 1, tbd:Bildungskommission 1]>
+    <OrtPraesidium Partei [Kassier 1, Mitglied 5, Praesident 1]>
    <Ort Greppen>
     <OrtSympathisanten Sympathisanten [Sympathisant 12]>
-    <OrtGewaehlte Exekutive [Fraktionschef 2, KommunaleExekutive 6, tbd:Gemeindeschreiber 1, tbd:Sozialvorsteher 2]>
+    <OrtArbeitsgruppe Arbeitsgruppe [Mitglied 4]>
+    <OrtGewaehlte Gewaehlte [Schulpflegekommission 1]>
+    <OrtGewaehlte Exekutive [Fraktionschef 2, KommunaleExekutive 6, MitgliedWeitereGemeindeKommissionen 3]>
     <OrtMitglieder Mitgliedschaften [Mitglied 11]>
-    <OrtPraesidium Partei [Adressverwalter 2, Kassier 1, Mitglied 8, Praesident 1, tbd:Bildungskommission 1, tbd:Urnenbüro Mitgl. 4]>
+    <OrtPraesidium Partei [Adressverwalter 2, Kassier 1, Mitglied 8, Praesident 1]>
    <Ort Honau>
     <OrtSympathisanten Sympathisanten [Sympathisant 19]>
-    <OrtGewaehlte Exekutive [Fraktionschef 1, KommunaleExekutive 4, tbd:Gemeindeschreiber 1]>
+    <OrtArbeitsgruppe Arbeitsgruppe [Mitglied 1]>
+    <OrtGewaehlte Gewaehlte [Schulpflegekommission 1]>
+    <OrtParteigremium Parteigremium [Mitglied 1]>
+    <OrtGewaehlte Exekutive [Fraktionschef 1, KommunaleExekutive 4, MitgliedWeitereGemeindeKommissionen 1]>
     <OrtMitglieder Mitgliedschaften [Mitglied 5]>
-    <OrtPraesidium Partei [Kassier 1, Mitglied 5, Praesident 1, tbd:Bildungskommission 1, tbd:Controllingkommission 1, tbd:Delegierter CVP Schweiz 1, tbd:Plakatierer 1]>
+    <OrtPraesidium Partei [Kassier 1, Mitglied 5, Praesident 1]>
    <Ort Horw>
     <OrtSympathisanten Sympathisanten [Sympathisant 98]>
+    <OrtArbeitsgruppe Arbeitsgruppe [Mitglied 1]>
+    <OrtGewaehlte Gewaehlte [MitgliedWeitereGemeindeKommissionen 2, Schulpflegekommission 7]>
     <OrtExterneKontakte Newsletter [Kontakt 108]>
-    <OrtGewaehlte Exekutive [Fraktionschef 1, KommunaleExekutive 6, tbd:Gemeindammann 1, tbd:Gemeindeschreiber 1]>
-    <OrtGewaehlte Legislative [tbd:Einwohnerrat 20]>
+    <OrtGewaehlte Exekutive [Fraktionschef 1, KommunaleExekutive 7, MitgliedWeitereGemeindeKommissionen 1]>
+    <OrtGewaehlte Legislative [KommunaleLegislative 20]>
     <OrtMitglieder Mitgliedschaften [Mitglied 108]>
-    <OrtPraesidium Partei [Adressverwalter 3, Kassier 1, Mitglied 13, Praesident 1, tbd:Bildungskommission 7, tbd:Einbürgerungskommission 2, tbd:Plakatierer 1]>
+    <OrtPraesidium Partei [Adressverwalter 3, Kassier 1, Mitglied 13, Praesident 1]>
    <Ort Kriens>
     <OrtSympathisanten Sympathisanten [Sympathisant 749]>
+    <OrtArbeitsgruppe Arbeitsgruppe [Mitglied 4]>
+    <OrtGewaehlte Gewaehlte [MitgliedWeitereGemeindeKommissionen 4, Schulpflegekommission 7]>
     <OrtExterneKontakte Newsletter [Kontakt 202]>
     <OrtGewaehlte Exekutive [KommunaleExekutive 2]>
-    <OrtGewaehlte Legislative [tbd:Einwohnerrat 18]>
+    <OrtGewaehlte Legislative [KommunaleLegislative 18]>
     <OrtMitglieder Mitgliedschaften [Mitglied 80]>
-    <OrtPraesidium Partei [Adressverwalter 13, Kassier 4, Mitglied 31, Praesident 5, tbd:Bildungskommission 7, tbd:Einbürgerungskommission 2, tbd:Plakatierer 3, tbd:Rechnungsprüfungskommission Mitgl. 2, tbd:Urnenbüro Mitgl. 1]>
+    <OrtPraesidium Partei [Adressverwalter 13, Kassier 4, Mitglied 31, Praesident 5]>
    <Ort Malters>
     <OrtSympathisanten Sympathisanten [Sympathisant 376]>
-    <OrtGewaehlte Exekutive [KommunaleExekutive 3, tbd:Gemeindammann 1, tbd:Sozialvorsteher 1]>
+    <OrtArbeitsgruppe Arbeitsgruppe [Mitglied 10]>
+    <OrtGewaehlte Gewaehlte [MitgliedWeitereGemeindeKommissionen 4, Schulpflegekommission 3]>
+    <OrtSekretariat Sekretariat [Webadministrator 1]>
+    <OrtGewaehlte Exekutive [KommunaleExekutive 4, MitgliedWeitereGemeindeKommissionen 1]>
     <OrtMitglieder Mitgliedschaften [Mitglied 1]>
-    <OrtPraesidium Partei [Adressverwalter 4, Mitglied 21, Praesident 3, tbd:Bildungskommission 3, tbd:Einbürgerungskommission 2, tbd:Plakatierer 2, tbd:Rechnungsprüfungskommission Mitgl. 2, tbd:Urnenbüro Mitgl. 8, tbd:Webadministrator 1]>
+    <OrtPraesidium Partei [Adressverwalter 4, Mitglied 21, Praesident 3]>
    <Ort Meggen>
     <OrtSympathisanten Sympathisanten [Sympathisant 392]>
+    <OrtArbeitsgruppe Arbeitsgruppe [Mitglied 2]>
+    <OrtGewaehlte Gewaehlte [MitgliedWeitereGemeindeKommissionen 2, Schulpflegekommission 2]>
     <OrtGewaehlte Exekutive [KommunaleExekutive 2]>
     <OrtMitglieder Mitgliedschaften [Mitglied 12]>
-    <OrtPraesidium Partei [Adressverwalter 17, Kassier 3, Mitglied 12, Praesident 2, tbd:Bildungskommission 2, tbd:Plakatierer 2, tbd:Rechnungsprüfungskommission Mitgl. 2]>
+    <OrtPraesidium Partei [Adressverwalter 17, Kassier 3, Mitglied 12, Praesident 2]>
    <Ort Meierskappel>
     <OrtSympathisanten Sympathisanten [Sympathisant 40]>
-    <OrtGewaehlte Exekutive [KommunaleExekutive 1, tbd:Gemeindammann 1]>
+    <OrtGewaehlte Gewaehlte [MitgliedWeitereGemeindeKommissionen 1]>
+    <OrtGewaehlte Exekutive [KommunaleExekutive 2]>
     <OrtMitglieder Mitgliedschaften [Mitglied 2]>
-    <OrtPraesidium Partei [Adressverwalter 2, tbd:Rechnungsprüfungskommission Mitgl. 1]>
-   <Ort Newsletter [tbd:Empfänger 741]>
+    <OrtPraesidium Partei [Adressverwalter 2]>
+   <Ort Newsletter>
+    <OrtArbeitsgruppe Arbeitsgruppe [Mitglied 741]>
    <Ort Root>
     <OrtSympathisanten Sympathisanten [Sympathisant 145]>
-    <OrtGewaehlte Exekutive [KommunaleExekutive 5, tbd:Gemeindammann 1, tbd:Gemeindeschreiber 1, tbd:Sozialvorsteher 2]>
+    <OrtArbeitsgruppe Arbeitsgruppe [Mitglied 7]>
+    <OrtGewaehlte Gewaehlte [MitgliedWeitereGemeindeKommissionen 3, Schulpflegekommission 3]>
+    <OrtSekretariat Sekretariat [Webadministrator 1]>
+    <OrtGewaehlte Exekutive [KommunaleExekutive 6, MitgliedWeitereGemeindeKommissionen 3]>
     <OrtMitglieder Mitgliedschaften [Mitglied 16]>
-    <OrtPraesidium Partei [Adressverwalter 11, Kassier 2, Mitglied 12, Praesident 2, tbd:Bildungskommission 3, tbd:Einbürgerungskommission 1, tbd:Plakatierer 2, tbd:Rechnungsprüfungskommission Mitgl. 2, tbd:Urnenbüro Mitgl. 5, tbd:Webadministrator 1]>
+    <OrtPraesidium Partei [Adressverwalter 11, Kassier 2, Mitglied 12, Praesident 2]>
    <Ort Schwarzenberg>
     <OrtSympathisanten Sympathisanten [Sympathisant 50]>
+    <OrtArbeitsgruppe Arbeitsgruppe [Mitglied 1]>
+    <OrtGewaehlte Gewaehlte [MitgliedWeitereGemeindeKommissionen 2, Schulpflegekommission 1]>
     <OrtGewaehlte Exekutive [KommunaleExekutive 3]>
     <OrtMitglieder Mitgliedschaften [Mitglied 120]>
-    <OrtPraesidium Partei [Adressverwalter 3, Kassier 2, Mitglied 8, Praesident 1, tbd:Bildungskommission 1, tbd:Plakatierer 1, tbd:Rechnungsprüfungskommission Mitgl. 2]>
+    <OrtPraesidium Partei [Adressverwalter 3, Kassier 2, Mitglied 8, Praesident 1]>
    <Ort Udligenswil>
     <OrtSympathisanten Sympathisanten [Sympathisant 105]>
-    <OrtGewaehlte Exekutive [KommunaleExekutive 5, tbd:Gemeindammann 2, tbd:Gemeindeschreiber 2]>
+    <OrtArbeitsgruppe Arbeitsgruppe [Mitglied 2]>
+    <OrtGewaehlte Gewaehlte [Schulpflegekommission 3]>
+    <OrtSekretariat Sekretariat [Webadministrator 1]>
+    <OrtGewaehlte Exekutive [KommunaleExekutive 7, MitgliedWeitereGemeindeKommissionen 2]>
     <OrtMitglieder Mitgliedschaften [Mitglied 17]>
-    <OrtPraesidium Partei [Adressverwalter 3, Kassier 2, Mitglied 22, Praesident 2, tbd:Bildungskommission 3, tbd:Plakatierer 2, tbd:Webadministrator 1]>
+    <OrtPraesidium Partei [Adressverwalter 3, Kassier 2, Mitglied 22, Praesident 2]>
    <Ort Vitznau>
     <OrtSympathisanten Sympathisanten [Sympathisant 14]>
-    <OrtGewaehlte Exekutive [Fraktionschef 1, KommunaleExekutive 2, tbd:Sozialvorsteher 1]>
+    <OrtArbeitsgruppe Arbeitsgruppe [Mitglied 1]>
+    <OrtGewaehlte Exekutive [Fraktionschef 1, KommunaleExekutive 2, MitgliedWeitereGemeindeKommissionen 1]>
     <OrtMitglieder Mitgliedschaften [Mitglied 2]>
-    <OrtPraesidium Partei [Adressverwalter 2, Kassier 1, Mitglied 5, Praesident 1, tbd:Plakatierer 1]>
+    <OrtPraesidium Partei [Adressverwalter 2, Kassier 1, Mitglied 5, Praesident 1]>
    <Ort Weggis>
     <OrtSympathisanten Sympathisanten [Sympathisant 50]>
-    <OrtGewaehlte Exekutive [Fraktionschef 1, KommunaleExekutive 6, tbd:Sozialvorsteher 2]>
+    <OrtArbeitsgruppe Arbeitsgruppe [Mitglied 5]>
+    <OrtGewaehlte Gewaehlte [MitgliedWeitereGemeindeKommissionen 4, Schulpflegekommission 3]>
+    <OrtGewaehlte Exekutive [Fraktionschef 1, KommunaleExekutive 6, MitgliedWeitereGemeindeKommissionen 2]>
     <OrtMitglieder Mitgliedschaften [Mitglied 9]>
-    <OrtPraesidium Partei [Kassier 1, Mitglied 8, Praesident 1, tbd:Bildungskommission 3, tbd:Einbürgerungskommission 2, tbd:Plakatierer 2, tbd:Rechnungsprüfungskommission Mitgl. 2, tbd:Urnenbüro Mitgl. 3]>
+    <OrtPraesidium Partei [Kassier 1, Mitglied 8, Praesident 1]>
   <Region Wahlkreis Luzern-Stadt>
-   <RegionPraesidium Partei [Praesident 2, tbd:Empfänger Umzugsmeldung 1, tbd:Webadministrator 1]>
+   <RegionDelegierte Delegierte [Ersatzdelegierte 7]>
+   <RegionSekretariat Sekretariat [Webadministrator 1]>
+   <RegionPraesidium Partei [Mitglied 1, Praesident 2]>
    <Ort Stadt Luzern>
     <OrtSympathisanten Sympathisanten [Sympathisant 1097]>
-    <OrtArbeitsgruppe Behörden [tbd:Kontakt 134]>
-    <OrtArbeitsgruppe Delegiertenversammlungen>
-     <OrtArbeitsgruppe CVP Kanton Luzern [tbd:Delegierter 52, tbd:Delegierter Vereinigung 6, tbd:Delegierter von Amtes wegen 29]>
-     <OrtArbeitsgruppe CVP Schweiz [tbd:Delegierter 6, tbd:Ersatzdelegierter 7]>
-    <OrtArbeitsgruppe Donatoren [tbd:Kontakt 81]>
-    <OrtArbeitsgruppe Keine E-Mail [tbd:Kontakt 151]>
-    <OrtArbeitsgruppe Urnenbürofunktionäre 2017 [tbd:Kandidat 13]>
-    <OrtArbeitsgruppe Urnenbürofunktionäre 2021 [tbd:Kandidat 8]>
+    <OrtSekretariat Sekretariat [Leitung 1]>
+    <OrtExterneKontakte ExterneKontakte [Kontakt 458]>
+    <OrtArbeitsgruppe Urnenbürofunktionäre 2017 [Mitglied 13]>
+    <OrtArbeitsgruppe Urnenbürofunktionäre 2021 [Mitglied 8]>
     <OrtExterneKontakte Firmen [Kontakt 526]>
     <OrtExterneKontakte Newsletter [Kontakt 851]>
-    <OrtGewaehlte Exekutive [Fraktionschef 2, KommunaleExekutive 3, tbd:Gemeindeschreiber 2, tbd:Sozialvorsteher 1]>
+    <OrtGewaehlte Exekutive [Fraktionschef 2, KommunaleExekutive 3, MitgliedWeitereGemeindeKommissionen 3]>
     <OrtGewaehlte Legislative [KommunaleExekutive 14]>
     <OrtMitglieder Mitgliedschaften [Mitglied 405]>
-    <OrtPraesidium Parteikomitee [tbd:Kontakt 92]>
-    <OrtPraesidium Parteileitung [Adressverwalter 1, Kassier 2, Mitglied 14, Praesident 2, tbd:Sekretär 1]>
+    <OrtPraesidium Parteileitung [Adressverwalter 1, Kassier 2, Mitglied 14, Praesident 2]>
   <Region Wahlkreis Sursee>
-   <RegionPraesidium Partei [Kassier 2, Mitglied 1, Praesident 2, tbd:Amtsstatthalter 1, tbd:Delegierter 21, tbd:Parteileitungsmitglied 22]>
+   <RegionDelegierte Delegierte [Delegierte 21, Ersatzdelegierte 4]>
+   <RegionPraesidium Partei [Kassier 2, Mitglied 23, Praesident 2]>
    <Ort Beromünster>
     <OrtSympathisanten Sympathisanten [Sympathisant 501]>
-    <OrtGewaehlte Exekutive [Fraktionschef 1, KommunaleExekutive 7, tbd:Gemeindammann 1, tbd:Sozialvorsteher 2]>
+    <OrtArbeitsgruppe Arbeitsgruppe [Mitglied 10]>
+    <OrtGewaehlte Gewaehlte [MitgliedWeitereGemeindeKommissionen 10, Schulpflegekommission 8]>
+    <OrtGewaehlte Exekutive [Fraktionschef 1, KommunaleExekutive 8, MitgliedWeitereGemeindeKommissionen 2]>
     <OrtMitglieder Mitgliedschaften [Mitglied 47]>
-    <OrtPraesidium Partei [Adressverwalter 8, Kassier 4, Mitglied 20, Praesident 2, tbd:Bildungskommission 8, tbd:Einbürgerungskommission 6, tbd:Plakatierer 2, tbd:Rechnungsprüfungskommission Mitgl. 4, tbd:Urnenbüro Mitgl. 8]>
+    <OrtPraesidium Partei [Adressverwalter 8, Kassier 4, Mitglied 20, Praesident 2]>
    <Ort Buttisholz>
     <OrtSympathisanten Sympathisanten [Sympathisant 71]>
-    <OrtGewaehlte Exekutive [Fraktionschef 1, KommunaleExekutive 8, tbd:Gemeindeschreiber 2, tbd:Sozialvorsteher 1]>
+    <OrtArbeitsgruppe Arbeitsgruppe [Mitglied 9]>
+    <OrtGewaehlte Gewaehlte [MitgliedWeitereGemeindeKommissionen 4, Schulpflegekommission 5]>
+    <OrtSekretariat Sekretariat [Webadministrator 1]>
+    <OrtGewaehlte Exekutive [Fraktionschef 1, KommunaleExekutive 8, MitgliedWeitereGemeindeKommissionen 3]>
     <OrtMitglieder Mitgliedschaften [Mitglied 50]>
-    <OrtPraesidium Partei [Adressverwalter 1, Kassier 2, Mitglied 29, Praesident 3, tbd:Bildungskommission 5, tbd:Plakatierer 2, tbd:Rechnungsprüfungskommission Mitgl. 4, tbd:Urnenbüro Mitgl. 7, tbd:Webadministrator 1]>
+    <OrtPraesidium Partei [Adressverwalter 1, Kassier 2, Mitglied 29, Praesident 3]>
    <Ort Büron>
     <OrtSympathisanten Sympathisanten [Sympathisant 102]>
+    <OrtArbeitsgruppe Arbeitsgruppe [Mitglied 3]>
+    <OrtGewaehlte Gewaehlte [MitgliedWeitereGemeindeKommissionen 1, Schulpflegekommission 4]>
     <OrtGewaehlte Exekutive [Fraktionschef 2, KommunaleExekutive 6]>
     <OrtMitglieder Mitgliedschaften [Mitglied 14]>
-    <OrtPraesidium Partei [Adressverwalter 3, Kassier 3, Mitglied 12, Praesident 1, tbd:Bildungskommission 4, tbd:Plakatierer 1, tbd:Rechnungsprüfungskommission Mitgl. 1, tbd:Urnenbüro Mitgl. 2]>
+    <OrtPraesidium Partei [Adressverwalter 3, Kassier 3, Mitglied 12, Praesident 1]>
    <Ort Eich>
     <OrtSympathisanten Sympathisanten [Sympathisant 77]>
-    <OrtGewaehlte Exekutive [Fraktionschef 2, KommunaleExekutive 5, tbd:Gemeindeschreiber 3]>
+    <OrtArbeitsgruppe Arbeitsgruppe [Mitglied 1]>
+    <OrtGewaehlte Gewaehlte [MitgliedWeitereGemeindeKommissionen 1, Schulpflegekommission 3]>
+    <OrtGewaehlte Exekutive [Fraktionschef 2, KommunaleExekutive 5, MitgliedWeitereGemeindeKommissionen 3]>
     <OrtMitglieder Mitgliedschaften [Mitglied 16]>
-    <OrtPraesidium Partei [Adressverwalter 3, Kassier 1, Mitglied 12, Praesident 5, tbd:Bildungskommission 3, tbd:Plakatierer 1, tbd:Rechnungsprüfungskommission Mitgl. 1]>
+    <OrtPraesidium Partei [Adressverwalter 3, Kassier 1, Mitglied 12, Praesident 5]>
    <Ort Geuensee>
     <OrtSympathisanten Sympathisanten [Sympathisant 31]>
-    <OrtGewaehlte Exekutive [Fraktionschef 2, KommunaleExekutive 5, tbd:Sozialvorsteher 1]>
+    <OrtGewaehlte Exekutive [Fraktionschef 2, KommunaleExekutive 5, MitgliedWeitereGemeindeKommissionen 1]>
     <OrtMitglieder Mitgliedschaften [Mitglied 5]>
     <OrtPraesidium Partei [Adressverwalter 2, Kassier 1, Mitglied 1, Praesident 1]>
    <Ort Grosswangen>
     <OrtSympathisanten Sympathisanten [Sympathisant 50]>
-    <OrtArbeitsgruppe 60+ [tbd:Mitglied 60+ 1]>
-    <OrtGewaehlte Exekutive [Fraktionschef 2, KommunaleExekutive 4, tbd:Gemeindeschreiber 1]>
+    <OrtArbeitsgruppe Arbeitsgruppe [Mitglied 4]>
+    <OrtGewaehlte Gewaehlte [MitgliedWeitereGemeindeKommissionen 7, Schulpflegekommission 5]>
+    <OrtSekretariat Sekretariat [Webadministrator 1]>
+    <OrtArbeitsgruppe 60+ [Mitglied 1]>
+    <OrtGewaehlte Exekutive [Fraktionschef 2, KommunaleExekutive 4, MitgliedWeitereGemeindeKommissionen 1]>
     <OrtMitglieder Mitgliedschaften [Mitglied 124]>
-    <OrtPraesidium Partei [Adressverwalter 8, Kassier 2, Mitglied 23, Praesident 3, tbd:Bildungskommission 5, tbd:Einbürgerungskommission 3, tbd:Plakatierer 2, tbd:Rechnungsprüfungskommission Mitgl. 4, tbd:Urnenbüro Mitgl. 2, tbd:Webadministrator 1]>
+    <OrtPraesidium Partei [Adressverwalter 8, Kassier 2, Mitglied 23, Praesident 3]>
    <Ort Hildisrieden>
     <OrtSympathisanten Sympathisanten [Sympathisant 48]>
-    <OrtArbeitsgruppe Jungbürger>
-     <OrtArbeitsgruppe 2018 [tbd:Kontakt 21]>
-    <OrtGewaehlte Exekutive [Fraktionschef 2, KommunaleExekutive 5, tbd:Gemeindammann 1, tbd:Gemeindeschreiber 1, tbd:Sozialvorsteher 1]>
+    <OrtArbeitsgruppe Arbeitsgruppe [Mitglied 8]>
+    <OrtGewaehlte Gewaehlte [MitgliedWeitereGemeindeKommissionen 3, Schulpflegekommission 2]>
+    <OrtExterneKontakte ExterneKontakte [Kontakt 21]>
+    <OrtParteigremium Parteigremium [Mitglied 1]>
+    <OrtGewaehlte Exekutive [Fraktionschef 2, KommunaleExekutive 6, MitgliedWeitereGemeindeKommissionen 2]>
     <OrtMitglieder Mitgliedschaften [Mitglied 138]>
-    <OrtPraesidium Partei [Adressverwalter 9, Kassier 2, Mitglied 19, Praesident 3, tbd:Bildungskommission 2, tbd:Controllingkommission 1, tbd:Delegierter CVP Schweiz 1, tbd:Delegierter Kanton 4, tbd:Kantonsrat 1, tbd:Plakatierer 2, tbd:Rechnungsprüfungskommission Mitgl. 3, tbd:Urnenbüro Mitgl. 6]>
+    <OrtPraesidium Partei [Adressverwalter 9, Kassier 2, Mitglied 19, Praesident 3]>
    <Ort Knutwil>
     <OrtSympathisanten Sympathisanten [Sympathisant 251]>
-    <OrtGewaehlte Exekutive [Fraktionschef 1, KommunaleExekutive 5, tbd:Gemeindeschreiber 2, tbd:Sozialvorsteher 1]>
+    <OrtArbeitsgruppe Arbeitsgruppe [Mitglied 5]>
+    <OrtGewaehlte Gewaehlte [MitgliedWeitereGemeindeKommissionen 5]>
+    <OrtGewaehlte Exekutive [Fraktionschef 1, KommunaleExekutive 5, MitgliedWeitereGemeindeKommissionen 3]>
     <OrtMitglieder Mitgliedschaften [Mitglied 1]>
-    <OrtPraesidium Partei [Adressverwalter 6, Kassier 1, Mitglied 7, Praesident 4, tbd:Einbürgerungskommission 2, tbd:Plakatierer 4, tbd:Rechnungsprüfungskommission Mitgl. 3, tbd:Urnenbüro Mitgl. 1]>
+    <OrtPraesidium Partei [Adressverwalter 6, Kassier 1, Mitglied 7, Praesident 4]>
    <Ort Mauensee>
     <OrtSympathisanten Sympathisanten [Sympathisant 20]>
-    <OrtGewaehlte Exekutive [Fraktionschef 2, KommunaleExekutive 3, tbd:Gemeindeschreiber 1]>
+    <OrtArbeitsgruppe Arbeitsgruppe [Mitglied 2]>
+    <OrtGewaehlte Gewaehlte [Schulpflegekommission 4]>
+    <OrtGewaehlte Exekutive [Fraktionschef 2, KommunaleExekutive 3, MitgliedWeitereGemeindeKommissionen 1]>
     <OrtMitglieder Mitgliedschaften [Mitglied 14]>
-    <OrtPraesidium Partei [Adressverwalter 1, Kassier 2, Mitglied 16, Praesident 4, tbd:Bildungskommission 4, tbd:Plakatierer 2]>
+    <OrtPraesidium Partei [Adressverwalter 1, Kassier 2, Mitglied 16, Praesident 4]>
    <Ort Neuenkirch>
     <OrtSympathisanten Sympathisanten [Sympathisant 226]>
-    <OrtGewaehlte Exekutive [Fraktionschef 2, KommunaleExekutive 5, tbd:Gemeindammann 1, tbd:Gemeindeschreiber 2]>
+    <OrtArbeitsgruppe Arbeitsgruppe [Mitglied 11]>
+    <OrtGewaehlte Gewaehlte [MitgliedWeitereGemeindeKommissionen 1, Schulpflegekommission 2]>
+    <OrtGewaehlte Exekutive [Fraktionschef 2, KommunaleExekutive 6, MitgliedWeitereGemeindeKommissionen 2]>
     <OrtMitglieder Mitgliedschaften [Mitglied 23]>
-    <OrtPraesidium Partei [Adressverwalter 4, Kassier 1, Mitglied 20, Praesident 3, tbd:Bildungskommission 2, tbd:Plakatierer 2, tbd:Rechnungsprüfungskommission Mitgl. 1, tbd:Urnenbüro Mitgl. 9]>
-   <Ort Newsletter [tbd:Empfänger 892]>
+    <OrtPraesidium Partei [Adressverwalter 4, Kassier 1, Mitglied 20, Praesident 3]>
+   <Ort Newsletter>
+    <OrtArbeitsgruppe Arbeitsgruppe [Mitglied 892]>
    <Ort Nottwil>
     <OrtSympathisanten Sympathisanten [Sympathisant 24]>
-    <OrtGewaehlte Exekutive [KommunaleExekutive 5, tbd:Gemeindeschreiber 1]>
+    <OrtArbeitsgruppe Arbeitsgruppe [Mitglied 6]>
+    <OrtGewaehlte Gewaehlte [MitgliedWeitereGemeindeKommissionen 9, Schulpflegekommission 6]>
+    <OrtGewaehlte Exekutive [KommunaleExekutive 5, MitgliedWeitereGemeindeKommissionen 1]>
     <OrtMitglieder Mitgliedschaften [Mitglied 190]>
-    <OrtPraesidium Partei [Adressverwalter 4, Kassier 3, Mitglied 9, Praesident 1, tbd:Bildungskommission 6, tbd:Einbürgerungskommission 6, tbd:Plakatierer 2, tbd:Rechnungsprüfungskommission Mitgl. 3, tbd:Urnenbüro Mitgl. 4]>
+    <OrtPraesidium Partei [Adressverwalter 4, Kassier 3, Mitglied 9, Praesident 1]>
    <Ort Oberkirch>
     <OrtSympathisanten Sympathisanten [Sympathisant 207]>
-    <OrtGewaehlte Exekutive [Fraktionschef 2, KommunaleExekutive 6, tbd:Gemeindammann 1, tbd:Gemeindeschreiber 1]>
+    <OrtArbeitsgruppe Arbeitsgruppe [Mitglied 2]>
+    <OrtGewaehlte Gewaehlte [MitgliedWeitereGemeindeKommissionen 1, Schulpflegekommission 3]>
+    <OrtGewaehlte Exekutive [Fraktionschef 2, KommunaleExekutive 7, MitgliedWeitereGemeindeKommissionen 1]>
     <OrtMitglieder Mitgliedschaften [Mitglied 21]>
-    <OrtPraesidium Partei [Adressverwalter 11, Kassier 1, Mitglied 16, Praesident 2, tbd:Bildungskommission 3, tbd:Rechnungsprüfungskommission Mitgl. 1, tbd:Urnenbüro Mitgl. 2]>
+    <OrtPraesidium Partei [Adressverwalter 11, Kassier 1, Mitglied 16, Praesident 2]>
    <Ort Rickenbach>
     <OrtSympathisanten Sympathisanten [Sympathisant 82]>
-    <OrtGewaehlte Exekutive [KommunaleExekutive 3, tbd:Gemeindeschreiber 1]>
+    <OrtArbeitsgruppe Arbeitsgruppe [Mitglied 3]>
+    <OrtGewaehlte Gewaehlte [MitgliedWeitereGemeindeKommissionen 4, Schulpflegekommission 4]>
+    <OrtGewaehlte Exekutive [KommunaleExekutive 3, MitgliedWeitereGemeindeKommissionen 1]>
     <OrtMitglieder Mitgliedschaften [Mitglied 14]>
-    <OrtPraesidium Partei [Adressverwalter 2, Kassier 2, Mitglied 7, Praesident 3, tbd:Bildungskommission 4, tbd:Einbürgerungskommission 3, tbd:Plakatierer 2, tbd:Rechnungsprüfungskommission Mitgl. 1, tbd:Urnenbüro Mitgl. 1]>
+    <OrtPraesidium Partei [Adressverwalter 2, Kassier 2, Mitglied 7, Praesident 3]>
    <Ort Ruswil>
     <OrtSympathisanten Sympathisanten [Sympathisant 624]>
-    <OrtArbeitsgruppe Übrige Kontakte [tbd:Kontakt 1]>
+    <OrtArbeitsgruppe Arbeitsgruppe [Mitglied 15]>
+    <OrtGewaehlte Gewaehlte [MitgliedWeitereGemeindeKommissionen 27, Schulpflegekommission 5]>
+    <OrtExterneKontakte ExterneKontakte [Kontakt 1]>
     <OrtExterneKontakte Firmen [Kontakt 158]>
-    <OrtGewaehlte Exekutive [Fraktionschef 2, KommunaleExekutive 6, tbd:Sozialvorsteher 1]>
+    <OrtGewaehlte Exekutive [Fraktionschef 2, KommunaleExekutive 6, MitgliedWeitereGemeindeKommissionen 1]>
     <OrtMitglieder Mitgliedschaften [Mitglied 93]>
-    <OrtPraesidium Partei [Adressverwalter 4, Kassier 1, Mitglied 17, Praesident 4, tbd:Baukommission 4, tbd:Bildungskommission 5, tbd:Bürgerrechtskommission 4, tbd:Delegierte SOBZ 2, tbd:Delegierter Kanton 15, tbd:Einbürgerungskommission 1, tbd:Ersatzdelegierte Kanton 4, tbd:Kirchenrat 2, tbd:Kommission für Altersfragen 5, tbd:Ortsplanungskommission 2, tbd:Rechnungsprüfungskommission Mitgl. 5, tbd:Umweltkommission 2, tbd:Urnenbüro Mitgl. 15]>
+    <OrtPraesidium Partei [Adressverwalter 4, Kassier 1, Mitglied 17, Praesident 4]>
    <Ort Schenkon>
     <OrtSympathisanten Sympathisanten [Sympathisant 22]>
-    <OrtGewaehlte Exekutive [Fraktionschef 1, KommunaleExekutive 4, tbd:Sozialvorsteher 1]>
+    <OrtArbeitsgruppe Arbeitsgruppe [Mitglied 5]>
+    <OrtGewaehlte Gewaehlte [MitgliedWeitereGemeindeKommissionen 5, Schulpflegekommission 5]>
+    <OrtSekretariat Sekretariat [Webadministrator 1]>
+    <OrtGewaehlte Exekutive [Fraktionschef 1, KommunaleExekutive 4, MitgliedWeitereGemeindeKommissionen 1]>
     <OrtMitglieder Mitgliedschaften [Mitglied 142]>
-    <OrtPraesidium Partei [Adressverwalter 8, Kassier 3, Mitglied 22, Praesident 2, tbd:Bildungskommission 5, tbd:Einbürgerungskommission 4, tbd:Plakatierer 1, tbd:Rechnungsprüfungskommission Mitgl. 1, tbd:Urnenbüro Mitgl. 4, tbd:Webadministrator 1]>
+    <OrtPraesidium Partei [Adressverwalter 8, Kassier 3, Mitglied 22, Praesident 2]>
    <Ort Schlierbach>
     <OrtSympathisanten Sympathisanten [Sympathisant 19]>
-    <OrtGewaehlte Exekutive [KommunaleExekutive 3, tbd:Sozialvorsteher 2]>
+    <OrtArbeitsgruppe Arbeitsgruppe [Mitglied 5]>
+    <OrtGewaehlte Gewaehlte [MitgliedWeitereGemeindeKommissionen 3, Schulpflegekommission 2]>
+    <OrtGewaehlte Exekutive [KommunaleExekutive 3, MitgliedWeitereGemeindeKommissionen 2]>
     <OrtMitglieder Mitgliedschaften [Mitglied 5]>
-    <OrtPraesidium Partei [Kassier 2, Mitglied 12, Praesident 3, tbd:Bildungskommission 2, tbd:Einbürgerungskommission 2, tbd:Plakatierer 2, tbd:Rechnungsprüfungskommission Mitgl. 1, tbd:Urnenbüro Mitgl. 3]>
+    <OrtPraesidium Partei [Kassier 2, Mitglied 12, Praesident 3]>
    <Ort Sempach>
     <OrtSympathisanten Sympathisanten [Sympathisant 225]>
-    <OrtGewaehlte Exekutive [Fraktionschef 2, KommunaleExekutive 6, tbd:Gemeindammann 1, tbd:Gemeindeschreiber 1]>
+    <OrtArbeitsgruppe Arbeitsgruppe [Mitglied 3]>
+    <OrtGewaehlte Gewaehlte [MitgliedWeitereGemeindeKommissionen 3, Schulpflegekommission 9]>
+    <OrtSekretariat Sekretariat [Webadministrator 1]>
+    <OrtGewaehlte Exekutive [Fraktionschef 2, KommunaleExekutive 7, MitgliedWeitereGemeindeKommissionen 1]>
     <OrtMitglieder Mitgliedschaften [Mitglied 24]>
-    <OrtPraesidium Partei [Adressverwalter 3, Kassier 2, Mitglied 16, Praesident 3, tbd:Bildungskommission 9, tbd:Plakatierer 1, tbd:Rechnungsprüfungskommission Mitgl. 3, tbd:Urnenbüro Mitgl. 2, tbd:Webadministrator 1]>
+    <OrtPraesidium Partei [Adressverwalter 3, Kassier 2, Mitglied 16, Praesident 3]>
    <Ort Sursee>
     <OrtSympathisanten Sympathisanten [Sympathisant 737]>
-    <OrtGewaehlte Exekutive [Fraktionschef 3, KommunaleExekutive 6, tbd:Gemeindammann 1]>
+    <OrtArbeitsgruppe Arbeitsgruppe [Mitglied 2]>
+    <OrtGewaehlte Gewaehlte [MitgliedWeitereGemeindeKommissionen 8, Schulpflegekommission 9]>
+    <OrtGewaehlte Exekutive [Fraktionschef 3, KommunaleExekutive 7]>
     <OrtMitglieder Mitgliedschaften [Mitglied 28]>
-    <OrtPraesidium Partei [Adressverwalter 25, Kassier 3, Mitglied 17, Praesident 2, tbd:Bildungskommission 9, tbd:Einbürgerungskommission 5, tbd:Plakatierer 1, tbd:Rechnungsprüfungskommission Mitgl. 3, tbd:Urnenbüro Mitgl. 1]>
+    <OrtPraesidium Partei [Adressverwalter 25, Kassier 3, Mitglied 17, Praesident 2]>
    <Ort Triengen>
     <OrtSympathisanten Sympathisanten [Sympathisant 90]>
-    <OrtGewaehlte Exekutive [KommunaleExekutive 4, tbd:Gemeindeschreiber 1]>
+    <OrtArbeitsgruppe Arbeitsgruppe [Mitglied 7]>
+    <OrtGewaehlte Gewaehlte [MitgliedWeitereGemeindeKommissionen 7, Schulpflegekommission 4]>
+    <OrtGewaehlte Exekutive [KommunaleExekutive 4, MitgliedWeitereGemeindeKommissionen 1]>
     <OrtMitglieder Mitgliedschaften [Mitglied 17]>
-    <OrtPraesidium Partei [Adressverwalter 4, Kassier 3, Mitglied 10, Praesident 2, tbd:Bildungskommission 4, tbd:Einbürgerungskommission 5, tbd:Plakatierer 2, tbd:Rechnungsprüfungskommission Mitgl. 2, tbd:Urnenbüro Mitgl. 5]>
+    <OrtPraesidium Partei [Adressverwalter 4, Kassier 3, Mitglied 10, Praesident 2]>
   <Region Wahlkreis Willisau>
-   <RegionDelegierte DV>
-    <RegionDelegierte Gäste [tbd:Kontakt 14]>
-    <RegionDelegierte Revisionsstelle [tbd:Kontakt 4]>
-    <RegionDelegierte Stimmberechtigung 60+ [tbd:Kontakt 6]>
-    <RegionDelegierte Stimmberechtigung Eidg. Delegierte [tbd:Kontakt 11]>
-    <RegionDelegierte Stimmberechtigung JCVP [tbd:Kontakt 4]>
-    <RegionDelegierte Stimmberechtigung Ortspartei [tbd:Kontakt 82]>
-    <RegionDelegierte Stimmberechtigung Vorstand [tbd:Kontakt 10]>
-    <RegionDelegierte Stimmberechtigung aktuelle Mandatsträger [tbd:Kontakt 20]>
-    <RegionDelegierte Stimmberechtigung ehemalige Mandatsträger [tbd:Kontakt 41]>
-    <RegionDelegierte Stimmberechtigung erloschen [tbd:Kontakt 1]>
-    <RegionDelegierte Stimmberechtigung nicht übertragbar [tbd:Kontakt 63]>
-   <RegionPraesidium Partei [Kassier 2, Mitglied 7, Praesident 3, tbd:Empfänger Umzugsmeldung 1, tbd:Parteileitungsmitglied 13]>
+   <RegionExterneKontakte ExterneKontakte [Kontakt 256]>
+   <RegionPraesidium Partei [Kassier 2, Mitglied 21, Praesident 3]>
    <Ort Alberswil>
     <OrtSympathisanten Sympathisanten [Sympathisant 176]>
-    <OrtGewaehlte Exekutive [Fraktionschef 3, KommunaleExekutive 4, tbd:Gemeindammann 1]>
+    <OrtArbeitsgruppe Arbeitsgruppe [Mitglied 9]>
+    <OrtGewaehlte Gewaehlte [MitgliedWeitereGemeindeKommissionen 6, Schulpflegekommission 5]>
+    <OrtSekretariat Sekretariat [Webadministrator 1]>
+    <OrtParteigremium Parteigremium [Mitglied 1]>
+    <OrtGewaehlte Exekutive [Fraktionschef 3, KommunaleExekutive 5]>
     <OrtMitglieder Mitgliedschaften [Mitglied 22]>
-    <OrtPraesidium Partei [Adressverwalter 2, Kassier 2, Mitglied 20, Praesident 2, tbd:Bildungskommission 5, tbd:Controllingkommission 1, tbd:Einbürgerungskommission 5, tbd:Plakatierer 4, tbd:Rechnungsprüfungskommission Mitgl. 1, tbd:Urnenbüro Mitgl. 5, tbd:Webadministrator 1]>
+    <OrtPraesidium Partei [Adressverwalter 2, Kassier 2, Mitglied 20, Praesident 2]>
    <Ort Altbüron>
     <OrtSympathisanten Sympathisanten [Sympathisant 31]>
-    <OrtGewaehlte Exekutive [Fraktionschef 2, KommunaleExekutive 5, tbd:Gemeindeschreiber 1, tbd:Sozialvorsteher 1]>
+    <OrtGewaehlte Gewaehlte [MitgliedWeitereGemeindeKommissionen 1, Schulpflegekommission 6]>
+    <OrtGewaehlte Exekutive [Fraktionschef 2, KommunaleExekutive 5, MitgliedWeitereGemeindeKommissionen 2]>
     <OrtMitglieder Mitgliedschaften [Mitglied 17]>
-    <OrtPraesidium Partei [Adressverwalter 2, Kassier 2, Mitglied 3, Praesident 1, tbd:Bildungskommission 6, tbd:Rechnungsprüfungskommission Mitgl. 1]>
+    <OrtPraesidium Partei [Adressverwalter 2, Kassier 2, Mitglied 3, Praesident 1]>
    <Ort Altishofen Ebersecken>
     <OrtSympathisanten Sympathisanten [Sympathisant 77]>
-    <OrtGewaehlte Exekutive [Fraktionschef 2, KommunaleExekutive 7, tbd:Gemeindammann 1]>
+    <OrtArbeitsgruppe Arbeitsgruppe [Mitglied 3]>
+    <OrtGewaehlte Gewaehlte [MitgliedWeitereGemeindeKommissionen 2, Schulpflegekommission 3]>
+    <OrtGewaehlte Exekutive [Fraktionschef 2, KommunaleExekutive 8]>
     <OrtMitglieder Mitgliedschaften [Mitglied 62]>
-    <OrtPraesidium Partei [Adressverwalter 2, Kassier 2, Mitglied 16, Praesident 2, tbd:Bildungskommission 3, tbd:Einbürgerungskommission 1, tbd:Plakatierer 2, tbd:Rechnungsprüfungskommission Mitgl. 1, tbd:Urnenbüro Mitgl. 1]>
+    <OrtPraesidium Partei [Adressverwalter 2, Kassier 2, Mitglied 16, Praesident 2]>
    <Ort Dagmersellen>
     <OrtSympathisanten Sympathisanten [Sympathisant 210]>
-    <OrtGewaehlte Exekutive [Fraktionschef 1, KommunaleExekutive 8, tbd:Gemeindammann 1, tbd:Gemeindeschreiber 2]>
+    <OrtArbeitsgruppe Arbeitsgruppe [Mitglied 3]>
+    <OrtGewaehlte Gewaehlte [MitgliedWeitereGemeindeKommissionen 13, Schulpflegekommission 10]>
+    <OrtSekretariat Sekretariat [Webadministrator 1]>
+    <OrtGewaehlte Exekutive [Fraktionschef 1, KommunaleExekutive 9, MitgliedWeitereGemeindeKommissionen 2]>
     <OrtMitglieder Mitgliedschaften [Mitglied 28]>
-    <OrtPraesidium Partei [Adressverwalter 16, Kassier 2, Mitglied 19, Praesident 3, tbd:Bildungskommission 10, tbd:Einbürgerungskommission 8, tbd:Rechnungsprüfungskommission Mitgl. 5, tbd:Urnenbüro Mitgl. 3, tbd:Webadministrator 1]>
+    <OrtPraesidium Partei [Adressverwalter 16, Kassier 2, Mitglied 19, Praesident 3]>
    <Ort Ebersecken>
-    <OrtGewaehlte Exekutive [Fraktionschef 2, KommunaleExekutive 3, tbd:Gemeindammann 1]>
+    <OrtGewaehlte Exekutive [Fraktionschef 2, KommunaleExekutive 4]>
    <Ort Egolzwil>
     <OrtSympathisanten Sympathisanten [Sympathisant 156]>
-    <OrtGewaehlte Exekutive [Fraktionschef 2, KommunaleExekutive 8, tbd:Gemeindeschreiber 1, tbd:Sozialvorsteher 1]>
+    <OrtArbeitsgruppe Arbeitsgruppe [Mitglied 4]>
+    <OrtGewaehlte Gewaehlte [MitgliedWeitereGemeindeKommissionen 10, Schulpflegekommission 4]>
+    <OrtSekretariat Sekretariat [Webadministrator 1]>
+    <OrtExterneKontakte ExterneKontakte [Kontakt 365]>
+    <OrtGewaehlte Exekutive [Fraktionschef 2, KommunaleExekutive 8, MitgliedWeitereGemeindeKommissionen 2]>
     <OrtMitglieder Mitgliedschaften [Mitglied 77]>
-    <OrtPraesidium Partei [Adressverwalter 2, Kassier 1, Mitglied 12, Praesident 3, tbd:Bildungskommission 4, tbd:Einbürgerungskommission 5, tbd:Plakatierer 1, tbd:Rechnungsprüfungskommission Mitgl. 5, tbd:Urnenbüro Mitgl. 3, tbd:Webadministrator 1, tbd:potentieller Wähler 365]>
+    <OrtPraesidium Partei [Adressverwalter 2, Kassier 1, Mitglied 12, Praesident 3]>
    <Ort Ettiswil>
     <OrtSympathisanten Sympathisanten [Sympathisant 208]>
-    <OrtArbeitsgruppe Jassen [tbd:Kontakt 57]>
-    <OrtGewaehlte Exekutive [Fraktionschef 1, KommunaleExekutive 5, tbd:Gemeindeschreiber 2, tbd:Sozialvorsteher 1]>
+    <OrtArbeitsgruppe Arbeitsgruppe [Mitglied 2]>
+    <OrtGewaehlte Gewaehlte [MitgliedWeitereGemeindeKommissionen 2, Schulpflegekommission 3]>
+    <OrtExterneKontakte ExterneKontakte [Kontakt 57]>
+    <OrtGewaehlte Exekutive [Fraktionschef 1, KommunaleExekutive 5, MitgliedWeitereGemeindeKommissionen 3]>
     <OrtMitglieder Mitgliedschaften [Mitglied 1]>
-    <OrtPraesidium Partei [Adressverwalter 16, Kassier 2, Mitglied 14, Praesident 2, tbd:Bildungskommission 3, tbd:Plakatierer 2, tbd:Rechnungsprüfungskommission Mitgl. 2]>
+    <OrtPraesidium Partei [Adressverwalter 16, Kassier 2, Mitglied 14, Praesident 2]>
    <Ort Fischbach>
     <OrtSympathisanten Sympathisanten [Sympathisant 35]>
-    <OrtGewaehlte Exekutive [Fraktionschef 2, KommunaleExekutive 5, tbd:Gemeindammann 1, tbd:Sozialvorsteher 1]>
+    <OrtGewaehlte Gewaehlte [Schulpflegekommission 2]>
+    <OrtGewaehlte Exekutive [Fraktionschef 2, KommunaleExekutive 6, MitgliedWeitereGemeindeKommissionen 1]>
     <OrtMitglieder Mitgliedschaften [Mitglied 1]>
-    <OrtPraesidium Partei [Kassier 1, Mitglied 1, Praesident 3, tbd:Bildungskommission 2]>
+    <OrtPraesidium Partei [Kassier 1, Mitglied 1, Praesident 3]>
    <Ort Gettnau>
     <OrtSympathisanten Sympathisanten [Sympathisant 52]>
-    <OrtArbeitsgruppe Jagdrevierkommission [tbd:Mitglied 1]>
-    <OrtArbeitsgruppe Rechnungsrevisor CVP Gettnau [tbd:Mitglied 1]>
-    <OrtGewaehlte Exekutive [Fraktionschef 1, KommunaleExekutive 5, tbd:Gemeindammann 1, tbd:Gemeindeschreiber 1, tbd:Kirchenrat 3, tbd:Sozialvorsteher 1]>
-    <OrtMitglieder Mitgliedschaften [Mitglied 12]>
-    <OrtPraesidium Partei [Kassier 5, Mitglied 14, Praesident 2, tbd:Baukommission 1, tbd:Beisitzer 1, tbd:Bildungskommission 3, tbd:Plakatierer 2, tbd:Rechnungsprüfungskommission Mitgl. 1, tbd:Urnenbüro Mitgl. 5]>
+    <OrtArbeitsgruppe Arbeitsgruppe [Mitglied 7]>
+    <OrtGewaehlte Gewaehlte [MitgliedWeitereGemeindeKommissionen 2, Schulpflegekommission 3]>
+    <OrtGewaehlte Exekutive [Fraktionschef 1, KommunaleExekutive 6, MitgliedWeitereGemeindeKommissionen 5]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 14]>
+    <OrtPraesidium Partei [Kassier 5, Mitglied 15, Praesident 2]>
    <Ort Grossdietwil>
     <OrtSympathisanten Sympathisanten [Sympathisant 19]>
-    <OrtGewaehlte Exekutive [KommunaleExekutive 5, tbd:Gemeindammann 2, tbd:Sozialvorsteher 1]>
+    <OrtArbeitsgruppe Arbeitsgruppe [Mitglied 2]>
+    <OrtGewaehlte Gewaehlte [MitgliedWeitereGemeindeKommissionen 2, Schulpflegekommission 1]>
+    <OrtGewaehlte Exekutive [KommunaleExekutive 7, MitgliedWeitereGemeindeKommissionen 1]>
     <OrtMitglieder Mitgliedschaften [Mitglied 13]>
-    <OrtPraesidium Partei [Adressverwalter 2, Kassier 1, Mitglied 6, Praesident 2, tbd:Bildungskommission 1, tbd:Plakatierer 2, tbd:Rechnungsprüfungskommission Mitgl. 2]>
+    <OrtPraesidium Partei [Adressverwalter 2, Kassier 1, Mitglied 6, Praesident 2]>
    <Ort Hergiswil>
     <OrtSympathisanten Sympathisanten [Sympathisant 40]>
-    <OrtGewaehlte Exekutive [Fraktionschef 1, KommunaleExekutive 6, tbd:Gemeindammann 2, tbd:Gemeindeschreiber 1, tbd:Sozialvorsteher 2]>
+    <OrtArbeitsgruppe Arbeitsgruppe [Mitglied 5]>
+    <OrtGewaehlte Gewaehlte [MitgliedWeitereGemeindeKommissionen 2, Schulpflegekommission 5]>
+    <OrtGewaehlte Exekutive [Fraktionschef 1, KommunaleExekutive 8, MitgliedWeitereGemeindeKommissionen 3]>
     <OrtMitglieder Mitgliedschaften [Mitglied 12]>
-    <OrtPraesidium Partei [Adressverwalter 5, Kassier 1, Mitglied 5, Praesident 2, tbd:Bildungskommission 5, tbd:Plakatierer 1, tbd:Rechnungsprüfungskommission Mitgl. 2, tbd:Urnenbüro Mitgl. 4]>
-   <Ort Infomail [tbd:Empfänger 3]>
+    <OrtPraesidium Partei [Adressverwalter 5, Kassier 1, Mitglied 5, Praesident 2]>
+   <Ort Infomail>
+    <OrtArbeitsgruppe Arbeitsgruppe [Mitglied 3]>
    <Ort Luthern>
     <OrtSympathisanten Sympathisanten [Sympathisant 52]>
-    <OrtGewaehlte Exekutive [Fraktionschef 2, KommunaleExekutive 7, tbd:Gemeindammann 1, tbd:Gemeindeschreiber 1, tbd:Sozialvorsteher 1]>
+    <OrtGewaehlte Gewaehlte [Schulpflegekommission 2]>
+    <OrtGewaehlte Exekutive [Fraktionschef 2, KommunaleExekutive 8, MitgliedWeitereGemeindeKommissionen 2]>
     <OrtMitglieder Mitgliedschaften [Mitglied 13]>
-    <OrtPraesidium Partei [Adressverwalter 1, Kassier 1, Mitglied 6, Praesident 1, tbd:Bildungskommission 2]>
+    <OrtPraesidium Partei [Adressverwalter 1, Kassier 1, Mitglied 6, Praesident 1]>
    <Ort Menznau>
     <OrtSympathisanten Sympathisanten [Sympathisant 208]>
-    <OrtGewaehlte Exekutive [Fraktionschef 2, KommunaleExekutive 3, tbd:Gemeindammann 1]>
-    <OrtPraesidium Partei [Adressverwalter 2, Kassier 1, Mitglied 4, Praesident 1, tbd:Bildungskommission 5, tbd:Einbürgerungskommission 4, tbd:Plakatierer 1, tbd:Rechnungsprüfungskommission Mitgl. 2, tbd:Urnenbüro Mitgl. 6]>
+    <OrtArbeitsgruppe Arbeitsgruppe [Mitglied 7]>
+    <OrtGewaehlte Gewaehlte [MitgliedWeitereGemeindeKommissionen 6, Schulpflegekommission 5]>
+    <OrtGewaehlte Exekutive [Fraktionschef 2, KommunaleExekutive 4]>
+    <OrtPraesidium Partei [Adressverwalter 2, Kassier 1, Mitglied 4, Praesident 1]>
    <Ort Nebikon>
     <OrtSympathisanten Sympathisanten [Sympathisant 43]>
-    <OrtGewaehlte Exekutive [KommunaleExekutive 1, tbd:Sozialvorsteher 1]>
+    <OrtArbeitsgruppe Arbeitsgruppe [Mitglied 1]>
+    <OrtGewaehlte Gewaehlte [MitgliedWeitereGemeindeKommissionen 5, Schulpflegekommission 3]>
+    <OrtGewaehlte Exekutive [KommunaleExekutive 1, MitgliedWeitereGemeindeKommissionen 1]>
     <OrtMitglieder Mitgliedschaften [Mitglied 5]>
-    <OrtPraesidium Partei [Adressverwalter 1, Kassier 1, Mitglied 5, Praesident 1, tbd:Bildungskommission 3, tbd:Einbürgerungskommission 3, tbd:Rechnungsprüfungskommission Mitgl. 2, tbd:Urnenbüro Mitgl. 1]>
-   <Ort Newsletter [tbd:Empfänger 766]>
+    <OrtPraesidium Partei [Adressverwalter 1, Kassier 1, Mitglied 5, Praesident 1]>
+   <Ort Newsletter>
+    <OrtArbeitsgruppe Arbeitsgruppe [Mitglied 766]>
    <Ort Pfaffnau/St. Urban>
     <OrtSympathisanten Sympathisanten [Sympathisant 61]>
-    <OrtGewaehlte Exekutive [Fraktionschef 1, KommunaleExekutive 6, tbd:Gemeindeschreiber 1, tbd:Sozialvorsteher 2]>
+    <OrtArbeitsgruppe Arbeitsgruppe [Mitglied 1]>
+    <OrtGewaehlte Gewaehlte [MitgliedWeitereGemeindeKommissionen 2, Schulpflegekommission 5]>
+    <OrtGewaehlte Exekutive [Fraktionschef 1, KommunaleExekutive 6, MitgliedWeitereGemeindeKommissionen 3]>
     <OrtMitglieder Mitgliedschaften [Mitglied 12]>
-    <OrtPraesidium Partei [Adressverwalter 1, Kassier 3, Mitglied 12, Praesident 1, tbd:Bildungskommission 5, tbd:Einbürgerungskommission 2, tbd:Plakatierer 1]>
+    <OrtPraesidium Partei [Adressverwalter 1, Kassier 3, Mitglied 12, Praesident 1]>
    <Ort Reiden>
     <OrtSympathisanten Sympathisanten [Sympathisant 320]>
-    <OrtArbeitsgruppe Ressort Gemeindepolitik/Gemeindeentwicklung [tbd:Mitglied 5]>
+    <OrtArbeitsgruppe Arbeitsgruppe [Mitglied 6]>
+    <OrtGewaehlte Gewaehlte [MitgliedWeitereGemeindeKommissionen 4, Schulpflegekommission 4]>
+    <OrtSekretariat Sekretariat [Webadministrator 1]>
     <OrtGewaehlte Exekutive [Fraktionschef 1, KommunaleExekutive 3]>
     <OrtGewaehlte Ressort Bildung/Jugend/Familie/Freizeit [KommunaleExekutive 4]>
-    <OrtMitglieder Mitgliedschaften [Mitglied 19]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 24]>
     <OrtPraesidium Delegierter Ortspartei von Amtes wegen [Mitglied 2]>
-    <OrtPraesidium Partei [Adressverwalter 8, Kassier 3, Mitglied 30, Praesident 6, tbd:Bildungskommission 4, tbd:Delegierter Ortspartei 5, tbd:Einbürgerungskommission 2, tbd:Plakatierer 3, tbd:Rechnungsprüfungskommission Mitgl. 2, tbd:Urnenbüro Mitgl. 3, tbd:Webadministrator 1]>
+    <OrtPraesidium Partei [Adressverwalter 8, Kassier 3, Mitglied 30, Praesident 6]>
    <Ort Roggliswil>
     <OrtSympathisanten Sympathisanten [Sympathisant 11]>
-    <OrtGewaehlte Exekutive [Fraktionschef 1, KommunaleExekutive 1, tbd:Gemeindammann 1]>
+    <OrtGewaehlte Gewaehlte [Schulpflegekommission 3]>
+    <OrtGewaehlte Exekutive [Fraktionschef 1, KommunaleExekutive 2]>
     <OrtMitglieder Mitgliedschaften [Mitglied 4]>
-    <OrtPraesidium Partei [Kassier 1, Mitglied 4, Praesident 2, tbd:Bildungskommission 3]>
+    <OrtPraesidium Partei [Kassier 1, Mitglied 4, Praesident 2]>
    <Ort Schötz>
     <OrtSympathisanten Sympathisanten [Sympathisant 373]>
-    <OrtGewaehlte Exekutive [Fraktionschef 3, KommunaleExekutive 5, tbd:Gemeindammann 1, tbd:Gemeindeschreiber 1, tbd:Sozialvorsteher 1]>
+    <OrtArbeitsgruppe Arbeitsgruppe [Mitglied 8]>
+    <OrtGewaehlte Gewaehlte [MitgliedWeitereGemeindeKommissionen 5, Schulpflegekommission 8]>
+    <OrtGewaehlte Exekutive [Fraktionschef 3, KommunaleExekutive 6, MitgliedWeitereGemeindeKommissionen 2]>
     <OrtMitglieder Mitgliedschaften [Mitglied 47]>
-    <OrtPraesidium Partei [Adressverwalter 3, Kassier 1, Mitglied 13, Praesident 1, tbd:Bildungskommission 8, tbd:Einbürgerungskommission 2, tbd:Plakatierer 2, tbd:Rechnungsprüfungskommission Mitgl. 3, tbd:Urnenbüro Mitgl. 6]>
+    <OrtPraesidium Partei [Adressverwalter 3, Kassier 1, Mitglied 13, Praesident 1]>
    <Ort Ufhusen>
     <OrtSympathisanten Sympathisanten [Sympathisant 45]>
-    <OrtGewaehlte Exekutive [Fraktionschef 1, KommunaleExekutive 4, tbd:Gemeindeschreiber 1]>
+    <OrtArbeitsgruppe Arbeitsgruppe [Mitglied 4]>
+    <OrtGewaehlte Gewaehlte [MitgliedWeitereGemeindeKommissionen 3, Schulpflegekommission 3]>
+    <OrtSekretariat Sekretariat [Webadministrator 1]>
+    <OrtGewaehlte Exekutive [Fraktionschef 1, KommunaleExekutive 4, MitgliedWeitereGemeindeKommissionen 1]>
     <OrtMitglieder Mitgliedschaften [Mitglied 11]>
-    <OrtPraesidium Partei [Kassier 2, Mitglied 7, Praesident 3, tbd:Bildungskommission 3, tbd:Rechnungsprüfungskommission Mitgl. 3, tbd:Urnenbüro Mitgl. 4, tbd:Webadministrator 1]>
+    <OrtPraesidium Partei [Kassier 2, Mitglied 7, Praesident 3]>
    <Ort Wauwil>
     <OrtSympathisanten Sympathisanten [Sympathisant 121]>
-    <OrtGewaehlte Exekutive [Fraktionschef 4, KommunaleExekutive 5, tbd:Gemeindeschreiber 1]>
+    <OrtArbeitsgruppe Arbeitsgruppe [Mitglied 6]>
+    <OrtGewaehlte Gewaehlte [MitgliedWeitereGemeindeKommissionen 7, Schulpflegekommission 5]>
+    <OrtGewaehlte Exekutive [Fraktionschef 4, KommunaleExekutive 5, MitgliedWeitereGemeindeKommissionen 1]>
     <OrtMitglieder Mitgliedschaften [Mitglied 58]>
-    <OrtPraesidium Partei [Adressverwalter 15, Kassier 1, Mitglied 18, Praesident 4, tbd:Bildungskommission 5, tbd:Einbürgerungskommission 6, tbd:Plakatierer 2, tbd:Rechnungsprüfungskommission Mitgl. 1, tbd:Urnenbüro Mitgl. 4]>
+    <OrtPraesidium Partei [Adressverwalter 15, Kassier 1, Mitglied 18, Praesident 4]>
    <Ort Wikon>
     <OrtSympathisanten Sympathisanten [Sympathisant 63]>
-    <OrtGewaehlte Exekutive [Fraktionschef 1, KommunaleExekutive 4, tbd:Sozialvorsteher 3]>
+    <OrtGewaehlte Exekutive [Fraktionschef 1, KommunaleExekutive 4, MitgliedWeitereGemeindeKommissionen 3]>
     <OrtMitglieder Mitgliedschaften [Mitglied 8]>
     <OrtPraesidium Partei [Kassier 1, Mitglied 9, Praesident 2]>
    <Ort Willisau>
     <OrtSympathisanten Sympathisanten [Sympathisant 177]>
-    <OrtGewaehlte Exekutive [KommunaleExekutive 3, tbd:Gemeindammann 1, tbd:Gemeindeschreiber 1]>
+    <OrtArbeitsgruppe Arbeitsgruppe [Mitglied 10]>
+    <OrtGewaehlte Gewaehlte [MitgliedWeitereGemeindeKommissionen 11, Schulpflegekommission 4]>
+    <OrtGewaehlte Exekutive [KommunaleExekutive 4, MitgliedWeitereGemeindeKommissionen 1]>
     <OrtMitglieder Mitgliedschaften [Mitglied 35]>
-    <OrtPraesidium Partei [Adressverwalter 10, Kassier 1, Mitglied 10, Praesident 1, tbd:Bildungskommission 4, tbd:Einbürgerungskommission 8, tbd:Plakatierer 1, tbd:Rechnungsprüfungskommission Mitgl. 3, tbd:Urnenbüro Mitgl. 9]>
+    <OrtPraesidium Partei [Adressverwalter 10, Kassier 1, Mitglied 10, Praesident 1]>
    <Ort Zell>
     <OrtSympathisanten Sympathisanten [Sympathisant 52]>
-    <OrtGewaehlte Exekutive [Fraktionschef 1, KommunaleExekutive 6, tbd:Gemeindeschreiber 1]>
+    <OrtArbeitsgruppe Arbeitsgruppe [Mitglied 3]>
+    <OrtGewaehlte Gewaehlte [MitgliedWeitereGemeindeKommissionen 5, Schulpflegekommission 7]>
+    <OrtGewaehlte Exekutive [Fraktionschef 1, KommunaleExekutive 6, MitgliedWeitereGemeindeKommissionen 1]>
     <OrtMitglieder Mitgliedschaften [Mitglied 50]>
-    <OrtPraesidium Partei [Adressverwalter 1, Kassier 1, Mitglied 13, Praesident 3, tbd:Bildungskommission 7, tbd:Rechnungsprüfungskommission Mitgl. 5, tbd:Urnenbüro Mitgl. 3]>
+    <OrtPraesidium Partei [Adressverwalter 1, Kassier 1, Mitglied 13, Praesident 3]>

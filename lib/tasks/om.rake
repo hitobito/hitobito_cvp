@@ -48,6 +48,7 @@ namespace :om do
         Structure::Groups::MAPPINGS
 
       selected = selected.merge(all: [1]) if args[:key].blank?
+      selected = { all: [1] } if args[:key] == 'all'
 
       selected.each do |key, group_ids|
         dir = File.join(File.dirname(__FILE__), '../../generated')

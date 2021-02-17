@@ -1,6 +1,8 @@
 <Bund CVP Schweiz>
  <Vereinigung CSV>
-  <VereinigungPraesidium CSV Schweiz [Kassier 1, Mitglied 334, Praesident 8, tbd:Delegierter 7, tbd:Sekretär 3, tbd:Sekretär Kantonalpartei/Vereinigung 1]>
+  <VereinigungSekretariat Sekretariat [Leitung 4]>
+  <VereinigungDelegierte Delegierte [Delegierte 7]>
+  <VereinigungPraesidium CSV Schweiz [Kassier 1, Mitglied 334, Praesident 8]>
   <Kanton AG>
    <KantonSympathisanten Sympathisanten [Sympathisant 288]>
    <KantonMitglieder Mitgliedschaften [Mitglied 91]>

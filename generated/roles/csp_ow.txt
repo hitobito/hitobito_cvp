@@ -1,16 +1,19 @@
 <Bund CVP Schweiz>
- <BundGewaehlte Departement Bundesrat Nr. 1 [Bundesrat 5, tbd:Pers. Mitarbeiter Bundesrat 3]>
- <BundGewaehlte Nationalrat [Nationalrat 126, tbd:Nationalrat Partner 12]>
- <BundGewaehlte Ständerat [Staenderat 47, tbd:Ständerat Partner 2]>
+ <BundArbeitsgruppe Arbeitsgruppe [Mitglied 5]>
+ <BundGewaehlte Departement Bundesrat Nr. 1 [Bundesrat 5]>
+ <BundGewaehlte Nationalrat [Nationalrat 139]>
+ <BundGewaehlte Ständerat [Staenderat 47]>
  <Kanton CSP Oberwallis>
   <KantonSympathisanten Sympathisanten [Sympathisant 1324]>
+  <KantonGewaehlte Gewaehlte [WeitereMandate 7]>
+  <KantonSekretariat Sekretariat [Leitung 1]>
+  <KantonArbeitsgruppe Arbeitsgruppe [Mitglied 111]>
   <KantonArbeitsgruppe 60+ CSPO>
-   <KantonArbeitsgruppe Kernteam [Praesident 3, tbd:Beisitzer 2]>
+   <KantonArbeitsgruppe Kernteam [Gast 2, Praesident 3]>
   <KantonArbeitsgruppe CSPO Frauen [Mitglied 67]>
-  <KantonArbeitsgruppe Mandatsträger [tbd:Nationalrat 1, tbd:Präfekt 2, tbd:Vizepräfekt 5]>
   <KantonArbeitsgruppe Mitglied 300er [Mitglied 39]>
   <KantonGewaehlte Regierungsrat [KantonaleExekutive 3]>
-  <KantonGewaehlte Judikative [MitgliedKantonalesGerichtErsteInstanz 2, Staatsanwaltschaft 2, tbd:Bezirksrichter 1]>
-  <KantonGewaehlte Legislative [KantonaleLegislative 19, tbd:Suppleant 11]>
+  <KantonGewaehlte Judikative [MitgliedKantonalesGerichtErsteInstanz 3, Staatsanwaltschaft 2]>
+  <KantonGewaehlte Legislative [KantonaleLegislative 19, WeitereMandate 11]>
   <KantonMitglieder Mitgliedschaften [Mitglied 491]>
-  <KantonPraesidium Partei [Praesident 3, tbd:Empfänger Rechnung Jahresbeitrag CVP CH 1, tbd:Empfänger Umzugsmeldung 1, tbd:Partner 110, tbd:Sekretär Kantonalpartei/Vereinigung 1]>
+  <KantonPraesidium Partei [Mitglied 1, Praesident 3]>
