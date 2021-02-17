@@ -16,6 +16,7 @@ module Structure
 
     ROLE_STEPS = [
       Structure::Steps::Role::Type,
+      Structure::Steps::Role::Merkmale,
     ]
 
     BUND_GEWAEHLTE = [14763, 14860, 14861]
