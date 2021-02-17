@@ -1,22 +1,23 @@
 <Bund CVP Schweiz>
- <BundGewaehlte Departement Bundesrat Nr. 1 [Bundesrat 5, tbd:Pers. Mitarbeiter Bundesrat 3]>
- <BundGewaehlte Nationalrat [Nationalrat 126, tbd:Nationalrat Partner 12]>
- <BundGewaehlte Ständerat [Staenderat 47, tbd:Ständerat Partner 2]>
+ <BundArbeitsgruppe Arbeitsgruppe [Mitglied 5]>
+ <BundGewaehlte Departement Bundesrat Nr. 1 [Bundesrat 5]>
+ <BundGewaehlte Nationalrat [Nationalrat 138]>
+ <BundGewaehlte Ständerat [Staenderat 47]>
  <Kanton CVP OW>
   <KantonSympathisanten Sympathisanten [Sympathisant 1]>
+  <KantonSekretariat Sekretariat [Leitung 5, Mitarbeiter 3]>
+  <KantonArbeitsgruppe Arbeitsgruppe [Mitglied 3, Praesident 1]>
   <KantonGewaehlte Regierungsrat [KantonaleExekutive 1]>
-  <KantonGewaehlte Judikative>
-   <KantonGewaehlte Kantonsgericht [tbd:Mitglied 3]>
-   <KantonGewaehlte Obergericht [tbd:Mitglied 9]>
-   <KantonGewaehlte Verwaltungsgericht [tbd:Mitglied 3]>
-  <KantonGewaehlte Legislative [KantonaleLegislative 43, tbd:Fraktionspräsident 2, tbd:Präsident 1]>
-  <KantonMitglieder Mitgliedschaften [Mitglied 5]>
-  <KantonParteigremium Vorstand [Mitglied 3, Praesident 2, tbd:Sekretär 2]>
-  <KantonPraesidium Partei [Mitglied 8, Praesident 5, tbd:Ansprechperson Finanzen 1, tbd:Empfänger Rechnung Jahresbeitrag CVP CH 2, tbd:Leserbriefschreiber/-in Verantw. 1, tbd:OM Ansprechperson 2, tbd:Sekretär (administrativ) 1, tbd:Sekretär Kantonalpartei/Vereinigung 3]>
+  <KantonGewaehlte Legislative [Fraktionschef 2, KantonaleLegislative 43]>
+  <KantonMitglieder Mitgliedschaften [Mitglied 20]>
+  <KantonParteigremium Vorstand [Mitglied 3, Praesident 2]>
+  <KantonPraesidium Partei [Kassier 1, Mitglied 8, Praesident 5]>
   <Ort Alpnach>
+   <OrtSekretariat Sekretariat [Leitung 1]>
+   <OrtExterneKontakte ExterneKontakte [Kontakt 154]>
    <OrtGewaehlte Exekutive [KommunaleExekutive 6]>
    <OrtMitglieder Mitgliedschaften [Mitglied 95]>
-   <OrtPraesidium Partei [Adressverwalter 3, Kassier 1, Mitglied 9, Praesident 2, tbd:Interessent 154, tbd:Sekretär 1]>
+   <OrtPraesidium Partei [Adressverwalter 3, Kassier 1, Mitglied 9, Praesident 2]>
   <Ort Engelberg [mit Grafenort]>
    <OrtSympathisanten Sympathisanten [Sympathisant 1]>
    <OrtGewaehlte Exekutive [KommunaleExekutive 1]>
@@ -42,6 +43,8 @@
    <OrtPraesidium Partei [Adressverwalter 1, Praesident 1]>
   <Ort Sarnen [mit Ramersberg, Wilen, Stalden & Kägiswil]>
    <OrtSympathisanten Sympathisanten [Sympathisant 4]>
+   <OrtSekretariat Sekretariat [Leitung 1]>
+   <OrtParteigremium Parteigremium [Mitglied 3]>
    <OrtGewaehlte Exekutive [Fraktionschef 2, KommunaleExekutive 5]>
    <OrtMitglieder Mitgliedschaften [Mitglied 154]>
-   <OrtPraesidium Partei [Adressverwalter 6, Kassier 1, Mitglied 13, Praesident 3, tbd:Revisor 3, tbd:Sekretär 1]>
+   <OrtPraesidium Partei [Adressverwalter 6, Kassier 1, Mitglied 13, Praesident 3]>

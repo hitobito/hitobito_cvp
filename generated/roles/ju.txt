@@ -1,29 +1,35 @@
 <Bund CVP Schweiz>
- <BundGewaehlte Departement Bundesrat Nr. 1 [Bundesrat 5, tbd:Pers. Mitarbeiter Bundesrat 3]>
- <BundGewaehlte Nationalrat [Nationalrat 126, tbd:Nationalrat Partner 12]>
- <BundGewaehlte Ständerat [Staenderat 47, tbd:Ständerat Partner 2]>
+ <BundArbeitsgruppe Arbeitsgruppe [Mitglied 5]>
+ <BundGewaehlte Departement Bundesrat Nr. 1 [Bundesrat 5]>
+ <BundGewaehlte Nationalrat [Nationalrat 139]>
+ <BundGewaehlte Ständerat [Staenderat 48]>
  <Kanton CVP JU>
   <KantonSympathisanten Sympathisanten [Sympathisant 1]>
+  <KantonDelegierte Delegierte [Delegierte 1]>
+  <KantonGewaehlte Gewaehlte [WeitereMandate 1]>
+  <KantonSekretariat Sekretariat [Leitung 2, Mitarbeiter 2]>
+  <KantonArbeitsgruppe Arbeitsgruppe [Mitglied 32, Praesident 1]>
   <KantonExterneKontakte Newsletter [Kontakt 603]>
-  <KantonGewaehlte Regierungsrat [KantonaleExekutive 2, Staatsanwaltschaft 2, tbd:Juge de 1re instance 3, tbd:Privatsekretär 2, tbd:Präsident 1]>
-  <KantonGewaehlte Judikative [tbd:Juge au tribunal 4]>
+  <KantonGewaehlte Regierungsrat [KantonaleExekutive 2, MitgliedKantonalesGerichtErsteInstanz 3, Staatsanwaltschaft 2]>
+  <KantonGewaehlte Judikative [MitgliedKantonalesGerichtErsteInstanz 4]>
   <KantonGewaehlte Legislative [KantonaleLegislative 47]>
   <KantonKommission Politikkommission [Mitglied 23, Praesident 4]>
   <KantonMitglieder Mitgliedschaften [Mitglied 32]>
-  <KantonPraesidium Partei [Praesident 11, tbd:Ansprechperson Finanzen 3, tbd:Botschafter 1, tbd:Delegierte CVP Frauen CH 1, tbd:Empfänger Rechnung Jahresbeitrag CVP CH 6, tbd:Kanzler kantonal 1, tbd:Membre de AIJ 5, tbd:Membre de la Présidence 18, tbd:Nationalrat 1, tbd:OM Ansprechperson 1, tbd:Présidence élargie 19, tbd:Sekretär Kantonalpartei/Vereinigung 2, tbd:Ständerat 1, tbd:administrativer Sekretär 1]>
+  <KantonPraesidium Partei [Kassier 3, Mitglied 19, Praesident 11]>
   <Region Ajoie>
-   <RegionPraesidium Partei [Praesident 3, tbd:Kassier 1, tbd:Sekretär 3, tbd:Vorstandsmitglied 6]>
+   <RegionSekretariat Sekretariat [Leitung 3]>
+   <RegionPraesidium Partei [Mitglied 7, Praesident 3]>
    <Ort Alle>
-    <OrtGewaehlte Exekutive [Fraktionschef 2, KommunaleExekutive 7]>
+    <OrtGewaehlte Exekutive [Fraktionschef 2, KommunaleExekutive 8]>
     <OrtMitglieder Mitgliedschaften [Mitglied 70]>
-    <OrtPraesidium Partei [Adressverwalter 2, Praesident 2, tbd:Gemeindammann 1]>
+    <OrtPraesidium Partei [Adressverwalter 2, Praesident 2]>
    <Ort Asuel>
     <OrtMitglieder Mitgliedschaften [Mitglied 4]>
     <OrtPraesidium Partei [Praesident 1]>
    <Ort Baroche>
-    <OrtGewaehlte Exekutive [Fraktionschef 1, KommunaleExekutive 2]>
+    <OrtGewaehlte Exekutive [Fraktionschef 1, KommunaleExekutive 4]>
     <OrtMitglieder Mitgliedschaften [Mitglied 44]>
-    <OrtPraesidium Partei [Adressverwalter 1, tbd:Gemeindammann 2]>
+    <OrtPraesidium Partei [Adressverwalter 1]>
    <Ort Basse Allaine>
     <OrtGewaehlte Exekutive [Fraktionschef 1, KommunaleExekutive 3]>
     <OrtMitglieder Mitgliedschaften [Mitglied 107]>
@@ -42,13 +48,15 @@
    <Ort Buix>
     <OrtMitglieder Mitgliedschaften [Mitglied 66]>
    <Ort Bure>
+    <OrtSekretariat Sekretariat [Leitung 1]>
     <OrtGewaehlte Exekutive [Fraktionschef 3, KommunaleExekutive 3]>
     <OrtMitglieder Mitgliedschaften [Mitglied 74]>
-    <OrtPraesidium Partei [Praesident 1, tbd:Sekretär 1]>
+    <OrtPraesidium Partei [Praesident 1]>
    <Ort Clos du Doubs>
+    <OrtSekretariat Sekretariat [Leitung 1]>
     <OrtGewaehlte Exekutive [Fraktionschef 1, KommunaleExekutive 5]>
     <OrtMitglieder Mitgliedschaften [Mitglied 169]>
-    <OrtPraesidium Partei [Mitglied 8, Praesident 3, tbd:Sekretär 1]>
+    <OrtPraesidium Partei [Mitglied 8, Praesident 3]>
    <Ort Coeuve>
     <OrtGewaehlte Exekutive [Fraktionschef 1, KommunaleExekutive 2]>
     <OrtMitglieder Mitgliedschaften [Mitglied 63]>
@@ -79,9 +87,10 @@
     <OrtMitglieder Mitgliedschaften [Mitglied 8]>
     <OrtPraesidium Partei [Adressverwalter 1, Mitglied 1]>
    <Ort Fontenais>
+    <OrtSekretariat Sekretariat [Leitung 1]>
     <OrtGewaehlte Exekutive [Fraktionschef 2, KommunaleExekutive 3]>
     <OrtMitglieder Mitgliedschaften [Mitglied 62]>
-    <OrtPraesidium Partei [Adressverwalter 4, Mitglied 3, Praesident 2, tbd:Sekretär 1]>
+    <OrtPraesidium Partei [Adressverwalter 4, Mitglied 3, Praesident 2]>
    <Ort Grandfontaine>
     <OrtGewaehlte Exekutive [Fraktionschef 2, KommunaleExekutive 2]>
     <OrtMitglieder Mitgliedschaften [Mitglied 61]>
@@ -97,10 +106,10 @@
     <OrtMitglieder Mitgliedschaften [Mitglied 17]>
    <Ort Porrentruy>
     <OrtSympathisanten Sympathisanten [Sympathisant 3]>
-    <OrtArbeitsgruppe Legislativ [tbd:Mitglied 20]>
+    <OrtSekretariat Sekretariat [Leitung 2]>
     <OrtGewaehlte Exekutive [Fraktionschef 2, KommunaleExekutive 2]>
-    <OrtMitglieder Mitgliedschaften [Mitglied 406]>
-    <OrtPraesidium Partei [Adressverwalter 22, Mitglied 7, Praesident 2, tbd:Sekretär 2]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 426]>
+    <OrtPraesidium Partei [Adressverwalter 22, Mitglied 7, Praesident 2]>
    <Ort Rocourt (commune)>
     <OrtGewaehlte Exekutive [KommunaleExekutive 2]>
    <Ort Vendlincourt>
@@ -109,8 +118,9 @@
     <OrtPraesidium Partei [Praesident 1]>
   <Region Delémont>
    <RegionSympathisanten Sympathisanten [Sympathisant 2]>
+   <RegionSekretariat Sekretariat [Leitung 1]>
    <RegionMitglieder Mitgliedschaften [Mitglied 3]>
-   <RegionPraesidium Partei [Praesident 1, tbd:Sekretär 1, tbd:Vorstandsmitglied 1]>
+   <RegionPraesidium Partei [Mitglied 1, Praesident 1]>
    <Ort Bassecourt>
     <OrtPraesidium Partei [Praesident 2]>
    <Ort Bourrignon>
@@ -146,10 +156,10 @@
     <OrtPraesidium Partei [Adressverwalter 4, Praesident 1]>
    <Ort Delémont>
     <OrtSympathisanten Sympathisanten [Sympathisant 2]>
-    <OrtArbeitsgruppe Legislativ [tbd:Mitglied 13]>
+    <OrtSekretariat Sekretariat [Leitung 1]>
     <OrtGewaehlte Exekutive [Fraktionschef 1, KommunaleExekutive 1]>
-    <OrtMitglieder Mitgliedschaften [Mitglied 302]>
-    <OrtPraesidium Partei [Adressverwalter 24, Mitglied 4, Praesident 2, tbd:Sekretär 1]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 315]>
+    <OrtPraesidium Partei [Adressverwalter 24, Mitglied 4, Praesident 2]>
    <Ort Develier>
     <OrtGewaehlte Exekutive [KommunaleExekutive 3]>
     <OrtMitglieder Mitgliedschaften [Mitglied 196]>
@@ -161,9 +171,8 @@
     <OrtGewaehlte Exekutive [Fraktionschef 1]>
     <OrtPraesidium Partei [Praesident 1]>
    <Ort Haute-Sorne>
-    <OrtArbeitsgruppe Legislativ [tbd:Mitglied 15]>
     <OrtGewaehlte Exekutive [KommunaleExekutive 7]>
-    <OrtMitglieder Mitgliedschaften [Mitglied 372]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 387]>
     <OrtPraesidium Partei [Adressverwalter 9, Kassier 1, Praesident 1]>
    <Ort Mervelier>
     <OrtMitglieder Mitgliedschaften [Mitglied 19]>
@@ -175,9 +184,10 @@
     <OrtMitglieder Mitgliedschaften [Mitglied 14]>
     <OrtPraesidium Partei [Praesident 3]>
    <Ort Pleigne>
+    <OrtSekretariat Sekretariat [Leitung 1]>
     <OrtGewaehlte Exekutive [Fraktionschef 2, KommunaleExekutive 3]>
     <OrtMitglieder Mitgliedschaften [Mitglied 36]>
-    <OrtPraesidium Partei [Adressverwalter 1, Mitglied 5, Praesident 1, tbd:Sekretär 1]>
+    <OrtPraesidium Partei [Adressverwalter 1, Mitglied 5, Praesident 1]>
    <Ort Rebeuvelier>
     <OrtMitglieder Mitgliedschaften [Mitglied 1]>
    <Ort Rossemaison>
@@ -192,16 +202,16 @@
    <Ort Undervelier>
     <OrtPraesidium Partei [Praesident 1]>
    <Ort Val-Terbi>
-    <OrtArbeitsgruppe Legislativ [tbd:Mitglied 16]>
     <OrtGewaehlte Exekutive [Fraktionschef 1, KommunaleExekutive 5]>
-    <OrtMitglieder Mitgliedschaften [Mitglied 273]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 289]>
     <OrtPraesidium Partei [Adressverwalter 2, Praesident 1]>
    <Ort Vellerat>
     <OrtGewaehlte Exekutive [KommunaleExekutive 1]>
     <OrtMitglieder Mitgliedschaften [Mitglied 2]>
   <Region Franches-Montagnes>
+   <RegionSekretariat Sekretariat [Leitung 1]>
    <RegionMitglieder Mitgliedschaften [Mitglied 2]>
-   <RegionPraesidium Partei [Praesident 4, tbd:Sekretär 1, tbd:Vorstandsmitglied 1]>
+   <RegionPraesidium Partei [Mitglied 1, Praesident 4]>
    <Ort La Chaux-des-Breuleux>
     <OrtMitglieder Mitgliedschaften [Mitglied 6]>
     <OrtPraesidium Partei [Praesident 1]>
@@ -215,9 +225,8 @@
     <OrtMitglieder Mitgliedschaften [Mitglied 58]>
     <OrtPraesidium Partei [Adressverwalter 5, Praesident 1]>
    <Ort Les Bois>
-    <OrtArbeitsgruppe Legislativ [tbd:Mitglied 9]>
     <OrtGewaehlte Exekutive [Fraktionschef 1, KommunaleExekutive 2]>
-    <OrtMitglieder Mitgliedschaften [Mitglied 73]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 82]>
     <OrtPraesidium Partei [Adressverwalter 3, Praesident 2]>
    <Ort Les Breuleux>
     <OrtGewaehlte Exekutive [KommunaleExekutive 4]>
@@ -232,9 +241,10 @@
     <OrtGewaehlte Exekutive [KommunaleExekutive 1]>
     <OrtMitglieder Mitgliedschaften [Mitglied 39]>
    <Ort Saignelégier>
+    <OrtSekretariat Sekretariat [Leitung 2]>
     <OrtGewaehlte Exekutive [KommunaleExekutive 6]>
     <OrtMitglieder Mitgliedschaften [Mitglied 192]>
-    <OrtPraesidium Partei [Adressverwalter 11, Kassier 1, Mitglied 10, Praesident 3, tbd:Sekretär 2]>
+    <OrtPraesidium Partei [Adressverwalter 11, Kassier 1, Mitglied 10, Praesident 3]>
    <Ort Soubey>
     <OrtMitglieder Mitgliedschaften [Mitglied 20]>
     <OrtPraesidium Partei [Adressverwalter 1, Praesident 1]>
@@ -243,5 +253,6 @@
     <OrtPraesidium Partei [Praesident 1]>
   <Region Moutier>
    <RegionSympathisanten Sympathisanten [Sympathisant 1]>
+   <RegionSekretariat Sekretariat [Leitung 1]>
    <RegionMitglieder Mitgliedschaften [Mitglied 91]>
-   <RegionPraesidium Partei [Praesident 1, tbd:Kassier 1, tbd:Sekretär 1, tbd:Vorstandsmitglied 8]>
+   <RegionPraesidium Partei [Mitglied 9, Praesident 1]>

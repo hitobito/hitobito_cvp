@@ -1,48 +1,51 @@
 <Bund CVP Schweiz>
- <BundGewaehlte Departement Bundesrat Nr. 1 [Bundesrat 5, tbd:Pers. Mitarbeiter Bundesrat 3]>
- <BundGewaehlte Nationalrat [Nationalrat 126, tbd:Nationalrat Partner 12]>
- <BundGewaehlte Ständerat [Staenderat 47, tbd:Ständerat Partner 2]>
+ <BundArbeitsgruppe Arbeitsgruppe [Mitglied 5]>
+ <BundGewaehlte Departement Bundesrat Nr. 1 [Bundesrat 5]>
+ <BundGewaehlte Nationalrat [Nationalrat 141]>
+ <BundGewaehlte Ständerat [Staenderat 50]>
  <Kanton CVP GR>
   <KantonSympathisanten Sympathisanten [Sympathisant 74]>
-  <KantonArbeitsgruppe Alt-Mandatsträger/-innen [tbd:CVP Alt-Grossrat Deleg. Art.23 Ziff.1 lit.f 59]>
+  <KantonPraesidium Praesidium [Mitglied 1, Vizepraesident 7]>
+  <KantonGewaehlte Gewaehlte [MitgliedKantonalesGerichtErsteInstanz 1, WeitereMandate 5]>
+  <KantonSekretariat Sekretariat [Leitung 1]>
+  <KantonExterneKontakte ExterneKontakte [Kontakt 9, Spender 75]>
+  <KantonArbeitsgruppe Arbeitsgruppe [Mitglied 53, Praesident 5]>
+  <KantonArbeitsgruppe Alt-Mandatsträger/-innen [Mitglied 59]>
   <KantonDelegierte Delegiertenversammlung>
    <KantonDelegierte Delegierte der Regional- und Kreisparteien>
-    <KantonDelegierte CVP Frauen [tbd:Delegierter von Amtes wegen 14]>
-    <KantonDelegierte JCVP [tbd:Delegierter von Amtes wegen 23]>
-    <KantonDelegierte Kreispartei Chur [Delegierte 23, tbd:Delegierte CVP Frauen 2, tbd:Delegierter von Amtes wegen 23, tbd:Ersatzdelegierter 14]>
-    <KantonDelegierte Kreispartei Churwalden [Delegierte 2, tbd:Delegierte CVP Frauen 1, tbd:Delegierter von Amtes wegen 4]>
-    <KantonDelegierte Kreispartei Davos [Delegierte 1, tbd:Delegierter von Amtes wegen 1, tbd:Ersatzdelegierter 3]>
-    <KantonDelegierte Kreispartei Disentis [Delegierte 29, tbd:Delegierte CVP Frauen 1, tbd:Delegierter von Amtes wegen 20, tbd:Ersatzdelegierter 14]>
-    <KantonDelegierte Kreispartei Domleschg [Delegierte 1, tbd:Delegierte CVP Frauen 1, tbd:Delegierter von Amtes wegen 2]>
-    <KantonDelegierte Kreispartei Herrschaft [Delegierte 3, tbd:Delegierte CVP Frauen 2, tbd:Delegierter von Amtes wegen 3]>
-    <KantonDelegierte Kreispartei Ilanz [Delegierte 20, tbd:Delegierte CVP Frauen 3, tbd:Delegierter von Amtes wegen 21, tbd:Ersatzdelegierter 3]>
-    <KantonDelegierte Kreispartei Lugnez [Delegierte 10, tbd:Delegierte CVP Frauen 1, tbd:Delegierter von Amtes wegen 7, tbd:Ersatzdelegierter 5]>
-    <KantonDelegierte Kreispartei Oberengadin [Delegierte 6, tbd:Delegierte CVP Frauen 1, tbd:Delegierter von Amtes wegen 4, tbd:Ersatzdelegierter 1]>
-    <KantonDelegierte Kreispartei Ramosch [Delegierte 1, tbd:Delegierter von Amtes wegen 1]>
-    <KantonDelegierte Kreispartei Ruis [Delegierte 7, tbd:Delegierte CVP Frauen 1, tbd:Delegierter von Amtes wegen 4, tbd:Ersatzdelegierter 3]>
-    <KantonDelegierte Kreispartei Schanfigg [Delegierte 2, tbd:Delegierter von Amtes wegen 2, tbd:Ersatzdelegierter 2]>
-    <KantonDelegierte Kreispartei Thusis [Delegierte 5, tbd:Delegierte CVP Frauen 2, tbd:Delegierter von Amtes wegen 8, tbd:Ersatzdelegierter 2]>
-    <KantonDelegierte Kreispartei Val Mustair [Delegierte 1, tbd:Delegierte CVP Frauen 1, tbd:Delegierter von Amtes wegen 4, tbd:Ersatzdelegierter 3]>
-    <KantonDelegierte Kreispartei fünf Dörfer [Delegierte 12, tbd:Delegierte CVP Frauen 4, tbd:Delegierter von Amtes wegen 20, tbd:Ersatzdelegierter 5]>
-    <KantonDelegierte Nach Artikel 23 [tbd:Delegierter von Amtes wegen 6]>
-    <KantonDelegierte Regionalpartei Albula/Surses [Delegierte 13, tbd:Delegierte CVP Frauen 3, tbd:Delegierter von Amtes wegen 18, tbd:Ersatzdelegierter 4]>
-    <KantonDelegierte Regionalpartei Imboden [Delegierte 18, tbd:Delegierte CVP Frauen 5, tbd:Delegierter von Amtes wegen 21, tbd:Ersatzdelegierter 20]>
-    <KantonDelegierte Regionalpartei Moesa [Delegierte 11, tbd:Delegierte CVP Frauen 4, tbd:Delegierter von Amtes wegen 10, tbd:Ersatzdelegierter 10]>
-    <KantonDelegierte Regionalpartei Valposchiavo [Delegierte 13, tbd:Delegierte CVP Frauen 4, tbd:Delegierter von Amtes wegen 11, tbd:Ersatzdelegierter 7]>
-   <KantonDelegierte Gäste [tbd:Gast 4]>
-  <KantonExterneKontakte Bettelbrief [Kontakt 511, tbd:Zuzüger 1]>
+    <KantonDelegierte CVP Frauen [DelegierteVonAmtesWegen 14]>
+    <KantonDelegierte JCVP [DelegierteVonAmtesWegen 23]>
+    <KantonDelegierte Kreispartei Chur [Delegierte 25, DelegierteVonAmtesWegen 23, Ersatzdelegierte 14]>
+    <KantonDelegierte Kreispartei Churwalden [Delegierte 3, DelegierteVonAmtesWegen 4]>
+    <KantonDelegierte Kreispartei Davos [Delegierte 1, DelegierteVonAmtesWegen 1, Ersatzdelegierte 3]>
+    <KantonDelegierte Kreispartei Disentis [Delegierte 30, DelegierteVonAmtesWegen 20, Ersatzdelegierte 14]>
+    <KantonDelegierte Kreispartei Domleschg [Delegierte 2, DelegierteVonAmtesWegen 2]>
+    <KantonDelegierte Kreispartei Herrschaft [Delegierte 5, DelegierteVonAmtesWegen 3]>
+    <KantonDelegierte Kreispartei Ilanz [Delegierte 23, DelegierteVonAmtesWegen 21, Ersatzdelegierte 3]>
+    <KantonDelegierte Kreispartei Lugnez [Delegierte 11, DelegierteVonAmtesWegen 7, Ersatzdelegierte 5]>
+    <KantonDelegierte Kreispartei Oberengadin [Delegierte 7, DelegierteVonAmtesWegen 4, Ersatzdelegierte 1]>
+    <KantonDelegierte Kreispartei Ramosch [Delegierte 1, DelegierteVonAmtesWegen 1]>
+    <KantonDelegierte Kreispartei Ruis [Delegierte 8, DelegierteVonAmtesWegen 4, Ersatzdelegierte 3]>
+    <KantonDelegierte Kreispartei Schanfigg [Delegierte 2, DelegierteVonAmtesWegen 2, Ersatzdelegierte 2]>
+    <KantonDelegierte Kreispartei Thusis [Delegierte 7, DelegierteVonAmtesWegen 8, Ersatzdelegierte 2]>
+    <KantonDelegierte Kreispartei Val Mustair [Delegierte 2, DelegierteVonAmtesWegen 4, Ersatzdelegierte 3]>
+    <KantonDelegierte Kreispartei fünf Dörfer [Delegierte 16, DelegierteVonAmtesWegen 20, Ersatzdelegierte 5]>
+    <KantonDelegierte Nach Artikel 23 [DelegierteVonAmtesWegen 6]>
+    <KantonDelegierte Regionalpartei Albula/Surses [Delegierte 16, DelegierteVonAmtesWegen 18, Ersatzdelegierte 4]>
+    <KantonDelegierte Regionalpartei Imboden [Delegierte 23, DelegierteVonAmtesWegen 21, Ersatzdelegierte 20]>
+    <KantonDelegierte Regionalpartei Moesa [Delegierte 15, DelegierteVonAmtesWegen 10, Ersatzdelegierte 10]>
+    <KantonDelegierte Regionalpartei Valposchiavo [Delegierte 17, DelegierteVonAmtesWegen 11, Ersatzdelegierte 7]>
+   <KantonDelegierte Gäste [Delegierte 4]>
+  <KantonExterneKontakte Bettelbrief [Kontakt 511]>
   <KantonExterneKontakte Communiqués [Kontakt 141]>
   <KantonExterneKontakte Medienverteiler [Kontakt 79]>
   <KantonExterneKontakte Newsletter [Kontakt 928]>
-  <KantonGewaehlte Empfänger Jahresrechnung Kreis/Regionalpartei [tbd:Empfänger 16]>
   <KantonGewaehlte Regierungsrat [KantonaleExekutive 5]>
   <KantonGewaehlte Judikative>
-   <KantonGewaehlte Kantonsgericht [MitgliedKantonalesGerichtErsteInstanz 1, tbd:Mitglied 2]>
-   <KantonGewaehlte Regionalgericht [tbd:Mitglied 36, tbd:Präsident 5, tbd:Vizepräsident 6]>
-   <KantonGewaehlte Verwaltungsgericht [tbd:Mitglied 1, tbd:Vizepräsident 1]>
-  <KantonGewaehlte Legislative [KantonaleLegislative 94, tbd:Grossrat Stv. 67]>
-  <KantonMitglieder Mitgliedschaften [Mitglied 8]>
-  <KantonPraesidium Partei [Mitglied 134, Praesident 55, tbd:Ansprechperson Finanzen 1, tbd:Bankrat 2, tbd:Empfänger Rechnung Jahresbeitrag CVP CH 1, tbd:Gast Fraktionsabend 75, tbd:Kant. Beamter 36, tbd:Kassier 2, tbd:Kontakt 9, tbd:Nationalrat 3, tbd:Sekretär Kantonalpartei/Vereinigung 1, tbd:Ständerat 2]>
+   <KantonGewaehlte Kantonsgericht [MitgliedKantonalesGerichtErsteInstanz 1]>
+  <KantonGewaehlte Legislative [KantonaleLegislative 97, WeitereMandate 67]>
+  <KantonMitglieder Mitgliedschaften [Mitglied 47]>
+  <KantonPraesidium Partei [Kassier 1, Mitglied 136, Praesident 55]>
   <Ort Kreispartei Chur>
    <OrtSympathisanten Sympathisanten [Sympathisant 10]>
    <OrtGewaehlte Legislative [KommunaleExekutive 2]>
@@ -75,16 +78,19 @@
   <Region Regionalpartei Albula / Surses>
    <RegionSympathisanten Sympathisanten [Sympathisant 28]>
    <RegionMitglieder Mitgliedschaften [Mitglied 155]>
-   <RegionPraesidium Partei [Praesident 2, tbd:Empfänger Umzugsmeldung 1, tbd:Zuzüger 7]>
-   <Ort Kreispartei Alvaschein [tbd:Kontakt 13]>
-   <Ort Kreispartei Belfort [tbd:Kontakt 13]>
-   <Ort Kreispartei Surses [tbd:Kontakt 22]>
-   <Ort Mandatsträger [tbd:Grossrat 3, tbd:Grossrat Stv. 3, tbd:Regionalgerichtspräsident 1, tbd:Ständerat 1]>
-   <Ort Ortspartei Vaz/Obervaz [tbd:Kontakt 54]>
+   <RegionPraesidium Partei [Mitglied 8, Praesident 2]>
+   <Ort Kreispartei Alvaschein>
+    <OrtExterneKontakte ExterneKontakte [Kontakt 13]>
+   <Ort Kreispartei Belfort>
+    <OrtExterneKontakte ExterneKontakte [Kontakt 13]>
+   <Ort Kreispartei Surses>
+    <OrtExterneKontakte ExterneKontakte [Kontakt 22]>
+   <Ort Ortspartei Vaz/Obervaz>
+    <OrtExterneKontakte ExterneKontakte [Kontakt 54]>
   <Region Regionalpartei Imboden>
    <RegionSympathisanten Sympathisanten [Sympathisant 9]>
    <RegionMitglieder Mitgliedschaften [Mitglied 257]>
-   <RegionPraesidium Partei [Praesident 2, tbd:Vorstandsmitglied 1, tbd:Zuzüger 6]>
+   <RegionPraesidium Partei [Mitglied 7, Praesident 2]>
    <Ort Ortspartei Bonaduz>
     <OrtSympathisanten Sympathisanten [Sympathisant 4]>
     <OrtMitglieder Mitgliedschaften [Mitglied 77]>
@@ -93,12 +99,13 @@
     <OrtMitglieder Mitgliedschaften [Mitglied 154]>
     <OrtPraesidium Partei [Praesident 3]>
    <Ort Ortspartei Rhäzüns>
+    <OrtParteigremium Parteigremium [Mitglied 1]>
     <OrtMitglieder Mitgliedschaften [Mitglied 16]>
-    <OrtPraesidium Partei [Adressverwalter 1, Kassier 1, Praesident 3, tbd:Aktuar 1, tbd:Revisor 1]>
+    <OrtPraesidium Partei [Adressverwalter 1, Kassier 2, Praesident 3]>
   <Region Regionalpartei Landquart>
    <RegionSympathisanten Sympathisanten [Sympathisant 37]>
    <RegionMitglieder Mitgliedschaften [Mitglied 14]>
-   <RegionPraesidium Partei [Praesident 2, tbd:Empfänger Umzugsmeldung 1, tbd:Zuzüger 1]>
+   <RegionPraesidium Partei [Mitglied 2, Praesident 2]>
    <Ort Ortspartei Landquart>
     <OrtMitglieder Mitgliedschaften [Mitglied 112]>
     <OrtPraesidium Partei [Adressverwalter 3, Praesident 2]>
@@ -119,7 +126,7 @@
    <RegionPraesidium Partei [Praesident 1]>
   <Region Regionalpartei Surselva>
    <RegionMitglieder Mitgliedschaften [Mitglied 19]>
-   <RegionPraesidium Partei [Praesident 3, tbd:Empfänger Umzugsmeldung 1]>
+   <RegionPraesidium Partei [Mitglied 1, Praesident 3]>
    <Ort Kreispartei Disentis/Cadi>
     <OrtMitglieder Mitgliedschaften [Mitglied 176]>
     <OrtPraesidium Partei [Adressverwalter 2, Praesident 2]>
@@ -134,14 +141,14 @@
   <Region Regionalpartei Valposchiavo>
    <RegionSympathisanten Sympathisanten [Sympathisant 1]>
    <RegionMitglieder Mitgliedschaften [Mitglied 209]>
-   <RegionPraesidium Partei [Praesident 4, tbd:Zuzüger 1]>
+   <RegionPraesidium Partei [Mitglied 1, Praesident 4]>
   <Region Regionalpartei Viamala>
    <RegionSympathisanten Sympathisanten [Sympathisant 41]>
    <RegionMitglieder Mitgliedschaften [Mitglied 185]>
-   <RegionPraesidium Partei [Praesident 2, tbd:Zuzüger 1]>
+   <RegionPraesidium Partei [Mitglied 1, Praesident 2]>
    <Ort Ortspartei Cazis>
     <OrtMitglieder Mitgliedschaften [Mitglied 29]>
     <OrtPraesidium Partei [Praesident 1]>
    <Ort Ortspartei Thusis>
     <OrtMitglieder Mitgliedschaften [Mitglied 60]>
-    <OrtPraesidium Partei [Praesident 1, tbd:Vorstand 1]>
+    <OrtPraesidium Partei [Mitglied 1, Praesident 1]>

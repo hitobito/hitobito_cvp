@@ -1,20 +1,24 @@
 <Bund CVP Schweiz>
- <BundGewaehlte Departement Bundesrat Nr. 1 [Bundesrat 5, tbd:Pers. Mitarbeiter Bundesrat 3]>
- <BundGewaehlte Nationalrat [Nationalrat 126, tbd:Nationalrat Partner 12]>
- <BundGewaehlte Ständerat [Staenderat 47, tbd:Ständerat Partner 2]>
+ <BundArbeitsgruppe Arbeitsgruppe [Mitglied 5]>
+ <BundGewaehlte Departement Bundesrat Nr. 1 [Bundesrat 5]>
+ <BundGewaehlte Nationalrat [Nationalrat 138]>
+ <BundGewaehlte Ständerat [Staenderat 47]>
  <Kanton CVP BS>
-  <KantonSympathisanten Sympathisanten [Sympathisant 18]>
-  <KantonArbeitsgruppe Arbeitsgruppe Schule, Erziehung, Bildung (SEB) [Mitglied 18, tbd:Sympathisant 12, tbd:Vorstandsmitglied 3]>
+  <KantonSympathisanten Sympathisanten [Sympathisant 132]>
+  <KantonPraesidium Praesidium [Kassier 1, Mitglied 5]>
+  <KantonSekretariat Sekretariat [Leitung 1]>
+  <KantonArbeitsgruppe Arbeitsgruppe [Praesident 4]>
+  <KantonArbeitsgruppe Arbeitsgruppe Schule, Erziehung, Bildung (SEB) [Mitglied 18]>
   <KantonArbeitsgruppe BL/BS Organisationen>
-   <KantonArbeitsgruppe KAB [Mitglied 23, tbd:Sympathisant 1]>
-   <KantonArbeitsgruppe Mittelstandsvereinigung Basel [Mitglied 97, Praesident 1, tbd:Kassier 1, tbd:Sympathisant 33]>
-  <KantonArbeitsgruppe Diverse Funktionen [Praesident 2, tbd:Ansprechperson Finanzen 1, tbd:Empfänger Einladung 109, tbd:Empfänger Rechnung Jahresbeitrag CVP CH 1, tbd:Kassier 1, tbd:Medienverteiler 22, tbd:Plakatierer 2, tbd:Sekretär Kantonalpartei/Vereinigung 1]>
+   <KantonArbeitsgruppe KAB [Mitglied 23]>
+   <KantonArbeitsgruppe Mittelstandsvereinigung Basel [Mitglied 97, Praesident 1]>
+  <KantonArbeitsgruppe Diverse Funktionen [Mitglied 134, Praesident 2]>
   <KantonArbeitsgruppe Finanzen>
-   <KantonArbeitsgruppe Patronat [Mitglied 3, tbd:Sympathisant 68]>
+   <KantonArbeitsgruppe Patronat [Mitglied 3]>
   <KantonArbeitsgruppe Ratsexterne Kommissionen>
    <KantonArbeitsgruppe Erziehungsrat [Mitglied 1]>
    <KantonArbeitsgruppe Verwaltungsrat BVB [Mitglied 1]>
-  <KantonExterneKontakte Donatoren [Spender 129, tbd:Gast 11]>
+  <KantonExterneKontakte Donatoren [Kontakt 11, Spender 129]>
   <KantonExterneKontakte Fundraising [Spender 40]>
    <KantonExterneKontakte Grossunternehmen [Kontakt 86]>
    <KantonExterneKontakte KMU [Kontakt 121]>
@@ -24,12 +28,12 @@
   <KantonExterneKontakte Newsletter [Kontakt 650]>
   <KantonGewaehlte Regierungsrat [KantonaleExekutive 2]>
   <KantonGewaehlte Judikative>
-   <KantonGewaehlte Appellationsgericht [tbd:Ersatzrichter 1, tbd:Richter 3]>
-   <KantonGewaehlte Sozialversicherungsgericht [tbd:Richter 4]>
-   <KantonGewaehlte Strafgericht [tbd:Ersatzrichter 1, tbd:Präsident 1, tbd:Richter 5]>
-   <KantonGewaehlte Zivilgericht [tbd:Präsident 2, tbd:Richter 3]>
-  <KantonGewaehlte Legislative [KantonaleLegislative 15, tbd:Fraktionspräsident 1, tbd:Präsident 1]>
-  <KantonMitglieder Mitgliedschaften [Mitglied 24]>
+   <KantonGewaehlte Appellationsgericht [MitgliedKantonalesGerichtErsteInstanz 4]>
+   <KantonGewaehlte Sozialversicherungsgericht [MitgliedKantonalesGerichtErsteInstanz 4]>
+   <KantonGewaehlte Strafgericht [MitgliedKantonalesGerichtErsteInstanz 6]>
+   <KantonGewaehlte Zivilgericht [MitgliedKantonalesGerichtErsteInstanz 3]>
+  <KantonGewaehlte Legislative [Fraktionschef 1, KantonaleLegislative 15]>
+  <KantonMitglieder Mitgliedschaften [Mitglied 165]>
   <KantonParteigremium Vorstand [Mitglied 24]>
   <KantonPraesidium Parteileitung [Mitglied 15]>
   <KantonSekretariat Partei [Mitarbeiter 1]>
@@ -40,7 +44,6 @@
    <OrtMitglieder Mitgliedschaften [Mitglied 89]>
    <OrtPraesidium Partei [Adressverwalter 10, Kassier 1, Mitglied 10, Praesident 1]>
   <Region Stadt Basel>
-   <RegionArbeitsgruppe Basler Bürger [tbd:Mitglied 141]>
    <RegionGewaehlte Exekutive [RegionExekutive 1]>
    <RegionGewaehlte Legislative [RegionLegislative 7]>
    <Ort Grossbasel-Ost>
@@ -55,4 +58,5 @@
     <OrtSympathisanten Sympathisanten [Sympathisant 32]>
     <OrtMitglieder Mitgliedschaften [Mitglied 89]>
     <OrtPraesidium Partei [Adressverwalter 6, Kassier 2, Mitglied 13, Praesident 3]>
-   <Ort Stiftungskommission [tbd:Mitglied 1]>
+   <Ort Stiftungskommission>
+    <OrtMitglieder Mitglieder [Mitglied 1]>

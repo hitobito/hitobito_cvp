@@ -1,9 +1,13 @@
 <Bund id=1, label=CVP Schweiz, parent_id=>
+ <BundArbeitsgruppe id=40426, label=Arbeitsgruppe, parent_id=1>
  <BundGewaehlte id=14763, label=Departement Bundesrat Nr. 1, parent_id=1>
  <BundGewaehlte id=14860, label=Nationalrat, parent_id=1>
  <BundGewaehlte id=14861, label=Ständerat, parent_id=1>
  <Kanton id=159, label=CVP GE, parent_id=1>
-  <KantonSympathisanten id=40419, label=Sympathisanten, parent_id=159>
+  <KantonSympathisanten id=40431, label=Sympathisanten, parent_id=159>
+  <KantonPraesidium id=40433, label=Praesidium, parent_id=159>
+  <KantonSekretariat id=40436, label=Sekretariat, parent_id=159>
+  <KantonArbeitsgruppe id=40439, label=Arbeitsgruppe, parent_id=159>
   <KantonArbeitsgruppe id=34745, label=Groupements, parent_id=159>
    <KantonArbeitsgruppe id=34872, label=Chrétien-Social, parent_id=34745>
    <KantonArbeitsgruppe id=34874, label=Femmes Dc, parent_id=34745>
@@ -66,6 +70,7 @@
    <OrtMitglieder id=36517, label=Mitgliedschaften, parent_id=36513>
    <OrtPraesidium id=36514, label=Partei, parent_id=36513>
   <Ort id=34750, label=Bardonnex, parent_id=159>
+   <OrtSekretariat id=40459, label=Sekretariat, parent_id=34750>
    <OrtGewaehlte id=34799, label=Exekutive, parent_id=34750>
    <OrtGewaehlte id=34800, label=Legislative, parent_id=34750>
    <OrtMitglieder id=34851, label=Mitgliedschaften, parent_id=34750>
@@ -75,12 +80,13 @@
    <OrtMitglieder id=34852, label=Mitgliedschaften, parent_id=34751>
    <OrtPraesidium id=34773, label=Partei, parent_id=34751>
   <Ort id=34752, label=Bernex, parent_id=159>
+   <OrtSekretariat id=40477, label=Sekretariat, parent_id=34752>
    <OrtGewaehlte id=34804, label=Exekutive, parent_id=34752>
    <OrtGewaehlte id=34803, label=Legislative, parent_id=34752>
    <OrtMitglieder id=34853, label=Mitgliedschaften, parent_id=34752>
    <OrtPraesidium id=34774, label=Partei, parent_id=34752>
   <Ort id=34753, label=Carouge, parent_id=159>
-   <OrtSympathisanten id=40424, label=Sympathisanten, parent_id=34753>
+   <OrtSympathisanten id=40482, label=Sympathisanten, parent_id=34753>
    <OrtGewaehlte id=34805, label=Legislative, parent_id=34753>
    <OrtMitglieder id=34854, label=Mitgliedschaften, parent_id=34753>
    <OrtPraesidium id=34775, label=Partei, parent_id=34753>
@@ -89,11 +95,13 @@
    <OrtMitglieder id=34856, label=Mitgliedschaften, parent_id=34755>
    <OrtPraesidium id=34777, label=Partei, parent_id=34755>
   <Ort id=34756, label=Chêne-Bourg, parent_id=159>
+   <OrtSekretariat id=40504, label=Sekretariat, parent_id=34756>
    <OrtGewaehlte id=34812, label=Exekutive, parent_id=34756>
    <OrtGewaehlte id=34811, label=Legislative, parent_id=34756>
    <OrtMitglieder id=34857, label=Mitgliedschaften, parent_id=34756>
    <OrtPraesidium id=34778, label=Partei, parent_id=34756>
   <Ort id=34757, label=Coheran, parent_id=159>
+   <OrtSekretariat id=40513, label=Sekretariat, parent_id=34757>
    <OrtGewaehlte id=34813, label=Exekutive, parent_id=34757>
    <OrtGewaehlte id=34814, label=Legislative, parent_id=34757>
    <OrtMitglieder id=34858, label=Mitgliedschaften, parent_id=34757>
@@ -110,16 +118,19 @@
    <OrtMitglieder id=34860, label=Mitgliedschaften, parent_id=34759>
    <OrtPraesidium id=34782, label=Partei, parent_id=34759>
   <Ort id=34760, label=Confignon, parent_id=159>
+   <OrtSekretariat id=40549, label=Sekretariat, parent_id=34760>
    <OrtGewaehlte id=34821, label=Exekutive, parent_id=34760>
    <OrtGewaehlte id=34822, label=Legislative, parent_id=34760>
    <OrtMitglieder id=34861, label=Mitgliedschaften, parent_id=34760>
    <OrtPraesidium id=34783, label=Partei, parent_id=34760>
   <Ort id=34761, label=Genthod, parent_id=159>
+   <OrtSekretariat id=40558, label=Sekretariat, parent_id=34761>
    <OrtGewaehlte id=34824, label=Legislative, parent_id=34761>
    <OrtMitglieder id=34862, label=Mitgliedschaften, parent_id=34761>
    <OrtPraesidium id=34784, label=Partei, parent_id=34761>
   <Ort id=34762, label=Grand-Saconnex, parent_id=159>
-   <OrtSympathisanten id=40433, label=Sympathisanten, parent_id=34762>
+   <OrtSympathisanten id=40563, label=Sympathisanten, parent_id=34762>
+   <OrtSekretariat id=40567, label=Sekretariat, parent_id=34762>
    <OrtGewaehlte id=34825, label=Exekutive, parent_id=34762>
    <OrtGewaehlte id=34826, label=Legislative, parent_id=34762>
    <OrtMitglieder id=34863, label=Mitgliedschaften, parent_id=34762>
@@ -129,47 +140,56 @@
    <OrtMitglieder id=34855, label=Mitgliedschaften, parent_id=34754>
    <OrtPraesidium id=34776, label=Partei, parent_id=34754>
   <Ort id=34764, label=Lancy, parent_id=159>
-   <OrtSympathisanten id=40435, label=Sympathisanten, parent_id=34764>
+   <OrtSympathisanten id=40581, label=Sympathisanten, parent_id=34764>
+   <OrtSekretariat id=40585, label=Sekretariat, parent_id=34764>
    <OrtGewaehlte id=34827, label=Exekutive, parent_id=34764>
    <OrtGewaehlte id=34828, label=Legislative, parent_id=34764>
    <OrtMitglieder id=34864, label=Mitgliedschaften, parent_id=34764>
    <OrtPraesidium id=34786, label=Partei, parent_id=34764>
   <Ort id=34766, label=Mandemant, parent_id=159>
+   <OrtSekretariat id=40594, label=Sekretariat, parent_id=34766>
    <OrtGewaehlte id=34830, label=Exekutive, parent_id=34766>
    <OrtGewaehlte id=34829, label=Legislative, parent_id=34766>
    <OrtMitglieder id=34865, label=Mitgliedschaften, parent_id=34766>
    <OrtPraesidium id=34787, label=Partei, parent_id=34766>
   <Ort id=434, label=Meyrin, parent_id=159>
+   <OrtSekretariat id=40603, label=Sekretariat, parent_id=434>
    <OrtGewaehlte id=34832, label=Exekutive, parent_id=434>
    <OrtGewaehlte id=34831, label=Legislative, parent_id=434>
    <OrtMitglieder id=1216, label=Mitgliedschaften, parent_id=434>
    <OrtPraesidium id=34788, label=Partei, parent_id=434>
   <Ort id=436, label=Onex, parent_id=159>
+   <OrtSekretariat id=40612, label=Sekretariat, parent_id=436>
    <OrtGewaehlte id=34834, label=Exekutive, parent_id=436>
    <OrtGewaehlte id=34833, label=Legislative, parent_id=436>
    <OrtMitglieder id=1217, label=Mitgliedschaften, parent_id=436>
    <OrtPraesidium id=34789, label=Partei, parent_id=436>
   <Ort id=34765, label=Plan-les-Ouates, parent_id=159>
+   <OrtSekretariat id=40621, label=Sekretariat, parent_id=34765>
    <OrtGewaehlte id=34836, label=Exekutive, parent_id=34765>
    <OrtGewaehlte id=34835, label=Legislative, parent_id=34765>
    <OrtMitglieder id=34866, label=Mitgliedschaften, parent_id=34765>
    <OrtPraesidium id=34790, label=Partei, parent_id=34765>
   <Ort id=36260, label=Pregny-Chambesy, parent_id=159>
+   <OrtSekretariat id=40630, label=Sekretariat, parent_id=36260>
    <OrtGewaehlte id=36276, label=Exekutive, parent_id=36260>
    <OrtGewaehlte id=36277, label=Legislative, parent_id=36260>
    <OrtMitglieder id=36278, label=Mitgliedschaften, parent_id=36260>
    <OrtPraesidium id=36261, label=Partei, parent_id=36260>
   <Ort id=34767, label=Thônex, parent_id=159>
+   <OrtSekretariat id=40639, label=Sekretariat, parent_id=34767>
    <OrtGewaehlte id=34837, label=Exekutive, parent_id=34767>
    <OrtGewaehlte id=34838, label=Legislative, parent_id=34767>
    <OrtMitglieder id=34867, label=Mitgliedschaften, parent_id=34767>
    <OrtPraesidium id=34791, label=Partei, parent_id=34767>
   <Ort id=34768, label=Troinex, parent_id=159>
+   <OrtSekretariat id=40648, label=Sekretariat, parent_id=34768>
    <OrtGewaehlte id=34840, label=Exekutive, parent_id=34768>
    <OrtGewaehlte id=34839, label=Legislative, parent_id=34768>
    <OrtMitglieder id=34868, label=Mitgliedschaften, parent_id=34768>
    <OrtPraesidium id=34792, label=Partei, parent_id=34768>
   <Ort id=34769, label=Vernier, parent_id=159>
+   <OrtSekretariat id=40657, label=Sekretariat, parent_id=34769>
    <OrtGewaehlte id=34841, label=Legislative, parent_id=34769>
    <OrtMitglieder id=34869, label=Mitgliedschaften, parent_id=34769>
    <OrtPraesidium id=34793, label=Partei, parent_id=34769>
@@ -179,12 +199,13 @@
    <OrtMitglieder id=1218, label=Mitgliedschaften, parent_id=438>
    <OrtPraesidium id=34794, label=Partei, parent_id=438>
   <Ort id=34770, label=Veyrier, parent_id=159>
+   <OrtSekretariat id=40675, label=Sekretariat, parent_id=34770>
    <OrtGewaehlte id=34845, label=Exekutive, parent_id=34770>
    <OrtGewaehlte id=34846, label=Legislative, parent_id=34770>
    <OrtMitglieder id=34870, label=Mitgliedschaften, parent_id=34770>
    <OrtPraesidium id=34795, label=Partei, parent_id=34770>
   <Ort id=439, label=Ville de Genève, parent_id=159>
-   <OrtSympathisanten id=40446, label=Sympathisanten, parent_id=439>
+   <OrtSympathisanten id=40680, label=Sympathisanten, parent_id=439>
    <OrtGewaehlte id=34848, label=Exekutive, parent_id=439>
    <OrtGewaehlte id=34847, label=Legislative, parent_id=439>
    <OrtMitglieder id=1219, label=Mitgliedschaften, parent_id=439>

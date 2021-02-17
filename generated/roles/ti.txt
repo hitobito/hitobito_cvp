@@ -1,53 +1,62 @@
 <Bund CVP Schweiz>
- <BundGewaehlte Departement Bundesrat Nr. 1 [Bundesrat 5, tbd:Pers. Mitarbeiter Bundesrat 3]>
- <BundGewaehlte Nationalrat [Nationalrat 126, tbd:Nationalrat Partner 12]>
- <BundGewaehlte Ständerat [Staenderat 47, tbd:Ständerat Partner 2]>
+ <BundArbeitsgruppe Arbeitsgruppe [Mitglied 5]>
+ <BundGewaehlte Departement Bundesrat Nr. 1 [Bundesrat 5]>
+ <BundGewaehlte Nationalrat [Nationalrat 140]>
+ <BundGewaehlte Ständerat [Staenderat 48]>
  <Kanton CVP TI>
+  <KantonDelegierte Delegierte [Delegierte 6473]>
+  <KantonSekretariat Sekretariat [Leitung 1]>
+  <KantonArbeitsgruppe Arbeitsgruppe [Mitglied 3, Praesident 1]>
   <KantonArbeitsgruppe Adressen ohne Merkmale (aus Liste PPD) [Mitglied 682]>
   <KantonArbeitsgruppe Altri contributi secondo direttive [Mitglied 11]>
   <KantonArbeitsgruppe Aziende e liberi professionisti [Mitglied 26]>
   <KantonArbeitsgruppe Comitato cantonale [Mitglied 444]>
   <KantonArbeitsgruppe Direttiva [Mitglied 25]>
   <KantonArbeitsgruppe Ufficio presidenziale [Mitglied 16]>
-  <KantonArbeitsgruppe congresso [tbd:Delegierter 6437]>
   <KantonGewaehlte Regierungsrat [KantonaleExekutive 1]>
-  <KantonGewaehlte Judikative [tbd:Mitglied 137]>
-  <KantonGewaehlte Legislative [KantonaleLegislative 24, tbd:Präsident 1]>
-  <KantonMitglieder Mitgliedschaften [Mitglied 9780]>
-  <KantonPraesidium Partei [Praesident 7, tbd:Ansprechperson Finanzen 2, tbd:Delegierter 1, tbd:Empfänger Rechnung Jahresbeitrag CVP CH 2, tbd:Nationalrat 2, tbd:Plakatierer 1, tbd:Sekretär Kantonalpartei/Vereinigung 1, tbd:Ständerat 1, tbd:Zuzüger 150]>
+  <KantonGewaehlte Legislative [KantonaleLegislative 24]>
+  <KantonMitglieder Mitgliedschaften [Mitglied 9917]>
+  <KantonPraesidium Partei [Kassier 2, Mitglied 150, Praesident 7]>
   <Region Bellinzona>
-   <RegionPraesidium Partei [Praesident 4, tbd:Delegierter 86]>
+   <RegionDelegierte Delegierte [Delegierte 86]>
+   <RegionPraesidium Partei [Praesident 4]>
    <Ort Arbedo-Castione>
+    <OrtSekretariat Sekretariat [Leitung 2]>
     <OrtGewaehlte Exekutive [KommunaleExekutive 1]>
     <OrtGewaehlte Legislative [KommunaleExekutive 3]>
     <OrtMitglieder Mitgliedschaften [Mitglied 16]>
-    <OrtPraesidium Partei [Kassier 1, Mitglied 5, tbd:Sekretär 2]>
+    <OrtPraesidium Partei [Kassier 1, Mitglied 5]>
    <Ort Bellinzona>
     <OrtGewaehlte Exekutive [KommunaleExekutive 1]>
     <OrtGewaehlte Legislative [KommunaleExekutive 8]>
     <OrtMitglieder Mitgliedschaften [Mitglied 285]>
-    <OrtPraesidium Partei [Mitglied 1, Praesident 1, tbd:Vorstand 1]>
+    <OrtPraesidium Partei [Mitglied 2, Praesident 1]>
    <Ort Cadenazzo>
     <OrtGewaehlte Exekutive [KommunaleExekutive 2]>
     <OrtMitglieder Mitgliedschaften [Mitglied 18]>
-    <OrtPraesidium Partei [Praesident 1, tbd:Vorstand 4]>
+    <OrtPraesidium Partei [Mitglied 4, Praesident 1]>
    <Ort Isone>
     <OrtGewaehlte Exekutive [Fraktionschef 1, KommunaleExekutive 1]>
     <OrtGewaehlte Legislative [KommunaleExekutive 5]>
     <OrtMitglieder Mitgliedschaften [Mitglied 9]>
     <OrtPraesidium Partei [Praesident 1]>
    <Ort Lumino>
+    <OrtSekretariat Sekretariat [Leitung 2]>
     <OrtGewaehlte Exekutive [KommunaleExekutive 1]>
     <OrtGewaehlte Legislative [KommunaleExekutive 8]>
     <OrtMitglieder Mitgliedschaften [Mitglied 13]>
-    <OrtPraesidium Partei [Kassier 1, Mitglied 6, Praesident 1, tbd:Sekretär 2, tbd:Vorstand 1]>
+    <OrtPraesidium Partei [Kassier 1, Mitglied 7, Praesident 1]>
    <Ort S. Antonino>
+    <OrtSekretariat Sekretariat [Leitung 1]>
     <OrtGewaehlte Exekutive [KommunaleExekutive 1]>
     <OrtGewaehlte Legislative [KommunaleExekutive 2]>
     <OrtMitglieder Mitgliedschaften [Mitglied 23]>
-    <OrtPraesidium Partei [Kassier 1, Mitglied 3, Praesident 1, tbd:Sekretär 1, tbd:Vorstand 4]>
+    <OrtPraesidium Partei [Kassier 1, Mitglied 7, Praesident 1]>
   <Region Blenio>
-   <RegionPraesidium Partei [Praesident 4, tbd:Ausschussmitglied 12, tbd:Delegierter 12, tbd:Sekretär 1]>
+   <RegionDelegierte Delegierte [Delegierte 12]>
+   <RegionSekretariat Sekretariat [Leitung 1]>
+   <RegionParteigremium Parteigremium [Mitglied 12]>
+   <RegionPraesidium Partei [Praesident 4]>
    <Ort Acquarossa>
     <OrtMitglieder Mitgliedschaften [Mitglied 44]>
    <Ort Blenio>
@@ -59,10 +68,14 @@
     <OrtMitglieder Mitgliedschaften [Mitglied 25]>
     <OrtPraesidium Partei [Mitglied 6, Praesident 1]>
   <Region Leventina>
-   <RegionPraesidium Partei [Praesident 12, tbd:Ausschussmitglied 25, tbd:Delegierter 24, tbd:Sekretär 1]>
+   <RegionDelegierte Delegierte [Delegierte 24]>
+   <RegionSekretariat Sekretariat [Leitung 1]>
+   <RegionParteigremium Parteigremium [Mitglied 25]>
+   <RegionPraesidium Partei [Praesident 12]>
    <Ort Airolo>
+    <OrtSekretariat Sekretariat [Leitung 1]>
     <OrtMitglieder Mitgliedschaften [Mitglied 28]>
-    <OrtPraesidium Partei [Kassier 1, Praesident 1, tbd:Sekretär 1, tbd:Vorstand 10]>
+    <OrtPraesidium Partei [Kassier 1, Mitglied 10, Praesident 1]>
    <Ort Bedretto>
     <OrtMitglieder Mitgliedschaften [Mitglied 1]>
    <Ort Bodio>
@@ -74,54 +87,59 @@
     <OrtMitglieder Mitgliedschaften [Mitglied 3]>
     <OrtPraesidium Partei [Praesident 1]>
    <Ort Faido>
-    <OrtArbeitsgruppe Ausschuss [tbd:Mitglied 4]>
-    <OrtMitglieder Mitgliedschaften [Mitglied 62]>
-    <OrtPraesidium Partei [tbd:Sekretär 2, tbd:Vorstand 3]>
+    <OrtSekretariat Sekretariat [Leitung 2]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 66]>
+    <OrtPraesidium Partei [Mitglied 3]>
    <Ort Giornico>
     <OrtGewaehlte Legislative [KommunaleExekutive 1]>
     <OrtMitglieder Mitgliedschaften [Mitglied 12]>
     <OrtPraesidium Partei [Praesident 1]>
    <Ort Personico>
+    <OrtSekretariat Sekretariat [Leitung 1]>
     <OrtMitglieder Mitgliedschaften [Mitglied 9]>
-    <OrtPraesidium Partei [Praesident 1, tbd:Sekretär 1]>
+    <OrtPraesidium Partei [Praesident 1]>
    <Ort Pollegio>
+    <OrtSekretariat Sekretariat [Leitung 1]>
     <OrtMitglieder Mitgliedschaften [Mitglied 10]>
-    <OrtPraesidium Partei [tbd:Sekretär 1]>
    <Ort Prato Leventina>
     <OrtGewaehlte Exekutive [KommunaleExekutive 1]>
     <OrtMitglieder Mitgliedschaften [Mitglied 5]>
     <OrtPraesidium Partei [Praesident 1]>
    <Ort Quinto>
+    <OrtSekretariat Sekretariat [Leitung 1]>
     <OrtGewaehlte Legislative [KommunaleExekutive 1]>
     <OrtMitglieder Mitgliedschaften [Mitglied 16]>
-    <OrtPraesidium Partei [Praesident 1, tbd:Sekretär 1]>
+    <OrtPraesidium Partei [Praesident 1]>
    <Ort Sobrio>
     <OrtMitglieder Mitgliedschaften [Mitglied 1]>
     <OrtPraesidium Partei [Praesident 1]>
   <Region Locarno>
-   <RegionPraesidium Partei [Praesident 16, tbd:Ausschussmitglied 74, tbd:Delegierter 73]>
+   <RegionDelegierte Delegierte [Delegierte 73]>
+   <RegionParteigremium Parteigremium [Mitglied 74]>
+   <RegionPraesidium Partei [Praesident 16]>
    <Ort Ascona>
+    <OrtSekretariat Sekretariat [Leitung 1]>
     <OrtGewaehlte Exekutive [KommunaleExekutive 1]>
     <OrtGewaehlte Legislative [KommunaleExekutive 3]>
     <OrtMitglieder Mitgliedschaften [Mitglied 21]>
-    <OrtPraesidium Partei [tbd:Sekretär 1]>
    <Ort Brione S/Minusio>
     <OrtMitglieder Mitgliedschaften [Mitglied 15]>
-    <OrtPraesidium Partei [Praesident 1, tbd:Vorstand 2]>
+    <OrtPraesidium Partei [Mitglied 2, Praesident 1]>
    <Ort Brione Verzasca>
     <OrtMitglieder Mitgliedschaften [Mitglied 2]>
    <Ort Brissago>
     <OrtMitglieder Mitgliedschaften [Mitglied 7]>
-    <OrtPraesidium Partei [tbd:Vorstand 7]>
+    <OrtPraesidium Partei [Mitglied 7]>
    <Ort Centovalli>
     <OrtMitglieder Mitgliedschaften [Mitglied 12]>
    <Ort Corippo>
     <OrtMitglieder Mitgliedschaften [Mitglied 1]>
    <Ort Cugnasco - Gerra>
+    <OrtSekretariat Sekretariat [Leitung 3]>
     <OrtGewaehlte Exekutive [Fraktionschef 1, KommunaleExekutive 2]>
     <OrtGewaehlte Legislative [KommunaleExekutive 8]>
     <OrtMitglieder Mitgliedschaften [Mitglied 33]>
-    <OrtPraesidium Partei [Kassier 2, Mitglied 9, Praesident 2, tbd:Sekretär 3]>
+    <OrtPraesidium Partei [Kassier 2, Mitglied 9, Praesident 2]>
    <Ort Gambarogno>
     <OrtMitglieder Mitgliedschaften [Mitglied 43]>
     <OrtPraesidium Partei [Praesident 2]>
@@ -133,52 +151,60 @@
    <Ort Isorno>
     <OrtMitglieder Mitgliedschaften [Mitglied 1]>
    <Ort Lavertezzo>
+    <OrtSekretariat Sekretariat [Leitung 2]>
     <OrtGewaehlte Exekutive [Fraktionschef 1, KommunaleExekutive 1]>
     <OrtGewaehlte Legislative [KommunaleExekutive 9]>
     <OrtMitglieder Mitgliedschaften [Mitglied 10]>
-    <OrtPraesidium Partei [Kassier 1, Mitglied 6, Praesident 1, tbd:Sekretär 2]>
+    <OrtPraesidium Partei [Kassier 1, Mitglied 6, Praesident 1]>
    <Ort Locarno>
+    <OrtSekretariat Sekretariat [Leitung 2]>
     <OrtGewaehlte Exekutive [KommunaleExekutive 2]>
     <OrtGewaehlte Legislative [KommunaleExekutive 9]>
     <OrtMitglieder Mitgliedschaften [Mitglied 63]>
-    <OrtPraesidium Partei [Praesident 4, tbd:Sekretär 2, tbd:Vorstand 1]>
+    <OrtPraesidium Partei [Mitglied 1, Praesident 4]>
    <Ort Losone>
     <OrtMitglieder Mitgliedschaften [Mitglied 33]>
-    <OrtPraesidium Partei [tbd:Vorstand 12]>
+    <OrtPraesidium Partei [Mitglied 12]>
    <Ort Minusio>
+    <OrtSekretariat Sekretariat [Leitung 1]>
     <OrtGewaehlte Legislative [KommunaleExekutive 1]>
     <OrtMitglieder Mitgliedschaften [Mitglied 43]>
-    <OrtPraesidium Partei [Praesident 1, tbd:Sekretär 1]>
+    <OrtPraesidium Partei [Praesident 1]>
    <Ort Mosogno>
     <OrtMitglieder Mitgliedschaften [Mitglied 1]>
    <Ort Muralto>
+    <OrtSekretariat Sekretariat [Leitung 1]>
     <OrtGewaehlte Legislative [KommunaleExekutive 4]>
     <OrtMitglieder Mitgliedschaften [Mitglied 34]>
-    <OrtPraesidium Partei [Praesident 1, tbd:Sekretär 1, tbd:Vorstand 1]>
+    <OrtPraesidium Partei [Mitglied 1, Praesident 1]>
    <Ort Onsernone>
     <OrtMitglieder Mitgliedschaften [Mitglied 2]>
     <OrtPraesidium Partei [Praesident 1]>
    <Ort Orselina>
+    <OrtSekretariat Sekretariat [Leitung 1]>
     <OrtMitglieder Mitgliedschaften [Mitglied 13]>
-    <OrtPraesidium Partei [Praesident 2, tbd:Sekretär 1]>
+    <OrtPraesidium Partei [Praesident 2]>
    <Ort Ronco S. Ascona>
     <OrtMitglieder Mitgliedschaften [Mitglied 4]>
     <OrtPraesidium Partei [Kassier 1]>
    <Ort Sonogno>
     <OrtMitglieder Mitgliedschaften [Mitglied 1]>
    <Ort Tenero-Contra>
-    <OrtArbeitsgruppe Ausschuss [tbd:Mitglied 3]>
-    <OrtMitglieder Mitgliedschaften [Mitglied 13]>
-    <OrtPraesidium Partei [Mitglied 1, Praesident 1, tbd:Sekretär 2]>
+    <OrtSekretariat Sekretariat [Leitung 2]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 16]>
+    <OrtPraesidium Partei [Mitglied 1, Praesident 1]>
    <Ort Tre Terre>
+    <OrtSekretariat Sekretariat [Leitung 1]>
     <OrtMitglieder Mitgliedschaften [Mitglied 32]>
-    <OrtPraesidium Partei [Praesident 2, tbd:Sekretär 1]>
+    <OrtPraesidium Partei [Praesident 2]>
    <Ort Vergeletto>
     <OrtMitglieder Mitgliedschaften [Mitglied 2]>
    <Ort Vogorno>
     <OrtMitglieder Mitgliedschaften [Mitglied 2]>
   <Region Lugano>
-   <RegionPraesidium Partei [Praesident 26, tbd:Ausschussmitglied 204, tbd:Delegierter 196]>
+   <RegionDelegierte Delegierte [Delegierte 196]>
+   <RegionParteigremium Parteigremium [Mitglied 204]>
+   <RegionPraesidium Partei [Praesident 26]>
    <Ort Agno>
     <OrtGewaehlte Exekutive [KommunaleExekutive 2]>
     <OrtGewaehlte Legislative [KommunaleExekutive 4]>
@@ -196,10 +222,11 @@
    <Ort Arogno>
     <OrtMitglieder Mitgliedschaften [Mitglied 3]>
    <Ort Bedano>
+    <OrtSekretariat Sekretariat [Leitung 1]>
     <OrtGewaehlte Exekutive [KommunaleExekutive 1]>
     <OrtGewaehlte Legislative [KommunaleExekutive 6]>
     <OrtMitglieder Mitgliedschaften [Mitglied 9]>
-    <OrtPraesidium Partei [Mitglied 8, Praesident 1, tbd:Sekretär 1]>
+    <OrtPraesidium Partei [Mitglied 8, Praesident 1]>
    <Ort Bedigliora>
     <OrtGewaehlte Legislative [KommunaleExekutive 5]>
     <OrtMitglieder Mitgliedschaften [Mitglied 10]>
@@ -208,7 +235,7 @@
     <OrtGewaehlte Exekutive [KommunaleExekutive 2]>
     <OrtGewaehlte Legislative [KommunaleExekutive 5]>
     <OrtMitglieder Mitgliedschaften [Mitglied 22]>
-    <OrtPraesidium Partei [Praesident 1, tbd:Vorstand 1]>
+    <OrtPraesidium Partei [Mitglied 1, Praesident 1]>
    <Ort Bissone>
     <OrtGewaehlte Legislative [KommunaleExekutive 4]>
     <OrtMitglieder Mitgliedschaften [Mitglied 7]>
@@ -229,17 +256,17 @@
     <OrtMitglieder Mitgliedschaften [Mitglied 11]>
     <OrtPraesidium Partei [Praesident 1]>
    <Ort Canobbio>
-    <OrtArbeitsgruppe Ausschuss [tbd:Mitglied 9]>
+    <OrtSekretariat Sekretariat [Leitung 1]>
     <OrtGewaehlte Exekutive [Fraktionschef 1, KommunaleExekutive 3]>
     <OrtGewaehlte Legislative [KommunaleExekutive 15]>
-    <OrtMitglieder Mitgliedschaften [Mitglied 38]>
-    <OrtPraesidium Partei [Kassier 1, Praesident 3, tbd:Sekretär 1, tbd:Vorstand 4]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 47]>
+    <OrtPraesidium Partei [Kassier 1, Mitglied 4, Praesident 3]>
    <Ort Capriasca>
-    <OrtArbeitsgruppe Ausschuss [tbd:Mitglied 1]>
+    <OrtSekretariat Sekretariat [Leitung 2]>
     <OrtGewaehlte Exekutive [Fraktionschef 1]>
     <OrtGewaehlte Legislative [KommunaleExekutive 9]>
-    <OrtMitglieder Mitgliedschaften [Mitglied 75]>
-    <OrtPraesidium Partei [tbd:Sekretär 2, tbd:Vorstand 5]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 76]>
+    <OrtPraesidium Partei [Mitglied 5]>
    <Ort Carabietta>
     <OrtMitglieder Mitgliedschaften [Mitglied 1]>
     <OrtPraesidium Partei [Praesident 1]>
@@ -249,7 +276,7 @@
    <Ort Collina d'Oro>
     <OrtGewaehlte Legislative [KommunaleExekutive 2]>
     <OrtMitglieder Mitgliedschaften [Mitglied 23]>
-    <OrtPraesidium Partei [Praesident 1, tbd:Vorstand 5]>
+    <OrtPraesidium Partei [Mitglied 5, Praesident 1]>
    <Ort Comano>
     <OrtGewaehlte Legislative [KommunaleExekutive 1]>
     <OrtMitglieder Mitgliedschaften [Mitglied 14]>
@@ -257,28 +284,33 @@
    <Ort Croglio>
     <OrtMitglieder Mitgliedschaften [Mitglied 11]>
    <Ort Cureglia>
+    <OrtSekretariat Sekretariat [Leitung 1]>
     <OrtGewaehlte Legislative [KommunaleExekutive 1]>
     <OrtMitglieder Mitgliedschaften [Mitglied 14]>
-    <OrtPraesidium Partei [Praesident 1, tbd:Sekretär 1, tbd:Vorstand 1]>
+    <OrtPraesidium Partei [Mitglied 1, Praesident 1]>
    <Ort Grancia>
     <OrtMitglieder Mitgliedschaften [Mitglied 10]>
     <OrtPraesidium Partei [Praesident 1]>
    <Ort Gravesano>
+    <OrtSekretariat Sekretariat [Leitung 1]>
     <OrtMitglieder Mitgliedschaften [Mitglied 9]>
-    <OrtPraesidium Partei [Praesident 1, tbd:Sekretär 1]>
+    <OrtPraesidium Partei [Praesident 1]>
    <Ort Lamone>
+    <OrtSekretariat Sekretariat [Leitung 1]>
     <OrtGewaehlte Exekutive [KommunaleExekutive 1]>
     <OrtMitglieder Mitgliedschaften [Mitglied 18]>
-    <OrtPraesidium Partei [Praesident 1, tbd:Sekretär 1]>
+    <OrtPraesidium Partei [Praesident 1]>
    <Ort Lugano>
+    <OrtSekretariat Sekretariat [Leitung 3]>
     <OrtMitglieder Mitgliedschaften [Mitglied 241]>
-    <OrtPraesidium Partei [Praesident 9, tbd:Sekretär 3, tbd:Vorstand 3]>
+    <OrtPraesidium Partei [Mitglied 3, Praesident 9]>
    <Ort Magliaso>
     <OrtGewaehlte Exekutive [KommunaleExekutive 2]>
    <Ort Manno>
+    <OrtSekretariat Sekretariat [Leitung 1]>
     <OrtGewaehlte Exekutive [Fraktionschef 1]>
     <OrtMitglieder Mitgliedschaften [Mitglied 19]>
-    <OrtPraesidium Partei [Kassier 1, Praesident 1, tbd:Sekretär 1, tbd:Vorstand 1]>
+    <OrtPraesidium Partei [Kassier 1, Mitglied 1, Praesident 1]>
    <Ort Maroggia>
     <OrtMitglieder Mitgliedschaften [Mitglied 8]>
     <OrtPraesidium Partei [Praesident 1]>
@@ -288,79 +320,90 @@
     <OrtPraesidium Partei [Praesident 1]>
    <Ort Melano>
     <OrtMitglieder Mitgliedschaften [Mitglied 16]>
-    <OrtPraesidium Partei [tbd:Vorstand 3]>
+    <OrtPraesidium Partei [Mitglied 3]>
    <Ort Melide>
+    <OrtSekretariat Sekretariat [Leitung 1]>
     <OrtMitglieder Mitgliedschaften [Mitglied 12]>
-    <OrtPraesidium Partei [tbd:Sekretär 1]>
    <Ort Mezzovico - Vira>
+    <OrtSekretariat Sekretariat [Leitung 1]>
     <OrtGewaehlte Exekutive [KommunaleExekutive 1]>
     <OrtGewaehlte Legislative [KommunaleExekutive 6]>
     <OrtMitglieder Mitgliedschaften [Mitglied 24]>
-    <OrtPraesidium Partei [Kassier 1, Mitglied 3, Praesident 3, tbd:Sekretär 1]>
+    <OrtPraesidium Partei [Kassier 1, Mitglied 3, Praesident 3]>
    <Ort Miglieglia>
     <OrtMitglieder Mitgliedschaften [Mitglied 1]>
    <Ort Monteceneri>
+    <OrtSekretariat Sekretariat [Leitung 1]>
     <OrtGewaehlte Exekutive [KommunaleExekutive 2]>
     <OrtGewaehlte Legislative [KommunaleExekutive 10]>
     <OrtMitglieder Mitgliedschaften [Mitglied 74]>
-    <OrtPraesidium Partei [Mitglied 16, Praesident 1, tbd:Sekretär 1]>
+    <OrtPraesidium Partei [Mitglied 16, Praesident 1]>
    <Ort Monteggio>
     <OrtGewaehlte Exekutive [KommunaleExekutive 1]>
     <OrtMitglieder Mitgliedschaften [Mitglied 6]>
-    <OrtPraesidium Partei [Praesident 1, tbd:Vorstand 2]>
+    <OrtPraesidium Partei [Mitglied 2, Praesident 1]>
    <Ort Morcote>
     <OrtMitglieder Mitgliedschaften [Mitglied 3]>
    <Ort Muzzano>
+    <OrtSekretariat Sekretariat [Leitung 1]>
     <OrtMitglieder Mitgliedschaften [Mitglied 9]>
-    <OrtPraesidium Partei [Praesident 1, tbd:Sekretär 1, tbd:Vorstand 4]>
+    <OrtPraesidium Partei [Mitglied 4, Praesident 1]>
    <Ort Novaggio>
+    <OrtSekretariat Sekretariat [Leitung 1]>
     <OrtMitglieder Mitgliedschaften [Mitglied 8]>
-    <OrtPraesidium Partei [Praesident 1, tbd:Sekretär 1, tbd:Vorstand 4]>
+    <OrtPraesidium Partei [Mitglied 4, Praesident 1]>
    <Ort Origlio>
+    <OrtSekretariat Sekretariat [Leitung 1]>
     <OrtMitglieder Mitgliedschaften [Mitglied 5]>
-    <OrtPraesidium Partei [Praesident 1, tbd:Sekretär 1]>
+    <OrtPraesidium Partei [Praesident 1]>
    <Ort Paradiso>
+    <OrtSekretariat Sekretariat [Leitung 1]>
     <OrtMitglieder Mitgliedschaften [Mitglied 6]>
-    <OrtPraesidium Partei [Kassier 1, tbd:Sekretär 1]>
+    <OrtPraesidium Partei [Kassier 1]>
    <Ort Ponte Capriasca>
+    <OrtSekretariat Sekretariat [Leitung 1]>
     <OrtGewaehlte Legislative [KommunaleExekutive 1]>
     <OrtMitglieder Mitgliedschaften [Mitglied 4]>
-    <OrtPraesidium Partei [tbd:Sekretär 1]>
    <Ort Porza>
     <OrtGewaehlte Legislative [KommunaleExekutive 1]>
    <Ort Rovio>
     <OrtMitglieder Mitgliedschaften [Mitglied 2]>
    <Ort Savosa>
+    <OrtSekretariat Sekretariat [Leitung 1]>
     <OrtGewaehlte Exekutive [Fraktionschef 1]>
     <OrtMitglieder Mitgliedschaften [Mitglied 30]>
-    <OrtPraesidium Partei [Kassier 2, Praesident 1, tbd:Sekretär 1, tbd:Vorstand 10]>
+    <OrtPraesidium Partei [Kassier 2, Mitglied 10, Praesident 1]>
    <Ort Sessa>
     <OrtMitglieder Mitgliedschaften [Mitglied 10]>
-    <OrtPraesidium Partei [tbd:Vorstand 2]>
+    <OrtPraesidium Partei [Mitglied 2]>
    <Ort Sorengo>
+    <OrtSekretariat Sekretariat [Leitung 1]>
     <OrtGewaehlte Legislative [KommunaleExekutive 1]>
     <OrtMitglieder Mitgliedschaften [Mitglied 21]>
-    <OrtPraesidium Partei [Praesident 2, tbd:Sekretär 1, tbd:Vorstand 1]>
+    <OrtPraesidium Partei [Mitglied 1, Praesident 2]>
    <Ort Torricella - Taverne>
+    <OrtSekretariat Sekretariat [Leitung 1]>
     <OrtMitglieder Mitgliedschaften [Mitglied 14]>
-    <OrtPraesidium Partei [Praesident 1, tbd:Sekretär 1]>
+    <OrtPraesidium Partei [Praesident 1]>
    <Ort Vezia>
+    <OrtSekretariat Sekretariat [Leitung 1]>
     <OrtGewaehlte Exekutive [Fraktionschef 1, KommunaleExekutive 1]>
     <OrtGewaehlte Legislative [KommunaleExekutive 4]>
     <OrtMitglieder Mitgliedschaften [Mitglied 9]>
-    <OrtPraesidium Partei [Kassier 1, Mitglied 3, Praesident 2, tbd:Sekretär 1]>
-   <Ort Vico Morcote>
-    <OrtPraesidium Partei [tbd:Delegierter 35]>
+    <OrtPraesidium Partei [Kassier 1, Mitglied 3, Praesident 2]>
   <Region Mendrisio>
-   <RegionPraesidium Partei [Praesident 7, tbd:Ausschussmitglied 145, tbd:Delegierter 131, tbd:Präsidiumsmitglied 1]>
+   <RegionDelegierte Delegierte [Delegierte 131]>
+   <RegionParteigremium Parteigremium [Mitglied 145]>
+   <RegionPraesidium Partei [Mitglied 1, Praesident 7]>
    <Ort Arzo>
-    <OrtArbeitsgruppe Ausschuss [tbd:Mitglied 1]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 1]>
    <Ort Balerna>
-    <OrtGewaehlte Exekutive [Fraktionschef 1, tbd:Kassier 1, tbd:Vorstand 1]>
+    <OrtSekretariat Sekretariat [Leitung 1]>
+    <OrtPraesidium Praesidium [Kassier 1, Mitglied 1]>
+    <OrtGewaehlte Exekutive [Fraktionschef 1]>
      <OrtGewaehlte Ausschuss [KommunaleExekutive 3]>
     <OrtGewaehlte Legislative [KommunaleExekutive 2]>
     <OrtMitglieder Mitgliedschaften [Mitglied 22]>
-    <OrtPraesidium Partei [tbd:Sekretär 1]>
    <Ort Breggia>
     <OrtGewaehlte Legislative [KommunaleExekutive 1]>
     <OrtMitglieder Mitgliedschaften [Mitglied 24]>
@@ -368,76 +411,88 @@
    <Ort Breggia - Morbio Superiore>
     <OrtMitglieder Mitgliedschaften [Mitglied 1]>
    <Ort Capolago>
-    <OrtPraesidium Partei [Praesident 1, tbd:Sekretär 1]>
+    <OrtSekretariat Sekretariat [Leitung 1]>
+    <OrtPraesidium Partei [Praesident 1]>
    <Ort Castel S. Pietro>
-    <OrtArbeitsgruppe Ausschuss [tbd:Mitglied 1]>
+    <OrtSekretariat Sekretariat [Leitung 1]>
     <OrtGewaehlte Legislative [KommunaleExekutive 2]>
-    <OrtMitglieder Mitgliedschaften [Mitglied 43]>
-    <OrtPraesidium Partei [Kassier 1, Praesident 2, tbd:Sekretär 1]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 44]>
+    <OrtPraesidium Partei [Kassier 1, Praesident 2]>
    <Ort Chiasso>
-    <OrtArbeitsgruppe Ausschuss [tbd:Mitglied 1]>
     <OrtGewaehlte Legislative [KommunaleExekutive 2]>
-    <OrtMitglieder Mitgliedschaften [Mitglied 23]>
-    <OrtPraesidium Partei [Praesident 1, tbd:Vorstand 8]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 24]>
+    <OrtPraesidium Partei [Mitglied 8, Praesident 1]>
    <Ort Coldrerio>
-    <OrtArbeitsgruppe Ausschuss [tbd:Mitglied 1]>
-    <OrtMitglieder Mitgliedschaften [Mitglied 9]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 10]>
     <OrtPraesidium Partei [Praesident 1]>
    <Ort Genestrerio>
     <OrtPraesidium Partei [Praesident 1]>
    <Ort Mendrisio>
+    <OrtSekretariat Sekretariat [Leitung 1]>
     <OrtGewaehlte Legislative [KommunaleExekutive 1]>
     <OrtMitglieder Mitgliedschaften [Mitglied 177]>
-    <OrtPraesidium Partei [Praesident 2, tbd:Sekretär 1, tbd:Vorstand 20]>
+    <OrtPraesidium Partei [Mitglied 20, Praesident 2]>
    <Ort Morbio Inferiore>
+    <OrtSekretariat Sekretariat [Leitung 1]>
     <OrtGewaehlte Exekutive [KommunaleExekutive 2]>
     <OrtGewaehlte Legislative [KommunaleExekutive 9]>
     <OrtMitglieder Mitgliedschaften [Mitglied 25]>
-    <OrtPraesidium Partei [Kassier 1, Mitglied 3, Praesident 1, tbd:Sekretär 1]>
+    <OrtPraesidium Partei [Kassier 1, Mitglied 3, Praesident 1]>
    <Ort Novazzano>
+    <OrtSekretariat Sekretariat [Leitung 1]>
     <OrtGewaehlte Legislative [KommunaleExekutive 1]>
     <OrtMitglieder Mitgliedschaften [Mitglied 22]>
-    <OrtPraesidium Partei [Kassier 1, Praesident 1, tbd:Sekretär 1, tbd:Vorstand 1]>
+    <OrtPraesidium Partei [Kassier 1, Mitglied 1, Praesident 1]>
    <Ort Rancate>
-    <OrtPraesidium Partei [Praesident 1, tbd:Sekretär 1]>
+    <OrtSekretariat Sekretariat [Leitung 1]>
+    <OrtPraesidium Partei [Praesident 1]>
    <Ort Riva San Vitale>
     <OrtGewaehlte Legislative [KommunaleExekutive 1]>
     <OrtMitglieder Mitgliedschaften [Mitglied 36]>
    <Ort Stabio>
+    <OrtSekretariat Sekretariat [Leitung 1]>
     <OrtGewaehlte Legislative [KommunaleExekutive 1]>
     <OrtMitglieder Mitgliedschaften [Mitglied 21]>
-    <OrtPraesidium Partei [Mitglied 1, Praesident 2, tbd:Sekretär 1]>
+    <OrtPraesidium Partei [Mitglied 1, Praesident 2]>
    <Ort Tremona>
     <OrtPraesidium Partei [Praesident 1]>
    <Ort Vacallo>
-    <OrtArbeitsgruppe Ausschuss [tbd:Mitglied 4]>
     <OrtGewaehlte Exekutive [KommunaleExekutive 1]>
-    <OrtMitglieder Mitgliedschaften [Mitglied 30]>
-    <OrtPraesidium Partei [Praesident 1, tbd:Vorstand 4]>
-   <Ort comitato [tbd:Präsident 1]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 34]>
+    <OrtPraesidium Partei [Mitglied 4, Praesident 1]>
+   <Ort comitato>
+    <OrtPraesidium Praesidium [Praesident 1]>
   <Region Riviera>
-   <RegionPraesidium Partei [Praesident 2, tbd:Ausschussmitglied 29, tbd:Delegierter 27, tbd:Sekretär 1]>
+   <RegionDelegierte Delegierte [Delegierte 27]>
+   <RegionSekretariat Sekretariat [Leitung 1]>
+   <RegionParteigremium Parteigremium [Mitglied 29]>
+   <RegionPraesidium Partei [Praesident 2]>
    <Ort Biasca>
+    <OrtSekretariat Sekretariat [Leitung 1]>
     <OrtGewaehlte Legislative [KommunaleExekutive 3]>
     <OrtMitglieder Mitgliedschaften [Mitglied 21]>
-    <OrtPraesidium Partei [tbd:Sekretär 1]>
    <Ort Riviera>
     <OrtMitglieder Mitgliedschaften [Mitglied 54]>
-    <OrtPraesidium Partei [Praesident 1, tbd:Vorstand 6]>
+    <OrtPraesidium Partei [Mitglied 6, Praesident 1]>
   <Region Vallemaggia>
-   <RegionPraesidium Partei [Praesident 9, tbd:Ausschussmitglied 8, tbd:Delegierter 8, tbd:Sekretär 1]>
+   <RegionDelegierte Delegierte [Delegierte 8]>
+   <RegionSekretariat Sekretariat [Leitung 1]>
+   <RegionParteigremium Parteigremium [Mitglied 8]>
+   <RegionPraesidium Partei [Praesident 9]>
    <Ort Avegno - Gordevio>
+    <OrtSekretariat Sekretariat [Leitung 1]>
     <OrtGewaehlte Exekutive [Fraktionschef 1]>
     <OrtMitglieder Mitgliedschaften [Mitglied 23]>
-    <OrtPraesidium Partei [Praesident 1, tbd:Sekretär 1]>
+    <OrtPraesidium Partei [Praesident 1]>
    <Ort Bosco Gurin>
     <OrtMitglieder Mitgliedschaften [Mitglied 2]>
     <OrtPraesidium Partei [Praesident 1]>
    <Ort Campo Vallemaggia>
     <OrtMitglieder Mitgliedschaften [Mitglied 1]>
    <Ort Cevio>
+    <OrtSekretariat Sekretariat [Leitung 1]>
     <OrtMitglieder Mitgliedschaften [Mitglied 23]>
-    <OrtPraesidium Partei [Praesident 1, tbd:Sekretär 1, tbd:Vorstand 2]>
+    <OrtPraesidium Partei [Mitglied 2, Praesident 1]>
    <Ort Lavizzara>
     <OrtMitglieder Mitgliedschaften [Mitglied 18]>
     <OrtPraesidium Partei [Praesident 4]>

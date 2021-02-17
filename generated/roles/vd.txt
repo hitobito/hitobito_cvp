@@ -1,13 +1,16 @@
 <Bund CVP Schweiz>
- <BundGewaehlte Departement Bundesrat Nr. 1 [Bundesrat 5, tbd:Pers. Mitarbeiter Bundesrat 3]>
- <BundGewaehlte Nationalrat [Nationalrat 126, tbd:Nationalrat Partner 12]>
- <BundGewaehlte Ständerat [Staenderat 47, tbd:Ständerat Partner 2]>
+ <BundArbeitsgruppe Arbeitsgruppe [Mitglied 5]>
+ <BundGewaehlte Departement Bundesrat Nr. 1 [Bundesrat 5]>
+ <BundGewaehlte Nationalrat [Nationalrat 138]>
+ <BundGewaehlte Ständerat [Staenderat 47]>
  <Kanton CVP VD>
   <KantonSympathisanten Sympathisanten [Sympathisant 222]>
+  <KantonSekretariat Sekretariat [Leitung 3, Mitarbeiter 2]>
+  <KantonArbeitsgruppe Arbeitsgruppe [Mitglied 14]>
   <KantonExterneKontakte Newsletter [Kontakt 469]>
   <KantonGewaehlte Legislative [KantonaleLegislative 3]>
   <KantonMitglieder Mitgliedschaften [Mitglied 92]>
-  <KantonPraesidium Partei [Praesident 7, tbd:Ansprechperson Finanzen 1, tbd:Empfänger Rechnung Jahresbeitrag CVP CH 2, tbd:Empfänger Umzugsmeldung 1, tbd:Kassier 2, tbd:Medienverteiler 12, tbd:OM Ansprechperson 2, tbd:Sekretär Kantonalpartei/Vereinigung 3]>
+  <KantonPraesidium Partei [Kassier 1, Mitglied 3, Praesident 7]>
   <Ort Aigle-Chablais>
    <OrtMitglieder Mitgliedschaften [Mitglied 10]>
    <OrtPraesidium Partei [Praesident 1]>
@@ -32,8 +35,9 @@
    <OrtPraesidium Partei [Adressverwalter 4, Praesident 3]>
   <Ort Morges>
    <OrtSympathisanten Sympathisanten [Sympathisant 92]>
+   <OrtSekretariat Sekretariat [Leitung 1]>
    <OrtMitglieder Mitgliedschaften [Mitglied 17]>
-   <OrtPraesidium Partei [Adressverwalter 2, Kassier 1, Mitglied 4, tbd:Sekretär 1]>
+   <OrtPraesidium Partei [Adressverwalter 2, Kassier 1, Mitglied 4]>
   <Ort Nyon Région>
    <OrtSympathisanten Sympathisanten [Sympathisant 47]>
    <OrtMitglieder Mitgliedschaften [Mitglied 51]>
@@ -46,8 +50,9 @@
    <OrtMitglieder Mitgliedschaften [Mitglied 40]>
    <OrtPraesidium Partei [Adressverwalter 2, Praesident 2]>
   <Ort Villeneuve>
+   <OrtSekretariat Sekretariat [Leitung 1]>
    <OrtMitglieder Mitgliedschaften [Mitglied 25]>
-   <OrtPraesidium Partei [Adressverwalter 1, Kassier 1, Praesident 1, tbd:Sekretär 1]>
+   <OrtPraesidium Partei [Adressverwalter 1, Kassier 1, Praesident 1]>
   <Region Riviera-Pays d'Enhaut>
    <Ort La Tour-de Peilz>
     <OrtMitglieder Mitgliedschaften [Mitglied 24]>
@@ -56,7 +61,8 @@
     <OrtSympathisanten Sympathisanten [Sympathisant 3]>
     <OrtMitglieder Mitgliedschaften [Mitglied 9]>
     <OrtPraesidium Parti [Praesident 1]>
-   <Ort Parti [tbd:Präsident 1]>
+   <Ort Parti>
+    <OrtPraesidium Praesidium [Praesident 1]>
    <Ort Vevey>
     <OrtSympathisanten Sympathisanten [Sympathisant 7]>
     <OrtMitglieder Mitgliedschaften [Mitglied 40]>

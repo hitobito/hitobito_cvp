@@ -16,16 +16,65 @@ groups:
   create:
     Bund:
       - Sympathisanten
-    Kanton:
-      - Sympathisanten
-    Region:
-      - Sympathisanten
-    Ort:
-      - Sympathisanten
+      - Gewaehlte:Bundesrichter
+      - Gewaehlte:Bundesricher Ersatz
+      - Gewaehlte:Bundesverwaltungsrichter
+      - Gewaehlte:Bundesgericht nebenamtlicher Richter
+      - Gewaehlte:Richter Bundesstrafgericht
+      - Gewaehlte:Bundesrichter Ersatz
+      - Gewaehlte:Bundesstrafgericht nebenamtlicher Richter
+      - Arbeitsgruppe
+      - Arbeitsgruppe:Kantonaler Fraktionspräsident
+      - Arbeitsgruppe:Regierungsrat
+      - Arbeitsgruppe:Sekretär (administrativ)
+      - Arbeitsgruppe:Sekretär Kantonalpartei/Vereinigung
     Vereinigung:
       - Sympathisanten
+      - Sekretariat
+      - Delegierte
+      - Parteigremium
+      - ExterneKontakte
+    Kanton:
+      - Sympathisanten
+      - Parteigremium
+      - Praesidium
+      - Delegierte
+      - Gewaehlte
+      - Sekretariat
+      - Mitglieder
+      - ExterneKontakte
+
+      - Arbeitsgruppe
+      - Arbeitsgruppe:Jurist
+      - Arbeitsgruppe:Einwohnerrat
+      - Arbeitsgruppe:Einwohnerrat
+      - Arbeitsgruppe:Gemeindammann
+      - Arbeitsgruppe:Gemeinderat
+      - Arbeitsgruppe:Gemeinderatsmitglied
+      - Arbeitsgruppe:Stadtparlamentarier
+    Region:
+      - Sympathisanten
+      - ExterneKontakte
+      - Arbeitsgruppe
+      - Delegierte
+      - Sekretariat
+      - Parteigremium
+      - Praesidium
+    Ort:
+      - Sympathisanten
+      - Arbeitsgruppe
+      - Delegierte
+      - Gewaehlte
+      - Sekretariat
+      - Mitglieder
+      - ExterneKontakte
+      - Parteigremium
+      - Praesidium
 
   moves:
+    by_id:
+    - [213, 1] # Bund > B-Club
+
     by_parent_id:
     - [37881, 167] # SG > Partei > Gesinnungskreis
     - [37572, 163] # LU > Parteivorstand > (e. Kantonratsw-Wahlkreisgruppen, i. Parteisekretär)
@@ -107,6 +156,8 @@ groups:
       - !ruby/regexp /^Newsletter$/i
       - !ruby/regexp /^Communiqués$/i
       - !ruby/regexp /^Medienverteiler$/i
+      - !ruby/regexp /^Vereinigungen$/i
+      - !ruby/regexp /^Gönner/i
       default: BundArbeitsgruppe
     BundDelegierte:
       default: BundDelegierte
@@ -234,6 +285,7 @@ groups:
       - !ruby/regexp /^Donatoren$/i
       - !ruby/regexp /^Bettelbrief$/i
       - !ruby/regexp /^Sponsoren$/i
+      - !ruby/regexp /^Gönner$/i
       KantonMitglieder:
       - !ruby/regexp /Mitgliedschaften/i
       default: KantonArbeitsgruppe
@@ -303,12 +355,14 @@ groups:
       - !ruby/regexp /Helfer-Pool|Newsletter|Club96/i
       - !ruby/regexp /^Firmen$/
       - !ruby/regexp /^Sponsoren$/i
+      - !ruby/regexp /^Gönner$/i
       default: OrtArbeitsgruppe
     OrtGewaehlte:
       default: OrtGewaehlte
     OrtArbeitsgruppe:
       default: OrtArbeitsgruppe
 roles_new:
+  merkmale: Documents/hitobito/CVP/Migration/merkmale_final.csv
   ignored:
     - Wahlbüro
   moves:
@@ -330,7 +384,30 @@ roles_new:
       - !ruby/regexp /^Bundesrat$/i
     BundExterneKontakte:
       Kontakt:
+      - !ruby/regexp /Botschafter/i
+      - !ruby/regexp /Einladung/i
+      - !ruby/regexp /^Präsident$/i
       - !ruby/regexp /^Kontakt$/i
+      - !ruby/regexp /^Gast$/i
+      - !ruby/regexp /^Interessent$/i
+      - !ruby/regexp /^Konsul$/i
+      - !ruby/regexp /^Weitere$/i
+      - !ruby/regexp /^Empfänger$/i
+      Spender:
+      - !ruby/regexp /^Basic Card$/i
+      - !ruby/regexp /^Business Card$/i
+      - !ruby/regexp /^Business Plus Card$/i
+      - !ruby/regexp /^Gönner/i
+    BundArbeitsgruppe:
+      Leitung:
+      - !ruby/regexp /^Sekretär Kantonalpartei/Vereinigung$/
+      - !ruby/regexp /^Sekretär \(administrativ\)$/
+      Mitglied:
+      - !ruby/regexp /^Bundesanwalt$/i
+      - !ruby/regexp /^Aufsichtsbehörde über die Bundesanwaltschaft$/i
+      Gast:
+      - !ruby/regexp /^Interessent$/i
+
     BundSympathisanten:
       Sympathisant:
       - !ruby/regexp /symp/i
@@ -409,9 +486,8 @@ roles_new:
       KantonaleExekutive:
       - !ruby/regexp /Kantonsrat/i
       - ['Exekutive', 'Mitglied']
-      - ['Staatssekretär \(7200\)', 'Mitglied']
-      - ['Regierungsrat \(8400\)', 'Mitglied']
       - ['Regierungsrat', 'Mitglied']
+      - ['Staatssekretär \(7200\)', 'Mitglied']
       - ['Regierungpräsident \(8760\)', 'Mitglied']
     KantonKommission:
       Praesident:
@@ -420,11 +496,13 @@ roles_new:
       - !ruby/regexp /Mitglied/i
     KantonExterneKontakte:
       Spender:
+        - !ruby/regexp /^Gönner$/i
         - ['Firmen', 'Spender Firmen']
         - ['Fundraising', 'Kontakt']
         - ['Bettelbrief', 'Kontakt']
         - ['Donatoren', 'Kontakt']
         - ['Sponsoren', 'Mitglied']
+        - ['Gönner', 'Mitglied']
       Kontakt:
       - !ruby/regexp /Kontakt/i
       - !ruby/regexp /Empfänger/i
@@ -439,6 +517,7 @@ roles_new:
       - !ruby/regexp /^Kontakt$/i
       Gast:
       - !ruby/regexp /^Gast$/i
+      - !ruby/regexp /^Interessent$/i
     KantonMitglieder:
       Mitglied:
       - !ruby/regexp /einzel|ehren|jugend|jeune|indi|senior|fam/i
@@ -522,5 +601,6 @@ roles_new:
     OrtExterneKontakte:
       Spender:
       - ['Sponsoren', 'Kontakt']
+      - !ruby/regexp /^Gönner$/i
       Kontakt:
         - !ruby/regexp /Kontakt|Mitglied|Empfänger/i

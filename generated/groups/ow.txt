@@ -1,29 +1,30 @@
 <Bund id=1, label=CVP Schweiz, parent_id=>
+ <BundArbeitsgruppe id=40426, label=Arbeitsgruppe, parent_id=1>
  <BundGewaehlte id=14763, label=Departement Bundesrat Nr. 1, parent_id=1>
  <BundGewaehlte id=14860, label=Nationalrat, parent_id=1>
  <BundGewaehlte id=14861, label=Ständerat, parent_id=1>
  <Kanton id=166, label=CVP OW, parent_id=1>
-  <KantonSympathisanten id=40419, label=Sympathisanten, parent_id=166>
+  <KantonSympathisanten id=40431, label=Sympathisanten, parent_id=166>
+  <KantonSekretariat id=40436, label=Sekretariat, parent_id=166>
+  <KantonArbeitsgruppe id=40439, label=Arbeitsgruppe, parent_id=166>
   <KantonGewaehlte id=35079, label=Regierungsrat, parent_id=166>
-  <KantonGewaehlte id=525, label=Judikative, parent_id=166>
-   <KantonGewaehlte id=35080, label=Kantonsgericht, parent_id=525>
-   <KantonGewaehlte id=35081, label=Obergericht, parent_id=525>
-   <KantonGewaehlte id=1543, label=Verwaltungsgericht, parent_id=525>
   <KantonGewaehlte id=527, label=Legislative, parent_id=166>
   <KantonMitglieder id=529, label=Mitgliedschaften, parent_id=166>
   <KantonParteigremium id=35083, label=Vorstand, parent_id=166>
   <KantonPraesidium id=530, label=Partei, parent_id=166>
   <Ort id=522, label=Alpnach, parent_id=166>
+   <OrtSekretariat id=40450, label=Sekretariat, parent_id=522>
+   <OrtExterneKontakte id=40452, label=ExterneKontakte, parent_id=522>
    <OrtGewaehlte id=1537, label=Exekutive, parent_id=522>
    <OrtMitglieder id=1538, label=Mitgliedschaften, parent_id=522>
    <OrtPraesidium id=35097, label=Partei, parent_id=522>
   <Ort id=523, label=Engelberg [mit Grafenort], parent_id=166>
-   <OrtSympathisanten id=40421, label=Sympathisanten, parent_id=523>
+   <OrtSympathisanten id=40455, label=Sympathisanten, parent_id=523>
    <OrtGewaehlte id=35096, label=Exekutive, parent_id=523>
    <OrtMitglieder id=1539, label=Mitgliedschaften, parent_id=523>
    <OrtPraesidium id=1540, label=Partei, parent_id=523>
   <Ort id=524, label=Giswil, parent_id=166>
-   <OrtSympathisanten id=40422, label=Sympathisanten, parent_id=524>
+   <OrtSympathisanten id=40464, label=Sympathisanten, parent_id=524>
    <OrtGewaehlte id=35098, label=Exekutive, parent_id=524>
    <OrtMitglieder id=1541, label=Mitgliedschaften, parent_id=524>
    <OrtPraesidium id=1542, label=Partei, parent_id=524>
@@ -36,12 +37,14 @@
    <OrtMitglieder id=1547, label=Mitgliedschaften, parent_id=528>
    <OrtPraesidium id=1548, label=Partei, parent_id=528>
   <Ort id=531, label=Sachseln [mit Flüeli Ranft], parent_id=166>
-   <OrtSympathisanten id=40425, label=Sympathisanten, parent_id=531>
+   <OrtSympathisanten id=40491, label=Sympathisanten, parent_id=531>
    <OrtGewaehlte id=1549, label=Exekutive, parent_id=531>
    <OrtMitglieder id=1550, label=Mitgliedschaften, parent_id=531>
    <OrtPraesidium id=1551, label=Partei, parent_id=531>
   <Ort id=532, label=Sarnen [mit Ramersberg, Wilen, Stalden & Kägiswil], parent_id=166>
-   <OrtSympathisanten id=40426, label=Sympathisanten, parent_id=532>
+   <OrtSympathisanten id=40500, label=Sympathisanten, parent_id=532>
+   <OrtSekretariat id=40504, label=Sekretariat, parent_id=532>
+   <OrtParteigremium id=40507, label=Parteigremium, parent_id=532>
    <OrtGewaehlte id=35100, label=Exekutive, parent_id=532>
    <OrtMitglieder id=1552, label=Mitgliedschaften, parent_id=532>
    <OrtPraesidium id=1553, label=Partei, parent_id=532>

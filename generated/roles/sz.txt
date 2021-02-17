@@ -1,64 +1,39 @@
 <Bund CVP Schweiz>
- <BundGewaehlte Departement Bundesrat Nr. 1 [Bundesrat 5, tbd:Pers. Mitarbeiter Bundesrat 3]>
- <BundGewaehlte Nationalrat [Nationalrat 126, tbd:Nationalrat Partner 12]>
- <BundGewaehlte Ständerat [Staenderat 47, tbd:Ständerat Partner 2]>
+ <BundArbeitsgruppe Arbeitsgruppe [Mitglied 5]>
+ <BundGewaehlte Departement Bundesrat Nr. 1 [Bundesrat 5]>
+ <BundGewaehlte Nationalrat [Nationalrat 138]>
+ <BundGewaehlte Ständerat [Staenderat 47]>
  <Kanton CVP SZ>
+  <KantonPraesidium Praesidium [Vizepraesident 3]>
+  <KantonDelegierte Delegierte [Delegierte 222]>
+  <KantonSekretariat Sekretariat [Leitung 1, Mitarbeiter 3]>
+  <KantonArbeitsgruppe Arbeitsgruppe [Mitglied 55]>
   <KantonArbeitsgruppe AG Wirtschaftstagung [Mitglied 6]>
   <KantonArbeitsgruppe Bankrat [Mitglied 5]>
   <KantonArbeitsgruppe Delegierte CVP Schweiz [Mitglied 14]>
   <KantonArbeitsgruppe Eidgenössische Mandate (NR, SR, BR, BG) [Mitglied 4]>
   <KantonArbeitsgruppe Erziehungsrat [Mitglied 4]>
   <KantonArbeitsgruppe Fraktions-AG>
-   <KantonArbeitsgruppe AG Bau/Infrastruktur [Mitglied 9, tbd:Leitung 1]>
-   <KantonArbeitsgruppe AG Bildung/Kultur [Mitglied 5, tbd:Leitung 2]>
-   <KantonArbeitsgruppe AG Finanzen [Mitglied 8, tbd:Leitung 1]>
-   <KantonArbeitsgruppe AG Gesundheit/Soziales/Familie [Mitglied 7, tbd:Leitung 2]>
-   <KantonArbeitsgruppe AG Raumplanung/Umwelt/Verkehr [Mitglied 7, tbd:Leitung 2]>
-   <KantonArbeitsgruppe AG Sicherheit / Justiz [Mitglied 3, tbd:Leitung 1]>
-   <KantonArbeitsgruppe AG Volkswirtschaft [Mitglied 6, tbd:Leitung 2]>
-  <KantonArbeitsgruppe MV>
-   <KantonArbeitsgruppe 60plus [tbd:Delegierter 8]>
-   <KantonArbeitsgruppe Bezirk Höfe [tbd:Delegierter 1]>
-   <KantonArbeitsgruppe Bezirk March [tbd:Delegierter 3]>
-   <KantonArbeitsgruppe Bezirk Schwyz [tbd:Delegierter 4]>
-   <KantonArbeitsgruppe CVP Altendorf [tbd:Delegierter 9]>
-   <KantonArbeitsgruppe CVP Arth-Oberarth-Goldau [tbd:Delegierter 12]>
-   <KantonArbeitsgruppe CVP Einsiedeln [tbd:Delegierter 15]>
-   <KantonArbeitsgruppe CVP Feusisberg [tbd:Delegierter 7]>
-   <KantonArbeitsgruppe CVP Freienbach [tbd:Delegierter 15]>
-   <KantonArbeitsgruppe CVP Galgenen [tbd:Delegierter 7]>
-   <KantonArbeitsgruppe CVP Gersau [tbd:Delegierter 6]>
-   <KantonArbeitsgruppe CVP Illgau [tbd:Delegierter 4]>
-   <KantonArbeitsgruppe CVP Ingenbohl [tbd:Delegierter 12]>
-   <KantonArbeitsgruppe CVP Küssnacht [tbd:Delegierter 10]>
-   <KantonArbeitsgruppe CVP Lachen [tbd:Delegierter 9]>
-   <KantonArbeitsgruppe CVP Lauerz [tbd:Delegierter 3]>
-   <KantonArbeitsgruppe CVP Muotathal [tbd:Delegierter 8]>
-   <KantonArbeitsgruppe CVP Reichenburg [tbd:Delegierter 5]>
-   <KantonArbeitsgruppe CVP Rothenthurm [tbd:Delegierter 6]>
-   <KantonArbeitsgruppe CVP Sattel [tbd:Delegierter 3]>
-   <KantonArbeitsgruppe CVP Schwyz [tbd:Delegierter 20]>
-   <KantonArbeitsgruppe CVP Schübelbach [tbd:Delegierter 8]>
-   <KantonArbeitsgruppe CVP Steinen [tbd:Delegierter 5]>
-   <KantonArbeitsgruppe CVP Tuggen [tbd:Delegierter 4]>
-   <KantonArbeitsgruppe CVP Unteriberg [tbd:Delegierter 4]>
-   <KantonArbeitsgruppe CVP Wangen [tbd:Delegierter 4]>
-   <KantonArbeitsgruppe CVP Wollerau [tbd:Delegierter 6]>
-   <KantonArbeitsgruppe JCVP [tbd:Delegierter 10]>
-   <KantonArbeitsgruppe KVP Altendorf [tbd:Delegierter 4]>
-  <KantonArbeitsgruppe Mail Ortsparteien [tbd:Empfänger 23]>
+   <KantonArbeitsgruppe AG Bau/Infrastruktur [Leitung 1, Mitglied 9]>
+   <KantonArbeitsgruppe AG Bildung/Kultur [Leitung 2, Mitglied 5]>
+   <KantonArbeitsgruppe AG Finanzen [Leitung 1, Mitglied 8]>
+   <KantonArbeitsgruppe AG Gesundheit/Soziales/Familie [Leitung 2, Mitglied 7]>
+   <KantonArbeitsgruppe AG Raumplanung/Umwelt/Verkehr [Leitung 2, Mitglied 7]>
+   <KantonArbeitsgruppe AG Sicherheit / Justiz [Leitung 1, Mitglied 3]>
+   <KantonArbeitsgruppe AG Volkswirtschaft [Leitung 2, Mitglied 6]>
+  <KantonArbeitsgruppe Mail Ortsparteien [Mitglied 23]>
   <KantonGewaehlte Regierungsrat [KantonaleExekutive 4]>
   <KantonGewaehlte Judikative [Staatsanwaltschaft 1]>
-   <KantonGewaehlte Kantonsgericht [MitgliedKantonalesGerichtErsteInstanz 2, tbd:Mitglied 4, tbd:Vizepräsident 1]>
-   <KantonGewaehlte Strafgericht [tbd:Mitglied 1]>
-   <KantonGewaehlte Verwaltungsgericht [MitgliedKantonalesGerichtErsteInstanz 3, tbd:Mitglied 2, tbd:Vizepräsident 2]>
-  <KantonGewaehlte Legislative [KantonaleLegislative 75]>
+   <KantonGewaehlte Kantonsgericht [MitgliedKantonalesGerichtErsteInstanz 2]>
+   <KantonGewaehlte Verwaltungsgericht [MitgliedKantonalesGerichtErsteInstanz 3]>
+  <KantonGewaehlte Legislative [KantonaleLegislative 77]>
+  <KantonMitglieder Mitgliedschaften [Mitglied 7]>
   <KantonParteigremium Fraktionsvorstand [Mitglied 9]>
   <KantonParteigremium Präsidenten der Vereinigungen [Mitglied 4]>
   <KantonParteigremium Revisionsstelle [Mitglied 3]>
   <KantonParteigremium Schiedsgericht [Mitglied 3]>
   <KantonParteigremium Vorstandsausschuss [Mitglied 5]>
-  <KantonPraesidium Partei [Praesident 8, tbd:Ansprechperson Finanzen 1, tbd:Empfänger Rechnung Jahresbeitrag CVP CH 1, tbd:Leserbriefschreiber/-in Verantw. 54, tbd:OM Ansprechperson 3, tbd:Sekretär Kantonalpartei/Vereinigung 1, tbd:Zuzüger 2]>
+  <KantonPraesidium Partei [Kassier 1, Mitglied 2, Praesident 8]>
   <KantonPraesidium Vorstand [Mitglied 21]>
   <KantonPraesidium Vorstand CVP Schweiz [Mitglied 4]>
   <Region Bezirk Einsiedeln>
@@ -66,11 +41,11 @@
    <RegionGewaehlte Exekutive [RegionExekutive 2]>
    <RegionGewaehlte Judikative [RegionJudikative 4]>
    <RegionMitglieder Mitgliedschaften [Mitglied 170]>
-   <RegionPraesidium Partei [Praesident 3, tbd:Vorstandsmitglied 8, tbd:Zuzüger 7]>
+   <RegionPraesidium Partei [Mitglied 15, Praesident 3]>
   <Region Bezirk Gersau>
    <RegionGewaehlte Exekutive [RegionExekutive 6]>
    <RegionMitglieder Mitgliedschaften [Mitglied 26]>
-   <RegionPraesidium Partei [Praesident 3, tbd:Vorstandsmitglied 5]>
+   <RegionPraesidium Partei [Mitglied 5, Praesident 3]>
   <Region Bezirk Höfe>
    <RegionGewaehlte Exekutive [RegionExekutive 3]>
    <RegionGewaehlte Judikative [RegionJudikative 1]>
@@ -82,11 +57,13 @@
     <OrtPraesidium Partei [Adressverwalter 1, Mitglied 7, Praesident 3]>
    <Ort Freienbach>
     <OrtSympathisanten Sympathisanten [Sympathisant 253]>
-    <OrtArbeitsgruppe Neuzuzüger>
-     <OrtArbeitsgruppe 2018 [tbd:Kontakt 153]>
+    <OrtArbeitsgruppe Arbeitsgruppe [Mitglied 1]>
+    <OrtGewaehlte Gewaehlte [MitgliedWeitereGemeindeKommissionen 15, Rechnungspruefungskommission 2, Schulpflegekommission 2]>
+    <OrtExterneKontakte ExterneKontakte [Kontakt 153]>
+    <OrtParteigremium Parteigremium [Mitglied 15]>
     <OrtGewaehlte Exekutive [Fraktionschef 1, KommunaleExekutive 5]>
     <OrtMitglieder Mitgliedschaften [Mitglied 208]>
-    <OrtPraesidium Partei [Adressverwalter 2, Kassier 2, Mitglied 17, Praesident 4, tbd:Abstimmungsbüro 15, tbd:Abwasserverband Höfe 2, tbd:Betriebskommission Pflegezentren 1, tbd:Delegierter 10, tbd:Einbürgerungskommission 1, tbd:Energiekommission 1, tbd:Erziehungsrat 1, tbd:Fürsorgebehörde 2, tbd:Hochbaukommission 1, tbd:Jugend/Familienkommission 1, tbd:Kantonsrat 2, tbd:Kulturkommission 2, tbd:Liegenschaftenkommission 1, tbd:Planungskommission 1, tbd:Projektgruppe Steinfabrik 1, tbd:RPK Gemeinde 2, tbd:Schulrat 1, tbd:Umwelt/Landschaftsko 1, tbd:Verkehrskommission 1]>
+    <OrtPraesidium Partei [Adressverwalter 2, Kassier 2, Mitglied 17, Praesident 4]>
    <Ort Wollerau>
     <OrtSympathisanten Sympathisanten [Sympathisant 50]>
     <OrtGewaehlte Exekutive [KommunaleExekutive 3]>
@@ -97,18 +74,15 @@
    <RegionGewaehlte Exekutive [RegionExekutive 3]>
    <RegionGewaehlte Judikative [RegionExekutive 1, RegionJudikative 7]>
    <RegionMitglieder Mitgliedschaften [Mitglied 182]>
-   <RegionPraesidium Partei [Praesident 1, tbd:Empfänger Umzugsmeldung 1, tbd:Vorstandsmitglied 6, tbd:Zuzüger 5]>
+   <RegionPraesidium Partei [Mitglied 12, Praesident 1]>
   <Region Bezirk March>
    <RegionGewaehlte Exekutive [RegionExekutive 2]>
    <RegionGewaehlte Judikative [RegionJudikative 2]>
-   <RegionPraesidium Partei [Praesident 3, tbd:Empfänger Umzugsmeldung 1, tbd:Vorstandsmitglied 3]>
+   <RegionPraesidium Partei [Mitglied 4, Praesident 3]>
    <Ort Altendorf>
     <OrtSympathisanten Sympathisanten [Sympathisant 457]>
-    <OrtArbeitsgruppe Ehrenmitglieder [tbd:Mitglied 12]>
-    <OrtArbeitsgruppe Kommissionsmitglieder [tbd:Mitglied 16]>
-    <OrtArbeitsgruppe Schulrat [tbd:Mitglied 1]>
     <OrtGewaehlte Exekutive [KommunaleExekutive 3]>
-    <OrtMitglieder Mitgliedschaften [Mitglied 197]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 226]>
     <OrtPraesidium Partei [Adressverwalter 4, Mitglied 19, Praesident 3]>
    <Ort Altendorf KVP>
     <OrtGewaehlte Exekutive [KommunaleExekutive 1]>
@@ -144,7 +118,7 @@
   <Region Bezirk Schwyz>
    <RegionGewaehlte Exekutive [RegionExekutive 6]>
    <RegionGewaehlte Judikative [RegionExekutive 1]>
-   <RegionPraesidium Partei [Praesident 1, tbd:Vorstandsmitglied 1]>
+   <RegionPraesidium Partei [Mitglied 1, Praesident 1]>
    <Ort Arth-Oberarth-Goldau>
     <OrtSympathisanten Sympathisanten [Sympathisant 121]>
     <OrtGewaehlte Exekutive [Fraktionschef 2, KommunaleExekutive 5]>
@@ -163,14 +137,15 @@
     <OrtSympathisanten Sympathisanten [Sympathisant 6]>
     <OrtGewaehlte Exekutive [Fraktionschef 2, KommunaleExekutive 3]>
     <OrtMitglieder Mitgliedschaften [Mitglied 33]>
-    <OrtPraesidium Partei [Kassier 1, Praesident 3, tbd:Beisitzer 10]>
+    <OrtPraesidium Partei [Kassier 1, Mitglied 10, Praesident 3]>
    <Ort Muotathal>
-    <OrtGewaehlte Exekutive [KommunaleExekutive 9, tbd:RPK Gemeinde 1]>
+    <OrtParteigremium Parteigremium [Mitglied 2]>
+    <OrtGewaehlte Exekutive [KommunaleExekutive 9, Rechnungspruefungskommission 1]>
     <OrtMitglieder Mitgliedschaften [Mitglied 41]>
-    <OrtPraesidium Partei [Mitglied 12, Praesident 3, tbd:Revisor 2]>
+    <OrtPraesidium Partei [Mitglied 12, Praesident 3]>
    <Ort Rothenthurm>
     <OrtSympathisanten Sympathisanten [Sympathisant 10]>
-    <OrtGewaehlte Exekutive [KommunaleExekutive 6, tbd:Rechnungsprüfungskommission Mitgl. 1]>
+    <OrtGewaehlte Exekutive [KommunaleExekutive 6, Rechnungspruefungskommission 1]>
     <OrtMitglieder Mitgliedschaften [Mitglied 30]>
     <OrtPraesidium Partei [Mitglied 4, Praesident 2]>
    <Ort Sattel>
@@ -179,32 +154,14 @@
     <OrtPraesidium Partei [Adressverwalter 1, Mitglied 4, Praesident 2]>
    <Ort Schwyz>
     <OrtSympathisanten Sympathisanten [Sympathisant 124]>
-    <OrtArbeitsgruppe Kommissionen>
-     <OrtArbeitsgruppe Alterskommission [tbd:Mitglied 1]>
-     <OrtArbeitsgruppe Baukommission [tbd:Mitglied 2]>
-     <OrtArbeitsgruppe Einbürgerungsbehörde [tbd:Mitglied 1]>
-     <OrtArbeitsgruppe Entwicklungskommission [tbd:Mitglied 1]>
-     <OrtArbeitsgruppe Fachkommission Jugend [tbd:Mitglied 2]>
-     <OrtArbeitsgruppe Finanzkommission [tbd:Mitglied 1]>
-     <OrtArbeitsgruppe Fürsorgebehörde [tbd:Mitglied 1]>
-     <OrtArbeitsgruppe Kommission für Wahlen und Abstimmungen [tbd:Mitglied 2]>
-     <OrtArbeitsgruppe Liegenschaftskommission [tbd:Mitglied 1]>
-     <OrtArbeitsgruppe Planungskommission [tbd:Mitglied 1]>
-     <OrtArbeitsgruppe Rechnungsprüfungskommission [tbd:Mitglied 5]>
-     <OrtArbeitsgruppe Schulrat [tbd:Mitglied 2]>
-     <OrtArbeitsgruppe Sportkommission [tbd:Mitglied 2]>
-     <OrtArbeitsgruppe Tiefbau- und Verkehrskommission [tbd:Mitglied 1]>
-     <OrtArbeitsgruppe Umweltkommission [tbd:Mitglied 1]>
     <OrtGewaehlte Exekutive [Fraktionschef 1, KommunaleExekutive 7]>
-    <OrtMitglieder Mitgliedschaften [Mitglied 611]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 635]>
     <OrtPraesidium Partei [Adressverwalter 20, Mitglied 13, Praesident 3]>
    <Ort Steinen>
     <OrtSympathisanten Sympathisanten [Sympathisant 243]>
-    <OrtArbeitsgruppe Kommissionen>
-     <OrtArbeitsgruppe Einbürgerungskommission [tbd:Mitglied 1]>
     <OrtGewaehlte Exekutive [Fraktionschef 2, KommunaleExekutive 3]>
-    <OrtMitglieder Mitgliedschaften [Mitglied 33]>
-    <OrtPraesidium Partei [Kassier 1, Mitglied 6, Praesident 3, tbd:Aktuar 1]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 34]>
+    <OrtPraesidium Partei [Kassier 2, Mitglied 6, Praesident 3]>
    <Ort Unteriberg>
     <OrtGewaehlte Exekutive [KommunaleExekutive 1]>
     <OrtMitglieder Mitgliedschaften [Mitglied 8]>

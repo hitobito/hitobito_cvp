@@ -1,15 +1,19 @@
 <Bund id=1, label=CVP Schweiz, parent_id=>
+ <BundArbeitsgruppe id=40426, label=Arbeitsgruppe, parent_id=1>
  <BundGewaehlte id=14763, label=Departement Bundesrat Nr. 1, parent_id=1>
  <BundGewaehlte id=14860, label=Nationalrat, parent_id=1>
  <BundGewaehlte id=14861, label=Ständerat, parent_id=1>
  <Kanton id=164, label=CVP NE, parent_id=1>
-  <KantonSympathisanten id=40419, label=Sympathisanten, parent_id=164>
+  <KantonSympathisanten id=40431, label=Sympathisanten, parent_id=164>
+  <KantonSekretariat id=40436, label=Sekretariat, parent_id=164>
+  <KantonExterneKontakte id=40438, label=ExterneKontakte, parent_id=164>
+  <KantonArbeitsgruppe id=40439, label=Arbeitsgruppe, parent_id=164>
   <KantonArbeitsgruppe id=36337, label=Politische Kommission, parent_id=164>
   <KantonGewaehlte id=39503, label=Législatif, parent_id=164>
   <KantonMitglieder id=503, label=Mitgliedschaften, parent_id=164>
   <KantonPraesidium id=504, label=Partei, parent_id=164>
   <Ort id=37503, label=Littoral / Entre-deux-Lacs, parent_id=164>
-   <OrtSympathisanten id=40420, label=Sympathisanten, parent_id=37503>
+   <OrtSympathisanten id=40446, label=Sympathisanten, parent_id=37503>
    <OrtGewaehlte id=39502, label=Législatif / conseil général, parent_id=37503>
    <OrtMitglieder id=37507, label=Mitgliedschaften, parent_id=37503>
    <OrtPraesidium id=37504, label=Partei, parent_id=37503>
