@@ -1,65 +1,76 @@
 <Bund id=1, label=CVP Schweiz, parent_id=>
  <Vereinigung id=3, label=CVP Frauen, parent_id=1>
-  <VereinigungArbeitsgruppe id=39714, label=Delegierte CVP Frauen Schweiz, parent_id=3>
-   <VereinigungArbeitsgruppe id=39780, label=BL, parent_id=39714>
-   <VereinigungArbeitsgruppe id=39783, label=GE, parent_id=39714>
-   <VereinigungArbeitsgruppe id=39784, label=GR, parent_id=39714>
-   <VereinigungArbeitsgruppe id=39785, label=JU, parent_id=39714>
-   <VereinigungArbeitsgruppe id=39791, label=TI, parent_id=39714>
-   <VereinigungArbeitsgruppe id=39795, label=VS - Oberwallis, parent_id=39714>
-   <VereinigungArbeitsgruppe id=39797, label=ZG, parent_id=39714>
+  <VereinigungSekretariat id=40432, label=Sekretariat, parent_id=3>
+  <VereinigungDelegierte id=40433, label=Delegierte, parent_id=3>
+  <VereinigungParteigremium id=40434, label=Parteigremium, parent_id=3>
   <VereinigungArbeitsgruppe id=17, label=Freundeskreis, parent_id=3>
   <VereinigungPraesidium id=14612, label=CVP Frauen Schweiz, parent_id=3>
   <Kanton id=89, label=AG, parent_id=3>
-   <KantonSympathisanten id=40420, label=Sympathisanten, parent_id=89>
+   <KantonSympathisanten id=40436, label=Sympathisanten, parent_id=89>
    <KantonMitglieder id=36377, label=Mitgliedschaften, parent_id=89>
   <Kanton id=14609, label=AI, parent_id=3>
+   <KantonPraesidium id=40453, label=Praesidium, parent_id=14609>
   <Kanton id=91, label=BE, parent_id=3>
+   <KantonPraesidium id=40468, label=Praesidium, parent_id=91>
+   <KantonMitglieder id=40472, label=Mitglieder, parent_id=91>
   <Kanton id=92, label=BL, parent_id=3>
-   <KantonSympathisanten id=40423, label=Sympathisanten, parent_id=92>
+   <KantonSympathisanten id=40481, label=Sympathisanten, parent_id=92>
    <KantonExterneKontakte id=38955, label=Newsletter, parent_id=92>
    <KantonMitglieder id=38956, label=Mitgliedschaften, parent_id=92>
   <Kanton id=37563, label=FR, parent_id=3>
    <KantonMitglieder id=37565, label=Mitgliedschaften, parent_id=37563>
   <Kanton id=95, label=GE, parent_id=3>
+   <KantonPraesidium id=40528, label=Praesidium, parent_id=95>
+   <KantonMitglieder id=40532, label=Mitglieder, parent_id=95>
   <Kanton id=96, label=GL, parent_id=3>
+   <KantonPraesidium id=40543, label=Praesidium, parent_id=96>
+   <KantonSekretariat id=40546, label=Sekretariat, parent_id=96>
+   <KantonMitglieder id=40547, label=Mitglieder, parent_id=96>
   <Kanton id=97, label=GR, parent_id=3>
-   <KantonSympathisanten id=40428, label=Sympathisanten, parent_id=97>
-   <KantonArbeitsgruppe id=38427, label=Delegierte CVP Frauen CH, parent_id=97>
-   <KantonArbeitsgruppe id=38426, label=Delegierte CVP GR, parent_id=97>
+   <KantonSympathisanten id=40556, label=Sympathisanten, parent_id=97>
+   <KantonDelegierte id=40559, label=Delegierte, parent_id=97>
    <KantonArbeitsgruppe id=38428, label=Frau Aktiv, parent_id=97>
    <KantonMitglieder id=38425, label=Mitgliedschaften, parent_id=97>
    <KantonPraesidium id=38424, label=Vorstand, parent_id=97>
   <Kanton id=98, label=JU, parent_id=3>
    <KantonMitglieder id=36385, label=Mitgliedschaften, parent_id=98>
   <Kanton id=38778, label=LU, parent_id=3>
-   <KantonSympathisanten id=40431, label=Sympathisanten, parent_id=38778>
+   <KantonSympathisanten id=40601, label=Sympathisanten, parent_id=38778>
    <KantonExterneKontakte id=38781, label=Newsletter, parent_id=38778>
    <KantonMitglieder id=38780, label=Mitgliedschaften, parent_id=38778>
   <Kanton id=100, label=NE, parent_id=3>
+   <KantonPraesidium id=40633, label=Praesidium, parent_id=100>
+   <KantonMitglieder id=40637, label=Mitglieder, parent_id=100>
   <Kanton id=101, label=NW, parent_id=3>
+   <KantonMitglieder id=40652, label=Mitglieder, parent_id=101>
   <Kanton id=103, label=SG, parent_id=3>
-   <KantonSympathisanten id=40436, label=Sympathisanten, parent_id=103>
+   <KantonSympathisanten id=40676, label=Sympathisanten, parent_id=103>
    <KantonExterneKontakte id=39233, label=Newsletter, parent_id=103>
    <KantonMitglieder id=37861, label=Mitgliedschaften, parent_id=103>
    <KantonPraesidium id=37860, label=Vorstand, parent_id=103>
   <Kanton id=104, label=SH, parent_id=3>
+   <KantonPraesidium id=40693, label=Praesidium, parent_id=104>
+   <KantonMitglieder id=40697, label=Mitglieder, parent_id=104>
   <Kanton id=105, label=SO, parent_id=3>
    <KantonMitglieder id=36458, label=Mitgliedschaften, parent_id=105>
   <Kanton id=107, label=TG, parent_id=3>
-   <KantonSympathisanten id=40440, label=Sympathisanten, parent_id=107>
+   <KantonSympathisanten id=40736, label=Sympathisanten, parent_id=107>
    <KantonExterneKontakte id=38953, label=Newsletter, parent_id=107>
    <KantonMitglieder id=36122, label=Mitgliedschaften, parent_id=107>
    <KantonPraesidium id=36123, label=Vorstand, parent_id=107>
   <Kanton id=108, label=TI, parent_id=3>
+   <KantonPraesidium id=40753, label=Praesidium, parent_id=108>
+   <KantonMitglieder id=40757, label=Mitglieder, parent_id=108>
   <Kanton id=110, label=VD, parent_id=3>
-   <KantonSympathisanten id=40442, label=Sympathisanten, parent_id=110>
+   <KantonSympathisanten id=40766, label=Sympathisanten, parent_id=110>
    <KantonArbeitsgruppe id=36209, label=Parti, parent_id=110>
    <KantonMitglieder id=38172, label=Mitgliedschaften, parent_id=110>
   <Kanton id=34983, label=VS Oberwallis, parent_id=3>
    <KantonMitglieder id=36456, label=Mitgliedschaften, parent_id=34983>
   <Kanton id=112, label=ZG, parent_id=3>
+   <KantonPraesidium id=40813, label=Praesidium, parent_id=112>
+   <KantonMitglieder id=40817, label=Mitglieder, parent_id=112>
   <Kanton id=39077, label=ZH, parent_id=3>
-   <KantonSympathisanten id=40446, label=Sympathisanten, parent_id=39077>
+   <KantonSympathisanten id=40826, label=Sympathisanten, parent_id=39077>
    <KantonExterneKontakte id=39145, label=Newsletter, parent_id=39077>
    <KantonMitglieder id=39079, label=Mitgliedschaften, parent_id=39077>

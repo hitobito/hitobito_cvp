@@ -1,14 +1,17 @@
 <Bund CVP Schweiz>
- <BundGewaehlte Departement Bundesrat Nr. 1 [Bundesrat 5, tbd:Pers. Mitarbeiter Bundesrat 3]>
- <BundGewaehlte Nationalrat [Nationalrat 126, tbd:Nationalrat Partner 12]>
- <BundGewaehlte Ständerat [Staenderat 47, tbd:Ständerat Partner 2]>
+ <BundArbeitsgruppe Arbeitsgruppe [Mitglied 5]>
+ <BundGewaehlte Departement Bundesrat Nr. 1 [Bundesrat 5]>
+ <BundGewaehlte Nationalrat [Nationalrat 140]>
+ <BundGewaehlte Ständerat [Staenderat 48]>
  <Kanton CVP TG>
-  <KantonSympathisanten Sympathisanten [Sympathisant 4]>
-  <KantonArbeitsgruppe DV Einladungen ohne Stimmrecht [tbd:Empfänger 4]>
-  <KantonArbeitsgruppe Eidgenössische Parlamentarier [tbd:Nationalrat 1, tbd:Ständerat 1]>
-  <KantonArbeitsgruppe Freundeskreis [tbd:Einladung 407]>
-  <KantonArbeitsgruppe Mandatsträger übrige [tbd:Nationalrat 1, tbd:Sympathisant 18, tbd:Zahlender 37]>
-  <KantonDelegierte DV Schweiz [Delegierte 15, tbd:Ersatzdelegierter 11]>
+  <KantonSympathisanten Sympathisanten [Sympathisant 22]>
+  <KantonDelegierte Delegierte [Delegierte 1]>
+  <KantonGewaehlte Gewaehlte [MitgliedKantonalesGerichtErsteInstanz 16, WeitereMandate 4]>
+  <KantonArbeitsgruppe Arbeitsgruppe [Mitglied 155, Praesident 2]>
+  <KantonArbeitsgruppe DV Einladungen ohne Stimmrecht [Mitglied 4]>
+  <KantonArbeitsgruppe Freundeskreis [Mitglied 407]>
+  <KantonArbeitsgruppe Mandatsträger übrige [Mitglied 37]>
+  <KantonDelegierte DV Schweiz [Delegierte 15, Ersatzdelegierte 11]>
   <KantonDelegierte Delegierte Weinfelden DV TG>
    <KantonDelegierte Gruppe 1 [Delegierte 8]>
    <KantonDelegierte Gruppe 2 [Delegierte 8]>
@@ -59,52 +62,55 @@
   <KantonExterneKontakte Medienverteiler [Kontakt 33]>
   <KantonExterneKontakte Newsletter [Kontakt 543]>
   <KantonGewaehlte Regierungsrat [KantonaleExekutive 2]>
-  <KantonGewaehlte Fraktion [Fraktionschef 2, tbd:Fraktionsausflug 152]>
+  <KantonGewaehlte Fraktion [Fraktionschef 2]>
   <KantonGewaehlte Judikative>
-   <KantonGewaehlte Obergericht [tbd:Ersatzrichter 1, tbd:Richter 2]>
+   <KantonGewaehlte Obergericht [MitgliedKantonalesGerichtErsteInstanz 3]>
    <KantonGewaehlte Staatsanwalt Region [Staatsanwaltschaft 2]>
    <KantonGewaehlte Verwaltungsgericht [MitgliedKantonalesGerichtErsteInstanz 2]>
-   <KantonGewaehlte Zwangsmassnahmengericht [tbd:Richter 2]>
-  <KantonGewaehlte Legislative [KantonaleLegislative 90, tbd:Präsident 2]>
+   <KantonGewaehlte Zwangsmassnahmengericht [MitgliedKantonalesGerichtErsteInstanz 2]>
+  <KantonGewaehlte Legislative [KantonaleLegislative 90]>
   <KantonMitglieder Mitgliedschaften [Mitglied 2]>
   <KantonParteigremium Parteivorstand [Mitglied 47]>
   <KantonParteigremium Rechnungsprüfungskommission [Mitglied 2]>
-  <KantonPraesidium Partei [Praesident 3, tbd:Ansprechperson Finanzen 1, tbd:Plakatierer 3]>
+  <KantonPraesidium Partei [Kassier 1, Praesident 3]>
   <KantonPraesidium Parteileitung [Mitglied 23, Praesident 7]>
   <Region Bezirk Arbon>
-   <RegionPraesidium Partei [Praesident 3, tbd:Kantonsrat Kandidat 08 39, tbd:Kassier 2, tbd:Vorstandsmitglied 3]>
+   <RegionArbeitsgruppe Arbeitsgruppe [Mitglied 39]>
+   <RegionPraesidium Partei [Mitglied 5, Praesident 3]>
    <Ort Amriswil>
     <OrtSympathisanten Sympathisanten [Sympathisant 77]>
-    <OrtArbeitsgruppe Schulbehörde [tbd:Mitglied 1]>
+    <OrtArbeitsgruppe Arbeitsgruppe [Mitglied 1]>
+    <OrtSekretariat Sekretariat [Leitung 1]>
     <OrtGewaehlte Exekutive [KommunaleExekutive 1]>
     <OrtGewaehlte Schulpflege [Schulpflegekommission 2]>
-    <OrtMitglieder Mitgliedschaften [Mitglied 121]>
-    <OrtPraesidium Partei [Adressverwalter 1, Kassier 1, Praesident 3, tbd:Kantonsrat Kandidat 08 1, tbd:Sekretär 1, tbd:Vorstand 7]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 122]>
+    <OrtPraesidium Partei [Adressverwalter 1, Kassier 1, Mitglied 7, Praesident 3]>
    <Ort Arbon>
     <OrtSympathisanten Sympathisanten [Sympathisant 52]>
-    <OrtArbeitsgruppe Schulbehörde [tbd:Mitglied 4]>
     <OrtGewaehlte Exekutive [Fraktionschef 1, KommunaleExekutive 3]>
     <OrtGewaehlte Legislative [KommunaleExekutive 11]>
-    <OrtMitglieder Mitgliedschaften [Mitglied 170]>
-    <OrtPraesidium Partei [Adressverwalter 2, Kassier 3, Praesident 6, tbd:Vorstand 20]>
-   <Ort Bezirksgericht [tbd:Berufsrichter 2, tbd:Ersatzrichter 2, tbd:Nebenamtliche Richter 1]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 174]>
+    <OrtPraesidium Partei [Adressverwalter 2, Kassier 3, Mitglied 20, Praesident 6]>
    <Ort Egnach und Umgebung>
+    <OrtSekretariat Sekretariat [Leitung 2]>
     <OrtGewaehlte Exekutive [KommunaleExekutive 2]>
     <OrtMitglieder Mitgliedschaften [Mitglied 38]>
-    <OrtPraesidium Partei [Kassier 2, Praesident 3, tbd:Sekretär 2, tbd:Vorstand 5]>
+    <OrtPraesidium Partei [Kassier 2, Mitglied 5, Praesident 3]>
    <Ort Horn>
     <OrtGewaehlte Exekutive [KommunaleExekutive 2]>
     <OrtMitglieder Mitgliedschaften [Mitglied 45]>
     <OrtPraesidium Partei [Adressverwalter 3, Kassier 1, Praesident 2]>
    <Ort Romanshorn>
     <OrtSympathisanten Sympathisanten [Sympathisant 1]>
-    <OrtArbeitsgruppe Schulbehörde [tbd:Mitglied 2]>
     <OrtGewaehlte Exekutive [Fraktionschef 1, KommunaleExekutive 2]>
-    <OrtMitglieder Mitgliedschaften [Mitglied 80]>
-    <OrtPraesidium Partei [Adressverwalter 3, Praesident 3, tbd:Vorstand 5]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 82]>
+    <OrtPraesidium Partei [Adressverwalter 3, Mitglied 5, Praesident 3]>
   <Region Bezirk Frauenfeld>
-   <RegionPraesidium Partei [Praesident 2, tbd:Kantonsrat Kandidat 08 36, tbd:Kassier 2, tbd:Sekretär 1]>
-   <Ort Bezirksgericht [tbd:Berufsrichter 1, tbd:Ersatzrichter 1, tbd:Präsident 1, tbd:Suppleant 2]>
+   <RegionArbeitsgruppe Arbeitsgruppe [Mitglied 36]>
+   <RegionSekretariat Sekretariat [Leitung 1]>
+   <RegionPraesidium Partei [Mitglied 2, Praesident 2]>
+   <Ort Bezirksgericht>
+    <OrtPraesidium Praesidium [Praesident 1]>
    <Ort Diessenhofen>
     <OrtSympathisanten Sympathisanten [Sympathisant 9]>
     <OrtGewaehlte Exekutive [KommunaleExekutive 1]>
@@ -112,89 +118,93 @@
     <OrtPraesidium Partei [Adressverwalter 1, Praesident 3]>
    <Ort Eschenz-Mammern>
     <OrtSympathisanten Sympathisanten [Sympathisant 1]>
+    <OrtSekretariat Sekretariat [Leitung 1]>
     <OrtGewaehlte Exekutive [Fraktionschef 2]>
     <OrtGewaehlte Schulpflege [Schulpflegekommission 2]>
     <OrtMitglieder Mitgliedschaften [Mitglied 36]>
-    <OrtPraesidium Partei [Kassier 1, tbd:Sekretär 1, tbd:Vorstand 4]>
+    <OrtPraesidium Partei [Kassier 1, Mitglied 4]>
    <Ort Frauenfeld>
     <OrtSympathisanten Sympathisanten [Sympathisant 40]>
-    <OrtArbeitsgruppe Schulbehörde [tbd:Mitglied 2, tbd:Präsident 1]>
+    <OrtArbeitsgruppe Schulbehörde [Praesident 1]>
     <OrtGewaehlte Exekutive [KommunaleExekutive 2]>
     <OrtGewaehlte Legislative [Fraktionschef 1, KommunaleExekutive 6]>
     <OrtGewaehlte Schulpflege [Schulpflegekommission 1]>
-    <OrtMitglieder Mitgliedschaften [Mitglied 167]>
-    <OrtPraesidium Partei [Adressverwalter 9, Praesident 5, tbd:Vorstand 7]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 169]>
+    <OrtPraesidium Partei [Adressverwalter 9, Mitglied 7, Praesident 5]>
    <Ort Gachnang-Uesslingen und Umgebung>
     <OrtSympathisanten Sympathisanten [Sympathisant 3]>
     <OrtGewaehlte Exekutive [KommunaleExekutive 1]>
     <OrtMitglieder Mitgliedschaften [Mitglied 26]>
-    <OrtPraesidium Partei [Adressverwalter 2, Praesident 5, tbd:Vorstand 3]>
+    <OrtPraesidium Partei [Adressverwalter 2, Mitglied 3, Praesident 5]>
    <Ort Matzingen-Stettfurt-Thundorf>
     <OrtSympathisanten Sympathisanten [Sympathisant 1]>
     <OrtGewaehlte Exekutive [KommunaleExekutive 1]>
     <OrtMitglieder Mitgliedschaften [Mitglied 29]>
-    <OrtPraesidium Partei [Praesident 3, tbd:Vorstand 4]>
+    <OrtPraesidium Partei [Mitglied 4, Praesident 3]>
    <Ort Müllheim und Umgebung>
-    <OrtArbeitsgruppe Schulbehörde [tbd:Mitglied 4]>
+    <OrtSekretariat Sekretariat [Leitung 1]>
     <OrtGewaehlte Exekutive [KommunaleExekutive 5]>
     <OrtGewaehlte Schulpflege [Schulpflegekommission 1]>
-    <OrtMitglieder Mitgliedschaften [Mitglied 63]>
-    <OrtPraesidium Partei [Adressverwalter 2, Praesident 3, tbd:Sekretär 1, tbd:Vorstand 9]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 67]>
+    <OrtPraesidium Partei [Adressverwalter 2, Mitglied 9, Praesident 3]>
    <Ort Seebachtal>
     <OrtSympathisanten Sympathisanten [Sympathisant 31]>
+    <OrtSekretariat Sekretariat [Leitung 2]>
     <OrtGewaehlte Exekutive [Fraktionschef 1, KommunaleExekutive 2]>
     <OrtGewaehlte Schulpflege [Schulpflegekommission 1]>
     <OrtMitglieder Mitgliedschaften [Mitglied 61]>
-    <OrtPraesidium Partei [Kassier 1, Praesident 4, tbd:Sekretär 2, tbd:Vorstand 3]>
+    <OrtPraesidium Partei [Kassier 1, Mitglied 3, Praesident 4]>
    <Ort Steckborn-Berlingen>
     <OrtGewaehlte Exekutive [Fraktionschef 1]>
     <OrtMitglieder Mitgliedschaften [Mitglied 19]>
     <OrtPraesidium Partei [Adressverwalter 3, Praesident 2]>
   <Region Bezirk Kreuzlingen>
    <RegionSympathisanten Sympathisanten [Sympathisant 40]>
-   <RegionPraesidium Partei [Praesident 2, tbd:Aktuar 1, tbd:Kantonsrat Kandidat 08 15, tbd:Kassier 2, tbd:Medien 1, tbd:Vorstandsmitglied 11, tbd:Zuzüger 3]>
+   <RegionExterneKontakte ExterneKontakte [Medien 1]>
+   <RegionArbeitsgruppe Arbeitsgruppe [Mitglied 15]>
+   <RegionPraesidium Partei [Kassier 1, Mitglied 16, Praesident 2]>
    <Ort Altnau-Güttingen>
-    <OrtArbeitsgruppe Rechnungsrevisor [tbd:Revisor 2]>
+    <OrtParteigremium Parteigremium [Mitglied 2]>
     <OrtGewaehlte Exekutive [Fraktionschef 1, KommunaleExekutive 1]>
     <OrtMitglieder Mitgliedschaften [Mitglied 32]>
-    <OrtPraesidium Partei [Adressverwalter 3, Kassier 1, Praesident 2, tbd:Vorstand 6]>
-   <Ort Bezirksgericht [tbd:Berufsrichter 1, tbd:Nebenamtliche Richter 1, tbd:Suppleant 2]>
+    <OrtPraesidium Partei [Adressverwalter 3, Kassier 1, Mitglied 6, Praesident 2]>
    <Ort Ermatingen>
     <OrtMitglieder Mitgliedschaften [Mitglied 8]>
    <Ort Kreuzlingen>
     <OrtSympathisanten Sympathisanten [Sympathisant 13]>
-    <OrtArbeitsgruppe Schulbehörde [tbd:Mitglied 2]>
     <OrtGewaehlte Exekutive [KommunaleExekutive 2]>
     <OrtGewaehlte Legislative [Fraktionschef 2, KommunaleExekutive 8]>
-    <OrtMitglieder Mitgliedschaften [Mitglied 123]>
-    <OrtPraesidium Partei [Adressverwalter 2, Kassier 1, Praesident 6, tbd:Vorstand 15]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 125]>
+    <OrtPraesidium Partei [Adressverwalter 2, Kassier 1, Mitglied 15, Praesident 6]>
    <Ort Tägerwilen>
     <OrtSympathisanten Sympathisanten [Sympathisant 9]>
     <OrtGewaehlte Exekutive [KommunaleExekutive 4]>
     <OrtMitglieder Mitgliedschaften [Mitglied 61]>
-    <OrtPraesidium Partei [Adressverwalter 1, Praesident 1, tbd:Vorstand 1]>
+    <OrtPraesidium Partei [Adressverwalter 1, Mitglied 1, Praesident 1]>
   <Region Bezirk Münchwilen>
-   <RegionPraesidium Partei [Praesident 3, tbd:Kantonsrat Kandidat 08 20, tbd:Kassier 1, tbd:Vorstandsmitglied 6]>
+   <RegionArbeitsgruppe Arbeitsgruppe [Mitglied 20]>
+   <RegionPraesidium Partei [Mitglied 7, Praesident 3]>
    <Ort Aadorf>
     <OrtSympathisanten Sympathisanten [Sympathisant 2]>
-    <OrtArbeitsgruppe Schulbehörde [tbd:Mitglied 2, tbd:Präsident 1]>
+    <OrtArbeitsgruppe Schulbehörde [Praesident 1]>
     <OrtGewaehlte Exekutive [Fraktionschef 1, KommunaleExekutive 2]>
-    <OrtMitglieder Mitgliedschaften [Mitglied 108]>
-    <OrtPraesidium Partei [Adressverwalter 2, Kassier 1, Praesident 3, tbd:Vorstand 10]>
-   <Ort Bezirksgericht [tbd:Ersatzrichter 2, tbd:Nebenamtliche Richter 2, tbd:Präsident 1]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 110]>
+    <OrtPraesidium Partei [Adressverwalter 2, Kassier 1, Mitglied 10, Praesident 3]>
+   <Ort Bezirksgericht>
+    <OrtPraesidium Praesidium [Praesident 1]>
    <Ort Bichelsee-Balterswil>
     <OrtSympathisanten Sympathisanten [Sympathisant 6]>
     <OrtGewaehlte Exekutive [KommunaleExekutive 5]>
     <OrtMitglieder Mitgliedschaften [Mitglied 54]>
-    <OrtPraesidium Partei [Kassier 1, Praesident 3, tbd:Delegierter 1, tbd:Vorstand 6]>
+    <OrtPraesidium Partei [Kassier 1, Mitglied 6, Praesident 3]>
    <Ort Eschlikon>
     <OrtGewaehlte Exekutive [Fraktionschef 1, KommunaleExekutive 1]>
     <OrtMitglieder Mitgliedschaften [Mitglied 38]>
-    <OrtPraesidium Partei [Adressverwalter 3, Praesident 2, tbd:Vorstand 6]>
+    <OrtPraesidium Partei [Adressverwalter 3, Mitglied 6, Praesident 2]>
    <Ort Fischingen>
     <OrtGewaehlte Exekutive [Fraktionschef 1, KommunaleExekutive 5]>
     <OrtMitglieder Mitgliedschaften [Mitglied 72]>
-    <OrtPraesidium Partei [Adressverwalter 5, Praesident 1, tbd:Vorstand 9]>
+    <OrtPraesidium Partei [Adressverwalter 5, Mitglied 9, Praesident 1]>
    <Ort Münchwilen>
     <OrtSympathisanten Sympathisanten [Sympathisant 9]>
     <OrtGewaehlte Exekutive [KommunaleExekutive 1]>
@@ -205,74 +215,68 @@
     <OrtGewaehlte Exekutive [KommunaleExekutive 1]>
     <OrtGewaehlte Schulpflege [Schulpflegekommission 2]>
     <OrtMitglieder Mitgliedschaften [Mitglied 76]>
-    <OrtPraesidium Partei [Adressverwalter 1, Praesident 6, tbd:Vorstand 9]>
+    <OrtPraesidium Partei [Adressverwalter 1, Mitglied 9, Praesident 6]>
    <Ort Tobel-Tägerschen>
     <OrtSympathisanten Sympathisanten [Sympathisant 1]>
+    <OrtSekretariat Sekretariat [Leitung 1]>
     <OrtGewaehlte Exekutive [Fraktionschef 1]>
     <OrtGewaehlte Schulpflege [Schulpflegekommission 1]>
     <OrtMitglieder Mitgliedschaften [Mitglied 46]>
-    <OrtPraesidium Partei [Praesident 1, tbd:Sekretär 1, tbd:Vorstand 3]>
+    <OrtPraesidium Partei [Mitglied 3, Praesident 1]>
    <Ort Wilen-Rickenbach>
     <OrtSympathisanten Sympathisanten [Sympathisant 1]>
     <OrtMitglieder Mitgliedschaften [Mitglied 69]>
-    <OrtPraesidium Partei [Praesident 2, tbd:Vorstand 4]>
+    <OrtPraesidium Partei [Mitglied 4, Praesident 2]>
    <Ort Wängi>
     <OrtSympathisanten Sympathisanten [Sympathisant 3]>
-    <OrtArbeitsgruppe Schulbehörde [tbd:Mitglied 2, tbd:Präsident 1]>
+    <OrtSekretariat Sekretariat [Leitung 1]>
+    <OrtArbeitsgruppe Schulbehörde [Praesident 1]>
     <OrtGewaehlte Exekutive [Fraktionschef 1, KommunaleExekutive 3]>
-    <OrtMitglieder Mitgliedschaften [Mitglied 62]>
-    <OrtPraesidium Partei [Kassier 2, Praesident 2, tbd:Sekretär 1, tbd:Vorstand 12]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 64]>
+    <OrtPraesidium Partei [Kassier 2, Mitglied 12, Praesident 2]>
   <Region Bezirk Weinfelden>
-   <RegionPraesidium Partei [Praesident 4, tbd:Kantonsrat Kandidat 08 12]>
+   <RegionArbeitsgruppe Arbeitsgruppe [Mitglied 12]>
+   <RegionPraesidium Partei [Praesident 4]>
    <Ort AachThurLand>
     <OrtSympathisanten Sympathisanten [Sympathisant 18]>
-    <OrtArbeitsgruppe Schulbehörde [tbd:Mitglied 2, tbd:Präsident 1]>
+    <OrtArbeitsgruppe Schulbehörde [Praesident 1]>
     <OrtGewaehlte Exekutive [KommunaleExekutive 2]>
-    <OrtMitglieder Mitgliedschaften [Mitglied 79]>
-    <OrtPraesidium Partei [Praesident 3, tbd:Vorstand 11]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 81]>
+    <OrtPraesidium Partei [Mitglied 11, Praesident 3]>
    <Ort Berg-Birwinken>
     <OrtSympathisanten Sympathisanten [Sympathisant 6]>
     <OrtMitglieder Mitgliedschaften [Mitglied 87]>
-    <OrtPraesidium Partei [Praesident 3, tbd:Vorstand 4]>
-   <Ort Bezirksgericht [tbd:Berufsrichter 1, tbd:Ersatzrichter 1, tbd:Nebenamtliche Richter 1, tbd:Präsident 1]>
+    <OrtPraesidium Partei [Mitglied 4, Praesident 3]>
+   <Ort Bezirksgericht>
+    <OrtPraesidium Praesidium [Praesident 1]>
    <Ort Bischofszell>
     <OrtSympathisanten Sympathisanten [Sympathisant 32]>
-    <OrtArbeitsgruppe Schulbehörde [tbd:Mitglied 1, tbd:Präsident 1]>
+    <OrtArbeitsgruppe Schulbehörde [Praesident 1]>
     <OrtGewaehlte Exekutive [Fraktionschef 1, KommunaleExekutive 5]>
     <OrtGewaehlte Schulpflege [Schulpflegekommission 1]>
-    <OrtMitglieder Mitgliedschaften [Mitglied 136]>
-    <OrtPraesidium Partei [Adressverwalter 3, Praesident 2, tbd:Vorstand 9]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 137]>
+    <OrtPraesidium Partei [Adressverwalter 3, Mitglied 9, Praesident 2]>
    <Ort Bürglen>
+    <OrtSekretariat Sekretariat [Leitung 1]>
     <OrtGewaehlte Exekutive [Fraktionschef 3, KommunaleExekutive 2]>
     <OrtMitglieder Mitgliedschaften [Mitglied 42]>
-    <OrtPraesidium Partei [Adressverwalter 3, Kassier 1, Praesident 1, tbd:Sekretär 1, tbd:Vorstand 5]>
+    <OrtPraesidium Partei [Adressverwalter 3, Kassier 1, Mitglied 5, Praesident 1]>
    <Ort Nollen>
     <OrtSympathisanten Sympathisanten [Sympathisant 1]>
     <OrtGewaehlte Exekutive [KommunaleExekutive 1]>
     <OrtMitglieder Mitgliedschaften [Mitglied 35]>
-    <OrtPraesidium Partei [Kassier 1, Praesident 2, tbd:Aktuar 1]>
+    <OrtPraesidium Partei [Kassier 2, Praesident 2]>
    <Ort Thurtal>
     <OrtSympathisanten Sympathisanten [Sympathisant 2]>
-    <OrtArbeitsgruppe Exektuive [tbd:Mitglied 2]>
-    <OrtArbeitsgruppe Schulbehörde [tbd:Präsident 1]>
-    <OrtMitglieder Mitgliedschaften [Mitglied 38]>
-    <OrtPraesidium Partei [Adressverwalter 1, Kassier 1, Praesident 3, tbd:Vorstand 3]>
+    <OrtArbeitsgruppe Schulbehörde [Praesident 1]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 40]>
+    <OrtPraesidium Partei [Adressverwalter 1, Kassier 1, Mitglied 3, Praesident 3]>
    <Ort Weinfelden>
     <OrtSympathisanten Sympathisanten [Sympathisant 122]>
-    <OrtArbeitsgruppe Anlässe>
-     <OrtArbeitsgruppe Theater/Konzert-Bar>
-      <OrtArbeitsgruppe Helfer [tbd:Mitglied 18]>
-     <OrtArbeitsgruppe Vollmondbar>
-      <OrtArbeitsgruppe Helfer [tbd:Mitglied 132]>
-      <OrtArbeitsgruppe OK [tbd:Mitglied 20]>
-     <OrtArbeitsgruppe Winterbörse>
-      <OrtArbeitsgruppe Helfer [tbd:Mitglied 163]>
-      <OrtArbeitsgruppe OK [tbd:Mitglied 6]>
-    <OrtArbeitsgruppe Kreditoren [tbd:Kontakt 21]>
-    <OrtArbeitsgruppe Nur Spendenbriefe [tbd:Empfänger 1]>
-    <OrtArbeitsgruppe Schulbehörde [tbd:Mitglied 5]>
+    <OrtExterneKontakte ExterneKontakte [Kontakt 21]>
+    <OrtArbeitsgruppe Nur Spendenbriefe [Mitglied 1]>
     <OrtGewaehlte Exekutive [KommunaleExekutive 6]>
     <OrtGewaehlte Legislative [Fraktionschef 1, KommunaleExekutive 15]>
     <OrtGewaehlte Schulpflege [Schulpflegekommission 3]>
-    <OrtMitglieder Mitgliedschaften [Mitglied 143]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 487]>
     <OrtPraesidium Vorstand [Kassier 3, Mitglied 26, Praesident 2]>

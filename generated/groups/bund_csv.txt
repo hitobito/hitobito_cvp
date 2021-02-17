@@ -1,8 +1,10 @@
 <Bund id=1, label=CVP Schweiz, parent_id=>
  <Vereinigung id=6, label=CSV, parent_id=1>
+  <VereinigungSekretariat id=40432, label=Sekretariat, parent_id=6>
+  <VereinigungDelegierte id=40433, label=Delegierte, parent_id=6>
   <VereinigungPraesidium id=14618, label=CSV Schweiz, parent_id=6>
   <Kanton id=59, label=AG, parent_id=6>
-   <KantonSympathisanten id=40420, label=Sympathisanten, parent_id=59>
+   <KantonSympathisanten id=40436, label=Sympathisanten, parent_id=59>
    <KantonMitglieder id=36461, label=Mitgliedschaften, parent_id=59>
   <Kanton id=37651, label=FR CSU, parent_id=6>
    <KantonArbeitsgruppe id=37652, label=Funktion, parent_id=37651>
@@ -12,5 +14,5 @@
   <Kanton id=40187, label=SG, parent_id=6>
    <KantonMitglieder id=40189, label=Mitgliedschaften, parent_id=40187>
   <Kanton id=39875, label=ZH, parent_id=6>
-   <KantonSympathisanten id=40426, label=Sympathisanten, parent_id=39875>
+   <KantonSympathisanten id=40526, label=Sympathisanten, parent_id=39875>
    <KantonMitglieder id=39877, label=Mitgliedschaften, parent_id=39875>

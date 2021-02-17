@@ -1,9 +1,12 @@
 <Bund id=1, label=CVP Schweiz, parent_id=>
+ <BundArbeitsgruppe id=40426, label=Arbeitsgruppe, parent_id=1>
  <BundGewaehlte id=14763, label=Departement Bundesrat Nr. 1, parent_id=1>
  <BundGewaehlte id=14860, label=Nationalrat, parent_id=1>
  <BundGewaehlte id=14861, label=Ständerat, parent_id=1>
  <Kanton id=160, label=CVP GL, parent_id=1>
-  <KantonSympathisanten id=40419, label=Sympathisanten, parent_id=160>
+  <KantonSympathisanten id=40431, label=Sympathisanten, parent_id=160>
+  <KantonSekretariat id=40436, label=Sekretariat, parent_id=160>
+  <KantonArbeitsgruppe id=40439, label=Arbeitsgruppe, parent_id=160>
   <KantonArbeitsgruppe id=39450, label=Rechnung Sektionen, parent_id=160>
   <KantonGewaehlte id=36706, label=Regierungsrat, parent_id=160>
   <KantonGewaehlte id=443, label=Judikative, parent_id=160>
@@ -11,11 +14,11 @@
   <KantonMitglieder id=445, label=Mitgliedschaften, parent_id=160>
   <KantonPraesidium id=452, label=Partei, parent_id=160>
   <Ort id=14570, label=Glarus Mitte, parent_id=160>
-   <OrtSympathisanten id=40420, label=Sympathisanten, parent_id=14570>
+   <OrtSympathisanten id=40446, label=Sympathisanten, parent_id=14570>
    <OrtMitglieder id=14579, label=Mitgliedschaften, parent_id=14570>
    <OrtPraesidium id=14584, label=Partei, parent_id=14570>
   <Ort id=14569, label=Glarus Nord, parent_id=160>
-   <OrtSympathisanten id=40421, label=Sympathisanten, parent_id=14569>
+   <OrtSympathisanten id=40455, label=Sympathisanten, parent_id=14569>
    <OrtGewaehlte id=14585, label=Legislative, parent_id=14569>
    <OrtMitglieder id=14580, label=Mitgliedschaften, parent_id=14569>
    <OrtPraesidium id=14583, label=Partei, parent_id=14569>
