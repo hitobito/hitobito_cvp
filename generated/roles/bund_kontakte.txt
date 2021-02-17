@@ -1,6 +1,7 @@
 <Bund CVP Schweiz>
+ <BundArbeitsgruppe Arbeitsgruppe [Mitglied 1]>
  <BundExterneKontakte allgemeine Kontakte>
-  <BundExterneKontakte Dienstleistungen (MS) [tbd:Dienstleistungen 67]>
+  <BundExterneKontakte Dienstleistungen (MS) [Kontakt 67]>
   <BundExterneKontakte Diverses>
    <BundExterneKontakte Adressen Philipp Kutter (NR-Wahlen 2015) [Kontakt 395]>
    <BundExterneKontakte Adressen Reto Nause September 2019 (Buch) [Kontakt 52]>
@@ -8,7 +9,6 @@
    <BundExterneKontakte Adressen Reto Nause September 2019 (Koni Hädener) [Kontakt 126]>
    <BundExterneKontakte Adressen Reto Nause September 2019 (TC) [Kontakt 115]>
    <BundExterneKontakte Petition CVP Stadt Bern (nur für Mailversand) [Kontakt 176]>
-   <BundExterneKontakte Rechnungsempfänger Wordpress [tbd:Empfänger 1]>
   <BundExterneKontakte Expertengruppen (DF)>
    <BundExterneKontakte Banken (JG) [Kontakt 6]>
    <BundExterneKontakte Bildung (IC) [Kontakt 5]>
@@ -31,17 +31,17 @@
   <BundExterneKontakte Firmen>
    <BundExterneKontakte Grossfirmen Mai 2017 (ab 800 MA) [Kontakt 154]>
    <BundExterneKontakte KMU Mai 2017 (bis 799 MA) [Kontakt 127]>
-  <BundExterneKontakte Medien (MA) [tbd:Zu versorgen 154]>
+  <BundExterneKontakte Medien (MA) [Kontakt 154]>
    <BundExterneKontakte Fachzeitschriften>
-    <BundExterneKontakte Fachmedien [tbd:Fachzeitschriften (Medienverteiler) 638]>
+    <BundExterneKontakte Fachmedien [Medien 638]>
    <BundExterneKontakte Print>
-    <BundExterneKontakte Tagesmedien [tbd:Journalist 4]>
-    <BundExterneKontakte Zu versorgen [tbd:Zu versorgen 255]>
+    <BundExterneKontakte Tagesmedien [Medien 4]>
+    <BundExterneKontakte Zu versorgen [Kontakt 255]>
    <BundExterneKontakte Radio>
-    <BundExterneKontakte Zu versorgen [tbd:Zu versorgen 52]>
+    <BundExterneKontakte Zu versorgen [Kontakt 52]>
    <BundExterneKontakte TV>
-    <BundExterneKontakte Zu versorgen [tbd:Zu versorgen 44]>
+    <BundExterneKontakte Zu versorgen [Kontakt 44]>
    <BundExterneKontakte online>
-    <BundExterneKontakte Verteiler [tbd:Zu versorgen 18]>
-  <BundExterneKontakte Parteien (MS) [tbd:Parteien 4]>
+    <BundExterneKontakte Verteiler [Kontakt 18]>
+  <BundExterneKontakte Parteien (MS) [Kontakt 4]>
   <BundExterneKontakte Wordpress-Rechnungen [Kontakt 135]>

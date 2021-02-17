@@ -1,30 +1,35 @@
 <Bund CVP Schweiz>
- <BundGewaehlte Departement Bundesrat Nr. 1 [Bundesrat 5, tbd:Pers. Mitarbeiter Bundesrat 3]>
- <BundGewaehlte Nationalrat [Nationalrat 126, tbd:Nationalrat Partner 12]>
- <BundGewaehlte Ständerat [Staenderat 47, tbd:Ständerat Partner 2]>
+ <BundArbeitsgruppe Arbeitsgruppe [Mitglied 5]>
+ <BundGewaehlte Departement Bundesrat Nr. 1 [Bundesrat 5]>
+ <BundGewaehlte Nationalrat [Nationalrat 138]>
+ <BundGewaehlte Ständerat [Staenderat 47]>
  <Kanton CVP SO>
   <KantonSympathisanten Sympathisanten [Sympathisant 124]>
+  <KantonParteigremium Parteigremium [Mitglied 3]>
+  <KantonSekretariat Sekretariat [Leitung 2, Webadministrator 1]>
+  <KantonExterneKontakte ExterneKontakte [Medien 15]>
+  <KantonArbeitsgruppe Arbeitsgruppe [Mitglied 22, Praesident 6]>
   <KantonArbeitsgruppe Vereinigung der a. Kantonsräte [Mitglied 86, Praesident 1]>
   <KantonArbeitsgruppe Wirtschaftsgipfel [Mitglied 729]>
   <KantonArbeitsgruppe Wirtschaftskommission [Mitglied 17, Praesident 1]>
   <KantonDelegierte Delegiertenversammlung>
-   <KantonDelegierte Bucheggberg-Wasseramt [Delegierte 46, tbd:Ersatzdelegierter 1]>
+   <KantonDelegierte Bucheggberg-Wasseramt [Delegierte 46, Ersatzdelegierte 1]>
    <KantonDelegierte CVP 60+ [Delegierte 10]>
    <KantonDelegierte Dorneck-Thierstein [Delegierte 57]>
    <KantonDelegierte Junge CVP [Delegierte 13]>
    <KantonDelegierte Kantonsräte [Delegierte 17]>
-   <KantonDelegierte Olten-Gösgen [Delegierte 93, tbd:Ersatzdelegierter 1]>
-   <KantonDelegierte Solothurn-Lebern [Delegierte 63, tbd:Ersatzdelegierter 3]>
-   <KantonDelegierte Thal-Gäu [Delegierte 82, tbd:Ersatzdelegierter 1]>
+   <KantonDelegierte Olten-Gösgen [Delegierte 93, Ersatzdelegierte 1]>
+   <KantonDelegierte Solothurn-Lebern [Delegierte 63, Ersatzdelegierte 3]>
+   <KantonDelegierte Thal-Gäu [Delegierte 82, Ersatzdelegierte 1]>
    <KantonDelegierte Vorstand [Delegierte 21]>
    <KantonDelegierte von Amtes wegen [Delegierte 71]>
-  <KantonDelegierte Gäste Delegiertenversammlung [tbd:Gast 43]>
+  <KantonDelegierte Gäste Delegiertenversammlung [Delegierte 43]>
   <KantonExterneKontakte Newsletter [Kontakt 1154]>
-  <KantonGewaehlte Regierungsrat [KantonaleExekutive 4, tbd:Präsident 3]>
-  <KantonGewaehlte Legislative [KantonaleLegislative 74, tbd:Präsident 3]>
+  <KantonGewaehlte Regierungsrat [KantonaleExekutive 4]>
+  <KantonGewaehlte Legislative [KantonaleLegislative 74]>
   <KantonMitglieder Mitgliedschaften [Mitglied 3874]>
   <KantonPraesidium Erweiterte Parteileitung [Mitglied 18]>
-  <KantonPraesidium Partei [Mitglied 38, Praesident 10, tbd:Ansprechperson Finanzen 1, tbd:Botschafter 1, tbd:Empfänger Rechnung Jahresbeitrag CVP CH 1, tbd:Empfänger Umzugsmeldung 1, tbd:Kassier 1, tbd:Medien 15, tbd:Pflichtzahler 15, tbd:Plakatierer 5, tbd:Sekretär Kantonalpartei/Vereinigung 2, tbd:Strategieausschuss 3, tbd:Webadministrator 1]>
+  <KantonPraesidium Partei [Kassier 1, Mitglied 40, Praesident 10]>
   <KantonPraesidium Parteileitung [Mitglied 12]>
   <Region Amteipartei Bucheggberg-Wasseramt>
    <RegionSympathisanten Sympathisanten [Sympathisant 3]>
@@ -92,7 +97,8 @@
     <OrtSympathisanten Sympathisanten [Sympathisant 1]>
    <Ort Messen>
     <OrtSympathisanten Sympathisanten [Sympathisant 1]>
-   <Ort Newsletter [tbd:Empfänger 106]>
+   <Ort Newsletter>
+    <OrtArbeitsgruppe Arbeitsgruppe [Mitglied 106]>
    <Ort Obergerlafingen>
     <OrtSympathisanten Sympathisanten [Sympathisant 1]>
     <OrtPraesidium Partei [Praesident 1]>
@@ -165,7 +171,8 @@
     <OrtSympathisanten Sympathisanten [Sympathisant 14]>
     <OrtGewaehlte Exekutive [Fraktionschef 1]>
     <OrtPraesidium Partei [Adressverwalter 1, Praesident 3]>
-   <Ort Frühlingsanlass [tbd:Empfänger Einladung 209]>
+   <Ort Frühlingsanlass>
+    <OrtArbeitsgruppe Arbeitsgruppe [Mitglied 209]>
    <Ort Gempen>
     <OrtSympathisanten Sympathisanten [Sympathisant 11]>
     <OrtPraesidium Partei [Adressverwalter 1]>
@@ -201,7 +208,8 @@
     <OrtGewaehlte Exekutive [KommunaleExekutive 1]>
     <OrtMitglieder Mitgliedschaften [Mitglied 1]>
     <OrtPraesidium Partei [Praesident 1]>
-   <Ort Newsletter [tbd:Empfänger 106]>
+   <Ort Newsletter>
+    <OrtArbeitsgruppe Arbeitsgruppe [Mitglied 106]>
    <Ort Nuglar-St.Pantaleon>
     <OrtSympathisanten Sympathisanten [Sympathisant 9]>
     <OrtMitglieder Mitgliedschaften [Mitglied 2]>
@@ -287,7 +295,8 @@
     <OrtGewaehlte Exekutive [Fraktionschef 1]>
     <OrtMitglieder Mitgliedschaften [Mitglied 1]>
     <OrtPraesidium Partei [Adressverwalter 5, Praesident 2]>
-   <Ort Newsletter [tbd:Empfänger 227]>
+   <Ort Newsletter>
+    <OrtArbeitsgruppe Arbeitsgruppe [Mitglied 227]>
    <Ort Niedergösgen>
     <OrtSympathisanten Sympathisanten [Sympathisant 43]>
     <OrtGewaehlte Exekutive [Fraktionschef 2, KommunaleExekutive 8]>
@@ -303,7 +312,7 @@
     <OrtGewaehlte Exekutive [Fraktionschef 1, KommunaleExekutive 1]>
     <OrtGewaehlte Legislative [KommunaleExekutive 9]>
     <OrtMitglieder Mitgliedschaften [Mitglied 93]>
-    <OrtPraesidium Partei [Adressverwalter 16, Praesident 2, tbd:Ort Vorstand 11]>
+    <OrtPraesidium Partei [Adressverwalter 16, Mitglied 11, Praesident 2]>
    <Ort Rickenbach>
     <OrtSympathisanten Sympathisanten [Sympathisant 18]>
     <OrtGewaehlte Exekutive [Fraktionschef 1, KommunaleExekutive 2]>
@@ -329,7 +338,7 @@
     <OrtSympathisanten Sympathisanten [Sympathisant 35]>
     <OrtGewaehlte Exekutive [KommunaleExekutive 1]>
     <OrtMitglieder Mitgliedschaften [Mitglied 3]>
-    <OrtPraesidium Partei [Adressverwalter 1, Praesident 1, tbd:Ort Vorstand 1]>
+    <OrtPraesidium Partei [Adressverwalter 1, Mitglied 1, Praesident 1]>
    <Ort Walterswil>
     <OrtSympathisanten Sympathisanten [Sympathisant 10]>
    <Ort Wangen>
@@ -371,9 +380,10 @@
     <OrtPraesidium Partei [Adressverwalter 1, Praesident 1]>
    <Ort Grenchen>
     <OrtSympathisanten Sympathisanten [Sympathisant 27]>
+    <OrtGewaehlte Gewaehlte [MitgliedWeitereGemeindeKommissionen 30]>
     <OrtGewaehlte Exekutive [KommunaleExekutive 3]>
     <OrtMitglieder Mitgliedschaften [Mitglied 128]>
-    <OrtPraesidium Partei [Adressverwalter 3, tbd:Arbeitsgruppe ÖV 1, tbd:BAPLUK 1, tbd:Bürgerrat (BR) / Forstkommission (FK) 6, tbd:Integrationskommission 1, tbd:Jugendkommission 2, tbd:Kirchgemeinde 11, tbd:Kulturkommission 2, tbd:Repla 1, tbd:Skilift Grenchenberg AG 1, tbd:Spitex 1, tbd:Stiftungsrat Kunsthaus 1, tbd:Verwaltungsrat ARA 1, tbd:Verwaltungsrat GAG 1, tbd:Verwaltungsrat SWG 1]>
+    <OrtPraesidium Partei [Adressverwalter 3, Mitglied 1]>
    <Ort Günsberg>
     <OrtSympathisanten Sympathisanten [Sympathisant 9]>
    <Ort Hubersdorf>
@@ -391,7 +401,8 @@
     <OrtSympathisanten Sympathisanten [Sympathisant 37]>
     <OrtGewaehlte Exekutive [KommunaleExekutive 1]>
     <OrtMitglieder Mitgliedschaften [Mitglied 2]>
-   <Ort Newsletter [tbd:Empfänger 129]>
+   <Ort Newsletter>
+    <OrtArbeitsgruppe Arbeitsgruppe [Mitglied 129]>
    <Ort Niederwil>
     <OrtSympathisanten Sympathisanten [Sympathisant 2]>
    <Ort Oberdorf>
@@ -414,7 +425,7 @@
     <OrtPraesidium Partei [Adressverwalter 1, Praesident 1]>
    <Ort Solothurn>
     <OrtSympathisanten Sympathisanten [Sympathisant 266]>
-    <OrtArbeitsgruppe Freunde [tbd:Kontakt 21]>
+    <OrtExterneKontakte ExterneKontakte [Kontakt 21]>
     <OrtGewaehlte Exekutive [KommunaleExekutive 11]>
     <OrtMitglieder Mitgliedschaften [Mitglied 2]>
     <OrtPraesidium Partei [Adressverwalter 9, Praesident 2]>
@@ -431,7 +442,7 @@
     <OrtSympathisanten Sympathisanten [Sympathisant 497]>
     <OrtGewaehlte Exekutive [KommunaleExekutive 3]>
     <OrtMitglieder Mitgliedschaften [Mitglied 4]>
-    <OrtPraesidium Partei [Adressverwalter 7, Praesident 3, tbd:Vorstand 7]>
+    <OrtPraesidium Partei [Adressverwalter 7, Mitglied 7, Praesident 3]>
    <Ort Egerkingen>
     <OrtSympathisanten Sympathisanten [Sympathisant 29]>
     <OrtGewaehlte Exekutive [KommunaleExekutive 3]>
@@ -475,7 +486,8 @@
     <OrtGewaehlte Exekutive [KommunaleExekutive 5]>
     <OrtMitglieder Mitgliedschaften [Mitglied 1]>
     <OrtPraesidium Partei [Adressverwalter 2, Praesident 1]>
-   <Ort Newsletter [tbd:Empfänger 151]>
+   <Ort Newsletter>
+    <OrtArbeitsgruppe Arbeitsgruppe [Mitglied 151]>
    <Ort Niederbuchsitten>
     <OrtSympathisanten Sympathisanten [Sympathisant 17]>
     <OrtGewaehlte Exekutive [Fraktionschef 1]>

@@ -1,28 +1,31 @@
 <Bund CVP Schweiz>
- <BundGewaehlte Departement Bundesrat Nr. 1 [Bundesrat 5, tbd:Pers. Mitarbeiter Bundesrat 3]>
- <BundGewaehlte Nationalrat [Nationalrat 126, tbd:Nationalrat Partner 12]>
- <BundGewaehlte Ständerat [Staenderat 47, tbd:Ständerat Partner 2]>
+ <BundArbeitsgruppe Arbeitsgruppe [Mitglied 5]>
+ <BundGewaehlte Departement Bundesrat Nr. 1 [Bundesrat 5]>
+ <BundGewaehlte Nationalrat [Nationalrat 138]>
+ <BundGewaehlte Ständerat [Staenderat 48]>
  <Kanton CVP UR>
   <KantonSympathisanten Sympathisanten [Sympathisant 14]>
-  <KantonArbeitsgruppe Nationale Funktionen [Praesident 2, tbd:Ansprechperson Finanzen 1, tbd:Empfänger Rechnung Jahresbeitrag CVP CH 1, tbd:OM Ansprechperson 1, tbd:Sekretär Kantonalpartei/Vereinigung 1, tbd:Ständerat 1]>
-  <KantonArbeitsgruppe Parteitag [tbd:Einladung 20]>
-  <KantonDelegierte DV [tbd:Einladung 32]>
+  <KantonPraesidium Praesidium [Kassier 1, Vizepraesident 1]>
+  <KantonSekretariat Sekretariat [Leitung 1, Mitarbeiter 1]>
+  <KantonArbeitsgruppe Arbeitsgruppe [Mitglied 32, Praesident 2]>
+  <KantonArbeitsgruppe Nationale Funktionen [Mitglied 1, Praesident 2]>
+  <KantonArbeitsgruppe Parteitag [Mitglied 20]>
+  <KantonDelegierte DV>
    <KantonDelegierte Von Amtes wegen [Delegierte 27]>
-  <KantonGewaehlte Regierungsrat [KantonaleExekutive 7, tbd:Kanzleidirektor 1]>
+  <KantonGewaehlte Regierungsrat [KantonaleExekutive 7, WeitereMandate 1]>
   <KantonGewaehlte Judikative>
-   <KantonGewaehlte Landgericht Uri [tbd:Präsident 1, tbd:Richter 3]>
-   <KantonGewaehlte Landgericht Ursern [tbd:Richter 1]>
-   <KantonGewaehlte Obergericht [tbd:Präsident 1, tbd:Richter 3, tbd:Vizepräsident 1]>
+   <KantonGewaehlte Landgericht Uri [MitgliedKantonalesGerichtErsteInstanz 3]>
+   <KantonGewaehlte Landgericht Ursern [MitgliedKantonalesGerichtErsteInstanz 1]>
+   <KantonGewaehlte Obergericht [MitgliedKantonalesGerichtErsteInstanz 3]>
   <KantonGewaehlte Legislative [KantonaleLegislative 32]>
   <KantonMitglieder Mitgliedschaften [Mitglied 159]>
   <KantonParteigremium Kontrollkommission [Mitglied 3]>
-  <KantonPraesidium Parteivorstand [Mitglied 4, Praesident 1, tbd:Kassier 1]>
+  <KantonPraesidium Parteivorstand [Mitglied 5, Praesident 1]>
   <Ort Altdorf>
    <OrtSympathisanten Sympathisanten [Sympathisant 1]>
-   <OrtArbeitsgruppe Landrat [tbd:Mitglied 1]>
-   <OrtArbeitsgruppe Öffentliche Ämter [tbd:Rechnungsprüfungskommission Mitgl. 2]>
+   <OrtGewaehlte Gewaehlte [Rechnungspruefungskommission 2]>
    <OrtGewaehlte Exekutive [KommunaleExekutive 3]>
-   <OrtMitglieder Mitgliedschaften [Mitglied 153]>
+   <OrtMitglieder Mitgliedschaften [Mitglied 154]>
    <OrtPraesidium Partei [Praesident 1]>
   <Ort Andermatt>
    <OrtMitglieder Mitgliedschaften [Mitglied 30]>

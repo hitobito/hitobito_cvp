@@ -1,13 +1,16 @@
 <Bund CVP Schweiz>
- <BundGewaehlte Departement Bundesrat Nr. 1 [Bundesrat 5, tbd:Pers. Mitarbeiter Bundesrat 3]>
- <BundGewaehlte Nationalrat [Nationalrat 126, tbd:Nationalrat Partner 12]>
- <BundGewaehlte Ständerat [Staenderat 47, tbd:Ständerat Partner 2]>
+ <BundArbeitsgruppe Arbeitsgruppe [Mitglied 5]>
+ <BundGewaehlte Departement Bundesrat Nr. 1 [Bundesrat 5]>
+ <BundGewaehlte Nationalrat [Nationalrat 138]>
+ <BundGewaehlte Ständerat [Staenderat 47]>
  <Kanton CVP AR>
   <KantonSympathisanten Sympathisanten [Sympathisant 14]>
+  <KantonSekretariat Sekretariat [Leitung 1, Mitarbeiter 1]>
+  <KantonArbeitsgruppe Arbeitsgruppe [Mitglied 2]>
   <KantonExterneKontakte Newsletter [Kontakt 35]>
   <KantonGewaehlte Legislative [KantonaleLegislative 1]>
   <KantonMitglieder Mitgliedschaften [Mitglied 65]>
-  <KantonPraesidium Partei [Mitglied 2, Praesident 1, tbd:Ansprechperson Finanzen 1, tbd:Empfänger Rechnung Jahresbeitrag CVP CH 2, tbd:Empfänger Umzugsmeldung 1, tbd:OM Ansprechperson 1, tbd:Sekretär Kantonalpartei/Vereinigung 1]>
+  <KantonPraesidium Partei [Kassier 1, Mitglied 3, Praesident 1]>
   <Ort Heiden>
    <OrtSympathisanten Sympathisanten [Sympathisant 1]>
    <OrtExterneKontakte Newsletter [Kontakt 40]>

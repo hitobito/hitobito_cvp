@@ -1,9 +1,13 @@
 <Bund id=1, label=CVP Schweiz, parent_id=>
+ <BundArbeitsgruppe id=40421, label=Arbeitsgruppe, parent_id=1>
  <BundGewaehlte id=14763, label=Departement Bundesrat Nr. 1, parent_id=1>
  <BundGewaehlte id=14860, label=Nationalrat, parent_id=1>
  <BundGewaehlte id=14861, label=Ständerat, parent_id=1>
  <Kanton id=157, label=CVP BS, parent_id=1>
-  <KantonSympathisanten id=40419, label=Sympathisanten, parent_id=157>
+  <KantonSympathisanten id=40426, label=Sympathisanten, parent_id=157>
+  <KantonPraesidium id=40428, label=Praesidium, parent_id=157>
+  <KantonSekretariat id=40431, label=Sekretariat, parent_id=157>
+  <KantonArbeitsgruppe id=40434, label=Arbeitsgruppe, parent_id=157>
   <KantonArbeitsgruppe id=1036, label=Arbeitsgruppe Schule, Erziehung, Bildung (SEB), parent_id=157>
   <KantonArbeitsgruppe id=1037, label=BL/BS Organisationen, parent_id=157>
    <KantonArbeitsgruppe id=2694, label=KAB, parent_id=1037>
@@ -34,25 +38,25 @@
   <KantonPraesidium id=1043, label=Parteileitung, parent_id=157>
   <KantonSekretariat id=419, label=Partei, parent_id=157>
   <Ort id=420, label=Riehen, parent_id=157>
-   <OrtSympathisanten id=40420, label=Sympathisanten, parent_id=420>
+   <OrtSympathisanten id=40441, label=Sympathisanten, parent_id=420>
    <OrtGewaehlte id=36219, label=Exekutive, parent_id=420>
    <OrtGewaehlte id=1047, label=Legislative, parent_id=420>
    <OrtMitglieder id=1048, label=Mitgliedschaften, parent_id=420>
    <OrtPraesidium id=1049, label=Partei, parent_id=420>
   <Region id=34890, label=Stadt Basel, parent_id=157>
-   <RegionArbeitsgruppe id=37319, label=Basler Bürger, parent_id=34890>
    <RegionGewaehlte id=34891, label=Exekutive, parent_id=34890>
    <RegionGewaehlte id=34892, label=Legislative, parent_id=34890>
    <Ort id=413, label=Grossbasel-Ost, parent_id=34890>
-    <OrtSympathisanten id=40422, label=Sympathisanten, parent_id=413>
+    <OrtSympathisanten id=40456, label=Sympathisanten, parent_id=413>
     <OrtMitglieder id=1026, label=Mitgliedschaften, parent_id=413>
     <OrtPraesidium id=1027, label=Partei, parent_id=413>
    <Ort id=414, label=Grossbasel-West, parent_id=34890>
-    <OrtSympathisanten id=40423, label=Sympathisanten, parent_id=414>
+    <OrtSympathisanten id=40465, label=Sympathisanten, parent_id=414>
     <OrtMitglieder id=1028, label=Mitgliedschaften, parent_id=414>
     <OrtPraesidium id=1029, label=Partei, parent_id=414>
    <Ort id=416, label=Kleinbasel, parent_id=34890>
-    <OrtSympathisanten id=40424, label=Sympathisanten, parent_id=416>
+    <OrtSympathisanten id=40474, label=Sympathisanten, parent_id=416>
     <OrtMitglieder id=1034, label=Mitgliedschaften, parent_id=416>
     <OrtPraesidium id=1035, label=Partei, parent_id=416>
    <Ort id=37324, label=Stiftungskommission, parent_id=34890>
+    <OrtMitglieder id=40488, label=Mitglieder, parent_id=37324>

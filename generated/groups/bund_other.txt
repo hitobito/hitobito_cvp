@@ -1,4 +1,8 @@
 <Bund id=1, label=CVP Schweiz, parent_id=>
+ <BundGewaehlte id=40419, label=Bundesrichter, parent_id=1>
+ <BundGewaehlte id=40420, label=Bundesverwaltungsrichter, parent_id=1>
+ <BundArbeitsgruppe id=40421, label=Arbeitsgruppe, parent_id=1>
+ <BundArbeitsgruppe id=40423, label=Regierungsrat, parent_id=1>
  <BundArbeitsgruppe id=37839, label=Arbeitsgruppen (PN/WiMi), parent_id=1>
   <BundArbeitsgruppe id=37854, label=AG LGBT(JYM), parent_id=37839>
   <BundArbeitsgruppe id=37853, label=Ausländerpolitik und Migration (SE), parent_id=37839>
@@ -15,13 +19,10 @@
   <BundArbeitsgruppe id=37849, label=Verkehrspolitik (IC), parent_id=37839>
   <BundArbeitsgruppe id=37850, label=Wirtschaft (JYM), parent_id=37839>
   <BundArbeitsgruppe id=37846, label=soziale Sicherheit (SE), parent_id=37839>
+ <BundArbeitsgruppe id=213, label=B-Club (SJ), parent_id=1>
  <BundArbeitsgruppe id=33146, label=Gäste Delegiertenversammlung (CS), parent_id=1>
   <BundArbeitsgruppe id=36690, label=Email Einladung, parent_id=33146>
   <BundArbeitsgruppe id=36691, label=Post Einladungen, parent_id=33146>
- <BundArbeitsgruppe id=37755, label=Gönner (LS), parent_id=1>
-  <BundArbeitsgruppe id=39684, label=Gold Card, parent_id=37755>
-  <BundArbeitsgruppe id=39682, label=Silver Card, parent_id=37755>
-  <BundArbeitsgruppe id=39683, label=Silver-Plus Card, parent_id=37755>
  <BundArbeitsgruppe id=37444, label=Inaktive Gruppierungen, parent_id=1>
   <BundArbeitsgruppe id=37445, label=ICT-Forum, parent_id=37444>
   <BundArbeitsgruppe id=37833, label=Kommissionen, parent_id=37444>
@@ -103,28 +104,6 @@
   <BundArbeitsgruppe id=38853, label=ZG, parent_id=38819>
   <BundArbeitsgruppe id=38854, label=ZH, parent_id=38819>
  <BundArbeitsgruppe id=25, label=Regierungsrat (SJ), parent_id=1>
-  <BundArbeitsgruppe id=37449, label=Regierungsrat nach Kantonen, parent_id=25>
-   <BundArbeitsgruppe id=37451, label=AG, parent_id=37449>
-   <BundArbeitsgruppe id=37452, label=AI, parent_id=37449>
-   <BundArbeitsgruppe id=37455, label=BL, parent_id=37449>
-   <BundArbeitsgruppe id=37456, label=BS, parent_id=37449>
-   <BundArbeitsgruppe id=37458, label=FR, parent_id=37449>
-   <BundArbeitsgruppe id=37459, label=GE, parent_id=37449>
-   <BundArbeitsgruppe id=37460, label=GL, parent_id=37449>
-   <BundArbeitsgruppe id=37461, label=GR, parent_id=37449>
-   <BundArbeitsgruppe id=37462, label=JU, parent_id=37449>
-   <BundArbeitsgruppe id=37463, label=LU, parent_id=37449>
-   <BundArbeitsgruppe id=37465, label=NW, parent_id=37449>
-   <BundArbeitsgruppe id=37466, label=OW, parent_id=37449>
-   <BundArbeitsgruppe id=37467, label=SG, parent_id=37449>
-   <BundArbeitsgruppe id=37469, label=SO, parent_id=37449>
-   <BundArbeitsgruppe id=37470, label=SZ, parent_id=37449>
-   <BundArbeitsgruppe id=37471, label=TG, parent_id=37449>
-   <BundArbeitsgruppe id=37472, label=TI, parent_id=37449>
-   <BundArbeitsgruppe id=37473, label=UR, parent_id=37449>
-   <BundArbeitsgruppe id=37457, label=VS, parent_id=37449>
-   <BundArbeitsgruppe id=37475, label=ZG, parent_id=37449>
-   <BundArbeitsgruppe id=37476, label=ZH, parent_id=37449>
   <BundArbeitsgruppe id=37450, label=Regierungsrat nach Konferenzen, parent_id=25>
    <BundArbeitsgruppe id=37483, label=BPUK, parent_id=37450>
    <BundArbeitsgruppe id=37477, label=EDK, parent_id=37450>
@@ -136,41 +115,9 @@
    <BundArbeitsgruppe id=37484, label=KöV, parent_id=37450>
    <BundArbeitsgruppe id=37481, label=SODK, parent_id=37450>
    <BundArbeitsgruppe id=37485, label=VDK, parent_id=37450>
-  <BundArbeitsgruppe id=37775, label=Regierungsräte alt, parent_id=25>
  <BundArbeitsgruppe id=34, label=Schiedsgericht (JM), parent_id=1>
- <BundArbeitsgruppe id=38974, label=Sekretäre (Administration Kantonalparteien), parent_id=1>
-  <BundArbeitsgruppe id=38976, label=AG, parent_id=38974>
-  <BundArbeitsgruppe id=38980, label=BE, parent_id=38974>
-  <BundArbeitsgruppe id=38989, label=BS, parent_id=38974>
-  <BundArbeitsgruppe id=38985, label=FR-französisch, parent_id=38974>
-  <BundArbeitsgruppe id=38992, label=JU, parent_id=38974>
-  <BundArbeitsgruppe id=38994, label=LU, parent_id=38974>
-  <BundArbeitsgruppe id=38998, label=SG, parent_id=38974>
-  <BundArbeitsgruppe id=39001, label=SZ, parent_id=38974>
  <BundArbeitsgruppe id=31, label=Sommerparteitag (CS), parent_id=1>
   <BundArbeitsgruppe id=36692, label=Einladung (MG), parent_id=31>
-  <BundArbeitsgruppe id=37754, label=Gönner 2014 (RT), parent_id=31>
- <BundArbeitsgruppe id=35, label=Vereinigungen, parent_id=1>
-  <BundArbeitsgruppe id=213, label=B-Club (SJ), parent_id=35>
-  <BundArbeitsgruppe id=214, label=CVP-International, parent_id=35>
-  <BundArbeitsgruppe id=36218, label=CVP-nahe Botschafter, parent_id=35>
-  <BundArbeitsgruppe id=38314, label=Frauenznacht, parent_id=35>
-  <BundArbeitsgruppe id=216, label=KMU-Forum (CS), parent_id=35>
-  <BundArbeitsgruppe id=217, label=forum politique suisse (CS), parent_id=35>
-   <BundArbeitsgruppe id=37777, label=Gäste, parent_id=217>
-    <BundArbeitsgruppe id=37778, label=2014 Winter, parent_id=37777>
-    <BundArbeitsgruppe id=37779, label=2015 Frühling, parent_id=37777>
-    <BundArbeitsgruppe id=37780, label=2015 Herbst, parent_id=37777>
-    <BundArbeitsgruppe id=37781, label=2015 Winter, parent_id=37777>
-    <BundArbeitsgruppe id=38543, label=2016 Frühjahr, parent_id=37777>
-    <BundArbeitsgruppe id=38563, label=2016 Herbst, parent_id=37777>
-    <BundArbeitsgruppe id=38564, label=2016 Winter, parent_id=37777>
-    <BundArbeitsgruppe id=39472, label=2017 Herbst, parent_id=37777>
-    <BundArbeitsgruppe id=39473, label=2017 Winter, parent_id=37777>
-    <BundArbeitsgruppe id=39678, label=2018 Frühjahr, parent_id=37777>
-    <BundArbeitsgruppe id=39680, label=2018 Winter, parent_id=37777>
-    <BundArbeitsgruppe id=38202, label=fixe Gäste, parent_id=37777>
-   <BundArbeitsgruppe id=37776, label=Vorstand, parent_id=217>
  <BundDelegierte id=19, label=Delegiertenversammlung (CS), parent_id=1>
   <BundDelegierte id=37700, label=60+ (7), parent_id=19>
   <BundDelegierte id=114, label=AG (28), parent_id=19>
@@ -207,26 +154,32 @@
   <BundDelegierte id=146, label=VS-Romand (19), parent_id=19>
   <BundDelegierte id=147, label=ZG (8), parent_id=19>
   <BundDelegierte id=148, label=ZH (18), parent_id=19>
- <BundExterneKontakte id=38210, label=Communiqués, parent_id=1>
+ <BundExterneKontakte id=37755, label=Gönner (LS), parent_id=1>
+  <BundExterneKontakte id=39684, label=Gold Card, parent_id=37755>
+  <BundExterneKontakte id=39682, label=Silver Card, parent_id=37755>
+  <BundExterneKontakte id=39683, label=Silver-Plus Card, parent_id=37755>
  <BundExterneKontakte id=27, label=Kontakte, parent_id=1>
-  <BundExterneKontakte id=149, label=Expertenliste, parent_id=27>
-   <BundExterneKontakte id=319, label=Bahn, parent_id=149>
-   <BundExterneKontakte id=320, label=Bildung, parent_id=149>
-   <BundExterneKontakte id=321, label=Biotechnologie, parent_id=149>
-   <BundExterneKontakte id=322, label=Energie, parent_id=149>
-   <BundExterneKontakte id=323, label=Flugverkehr, parent_id=149>
-   <BundExterneKontakte id=324, label=Hochschulen, parent_id=149>
-   <BundExterneKontakte id=325, label=Jugend, parent_id=149>
-   <BundExterneKontakte id=326, label=Kultur, parent_id=149>
-   <BundExterneKontakte id=327, label=Leben, parent_id=149>
-   <BundExterneKontakte id=328, label=Medien/Werbung, parent_id=149>
-   <BundExterneKontakte id=329, label=Musik, parent_id=149>
-   <BundExterneKontakte id=330, label=Recht, parent_id=149>
-   <BundExterneKontakte id=331, label=Strasse, parent_id=149>
-   <BundExterneKontakte id=332, label=Telekom, parent_id=149>
   <BundExterneKontakte id=39971, label=Gesundheitsinitiative, parent_id=27>
  <BundExterneKontakte id=38222, label=Medienverteiler, parent_id=1>
- <BundExterneKontakte id=38209, label=Newsletter, parent_id=1>
+ <BundExterneKontakte id=35, label=Vereinigungen, parent_id=1>
+  <BundExterneKontakte id=36218, label=CVP-nahe Botschafter, parent_id=35>
+  <BundExterneKontakte id=38314, label=Frauenznacht, parent_id=35>
+  <BundExterneKontakte id=216, label=KMU-Forum (CS), parent_id=35>
+  <BundExterneKontakte id=217, label=forum politique suisse (CS), parent_id=35>
+   <BundExterneKontakte id=37777, label=Gäste, parent_id=217>
+    <BundExterneKontakte id=37778, label=2014 Winter, parent_id=37777>
+    <BundExterneKontakte id=37779, label=2015 Frühling, parent_id=37777>
+    <BundExterneKontakte id=37780, label=2015 Herbst, parent_id=37777>
+    <BundExterneKontakte id=37781, label=2015 Winter, parent_id=37777>
+    <BundExterneKontakte id=38543, label=2016 Frühjahr, parent_id=37777>
+    <BundExterneKontakte id=38563, label=2016 Herbst, parent_id=37777>
+    <BundExterneKontakte id=38564, label=2016 Winter, parent_id=37777>
+    <BundExterneKontakte id=39472, label=2017 Herbst, parent_id=37777>
+    <BundExterneKontakte id=39473, label=2017 Winter, parent_id=37777>
+    <BundExterneKontakte id=39678, label=2018 Frühjahr, parent_id=37777>
+    <BundExterneKontakte id=39680, label=2018 Winter, parent_id=37777>
+    <BundExterneKontakte id=38202, label=fixe Gäste, parent_id=37777>
+   <BundExterneKontakte id=37776, label=Vorstand, parent_id=217>
  <BundKommission id=28, label=Kontrollkommission (JM), parent_id=1>
  <BundPraesidium id=33, label=Präsidium (LS), parent_id=1>
  <BundSekretariat id=22, label=Generalsekretariat (JM), parent_id=1>

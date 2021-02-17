@@ -1,8 +1,11 @@
 <Bund id=1, label=CVP Schweiz, parent_id=>
+ <BundArbeitsgruppe id=40421, label=Arbeitsgruppe, parent_id=1>
  <BundGewaehlte id=14763, label=Departement Bundesrat Nr. 1, parent_id=1>
  <BundGewaehlte id=14860, label=Nationalrat, parent_id=1>
  <BundGewaehlte id=14861, label=Ständerat, parent_id=1>
  <Kanton id=155, label=CVP BE Jura Sud, parent_id=1>
-  <KantonSympathisanten id=40419, label=Sympathisanten, parent_id=155>
+  <KantonSympathisanten id=40426, label=Sympathisanten, parent_id=155>
+  <KantonSekretariat id=40431, label=Sekretariat, parent_id=155>
+  <KantonArbeitsgruppe id=40434, label=Arbeitsgruppe, parent_id=155>
   <KantonMitglieder id=383, label=Mitgliedschaften, parent_id=155>
   <KantonPraesidium id=384, label=Partei, parent_id=155>

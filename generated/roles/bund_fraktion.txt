@@ -1,10 +1,11 @@
 <Bund CVP Schweiz>
- <BundArbeitsgruppe Anlässe [tbd:Fraktionsausflug 449, tbd:Fraktionsessen 439]>
- <BundGewaehlte Bundeskanzlei [tbd:Bundeskanzler 2]>
- <BundGewaehlte Departement Bundesrat Nr. 1 [Bundesrat 5, tbd:Pers. Mitarbeiter Bundesrat 3]>
- <BundGewaehlte Kantonale Fraktionen [tbd:Kantonaler Fraktionspräsident 50]>
- <BundGewaehlte Nationalrat [Nationalrat 126, tbd:Nationalrat Partner 12]>
- <BundGewaehlte Ständerat [Staenderat 47, tbd:Ständerat Partner 2]>
+ <BundArbeitsgruppe Arbeitsgruppe [Mitglied 5]>
+ <BundArbeitsgruppe Kantonaler Fraktionspräsident [Mitglied 50]>
+ <BundArbeitsgruppe Anlässe [Mitglied 888]>
+ <BundGewaehlte Bundeskanzlei [Bundeskanzler 2]>
+ <BundGewaehlte Departement Bundesrat Nr. 1 [Bundesrat 5]>
+ <BundGewaehlte Nationalrat [Nationalrat 138]>
+ <BundGewaehlte Ständerat [Staenderat 47]>
  <BundParteigremium Fraktionsvorstand [Mitglied 28]>
- <BundPraesidium Fraktions-Präsidium [tbd:Präsident 3, tbd:Vizepräsident 3]>
- <BundSekretariat Fraktionssekretariat [tbd:Fraktionssekretär 2, tbd:Mitarbeiter 1, tbd:administrativer Fraktionssekretär 3]>
+ <BundPraesidium Fraktions-Präsidium [Praesident 3, Vizepraesident 3]>
+ <BundSekretariat Fraktionssekretariat [Mitarbeiter 6]>

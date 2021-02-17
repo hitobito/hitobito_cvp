@@ -1,30 +1,35 @@
 <Bund CVP Schweiz>
- <BundGewaehlte Departement Bundesrat Nr. 1 [Bundesrat 5, tbd:Pers. Mitarbeiter Bundesrat 3]>
- <BundGewaehlte Nationalrat [Nationalrat 126, tbd:Nationalrat Partner 12]>
- <BundGewaehlte Ständerat [Staenderat 47, tbd:Ständerat Partner 2]>
+ <BundArbeitsgruppe Arbeitsgruppe [Mitglied 5]>
+ <BundGewaehlte Departement Bundesrat Nr. 1 [Bundesrat 5]>
+ <BundGewaehlte Nationalrat [Nationalrat 138]>
+ <BundGewaehlte Ständerat [Staenderat 47]>
  <Kanton CVP NW>
-  <KantonArbeitsgruppe Info- und Kontaktgruppe [Mitglied 37, tbd:Vorstandsmitglied 13]>
+  <KantonParteigremium Parteigremium [Leitung 2, Mitglied 1]>
+  <KantonPraesidium Praesidium [Mitglied 13]>
+  <KantonDelegierte Delegierte [Delegierte 22, DelegierteVonAmtesWegen 1, Ersatzdelegierte 2]>
+  <KantonSekretariat Sekretariat [Leitung 2, Mitarbeiter 1]>
+  <KantonMitglieder Mitglieder [Mitglied 17]>
+  <KantonArbeitsgruppe Arbeitsgruppe [Mitglied 3]>
+  <KantonArbeitsgruppe Info- und Kontaktgruppe [Mitglied 37]>
   <KantonDelegierte Delegiertenversammlung>
-   <KantonDelegierte Beckenried [Delegierte 12, tbd:Ersatzdelegierter 4]>
-   <KantonDelegierte Buochs [Delegierte 11, tbd:Ersatzdelegierter 1]>
-   <KantonDelegierte Dallenwil [Delegierte 11, tbd:Ersatzdelegierter 2]>
-   <KantonDelegierte Delegierte von Amtes wegen [tbd:Delegierter von Amtes wegen 83]>
+   <KantonDelegierte Beckenried [Delegierte 12, Ersatzdelegierte 4]>
+   <KantonDelegierte Buochs [Delegierte 11, Ersatzdelegierte 1]>
+   <KantonDelegierte Dallenwil [Delegierte 11, Ersatzdelegierte 2]>
+   <KantonDelegierte Delegierte von Amtes wegen [DelegierteVonAmtesWegen 83]>
    <KantonDelegierte Emmetten [Delegierte 7]>
    <KantonDelegierte Ennetbürgen [Delegierte 8]>
-   <KantonDelegierte Ennetmoos [Delegierte 9, tbd:Ersatzdelegierter 7]>
-   <KantonDelegierte Hergiswil [Delegierte 13, tbd:Ersatzdelegierter 6]>
+   <KantonDelegierte Ennetmoos [Delegierte 9, Ersatzdelegierte 7]>
+   <KantonDelegierte Hergiswil [Delegierte 13, Ersatzdelegierte 6]>
    <KantonDelegierte JCVP [Delegierte 8]>
-   <KantonDelegierte Oberdorf [Delegierte 17, tbd:Ersatzdelegierter 2]>
-   <KantonDelegierte Stans [Delegierte 14, tbd:Ersatzdelegierter 1]>
-   <KantonDelegierte Stansstad [Delegierte 9, tbd:Ersatzdelegierter 1]>
-   <KantonDelegierte Wolfenschiessen [Delegierte 9, tbd:Ersatzdelegierter 3]>
+   <KantonDelegierte Oberdorf [Delegierte 17, Ersatzdelegierte 2]>
+   <KantonDelegierte Stans [Delegierte 14, Ersatzdelegierte 1]>
+   <KantonDelegierte Stansstad [Delegierte 9, Ersatzdelegierte 1]>
+   <KantonDelegierte Wolfenschiessen [Delegierte 9, Ersatzdelegierte 3]>
   <KantonExterneKontakte Medienverteiler [Kontakt 6]>
   <KantonExterneKontakte Newsletter [Kontakt 489]>
   <KantonGewaehlte Regierungsrat [KantonaleExekutive 6]>
   <KantonGewaehlte Judikative>
-   <KantonGewaehlte Kantonsgericht [MitgliedKantonalesGerichtErsteInstanz 1, tbd:Mitglied 6]>
-   <KantonGewaehlte Obergericht [tbd:Mitglied 6]>
-   <KantonGewaehlte Verwaltungsgericht [tbd:Mitglied 5]>
+   <KantonGewaehlte Kantonsgericht [MitgliedKantonalesGerichtErsteInstanz 1]>
   <KantonGewaehlte Legislative [KantonaleLegislative 101]>
   <KantonKommission Fachkommissionen>
    <KantonKommission Baudirektion [Mitglied 14, Praesident 6]>
@@ -34,9 +39,9 @@
    <KantonKommission Justiz- und Sicherheitsdirektion [Mitglied 15, Praesident 2]>
    <KantonKommission Landwirtschafts- und Umweltdirektion [Mitglied 8, Praesident 4]>
    <KantonKommission Volkswirtschaftsdirektion [Mitglied 8, Praesident 4]>
-  <KantonParteigremium Kontrollkommission [Mitglied 8, Praesident 2, tbd:Delegierter von Amtes wegen 1, tbd:Revisor 3]>
-  <KantonPraesidium Partei [Praesident 6, tbd:Ansprechperson Finanzen 1, tbd:Delegierter 22, tbd:Empfänger Rechnung Jahresbeitrag CVP CH 1, tbd:Ersatzdelegierter 2, tbd:OM Ansprechperson 1, tbd:Plakatierer 2, tbd:Revisor 1, tbd:Vorstand 1, tbd:Zuzüger 1]>
-  <KantonPraesidium Vorstand [Mitglied 18, Praesident 3, tbd:Kassier 3, tbd:Sekretär 2, tbd:Wahlkampfleiter 2]>
+  <KantonParteigremium Kontrollkommission [Mitglied 11, Praesident 2]>
+  <KantonPraesidium Partei [Kassier 1, Mitglied 2, Praesident 6]>
+  <KantonPraesidium Vorstand [Mitglied 21, Praesident 3]>
   <Ort Beckenried>
    <OrtSympathisanten Sympathisanten [Sympathisant 13]>
    <OrtGewaehlte Exekutive [KommunaleExekutive 2]>
@@ -97,10 +102,11 @@
    <OrtPraesidium Partei [Adressverwalter 6, Kassier 2, Mitglied 5, Praesident 3]>
   <Ort Stansstad>
    <OrtSympathisanten Sympathisanten [Sympathisant 142]>
+   <OrtSekretariat Sekretariat [Leitung 1]>
    <OrtGewaehlte Exekutive [Fraktionschef 2, KommunaleExekutive 6]>
    <OrtGewaehlte Schulpflege [Fraktionschef 1, Schulpflegekommission 4]>
    <OrtMitglieder Mitgliedschaften [Mitglied 88]>
-   <OrtPraesidium Partei [Adressverwalter 7, Mitglied 6, Praesident 2, tbd:Sekretär 1]>
+   <OrtPraesidium Partei [Adressverwalter 7, Mitglied 6, Praesident 2]>
   <Ort Wolfenschiessen>
    <OrtSympathisanten Sympathisanten [Sympathisant 146]>
    <OrtGewaehlte Exekutive [KommunaleExekutive 3]>
