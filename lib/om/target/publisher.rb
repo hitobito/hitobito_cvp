@@ -17,7 +17,7 @@ module Target
     end
 
     def copy_to_production
-      sh 'oc project htbt-cvp-prod'
+      sh 'oc project htbt-die-mitte-prod'
       sh "oc exec #{pod} -t -- bash -c \"rm -rf /tmp/dump/#{file.basename}\" "
       sh "oc rsync #{file.dirname} #{pod}:/tmp"
     end
