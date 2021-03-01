@@ -12,7 +12,7 @@ module Structure::Steps
     end
 
     def allowed
-      Group.all_types.each_with_object({}) do |type, memo|
+      ::Group.all_types.each_with_object({}) do |type, memo|
         short_type = type.to_s.demodulize
         memo[short_type] ||= []
         memo[short_type] = type.children.collect do |child|
