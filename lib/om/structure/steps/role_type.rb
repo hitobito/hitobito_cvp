@@ -67,7 +67,7 @@ module Structure::Steps
     end
 
     def allowed
-      Role.all_types.each_with_object({}) do |type, memo|
+      ::Role.all_types.each_with_object({}) do |type, memo|
         group_type = type.module_parent.to_s.demodulize
         memo[group_type] ||= []
         memo[group_type] << type.to_s.demodulize
