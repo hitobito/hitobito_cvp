@@ -10,8 +10,7 @@ class Group::Vereinigung < Group
   self.layer = true
 
 
-  children Group::VereinigungGewaehlte,
-           Group::VereinigungParteigremium,
+  children Group::VereinigungParteigremium,
            Group::VereinigungPraesidium,
            Group::VereinigungSekretariat,
            Group::VereinigungKommission,
@@ -25,7 +24,6 @@ class Group::Vereinigung < Group
   ### ROLES
   #
   self.default_children = [
-    Group::VereinigungGewaehlte,
     Group::VereinigungSekretariat
   ]
 

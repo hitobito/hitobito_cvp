@@ -79,9 +79,6 @@ de:
       group/vereinigung:
         one: Vereinigung
         other: Vereinigungen
-      group/vereinigung_gewaehlte:
-        one: Gewählte
-        other: Gewählte
       group/vereinigung_parteigremium:
         one: Parteigremium
         other: Parteigremium
@@ -113,9 +110,6 @@ de:
       group/region:
         one: Region
         other: Regionen
-      group/region_gewaehlte:
-        one: Gewählte
-        other: Gewählte
       group/region_parteigremium:
         one: Parteigremium
         other: Parteigremium
@@ -321,12 +315,6 @@ de:
       group/kanton_sympathisanten/sympathisant:
         one: Sympathisant
 
-      group/vereinigung_gewaehlte/fraktionschef:
-        one: Fraktionschef
-      group/vereinigung_gewaehlte/vereinigung_exekutive:
-        one: Vereinigung Exekutive
-      group/vereinigung_gewaehlte/vereinigung_legislative:
-        one: Vereinigung Legislative
       group/vereinigung_parteigremium/praesident:
         one: Präsident
       group/vereinigung_parteigremium/leitung:
@@ -378,14 +366,6 @@ de:
       group/vereinigung_delegierte/delegierte_von_amtes_wegen:
         one: Delegierte von Amtes wegen
 
-      group/region_gewaehlte/fraktionschef:
-        one: Fraktionschef
-      group/region_gewaehlte/region_exekutive:
-        one: Region Exekutive
-      group/region_gewaehlte/region_legislative:
-        one: Region Legislative
-      group/region_gewaehlte/region_judikative:
-        one: Region Judikative
       group/region_parteigremium/praesident:
         one: Präsident
       group/region_parteigremium/leitung:

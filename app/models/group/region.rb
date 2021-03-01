@@ -13,8 +13,7 @@ class Group::Region < Group
 
   self.layer = true
 
-  children Group::RegionGewaehlte,
-           Group::RegionParteigremium,
+  children Group::RegionParteigremium,
            Group::RegionPraesidium,
            Group::RegionSekretariat,
            Group::RegionArbeitsgruppe,
@@ -26,8 +25,7 @@ class Group::Region < Group
            Group::Ort
 
   self.default_children = [
-    Group::RegionSekretariat,
-    Group::RegionGewaehlte
+    Group::RegionSekretariat
   ]
 
 end
