@@ -102,7 +102,8 @@ class Kontakt < SourceModel
         title: title,
         kunden_id: kunden_id,
         kundennummer: kundennummer,
-        kontaktnummer: kontaktnummer
+        kontaktnummer: kontaktnummer,
+        correspondence_language: correspondence_language
       )
   end
 
@@ -151,6 +152,15 @@ class Kontakt < SourceModel
 
   def firma?
     firma.present? && anrede_code == 5
+  end
+
+  def correspondence_language
+    case sprache
+    when "Deutsch" then :de
+    when "Französisch" then :fr
+    when "Italienisch" then :it
+    else nil
+    end
   end
 
   def gender
