@@ -1,7 +1,8 @@
+require "csv"
 module Target
   class Seeder
     def self.run
-      new("#{ENV['HOME']}/Downloads/cvp/sekretaere.yaml").run
+      new("#{ENV['HOME']}/Documents/hitobito/CVP/Kantone_Vereinigungen_Hitobito.csv").run
     end
 
     def initialize(file)
@@ -9,42 +10,46 @@ module Target
     end
 
     def run
-      config.each do |group_name, people|
-        parent = Group.find_by(name: group_name)
-        next unless parent
-        group, role_types = group_and_role_types(parent)
-        next unless group
-
-        people.each do |name, email|
-          first_name, last_name = name.split
-          person = Person.find_or_create_by(email: email) do |p|
-            p.first_name = first_name
-            p.last_name = last_name
-          end
-          person.update!(password: password)
-          role_types.each do |type|
-            type.find_or_create_by!(person: person, group: group)
-          end
-        end
+      CSV.read(@file, headers: true).each do |row|
+        group = find_or_create_group(row)
+        person = find_or_create_person(row)
+        find_or_create_role(row, group, person)
       end
+
       PaperTrail::Version.delete_all
       puts "Current password: #{password}"
     end
 
-    def group_and_role_types(parent)
-      type = parent.is_a?(Group::Bund) ? Group::BundSekretariat : Group::KantonSekretariat
-      group = Group.find_or_create_by!(type: type, parent: parent) do |group|
-        group.name = 'Sekretariat'
+    def find_or_create_group(row)
+      layer = Group.find_by(name: row['Ebene'])
+      type = [layer.class.sti_name, row['Gruppe']].join
+      groups = Group.where(type: type, parent: layer)
+
+      if groups.empty?
+        Group.create!(parent: layer, type: type, name: row['Gruppe'])
+      elsif groups.one?
+        groups.first
+      elsif groups.find { |g| g.name == row['Gruppe'] }
+        groups.find { |g| g.name == row['Gruppe'] }
+      else
+        puts "found multiple(#{layer}, #{type}), #{groups.map(&:name)}), using first"
+        groups.first
       end
-      [group, role_types(group)]
     end
 
-    def role_types(group)
-      if group.is_a?(Group::BundSekretariat)
-        [Group::BundSekretariat::Mitarbeiter, Group::BundSekretariat::Kassier, Group::BundSekretariat::ItSupport]
-      else
-        [Group::KantonSekretariat::Mitarbeiter]
+    def find_or_create_person(row)
+      Person.find_or_create_by(email: row['EMail']) do |p|
+        p.first_name = row['Vorname']
+        p.last_name = row['Nachname']
+        p.correspondence_language = language(row['Sprache'])
+      end.tap do |person|
+        person.update!(password: password)
       end
+    end
+
+    def find_or_create_role(row, group, person)
+      role_type = group.class.role_types.find { |t| t.to_s.ends_with?(row["Rolle"]) }
+      Role.find_or_create_by!(person: person, group: group, type: role_type)
     end
 
     def password
@@ -53,8 +58,12 @@ module Target
       file.read.strip
     end
 
-    def config
-      YAML.load_file(@file)
+    def language(val)
+      case val
+      when /Deutsch/ then :de
+      when /Französisch/ then :fr
+      when /Italienisch/ then :it
+      end
     end
   end
 end
