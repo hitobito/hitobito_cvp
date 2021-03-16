@@ -4,7 +4,6 @@
  <BundGewaehlte id=14860, label=Nationalrat, parent_id=1>
  <BundGewaehlte id=14861, label=Ständerat, parent_id=1>
  <Kanton id=166, label=CVP OW, parent_id=1>
-  <KantonSympathisanten id=40431, label=Sympathisanten, parent_id=166>
   <KantonSekretariat id=40436, label=Sekretariat, parent_id=166>
   <KantonArbeitsgruppe id=40439, label=Arbeitsgruppe, parent_id=166>
   <KantonGewaehlte id=35079, label=Regierungsrat, parent_id=166>

@@ -120,6 +120,15 @@
    <BundArbeitsgruppe id=37481, label=SODK, parent_id=37450>
    <BundArbeitsgruppe id=37485, label=VDK, parent_id=37450>
  <BundArbeitsgruppe id=34, label=Schiedsgericht (JM), parent_id=1>
+ <BundArbeitsgruppe id=38974, label=Sekretäre (Administration Kantonalparteien), parent_id=1>
+  <BundArbeitsgruppe id=38976, label=AG, parent_id=38974>
+  <BundArbeitsgruppe id=38980, label=BE, parent_id=38974>
+  <BundArbeitsgruppe id=38989, label=BS, parent_id=38974>
+  <BundArbeitsgruppe id=38985, label=FR-französisch, parent_id=38974>
+  <BundArbeitsgruppe id=38992, label=JU, parent_id=38974>
+  <BundArbeitsgruppe id=38994, label=LU, parent_id=38974>
+  <BundArbeitsgruppe id=38998, label=SG, parent_id=38974>
+  <BundArbeitsgruppe id=39001, label=SZ, parent_id=38974>
  <BundArbeitsgruppe id=31, label=Sommerparteitag (CS), parent_id=1>
   <BundArbeitsgruppe id=36692, label=Einladung (MG), parent_id=31>
  <BundDelegierte id=19, label=Delegiertenversammlung (CS), parent_id=1>

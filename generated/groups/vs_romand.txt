@@ -51,7 +51,6 @@
   <KantonMitglieder id=645, label=Mitgliedschaften, parent_id=176>
   <KantonPraesidium id=647, label=Partei, parent_id=176>
   <Region id=640, label=Conthey, parent_id=176>
-   <RegionMitglieder id=2164, label=Mitgliedschaften, parent_id=640>
    <RegionPraesidium id=2166, label=Partei, parent_id=640>
    <Ort id=33183, label=Ardon, parent_id=640>
     <OrtGewaehlte id=37101, label=Exekutive, parent_id=33183>
@@ -164,7 +163,6 @@
    <Ort id=33189, label=Trient, parent_id=644>
     <OrtMitglieder id=33445, label=Mitgliedschaften, parent_id=33189>
   <Region id=646, label=Monthey, parent_id=176>
-   <RegionMitglieder id=33446, label=Mitgliedschaften, parent_id=646>
    <RegionPraesidium id=2191, label=Partei, parent_id=646>
    <Ort id=2188, label=Champery, parent_id=646>
     <OrtGewaehlte id=37066, label=Exekutive, parent_id=2188>
@@ -172,6 +170,7 @@
     <OrtPraesidium id=33203, label=Partei, parent_id=2188>
    <Ort id=2189, label=Collombey-Muraz, parent_id=646>
     <OrtGewaehlte id=37064, label=Exekutive, parent_id=2189>
+    <OrtMitglieder id=4212, label=Mitgliedschaften, parent_id=2189>
     <OrtPraesidium id=33204, label=Partei, parent_id=2189>
    <Ort id=2190, label=Monthey, parent_id=646>
     <OrtGewaehlte id=37065, label=Exekutive, parent_id=2190>

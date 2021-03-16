@@ -9,26 +9,26 @@
   <KantonArbeitsgruppe Arbeitsgruppe [Mitglied 2]>
   <KantonArbeitsgruppe Bankrat [Mitglied 1]>
   <KantonGewaehlte Legislative [KantonaleLegislative 5]>
-  <KantonMitglieder Mitgliedschaften [Mitglied 61]>
+  <KantonMitglieder Mitgliedschaften [Mitglied 52]>
   <KantonPraesidium Partei [Kassier 2, Mitglied 13, Praesident 7]>
   <Ort Neuhausen am Rheinfall>
    <OrtSympathisanten Sympathisanten [Sympathisant 6]>
    <OrtGewaehlte Exekutive [KommunaleExekutive 1]>
    <OrtGewaehlte Legislative [KommunaleExekutive 2]>
-   <OrtMitglieder Mitgliedschaften [Mitglied 43]>
+   <OrtMitglieder Mitgliedschaften [Mitglied 25]>
    <OrtPraesidium Partei [Adressverwalter 1, Mitglied 11, Praesident 1]>
   <Ort Ramsen>
    <OrtSympathisanten Sympathisanten [Sympathisant 3]>
    <OrtGewaehlte Exekutive [KommunaleExekutive 1]>
-   <OrtMitglieder Mitgliedschaften [Mitglied 37]>
+   <OrtMitglieder Mitgliedschaften [Mitglied 33]>
    <OrtPraesidium Partei [Adressverwalter 1, Praesident 1]>
   <Ort Schaffhausen>
-   <OrtSympathisanten Sympathisanten [Sympathisant 17]>
+   <OrtSympathisanten Sympathisanten [Sympathisant 13]>
    <OrtGewaehlte Legislative [KommunaleExekutive 1]>
-   <OrtMitglieder Mitgliedschaften [Mitglied 51]>
+   <OrtMitglieder Mitgliedschaften [Mitglied 36]>
    <OrtPraesidium Partei [Praesident 2]>
   <Ort Stein am Rhein>
    <OrtSympathisanten Sympathisanten [Sympathisant 5]>
    <OrtGewaehlte Exekutive [KommunaleExekutive 2]>
-   <OrtMitglieder Mitgliedschaften [Mitglied 9]>
+   <OrtMitglieder Mitgliedschaften [Mitglied 4]>
    <OrtPraesidium Partei [Adressverwalter 1]>

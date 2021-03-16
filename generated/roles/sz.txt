@@ -38,65 +38,65 @@
   <KantonPraesidium Vorstand CVP Schweiz [Mitglied 4]>
   <Region Bezirk Einsiedeln>
    <RegionSympathisanten Sympathisanten [Sympathisant 4]>
-   <RegionGewaehlte Exekutive [RegionExekutive 2]>
-   <RegionGewaehlte Judikative [RegionJudikative 4]>
-   <RegionMitglieder Mitgliedschaften [Mitglied 170]>
+   <RegionArbeitsgruppe Exekutive [Mitglied 2]>
+   <RegionArbeitsgruppe Judikative [Mitglied 4]>
+   <RegionMitglieder Mitgliedschaften [Mitglied 145]>
    <RegionPraesidium Partei [Mitglied 15, Praesident 3]>
   <Region Bezirk Gersau>
-   <RegionGewaehlte Exekutive [RegionExekutive 6]>
-   <RegionMitglieder Mitgliedschaften [Mitglied 26]>
+   <RegionArbeitsgruppe Exekutive [Mitglied 6]>
+   <RegionMitglieder Mitgliedschaften [Mitglied 25]>
    <RegionPraesidium Partei [Mitglied 5, Praesident 3]>
   <Region Bezirk Höfe>
-   <RegionGewaehlte Exekutive [RegionExekutive 3]>
-   <RegionGewaehlte Judikative [RegionJudikative 1]>
+   <RegionArbeitsgruppe Exekutive [Mitglied 3]>
+   <RegionArbeitsgruppe Judikative [Mitglied 1]>
    <RegionPraesidium Partei [Praesident 1]>
    <Ort Feusisberg>
-    <OrtSympathisanten Sympathisanten [Sympathisant 5]>
+    <OrtSympathisanten Sympathisanten [Sympathisant 4]>
     <OrtGewaehlte Exekutive [KommunaleExekutive 2]>
-    <OrtMitglieder Mitgliedschaften [Mitglied 36]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 35]>
     <OrtPraesidium Partei [Adressverwalter 1, Mitglied 7, Praesident 3]>
    <Ort Freienbach>
-    <OrtSympathisanten Sympathisanten [Sympathisant 253]>
+    <OrtSympathisanten Sympathisanten [Sympathisant 251]>
     <OrtArbeitsgruppe Arbeitsgruppe [Mitglied 1]>
     <OrtGewaehlte Gewaehlte [MitgliedWeitereGemeindeKommissionen 15, Rechnungspruefungskommission 2, Schulpflegekommission 2]>
     <OrtExterneKontakte ExterneKontakte [Kontakt 153]>
     <OrtParteigremium Parteigremium [Mitglied 15]>
     <OrtGewaehlte Exekutive [Fraktionschef 1, KommunaleExekutive 5]>
-    <OrtMitglieder Mitgliedschaften [Mitglied 208]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 176]>
     <OrtPraesidium Partei [Adressverwalter 2, Kassier 2, Mitglied 17, Praesident 4]>
    <Ort Wollerau>
-    <OrtSympathisanten Sympathisanten [Sympathisant 50]>
+    <OrtSympathisanten Sympathisanten [Sympathisant 46]>
     <OrtGewaehlte Exekutive [KommunaleExekutive 3]>
-    <OrtMitglieder Mitgliedschaften [Mitglied 85]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 43]>
     <OrtPraesidium Partei [Adressverwalter 2, Mitglied 39, Praesident 3]>
   <Region Bezirk Küssnacht>
-   <RegionSympathisanten Sympathisanten [Sympathisant 129]>
-   <RegionGewaehlte Exekutive [RegionExekutive 3]>
-   <RegionGewaehlte Judikative [RegionExekutive 1, RegionJudikative 7]>
-   <RegionMitglieder Mitgliedschaften [Mitglied 182]>
+   <RegionSympathisanten Sympathisanten [Sympathisant 120]>
+   <RegionArbeitsgruppe Exekutive [Mitglied 3]>
+   <RegionArbeitsgruppe Judikative [Mitglied 8]>
+   <RegionMitglieder Mitgliedschaften [Mitglied 142]>
    <RegionPraesidium Partei [Mitglied 12, Praesident 1]>
   <Region Bezirk March>
-   <RegionGewaehlte Exekutive [RegionExekutive 2]>
-   <RegionGewaehlte Judikative [RegionJudikative 2]>
+   <RegionArbeitsgruppe Exekutive [Mitglied 2]>
+   <RegionArbeitsgruppe Judikative [Mitglied 2]>
    <RegionPraesidium Partei [Mitglied 4, Praesident 3]>
    <Ort Altendorf>
-    <OrtSympathisanten Sympathisanten [Sympathisant 457]>
+    <OrtSympathisanten Sympathisanten [Sympathisant 406]>
     <OrtGewaehlte Exekutive [KommunaleExekutive 3]>
-    <OrtMitglieder Mitgliedschaften [Mitglied 226]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 97]>
     <OrtPraesidium Partei [Adressverwalter 4, Mitglied 19, Praesident 3]>
    <Ort Altendorf KVP>
     <OrtGewaehlte Exekutive [KommunaleExekutive 1]>
-    <OrtMitglieder Mitgliedschaften [Mitglied 17]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 15]>
     <OrtPraesidium Partei [Praesident 2]>
    <Ort Galgenen>
     <OrtSympathisanten Sympathisanten [Sympathisant 4]>
     <OrtGewaehlte Exekutive [KommunaleExekutive 2]>
-    <OrtMitglieder Mitgliedschaften [Mitglied 31]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 25]>
     <OrtPraesidium Partei [Mitglied 3, Praesident 1]>
    <Ort Lachen>
     <OrtSympathisanten Sympathisanten [Sympathisant 3]>
     <OrtGewaehlte Exekutive [KommunaleExekutive 2]>
-    <OrtMitglieder Mitgliedschaften [Mitglied 91]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 82]>
     <OrtPraesidium Partei [Adressverwalter 6, Mitglied 7, Praesident 3]>
    <Ort Reichenburg>
     <OrtSympathisanten Sympathisanten [Sympathisant 1]>
@@ -105,64 +105,64 @@
     <OrtPraesidium Partei [Mitglied 5, Praesident 3]>
    <Ort Schübelbach>
     <OrtGewaehlte Exekutive [KommunaleExekutive 3]>
-    <OrtMitglieder Mitgliedschaften [Mitglied 22]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 21]>
     <OrtPraesidium Partei [Adressverwalter 2, Mitglied 12, Praesident 1]>
    <Ort Tuggen>
     <OrtGewaehlte Exekutive [Fraktionschef 1, KommunaleExekutive 1]>
-    <OrtMitglieder Mitgliedschaften [Mitglied 19]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 18]>
     <OrtPraesidium Partei [Adressverwalter 2, Mitglied 6, Praesident 4]>
    <Ort Wangen>
     <OrtGewaehlte Exekutive [KommunaleExekutive 3]>
     <OrtMitglieder Mitgliedschaften [Mitglied 18]>
     <OrtPraesidium Partei [Mitglied 8, Praesident 1]>
   <Region Bezirk Schwyz>
-   <RegionGewaehlte Exekutive [RegionExekutive 6]>
-   <RegionGewaehlte Judikative [RegionExekutive 1]>
+   <RegionArbeitsgruppe Exekutive [Mitglied 6]>
+   <RegionArbeitsgruppe Judikative [Mitglied 1]>
    <RegionPraesidium Partei [Mitglied 1, Praesident 1]>
    <Ort Arth-Oberarth-Goldau>
-    <OrtSympathisanten Sympathisanten [Sympathisant 121]>
+    <OrtSympathisanten Sympathisanten [Sympathisant 120]>
     <OrtGewaehlte Exekutive [Fraktionschef 2, KommunaleExekutive 5]>
-    <OrtMitglieder Mitgliedschaften [Mitglied 566]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 555]>
     <OrtPraesidium Partei [Mitglied 3, Praesident 1]>
    <Ort Illgau>
     <OrtGewaehlte Exekutive [Fraktionschef 1, KommunaleExekutive 1]>
-    <OrtMitglieder Mitgliedschaften [Mitglied 14]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 13]>
     <OrtPraesidium Partei [Mitglied 4, Praesident 1]>
    <Ort Ingenbohl>
-    <OrtSympathisanten Sympathisanten [Sympathisant 35]>
+    <OrtSympathisanten Sympathisanten [Sympathisant 30]>
     <OrtGewaehlte Exekutive [Fraktionschef 1, KommunaleExekutive 3]>
-    <OrtMitglieder Mitgliedschaften [Mitglied 105]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 76]>
     <OrtPraesidium Partei [Adressverwalter 10, Mitglied 8, Praesident 4]>
    <Ort Lauerz>
-    <OrtSympathisanten Sympathisanten [Sympathisant 6]>
+    <OrtSympathisanten Sympathisanten [Sympathisant 7]>
     <OrtGewaehlte Exekutive [Fraktionschef 2, KommunaleExekutive 3]>
-    <OrtMitglieder Mitgliedschaften [Mitglied 33]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 30]>
     <OrtPraesidium Partei [Kassier 1, Mitglied 10, Praesident 3]>
    <Ort Muotathal>
     <OrtParteigremium Parteigremium [Mitglied 2]>
     <OrtGewaehlte Exekutive [KommunaleExekutive 9, Rechnungspruefungskommission 1]>
-    <OrtMitglieder Mitgliedschaften [Mitglied 41]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 39]>
     <OrtPraesidium Partei [Mitglied 12, Praesident 3]>
    <Ort Rothenthurm>
     <OrtSympathisanten Sympathisanten [Sympathisant 10]>
     <OrtGewaehlte Exekutive [KommunaleExekutive 6, Rechnungspruefungskommission 1]>
-    <OrtMitglieder Mitgliedschaften [Mitglied 30]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 29]>
     <OrtPraesidium Partei [Mitglied 4, Praesident 2]>
    <Ort Sattel>
     <OrtGewaehlte Exekutive [KommunaleExekutive 3]>
     <OrtMitglieder Mitgliedschaften [Mitglied 14]>
     <OrtPraesidium Partei [Adressverwalter 1, Mitglied 4, Praesident 2]>
    <Ort Schwyz>
-    <OrtSympathisanten Sympathisanten [Sympathisant 124]>
+    <OrtSympathisanten Sympathisanten [Sympathisant 116]>
     <OrtGewaehlte Exekutive [Fraktionschef 1, KommunaleExekutive 7]>
-    <OrtMitglieder Mitgliedschaften [Mitglied 635]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 577]>
     <OrtPraesidium Partei [Adressverwalter 20, Mitglied 13, Praesident 3]>
    <Ort Steinen>
     <OrtSympathisanten Sympathisanten [Sympathisant 243]>
     <OrtGewaehlte Exekutive [Fraktionschef 2, KommunaleExekutive 3]>
-    <OrtMitglieder Mitgliedschaften [Mitglied 34]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 32]>
     <OrtPraesidium Partei [Kassier 2, Mitglied 6, Praesident 3]>
    <Ort Unteriberg>
     <OrtGewaehlte Exekutive [KommunaleExekutive 1]>
-    <OrtMitglieder Mitgliedschaften [Mitglied 8]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 7]>
     <OrtPraesidium Partei [Praesident 1]>

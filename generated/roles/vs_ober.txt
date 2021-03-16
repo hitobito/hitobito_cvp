@@ -17,20 +17,20 @@
   <KantonGewaehlte Fraktion [Fraktionschef 2]>
   <KantonGewaehlte Judikative [MitgliedKantonalesGerichtErsteInstanz 4, Staatsanwaltschaft 5]>
   <KantonGewaehlte Legislative [KantonaleLegislative 42, WeitereMandate 37]>
-  <KantonMitglieder Mitgliedschaften [Mitglied 1151]>
+  <KantonMitglieder Mitgliedschaften [Mitglied 1120]>
   <KantonPraesidium Partei [Kassier 1, Mitglied 57, Praesident 3]>
   <Region Brig>
    <RegionArbeitsgruppe Arbeitsgruppe [Mitglied 2]>
-   <RegionGewaehlte Exekutive [RegionExekutive 2]>
+   <RegionArbeitsgruppe Exekutive [Mitglied 2]>
    <RegionPraesidium Partei [Praesident 2]>
    <Ort Brig-Glis-Gamsen-Brigerbad>
-    <OrtSympathisanten Sympathisanten [Sympathisant 76]>
+    <OrtSympathisanten Sympathisanten [Sympathisant 68]>
     <OrtGewaehlte Gewaehlte [KommunaleLegislative 1]>
     <OrtGewaehlte Exekutive [Fraktionschef 1, KommunaleExekutive 3]>
-    <OrtMitglieder Mitgliedschaften [Mitglied 181]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 159]>
     <OrtPraesidium Partei [Adressverwalter 2, Kassier 1, Mitglied 53, Praesident 2]>
    <Ort Eggerberg>
-    <OrtSympathisanten Sympathisanten [Sympathisant 2]>
+    <OrtSympathisanten Sympathisanten [Sympathisant 1]>
     <OrtGewaehlte Exekutive [KommunaleExekutive 1]>
     <OrtMitglieder Mitgliedschaften [Mitglied 9]>
     <OrtPraesidium Partei [Mitglied 2, Praesident 1]>
@@ -39,15 +39,15 @@
     <OrtMitglieder Mitgliedschaften [Mitglied 2]>
     <OrtPraesidium Partei [Praesident 1]>
    <Ort Mund-Naters-Birgisch>
-    <OrtSympathisanten Sympathisanten [Sympathisant 26]>
+    <OrtSympathisanten Sympathisanten [Sympathisant 27]>
     <OrtGewaehlte Exekutive [Fraktionschef 4, KommunaleExekutive 7]>
-    <OrtMitglieder Mitgliedschaften [Mitglied 160]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 150]>
     <OrtPraesidium Partei [Adressverwalter 2, Mitglied 44, Praesident 5]>
    <Ort Ried-Brig>
     <OrtSympathisanten Sympathisanten [Sympathisant 25]>
     <OrtGewaehlte Exekutive [Fraktionschef 3, KommunaleExekutive 4]>
     <OrtGewaehlte Judikative [MitgliedWeitereGemeindeKommissionen 1]>
-    <OrtMitglieder Mitgliedschaften [Mitglied 49]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 46]>
     <OrtPraesidium Partei [Adressverwalter 1, Mitglied 29, Praesident 1]>
    <Ort Simplon Dorf>
     <OrtSympathisanten Sympathisanten [Sympathisant 1]>
@@ -55,14 +55,14 @@
     <OrtMitglieder Mitgliedschaften [Mitglied 8]>
     <OrtPraesidium Partei [Mitglied 1, Praesident 1]>
    <Ort Termen>
-    <OrtSympathisanten Sympathisanten [Sympathisant 6]>
+    <OrtSympathisanten Sympathisanten [Sympathisant 5]>
     <OrtGewaehlte Gewaehlte [KommunaleLegislative 1]>
     <OrtGewaehlte Exekutive [Fraktionschef 1, KommunaleExekutive 7]>
     <OrtGewaehlte Judikative [MitgliedWeitereGemeindeKommissionen 1]>
-    <OrtMitglieder Mitgliedschaften [Mitglied 18]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 17]>
     <OrtPraesidium Partei [Mitglied 2, Praesident 1]>
   <Region Goms>
-   <RegionGewaehlte Exekutive [RegionExekutive 2]>
+   <RegionArbeitsgruppe Exekutive [Mitglied 2]>
    <RegionPraesidium Partei [Praesident 1]>
    <Ort Bellwald>
     <OrtGewaehlte Exekutive [Fraktionschef 1]>
@@ -79,7 +79,7 @@
     <OrtMitglieder Mitgliedschaften [Mitglied 8]>
    <Ort Fiesch>
     <OrtGewaehlte Exekutive [Fraktionschef 1]>
-    <OrtMitglieder Mitgliedschaften [Mitglied 8]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 7]>
    <Ort Lax>
     <OrtMitglieder Mitgliedschaften [Mitglied 2]>
    <Ort Münster-Geschinen>
@@ -94,10 +94,10 @@
    <Ort Reckingen-Gluringen>
     <OrtSympathisanten Sympathisanten [Sympathisant 3]>
     <OrtGewaehlte Exekutive [Fraktionschef 2, KommunaleExekutive 1]>
-    <OrtMitglieder Mitgliedschaften [Mitglied 4]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 3]>
   <Region Leuk>
    <RegionParteigremium Parteigremium [Mitglied 1]>
-   <RegionGewaehlte Exekutive [RegionExekutive 1]>
+   <RegionArbeitsgruppe Exekutive [Mitglied 1]>
    <RegionPraesidium Partei [Mitglied 3, Praesident 2]>
    <Ort Agarn>
     <OrtGewaehlte Gewaehlte [KommunaleLegislative 1]>
@@ -108,10 +108,9 @@
     <OrtSympathisanten Sympathisanten [Sympathisant 1]>
     <OrtExterneKontakte ExterneKontakte [Kontakt 1]>
     <OrtGewaehlte Exekutive [KommunaleExekutive 5]>
-    <OrtMitglieder Mitgliedschaften [Mitglied 13]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 11]>
    <Ort Ergisch>
     <OrtGewaehlte Exekutive [KommunaleExekutive 1]>
-    <OrtMitglieder Mitgliedschaften [Mitglied 1]>
    <Ort Erschmatt-Leuk>
     <OrtSympathisanten Sympathisanten [Sympathisant 2]>
     <OrtGewaehlte Gewaehlte [KommunaleLegislative 2]>
@@ -121,7 +120,7 @@
     <OrtPraesidium Partei [Praesident 5]>
    <Ort Gampel-Bratsch>
     <OrtGewaehlte Exekutive [Fraktionschef 1, KommunaleExekutive 5]>
-    <OrtMitglieder Mitgliedschaften [Mitglied 47]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 45]>
     <OrtPraesidium Partei [Praesident 3]>
    <Ort Guttet-Feschel>
     <OrtSympathisanten Sympathisanten [Sympathisant 3]>
@@ -156,7 +155,7 @@
     <OrtGewaehlte Exekutive [KommunaleExekutive 2]>
     <OrtMitglieder Mitgliedschaften [Mitglied 13]>
   <Region Oestl. Raron>
-   <RegionGewaehlte Exekutive [RegionExekutive 2]>
+   <RegionArbeitsgruppe Exekutive [Mitglied 2]>
    <Ort Betten>
     <OrtSympathisanten Sympathisanten [Sympathisant 1]>
     <OrtExterneKontakte ExterneKontakte [Kontakt 1]>
@@ -173,13 +172,13 @@
     <OrtMitglieder Mitgliedschaften [Mitglied 4]>
    <Ort Mörel-Filet>
     <OrtGewaehlte Exekutive [KommunaleExekutive 1]>
-    <OrtMitglieder Mitgliedschaften [Mitglied 11]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 10]>
     <OrtPraesidium Partei [Praesident 1]>
    <Ort Riederalp>
-    <OrtMitglieder Mitgliedschaften [Mitglied 12]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 3]>
     <OrtPraesidium Partei [Praesident 1]>
   <Region Visp>
-   <RegionGewaehlte Exekutive [RegionExekutive 2]>
+   <RegionArbeitsgruppe Exekutive [Mitglied 2]>
    <Ort Baltschieder>
     <OrtGewaehlte Exekutive [KommunaleExekutive 1]>
     <OrtMitglieder Mitgliedschaften [Mitglied 3]>
@@ -215,22 +214,22 @@
    <Ort Saas Grund>
     <OrtSympathisanten Sympathisanten [Sympathisant 1]>
     <OrtGewaehlte Exekutive [Fraktionschef 1, KommunaleExekutive 3]>
-    <OrtMitglieder Mitgliedschaften [Mitglied 20]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 19]>
     <OrtPraesidium Partei [Mitglied 3, Praesident 1]>
    <Ort St. Niklaus>
     <OrtSympathisanten Sympathisanten [Sympathisant 3]>
     <OrtGewaehlte Exekutive [Fraktionschef 1, KommunaleExekutive 6]>
-    <OrtMitglieder Mitgliedschaften [Mitglied 39]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 34]>
     <OrtPraesidium Partei [Praesident 1]>
    <Ort Stalden>
     <OrtSympathisanten Sympathisanten [Sympathisant 1]>
     <OrtGewaehlte Exekutive [Fraktionschef 1, KommunaleExekutive 7]>
-    <OrtMitglieder Mitgliedschaften [Mitglied 48]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 40]>
     <OrtPraesidium Partei [Praesident 1]>
    <Ort Staldenried>
     <OrtSympathisanten Sympathisanten [Sympathisant 1]>
     <OrtGewaehlte Exekutive [KommunaleExekutive 3]>
-    <OrtMitglieder Mitgliedschaften [Mitglied 16]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 15]>
     <OrtPraesidium Partei [Praesident 2]>
    <Ort Täsch>
     <OrtSympathisanten Sympathisanten [Sympathisant 1]>
@@ -255,10 +254,10 @@
     <OrtGewaehlte Exekutive [Fraktionschef 1]>
    <Ort Zermatt>
     <OrtGewaehlte Exekutive [Fraktionschef 3, KommunaleExekutive 3]>
-    <OrtMitglieder Mitgliedschaften [Mitglied 37]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 36]>
     <OrtPraesidium Partei [Praesident 1]>
   <Region Westl. Raron>
-   <RegionGewaehlte Exekutive [RegionExekutive 3]>
+   <RegionArbeitsgruppe Exekutive [Mitglied 3]>
    <RegionPraesidium Partei [Mitglied 4, Praesident 1]>
    <Ort Ausserberg>
     <OrtSympathisanten Sympathisanten [Sympathisant 1]>
@@ -277,7 +276,7 @@
    <Ort Eischoll>
     <OrtSympathisanten Sympathisanten [Sympathisant 3]>
     <OrtGewaehlte Exekutive [KommunaleExekutive 2]>
-    <OrtMitglieder Mitgliedschaften [Mitglied 4]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 3]>
     <OrtPraesidium Partei [Praesident 1]>
    <Ort Ferden>
     <OrtSympathisanten Sympathisanten [Sympathisant 1]>
@@ -291,13 +290,13 @@
    <Ort Niedergesteln>
     <OrtSympathisanten Sympathisanten [Sympathisant 1]>
     <OrtGewaehlte Exekutive [Fraktionschef 1, KommunaleExekutive 3]>
-    <OrtMitglieder Mitgliedschaften [Mitglied 11]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 10]>
     <OrtPraesidium Partei [Praesident 1]>
    <Ort Raron>
     <OrtSympathisanten Sympathisanten [Sympathisant 1]>
     <OrtGewaehlte Gewaehlte [KommunaleLegislative 1]>
     <OrtGewaehlte Exekutive [Fraktionschef 1, KommunaleExekutive 6]>
-    <OrtMitglieder Mitgliedschaften [Mitglied 44]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 43]>
     <OrtPraesidium Partei [Mitglied 1, Praesident 2]>
    <Ort Steg-Hohtenn>
     <OrtGewaehlte Gewaehlte [KommunaleLegislative 1]>

@@ -4,11 +4,11 @@
  <BundGewaehlte Nationalrat [Nationalrat 138]>
  <BundGewaehlte Ständerat [Staenderat 47]>
  <Kanton CVP AI>
-  <KantonSympathisanten Sympathisanten [Sympathisant 33]>
+  <KantonSympathisanten Sympathisanten [Sympathisant 29]>
   <KantonSekretariat Sekretariat [Leitung 2, Mitarbeiter 1]>
   <KantonArbeitsgruppe Arbeitsgruppe [Mitglied 3]>
   <KantonGewaehlte Regierungsrat [KantonaleExekutive 1]>
   <KantonGewaehlte Judikative [MitgliedKantonalesGerichtErsteInstanz 8]>
   <KantonGewaehlte Legislative [KantonaleLegislative 20]>
-  <KantonMitglieder Mitgliedschaften [Mitglied 160]>
+  <KantonMitglieder Mitgliedschaften [Mitglied 113]>
   <KantonPraesidium Partei [Mitglied 14, Praesident 4]>

@@ -4,6 +4,7 @@
  <BundGewaehlte Nationalrat [Nationalrat 138]>
  <BundGewaehlte Ständerat [Staenderat 47]>
  <Kanton CVP BE>
+  <KantonSympathisanten Sympathisanten [Sympathisant 402]>
   <KantonDelegierte Delegierte [Delegierte 2]>
   <KantonSekretariat Sekretariat [Leitung 7]>
   <KantonExterneKontakte ExterneKontakte [Kontakt 1]>
@@ -37,43 +38,43 @@
   <KantonExterneKontakte Newsletter f [Kontakt 86]>
   <KantonGewaehlte Judikative [MitgliedKantonalesGerichtErsteInstanz 2]>
   <KantonGewaehlte Legislative [KantonaleLegislative 5]>
+  <KantonMitglieder Mitgliedschaften [Mitglied 176]>
   <KantonPraesidium Partei [Mitglied 47, Praesident 8]>
   <Ort Bern (Stadt)>
-   <OrtSympathisanten Sympathisanten [Sympathisant 188]>
+   <OrtSympathisanten Sympathisanten [Sympathisant 169]>
    <OrtSekretariat Sekretariat [Leitung 1]>
    <OrtExterneKontakte ExterneKontakte [Kontakt 319]>
    <OrtGewaehlte Exekutive [KommunaleExekutive 1]>
    <OrtGewaehlte Legislative [KommunaleExekutive 3]>
-   <OrtMitglieder Mitgliedschaften [Mitglied 105]>
+   <OrtMitglieder Mitgliedschaften [Mitglied 80]>
    <OrtPraesidium Partei [Adressverwalter 15, Kassier 1, Praesident 4]>
    <OrtPraesidium Vorstand [Mitglied 14]>
   <Ort Biel>
-   <OrtSympathisanten Sympathisanten [Sympathisant 12]>
+   <OrtSympathisanten Sympathisanten [Sympathisant 11]>
    <OrtGewaehlte Legislative [KommunaleExekutive 2]>
-   <OrtMitglieder Mitgliedschaften [Mitglied 49]>
+   <OrtMitglieder Mitgliedschaften [Mitglied 48]>
    <OrtPraesidium Partei [Adressverwalter 10]>
   <Ort Bolligen-Ittingen-Ostermundigen>
    <OrtSympathisanten Sympathisanten [Sympathisant 27]>
-   <OrtMitglieder Mitgliedschaften [Mitglied 83]>
+   <OrtMitglieder Mitgliedschaften [Mitglied 71]>
    <OrtPraesidium Partei [Adressverwalter 2, Kassier 1]>
    <OrtPraesidium Vorstand [Mitglied 3]>
   <Ort Burgdorf>
-   <OrtSympathisanten Sympathisanten [Sympathisant 18]>
+   <OrtSympathisanten Sympathisanten [Sympathisant 16]>
    <OrtSekretariat Sekretariat [Leitung 1]>
-   <OrtMitglieder Mitgliedschaften [Mitglied 43]>
+   <OrtMitglieder Mitgliedschaften [Mitglied 35]>
    <OrtPraesidium Partei [Adressverwalter 2, Kassier 1, Praesident 2]>
   <Ort Köniz [betreut durch Kehrsatz]>
-   <OrtSympathisanten Sympathisanten [Sympathisant 112]>
+   <OrtSympathisanten Sympathisanten [Sympathisant 102]>
    <OrtArbeitsgruppe Arbeitsgruppe [Mitglied 1]>
    <OrtGewaehlte Legislative [KommunaleExekutive 1]>
-   <OrtMitglieder Mitgliedschaften [Mitglied 46]>
+   <OrtMitglieder Mitgliedschaften [Mitglied 41]>
    <OrtPraesidium Partei [Adressverwalter 2, Mitglied 1, Praesident 1]>
   <Ort Muri>
-   <OrtSympathisanten Sympathisanten [Sympathisant 15]>
-   <OrtMitglieder Mitgliedschaften [Mitglied 1]>
+   <OrtSympathisanten Sympathisanten [Sympathisant 14]>
   <Ort Thun>
-   <OrtSympathisanten Sympathisanten [Sympathisant 99]>
+   <OrtSympathisanten Sympathisanten [Sympathisant 93]>
    <OrtSekretariat Sekretariat [Leitung 1]>
    <OrtGewaehlte Exekutive [KommunaleExekutive 1]>
-   <OrtMitglieder Mitgliedschaften [Mitglied 52]>
+   <OrtMitglieder Mitgliedschaften [Mitglied 44]>
    <OrtPraesidium Vorstand [Adressverwalter 4, Kassier 1, Mitglied 4, Praesident 4]>

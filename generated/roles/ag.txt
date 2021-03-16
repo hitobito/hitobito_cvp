@@ -5,7 +5,7 @@
  <BundGewaehlte Nationalrat [Nationalrat 147]>
  <BundGewaehlte Ständerat [Staenderat 48]>
  <Kanton CVP AG>
-  <KantonSympathisanten Sympathisanten [Sympathisant 64]>
+  <KantonSympathisanten Sympathisanten [Sympathisant 17]>
   <KantonSekretariat Sekretariat [Leitung 12]>
   <KantonArbeitsgruppe Diverse Funktionen [Mitglied 182, Praesident 7]>
   <KantonArbeitsgruppe Fraktionsausflug [Gast 10]>
@@ -39,19 +39,19 @@
    <KantonKommission SJV [Mitglied 9, Praesident 1]>
    <KantonKommission UBV [Mitglied 11, Praesident 1]>
    <KantonKommission WiFi [Mitglied 8, Praesident 2]>
-  <KantonMitglieder Mitgliedschaften [Mitglied 351]>
+  <KantonMitglieder Mitgliedschaften [Mitglied 50]>
   <KantonParteigremium Parteivorstand [Mitglied 74]>
   <KantonPraesidium Parteileitung [Mitglied 33]>
   <Region Bezirk Aarau>
-   <RegionSympathisanten Sympathisanten [Sympathisant 28]>
-   <RegionMitglieder Mitgliedschaften [Mitglied 249]>
+   <RegionSympathisanten Sympathisanten [Sympathisant 25]>
+   <RegionMitglieder Mitgliedschaften [Mitglied 212]>
    <RegionPraesidium Partei [Mitglied 9, Praesident 3]>
    <Ort Aarau>
-    <OrtSympathisanten Sympathisanten [Sympathisant 14]>
+    <OrtSympathisanten Sympathisanten [Sympathisant 12]>
     <OrtGewaehlte Exekutive [Fraktionschef 1, KommunaleExekutive 3]>
     <OrtGewaehlte Legislative [KommunaleExekutive 6]>
     <OrtGewaehlte Mandat [MitgliedWeitereGemeindeKommissionen 1, Schulpflegekommission 1]>
-    <OrtMitglieder Mitgliedschaften [Mitglied 160]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 140]>
     <OrtPraesidium Partei [Adressverwalter 1, Praesident 2]>
    <Ort Buchs>
     <OrtGewaehlte Exekutive [KommunaleExekutive 2]>
@@ -64,7 +64,7 @@
    <Ort Gränichen>
     <OrtSympathisanten Sympathisanten [Sympathisant 1]>
     <OrtGewaehlte Exekutive [KommunaleExekutive 1]>
-    <OrtMitglieder Mitgliedschaften [Mitglied 15]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 14]>
     <OrtPraesidium Partei [Praesident 1]>
    <Ort Küttigen-Rombach>
     <OrtGewaehlte Mandat [Schulpflegekommission 1]>
@@ -73,38 +73,38 @@
     <OrtGewaehlte Mandat [MitgliedWeitereGemeindeKommissionen 2, Schulpflegekommission 2]>
     <OrtPraesidium Partei [Mitglied 1, Praesident 2]>
   <Region Bezirk Baden>
-   <RegionSympathisanten Sympathisanten [Sympathisant 53]>
-   <RegionMitglieder Mitgliedschaften [Mitglied 194]>
+   <RegionSympathisanten Sympathisanten [Sympathisant 40]>
+   <RegionMitglieder Mitgliedschaften [Mitglied 123]>
    <RegionPraesidium Partei [Mitglied 2, Praesident 4]>
    <Ort Baden>
-    <OrtSympathisanten Sympathisanten [Sympathisant 19]>
+    <OrtSympathisanten Sympathisanten [Sympathisant 16]>
     <OrtGewaehlte Exekutive [Fraktionschef 2, KommunaleExekutive 4]>
     <OrtGewaehlte Legislative [KommunaleExekutive 15]>
     <OrtGewaehlte Mandat [MitgliedWeitereGemeindeKommissionen 1, Schulpflegekommission 1]>
-    <OrtMitglieder Mitgliedschaften [Mitglied 197]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 167]>
     <OrtPraesidium Partei [Adressverwalter 5, Kassier 1, Praesident 3]>
    <Ort Birmenstorf>
-    <OrtSympathisanten Sympathisanten [Sympathisant 4]>
+    <OrtSympathisanten Sympathisanten [Sympathisant 3]>
     <OrtGewaehlte Exekutive [Fraktionschef 3, KommunaleExekutive 7]>
     <OrtGewaehlte Mandat [MitgliedWeitereGemeindeKommissionen 2]>
-    <OrtMitglieder Mitgliedschaften [Mitglied 48]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 41]>
     <OrtPraesidium Partei [Praesident 2]>
    <Ort Ehrendingen>
     <OrtSympathisanten Sympathisanten [Sympathisant 1]>
     <OrtGewaehlte Exekutive [Fraktionschef 2, KommunaleExekutive 5]>
     <OrtGewaehlte Mandat [Schulpflegekommission 1]>
-    <OrtMitglieder Mitgliedschaften [Mitglied 43]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 41]>
     <OrtPraesidium Partei [Praesident 3]>
    <Ort Ennetbaden>
     <OrtSympathisanten Sympathisanten [Sympathisant 2]>
     <OrtGewaehlte Exekutive [KommunaleExekutive 1]>
     <OrtGewaehlte Mandat [MitgliedWeitereGemeindeKommissionen 2]>
-    <OrtMitglieder Mitgliedschaften [Mitglied 27]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 24]>
     <OrtPraesidium Partei [Adressverwalter 1, Praesident 1]>
    <Ort Fislisbach>
     <OrtSympathisanten Sympathisanten [Sympathisant 5]>
     <OrtGewaehlte Exekutive [Fraktionschef 1, KommunaleExekutive 1]>
-    <OrtMitglieder Mitgliedschaften [Mitglied 59]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 48]>
     <OrtPraesidium Partei [Adressverwalter 1, Praesident 3]>
    <Ort Freienwil>
     <OrtGewaehlte Exekutive [KommunaleExekutive 1]>
@@ -115,50 +115,49 @@
    <Ort Killwangen>
     <OrtGewaehlte Exekutive [KommunaleExekutive 4]>
     <OrtGewaehlte Mandat [Schulpflegekommission 1]>
-    <OrtMitglieder Mitgliedschaften [Mitglied 19]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 15]>
     <OrtPraesidium Partei [Praesident 1]>
    <Ort Künten>
     <OrtGewaehlte Exekutive [KommunaleExekutive 1]>
    <Ort Mellingen>
     <OrtSympathisanten Sympathisanten [Sympathisant 3]>
     <OrtGewaehlte Exekutive [KommunaleExekutive 3]>
-    <OrtMitglieder Mitgliedschaften [Mitglied 112]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 108]>
     <OrtPraesidium Partei [Praesident 2]>
    <Ort Mägenwil>
     <OrtGewaehlte Exekutive [Fraktionschef 1, KommunaleExekutive 5]>
     <OrtGewaehlte Mandat [MitgliedWeitereGemeindeKommissionen 3]>
-    <OrtMitglieder Mitgliedschaften [Mitglied 25]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 23]>
     <OrtPraesidium Partei [Praesident 2]>
    <Ort Neuenhof>
     <OrtSympathisanten Sympathisanten [Sympathisant 1]>
     <OrtGewaehlte Exekutive [Fraktionschef 2, KommunaleExekutive 3]>
     <OrtGewaehlte Mandat [MitgliedWeitereGemeindeKommissionen 3]>
-    <OrtMitglieder Mitgliedschaften [Mitglied 45]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 42]>
     <OrtPraesidium Partei [Praesident 2]>
    <Ort Niederrohrdorf>
     <OrtSympathisanten Sympathisanten [Sympathisant 5]>
     <OrtGewaehlte Exekutive [KommunaleExekutive 5]>
     <OrtGewaehlte Mandat [MitgliedWeitereGemeindeKommissionen 1, Schulpflegekommission 1]>
-    <OrtMitglieder Mitgliedschaften [Mitglied 38]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 35]>
     <OrtPraesidium Partei [Adressverwalter 2, Praesident 3]>
    <Ort Oberrohrdorf>
-    <OrtSympathisanten Sympathisanten [Sympathisant 20]>
+    <OrtSympathisanten Sympathisanten [Sympathisant 19]>
     <OrtGewaehlte Exekutive [Fraktionschef 2, KommunaleExekutive 5]>
     <OrtGewaehlte Mandat [Schulpflegekommission 1]>
-    <OrtMitglieder Mitgliedschaften [Mitglied 89]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 66]>
     <OrtPraesidium Partei [Adressverwalter 2, Praesident 1]>
    <Ort Obersiggenthal>
     <OrtSympathisanten Sympathisanten [Sympathisant 35]>
     <OrtGewaehlte Exekutive [Fraktionschef 2, KommunaleExekutive 5]>
     <OrtGewaehlte Legislative [KommunaleExekutive 21]>
     <OrtGewaehlte Mandat [MitgliedWeitereGemeindeKommissionen 2, Schulpflegekommission 2]>
-    <OrtMitglieder Mitgliedschaften [Mitglied 121]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 108]>
     <OrtPraesidium Partei [Praesident 3]>
    <Ort Spreitenbach>
-    <OrtSympathisanten Sympathisanten [Sympathisant 1]>
     <OrtGewaehlte Exekutive [Fraktionschef 2, KommunaleExekutive 5]>
     <OrtGewaehlte Mandat [MitgliedWeitereGemeindeKommissionen 4]>
-    <OrtMitglieder Mitgliedschaften [Mitglied 56]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 53]>
     <OrtPraesidium Partei [Praesident 2]>
    <Ort Turgi>
     <OrtGewaehlte Exekutive [KommunaleExekutive 1]>
@@ -166,14 +165,14 @@
     <OrtSympathisanten Sympathisanten [Sympathisant 1]>
     <OrtGewaehlte Exekutive [Fraktionschef 1, KommunaleExekutive 4]>
     <OrtGewaehlte Mandat [MitgliedWeitereGemeindeKommissionen 2, Schulpflegekommission 1]>
-    <OrtMitglieder Mitgliedschaften [Mitglied 55]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 48]>
     <OrtPraesidium Partei [Praesident 2]>
    <Ort Wettingen>
-    <OrtSympathisanten Sympathisanten [Sympathisant 3]>
+    <OrtSympathisanten Sympathisanten [Sympathisant 2]>
     <OrtGewaehlte Exekutive [Fraktionschef 3, KommunaleExekutive 4]>
     <OrtGewaehlte Legislative [KommunaleExekutive 34]>
     <OrtGewaehlte Mandat [MitgliedWeitereGemeindeKommissionen 3, Schulpflegekommission 2]>
-    <OrtMitglieder Mitgliedschaften [Mitglied 171]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 156]>
     <OrtPraesidium Partei [Adressverwalter 2, Praesident 4]>
    <Ort Wohlenschwil>
     <OrtGewaehlte Exekutive [Fraktionschef 1]>
@@ -181,29 +180,29 @@
     <OrtSympathisanten Sympathisanten [Sympathisant 64]>
     <OrtGewaehlte Exekutive [Fraktionschef 1, KommunaleExekutive 4]>
     <OrtGewaehlte Mandat [MitgliedWeitereGemeindeKommissionen 4, Schulpflegekommission 1]>
-    <OrtMitglieder Mitgliedschaften [Mitglied 101]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 95]>
     <OrtPraesidium Partei [Praesident 2]>
    <Ort Würenlos>
-    <OrtSympathisanten Sympathisanten [Sympathisant 7]>
+    <OrtSympathisanten Sympathisanten [Sympathisant 11]>
     <OrtGewaehlte Exekutive [KommunaleExekutive 3]>
     <OrtGewaehlte Mandat [MitgliedWeitereGemeindeKommissionen 3]>
-    <OrtMitglieder Mitgliedschaften [Mitglied 57]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 47]>
     <OrtPraesidium Partei [Praesident 2]>
   <Region Bezirk Bremgarten>
-   <RegionSympathisanten Sympathisanten [Sympathisant 12]>
-   <RegionMitglieder Mitgliedschaften [Mitglied 186]>
+   <RegionSympathisanten Sympathisanten [Sympathisant 3]>
+   <RegionMitglieder Mitgliedschaften [Mitglied 124]>
    <RegionPraesidium Partei [Mitglied 4, Praesident 5]>
    <Ort Berikon>
-    <OrtSympathisanten Sympathisanten [Sympathisant 9]>
+    <OrtSympathisanten Sympathisanten [Sympathisant 8]>
     <OrtGewaehlte Exekutive [Fraktionschef 1, KommunaleExekutive 4]>
     <OrtGewaehlte Mandat [MitgliedWeitereGemeindeKommissionen 4, Schulpflegekommission 3]>
-    <OrtMitglieder Mitgliedschaften [Mitglied 41]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 36]>
     <OrtPraesidium Partei [Praesident 3]>
    <Ort Bremgarten>
-    <OrtSympathisanten Sympathisanten [Sympathisant 14]>
+    <OrtSympathisanten Sympathisanten [Sympathisant 13]>
     <OrtGewaehlte Exekutive [KommunaleExekutive 5]>
     <OrtGewaehlte Mandat [MitgliedWeitereGemeindeKommissionen 5, Schulpflegekommission 1]>
-    <OrtMitglieder Mitgliedschaften [Mitglied 64]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 52]>
     <OrtPraesidium Partei [Adressverwalter 4, Praesident 2]>
    <Ort Dottikon>
     <OrtGewaehlte Exekutive [KommunaleExekutive 2]>
@@ -219,28 +218,28 @@
     <OrtGewaehlte Exekutive [Fraktionschef 1, KommunaleExekutive 3]>
    <Ort Kelleramt>
     <OrtSympathisanten Sympathisanten [Sympathisant 7]>
-    <OrtMitglieder Mitgliedschaften [Mitglied 41]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 39]>
     <OrtPraesidium Partei [Adressverwalter 1, Praesident 1]>
    <Ort Niederwil>
     <OrtSympathisanten Sympathisanten [Sympathisant 1]>
     <OrtGewaehlte Exekutive [Fraktionschef 2, KommunaleExekutive 5]>
     <OrtGewaehlte Mandat [MitgliedWeitereGemeindeKommissionen 3, Schulpflegekommission 3]>
-    <OrtMitglieder Mitgliedschaften [Mitglied 112]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 110]>
     <OrtPraesidium Partei [Praesident 2]>
    <Ort Oberlunkhofen>
     <OrtGewaehlte Exekutive [Fraktionschef 2, KommunaleExekutive 5]>
     <OrtGewaehlte Mandat [MitgliedWeitereGemeindeKommissionen 1]>
-    <OrtMitglieder Mitgliedschaften [Mitglied 32]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 29]>
     <OrtPraesidium Partei [Praesident 1]>
    <Ort Rudolfstetten>
     <OrtSympathisanten Sympathisanten [Sympathisant 2]>
     <OrtGewaehlte Exekutive [Fraktionschef 1, KommunaleExekutive 3]>
-    <OrtMitglieder Mitgliedschaften [Mitglied 33]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 31]>
     <OrtPraesidium Partei [Praesident 3]>
    <Ort Sarmenstorf>
     <OrtSympathisanten Sympathisanten [Sympathisant 1]>
     <OrtGewaehlte Exekutive [Fraktionschef 3, KommunaleExekutive 7]>
-    <OrtMitglieder Mitgliedschaften [Mitglied 41]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 40]>
     <OrtPraesidium Partei [Praesident 4]>
    <Ort Tägerig>
     <OrtSympathisanten Sympathisanten [Sympathisant 2]>
@@ -249,102 +248,101 @@
     <OrtMitglieder Mitgliedschaften [Mitglied 29]>
     <OrtPraesidium Partei [Praesident 2]>
    <Ort Villmergen>
-    <OrtSympathisanten Sympathisanten [Sympathisant 3]>
+    <OrtSympathisanten Sympathisanten [Sympathisant 2]>
     <OrtGewaehlte Exekutive [Fraktionschef 1, KommunaleExekutive 3]>
     <OrtGewaehlte Mandat [Schulpflegekommission 1]>
-    <OrtMitglieder Mitgliedschaften [Mitglied 87]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 57]>
     <OrtPraesidium Partei [Praesident 3]>
     <OrtPraesidium Vorstand [Mitglied 2]>
    <Ort Widen>
-    <OrtSympathisanten Sympathisanten [Sympathisant 4]>
+    <OrtSympathisanten Sympathisanten [Sympathisant 5]>
     <OrtGewaehlte Exekutive [Fraktionschef 2, KommunaleExekutive 5]>
     <OrtGewaehlte Mandat [MitgliedWeitereGemeindeKommissionen 1]>
-    <OrtMitglieder Mitgliedschaften [Mitglied 31]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 20]>
     <OrtPraesidium Partei [Adressverwalter 2, Praesident 3]>
    <Ort Wohlen>
-    <OrtSympathisanten Sympathisanten [Sympathisant 65]>
+    <OrtSympathisanten Sympathisanten [Sympathisant 66]>
     <OrtGewaehlte Exekutive [KommunaleExekutive 6]>
     <OrtGewaehlte Legislative [KommunaleExekutive 20]>
     <OrtGewaehlte Mandat [MitgliedWeitereGemeindeKommissionen 1, Schulpflegekommission 2]>
-    <OrtMitglieder Mitgliedschaften [Mitglied 154]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 139]>
     <OrtPraesidium Partei [Adressverwalter 3, Praesident 2]>
    <Ort Zufikon>
-    <OrtSympathisanten Sympathisanten [Sympathisant 4]>
+    <OrtSympathisanten Sympathisanten [Sympathisant 3]>
     <OrtGewaehlte Exekutive [Fraktionschef 1, KommunaleExekutive 5]>
-    <OrtMitglieder Mitgliedschaften [Mitglied 42]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 34]>
     <OrtPraesidium Partei [Praesident 2]>
   <Region Bezirk Brugg>
-   <RegionSympathisanten Sympathisanten [Sympathisant 41]>
-   <RegionMitglieder Mitgliedschaften [Mitglied 75]>
+   <RegionSympathisanten Sympathisanten [Sympathisant 37]>
+   <RegionMitglieder Mitgliedschaften [Mitglied 59]>
    <RegionPraesidium Partei [Mitglied 7, Praesident 2]>
    <Ort Brugg>
     <OrtSympathisanten Sympathisanten [Sympathisant 11]>
     <OrtGewaehlte Exekutive [Fraktionschef 1, KommunaleExekutive 3]>
     <OrtGewaehlte Legislative [KommunaleExekutive 11]>
-    <OrtMitglieder Mitgliedschaften [Mitglied 84]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 80]>
     <OrtPraesidium Partei [Adressverwalter 1, Praesident 4]>
    <Ort Hausen>
-    <OrtSympathisanten Sympathisanten [Sympathisant 4]>
+    <OrtSympathisanten Sympathisanten [Sympathisant 3]>
     <OrtGewaehlte Exekutive [Fraktionschef 1, KommunaleExekutive 3]>
-    <OrtMitglieder Mitgliedschaften [Mitglied 21]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 18]>
     <OrtPraesidium Partei [Adressverwalter 1, Praesident 1]>
    <Ort Mönthal>
     <OrtGewaehlte Exekutive [KommunaleExekutive 1]>
    <Ort Riniken>
-    <OrtSympathisanten Sympathisanten [Sympathisant 22]>
+    <OrtSympathisanten Sympathisanten [Sympathisant 21]>
     <OrtGewaehlte Exekutive [KommunaleExekutive 6]>
-    <OrtMitglieder Mitgliedschaften [Mitglied 28]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 24]>
     <OrtPraesidium Partei [Praesident 1]>
    <Ort Windisch>
     <OrtSympathisanten Sympathisanten [Sympathisant 3]>
     <OrtGewaehlte Exekutive [KommunaleExekutive 2]>
     <OrtGewaehlte Legislative [KommunaleExekutive 12]>
     <OrtGewaehlte Mandat [MitgliedWeitereGemeindeKommissionen 3]>
-    <OrtMitglieder Mitgliedschaften [Mitglied 47]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 40]>
     <OrtPraesidium Partei [Adressverwalter 1, Praesident 1]>
   <Region Bezirk Kulm>
-   <RegionSympathisanten Sympathisanten [Sympathisant 13]>
-   <RegionMitglieder Mitgliedschaften [Mitglied 45]>
+   <RegionSympathisanten Sympathisanten [Sympathisant 12]>
+   <RegionMitglieder Mitgliedschaften [Mitglied 35]>
    <RegionPraesidium Partei [Praesident 1]>
    <Ort Schöftland>
     <OrtGewaehlte Exekutive [KommunaleExekutive 1]>
   <Region Bezirk Laufenburg>
-   <RegionSympathisanten Sympathisanten [Sympathisant 220]>
+   <RegionSympathisanten Sympathisanten [Sympathisant 162]>
    <RegionExterneKontakte ExterneKontakte [Kontakt 131]>
-   <RegionMitglieder Mitgliedschaften [Mitglied 207]>
+   <RegionMitglieder Mitgliedschaften [Mitglied 124]>
    <RegionPraesidium Partei [Mitglied 9, Praesident 3]>
    <Ort Eiken>
-    <OrtSympathisanten Sympathisanten [Sympathisant 2]>
     <OrtGewaehlte Exekutive [KommunaleExekutive 4]>
-    <OrtMitglieder Mitgliedschaften [Mitglied 79]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 62]>
     <OrtPraesidium Partei [Adressverwalter 1, Praesident 1]>
    <Ort Frick>
-    <OrtSympathisanten Sympathisanten [Sympathisant 89]>
+    <OrtSympathisanten Sympathisanten [Sympathisant 83]>
     <OrtGewaehlte Exekutive [Fraktionschef 1, KommunaleExekutive 4]>
     <OrtGewaehlte Mandat [MitgliedWeitereGemeindeKommissionen 3, Schulpflegekommission 1]>
-    <OrtMitglieder Mitgliedschaften [Mitglied 84]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 68]>
     <OrtPraesidium Partei [Adressverwalter 3, Praesident 3]>
    <Ort Gansingen>
     <OrtSympathisanten Sympathisanten [Sympathisant 43]>
     <OrtGewaehlte Exekutive [Fraktionschef 2, KommunaleExekutive 7]>
-    <OrtMitglieder Mitgliedschaften [Mitglied 30]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 27]>
     <OrtPraesidium Partei [Adressverwalter 1, Mitglied 1]>
    <Ort Gipf-Oberfrick>
-    <OrtSympathisanten Sympathisanten [Sympathisant 74]>
+    <OrtSympathisanten Sympathisanten [Sympathisant 72]>
     <OrtGewaehlte Exekutive [KommunaleExekutive 1]>
-    <OrtMitglieder Mitgliedschaften [Mitglied 27]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 26]>
     <OrtPraesidium Partei [Praesident 1]>
    <Ort Hornussen>
     <OrtGewaehlte Exekutive [Fraktionschef 1, KommunaleExekutive 3]>
    <Ort Kaisten>
     <OrtSympathisanten Sympathisanten [Sympathisant 15]>
     <OrtGewaehlte Exekutive [Fraktionschef 1, KommunaleExekutive 5]>
-    <OrtMitglieder Mitgliedschaften [Mitglied 166]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 151]>
     <OrtPraesidium Partei [Adressverwalter 1, Praesident 2]>
    <Ort Laufenburg>
-    <OrtSympathisanten Sympathisanten [Sympathisant 37]>
+    <OrtSympathisanten Sympathisanten [Sympathisant 35]>
     <OrtGewaehlte Exekutive [Fraktionschef 2, KommunaleExekutive 8]>
-    <OrtMitglieder Mitgliedschaften [Mitglied 132]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 127]>
     <OrtPraesidium Partei [Praesident 2]>
    <Ort Mettauertal>
     <OrtGewaehlte Exekutive [KommunaleExekutive 1]>
@@ -355,10 +353,10 @@
    <Ort Wittnau>
     <OrtSympathisanten Sympathisanten [Sympathisant 6]>
     <OrtGewaehlte Exekutive [Fraktionschef 1, KommunaleExekutive 5]>
-    <OrtMitglieder Mitgliedschaften [Mitglied 30]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 27]>
     <OrtPraesidium Partei [Praesident 1]>
    <Ort Wölflinswil>
-    <OrtSympathisanten Sympathisanten [Sympathisant 50]>
+    <OrtSympathisanten Sympathisanten [Sympathisant 48]>
     <OrtGewaehlte Exekutive [KommunaleExekutive 3]>
     <OrtMitglieder Mitgliedschaften [Mitglied 8]>
     <OrtPraesidium Partei [Praesident 2]>
@@ -367,17 +365,17 @@
     <OrtGewaehlte Exekutive [KommunaleExekutive 1]>
     <OrtMitglieder Mitgliedschaften [Mitglied 9]>
   <Region Bezirk Lenzburg>
-   <RegionSympathisanten Sympathisanten [Sympathisant 7]>
-   <RegionMitglieder Mitgliedschaften [Mitglied 94]>
+   <RegionSympathisanten Sympathisanten [Sympathisant 5]>
+   <RegionMitglieder Mitgliedschaften [Mitglied 77]>
    <RegionPraesidium Partei [Mitglied 4, Praesident 3]>
    <Ort Fahrwangen>
     <OrtGewaehlte Exekutive [Fraktionschef 1, KommunaleExekutive 2]>
    <Ort Lenzburg>
-    <OrtSympathisanten Sympathisanten [Sympathisant 18]>
+    <OrtSympathisanten Sympathisanten [Sympathisant 17]>
     <OrtGewaehlte Exekutive [Fraktionschef 1, KommunaleExekutive 2]>
     <OrtGewaehlte Legislative [KommunaleExekutive 9]>
     <OrtGewaehlte Mandat [MitgliedWeitereGemeindeKommissionen 1]>
-    <OrtMitglieder Mitgliedschaften [Mitglied 86]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 78]>
     <OrtPraesidium Partei [Adressverwalter 1, Praesident 4]>
    <Ort Möriken-Wildegg>
     <OrtSympathisanten Sympathisanten [Sympathisant 1]>
@@ -390,11 +388,11 @@
     <OrtSympathisanten Sympathisanten [Sympathisant 10]>
     <OrtGewaehlte Exekutive [KommunaleExekutive 1]>
     <OrtGewaehlte Mandat [MitgliedWeitereGemeindeKommissionen 1, Schulpflegekommission 1]>
-    <OrtMitglieder Mitgliedschaften [Mitglied 34]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 31]>
     <OrtPraesidium Partei [Praesident 2]>
   <Region Bezirk Muri>
-   <RegionSympathisanten Sympathisanten [Sympathisant 59]>
-   <RegionMitglieder Mitgliedschaften [Mitglied 432]>
+   <RegionSympathisanten Sympathisanten [Sympathisant 54]>
+   <RegionMitglieder Mitgliedschaften [Mitglied 369]>
    <RegionPraesidium Partei [Mitglied 19, Praesident 3]>
    <Ort Abtwil>
     <OrtGewaehlte Exekutive [KommunaleExekutive 4]>
@@ -404,17 +402,17 @@
     <OrtSympathisanten Sympathisanten [Sympathisant 3]>
     <OrtGewaehlte Exekutive [Fraktionschef 4, KommunaleExekutive 9]>
     <OrtGewaehlte Mandat [MitgliedWeitereGemeindeKommissionen 4]>
-    <OrtMitglieder Mitgliedschaften [Mitglied 148]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 132]>
     <OrtPraesidium Partei [Praesident 2]>
    <Ort Beinwil>
     <OrtGewaehlte Exekutive [Fraktionschef 3, KommunaleExekutive 6]>
    <Ort Bettwil>
     <OrtGewaehlte Exekutive [KommunaleExekutive 2]>
    <Ort Boswil>
-    <OrtSympathisanten Sympathisanten [Sympathisant 112]>
+    <OrtSympathisanten Sympathisanten [Sympathisant 110]>
     <OrtGewaehlte Exekutive [Fraktionschef 3, KommunaleExekutive 9]>
     <OrtGewaehlte Mandat [MitgliedWeitereGemeindeKommissionen 5, Schulpflegekommission 2]>
-    <OrtMitglieder Mitgliedschaften [Mitglied 57]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 41]>
     <OrtPraesidium Partei [Adressverwalter 1, Praesident 1]>
    <Ort Buttwil>
     <OrtGewaehlte Exekutive [KommunaleExekutive 2]>
@@ -423,21 +421,21 @@
    <Ort Geltwil>
     <OrtGewaehlte Exekutive [KommunaleExekutive 2]>
    <Ort Merenschwand>
-    <OrtSympathisanten Sympathisanten [Sympathisant 7]>
+    <OrtSympathisanten Sympathisanten [Sympathisant 6]>
     <OrtGewaehlte Exekutive [Fraktionschef 2, KommunaleExekutive 7]>
     <OrtGewaehlte Mandat [MitgliedWeitereGemeindeKommissionen 4, Schulpflegekommission 2]>
-    <OrtMitglieder Mitgliedschaften [Mitglied 130]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 117]>
     <OrtPraesidium Partei [Adressverwalter 1, Praesident 3]>
    <Ort Muri>
-    <OrtSympathisanten Sympathisanten [Sympathisant 24]>
+    <OrtSympathisanten Sympathisanten [Sympathisant 22]>
     <OrtGewaehlte Exekutive [Fraktionschef 1, KommunaleExekutive 9]>
     <OrtGewaehlte Mandat [MitgliedWeitereGemeindeKommissionen 3, Schulpflegekommission 1]>
-    <OrtMitglieder Mitgliedschaften [Mitglied 176]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 154]>
     <OrtPraesidium Partei [Praesident 2]>
    <Ort Mühlau>
-    <OrtSympathisanten Sympathisanten [Sympathisant 2]>
+    <OrtSympathisanten Sympathisanten [Sympathisant 1]>
     <OrtGewaehlte Exekutive [Fraktionschef 1, KommunaleExekutive 6]>
-    <OrtMitglieder Mitgliedschaften [Mitglied 40]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 26]>
     <OrtPraesidium Partei [Praesident 2]>
    <Ort Oberrüti>
     <OrtGewaehlte Exekutive [KommunaleExekutive 4]>
@@ -445,16 +443,16 @@
     <OrtSympathisanten Sympathisanten [Sympathisant 1]>
     <OrtGewaehlte Exekutive [Fraktionschef 1, KommunaleExekutive 7]>
     <OrtGewaehlte Mandat [MitgliedWeitereGemeindeKommissionen 2, Schulpflegekommission 3]>
-    <OrtMitglieder Mitgliedschaften [Mitglied 247]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 229]>
     <OrtPraesidium Partei [Adressverwalter 1, Praesident 3]>
    <Ort Waltenschwil>
     <OrtSympathisanten Sympathisanten [Sympathisant 8]>
     <OrtGewaehlte Exekutive [Fraktionschef 2, KommunaleExekutive 4]>
-    <OrtMitglieder Mitgliedschaften [Mitglied 58]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 55]>
     <OrtPraesidium Partei [Praesident 1]>
   <Region Bezirk Rheinfelden>
-   <RegionSympathisanten Sympathisanten [Sympathisant 6]>
-   <RegionMitglieder Mitgliedschaften [Mitglied 76]>
+   <RegionSympathisanten Sympathisanten [Sympathisant 3]>
+   <RegionMitglieder Mitgliedschaften [Mitglied 59]>
    <RegionPraesidium Partei [Mitglied 1, Praesident 2]>
    <Ort Hellikon>
     <OrtSympathisanten Sympathisanten [Sympathisant 4]>
@@ -467,74 +465,74 @@
    <Ort Magden>
     <OrtGewaehlte Exekutive [KommunaleExekutive 2]>
     <OrtGewaehlte Mandat [MitgliedWeitereGemeindeKommissionen 2]>
-    <OrtMitglieder Mitgliedschaften [Mitglied 32]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 25]>
     <OrtPraesidium Partei [Praesident 3]>
    <Ort Möhlin>
     <OrtGewaehlte Mandat [MitgliedWeitereGemeindeKommissionen 2]>
-    <OrtMitglieder Mitgliedschaften [Mitglied 25]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 21]>
     <OrtPraesidium Partei [Adressverwalter 1, Praesident 1]>
    <Ort Obermumpf>
     <OrtGewaehlte Exekutive [Fraktionschef 1, KommunaleExekutive 5]>
    <Ort Rheinfelden>
     <OrtGewaehlte Exekutive [KommunaleExekutive 1]>
     <OrtGewaehlte Mandat [MitgliedWeitereGemeindeKommissionen 2, Schulpflegekommission 2]>
-    <OrtMitglieder Mitgliedschaften [Mitglied 99]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 86]>
     <OrtPraesidium Partei [Adressverwalter 2, Praesident 3]>
    <Ort Stein>
     <OrtGewaehlte Exekutive [Fraktionschef 1, KommunaleExekutive 3]>
     <OrtGewaehlte Mandat [MitgliedWeitereGemeindeKommissionen 2, Schulpflegekommission 1]>
-    <OrtMitglieder Mitgliedschaften [Mitglied 41]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 37]>
     <OrtPraesidium Partei [Praesident 1]>
    <Ort Wallbach>
     <OrtSympathisanten Sympathisanten [Sympathisant 2]>
     <OrtGewaehlte Exekutive [Fraktionschef 1, KommunaleExekutive 5]>
     <OrtGewaehlte Mandat [Schulpflegekommission 1]>
-    <OrtMitglieder Mitgliedschaften [Mitglied 21]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 19]>
     <OrtPraesidium Partei [Mitglied 1]>
    <Ort Wegenstetten>
     <OrtGewaehlte Exekutive [Fraktionschef 1, KommunaleExekutive 2]>
    <Ort Zeiningen>
     <OrtGewaehlte Exekutive [Fraktionschef 1, KommunaleExekutive 4]>
     <OrtGewaehlte Mandat [MitgliedWeitereGemeindeKommissionen 2]>
-    <OrtMitglieder Mitgliedschaften [Mitglied 41]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 35]>
     <OrtPraesidium Partei [Praesident 3]>
    <Ort Zuzgen>
     <OrtGewaehlte Exekutive [KommunaleExekutive 1]>
   <Region Bezirk Zofingen>
-   <RegionSympathisanten Sympathisanten [Sympathisant 18]>
-   <RegionMitglieder Mitgliedschaften [Mitglied 44]>
+   <RegionSympathisanten Sympathisanten [Sympathisant 14]>
+   <RegionMitglieder Mitgliedschaften [Mitglied 16]>
    <RegionPraesidium Partei [Mitglied 5, Praesident 5]>
    <Ort Aarburg>
     <OrtGewaehlte Exekutive [Fraktionschef 1, KommunaleExekutive 1]>
-    <OrtMitglieder Mitgliedschaften [Mitglied 22]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 19]>
     <OrtPraesidium Partei [Praesident 1]>
    <Ort Oftringen-Rothrist>
     <OrtSympathisanten Sympathisanten [Sympathisant 2]>
     <OrtGewaehlte Mandat [Schulpflegekommission 1]>
-    <OrtMitglieder Mitgliedschaften [Mitglied 32]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 27]>
     <OrtPraesidium Partei [Praesident 2]>
    <Ort Zofingen-Strengelbach>
     <OrtSympathisanten Sympathisanten [Sympathisant 7]>
     <OrtGewaehlte Exekutive [Fraktionschef 1, KommunaleExekutive 3]>
     <OrtGewaehlte Legislative [KommunaleExekutive 7]>
     <OrtGewaehlte Mandat [MitgliedWeitereGemeindeKommissionen 1, Schulpflegekommission 1]>
-    <OrtMitglieder Mitgliedschaften [Mitglied 67]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 59]>
     <OrtPraesidium Partei [Adressverwalter 2, Praesident 2]>
   <Region Bezirk Zurzach>
-   <RegionSympathisanten Sympathisanten [Sympathisant 18]>
-   <RegionMitglieder Mitgliedschaften [Mitglied 364]>
+   <RegionSympathisanten Sympathisanten [Sympathisant 12]>
+   <RegionMitglieder Mitgliedschaften [Mitglied 315]>
    <RegionPraesidium Partei [Mitglied 14, Praesident 3]>
    <Ort Bad Zurzach>
-    <OrtSympathisanten Sympathisanten [Sympathisant 14]>
+    <OrtSympathisanten Sympathisanten [Sympathisant 4]>
     <OrtGewaehlte Exekutive [Fraktionschef 2, KommunaleExekutive 7]>
     <OrtGewaehlte Mandat [MitgliedWeitereGemeindeKommissionen 1]>
-    <OrtMitglieder Mitgliedschaften [Mitglied 166]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 152]>
     <OrtPraesidium Partei [Adressverwalter 2, Praesident 2]>
    <Ort Böttstein/Kleindöttingen>
     <OrtSympathisanten Sympathisanten [Sympathisant 10]>
     <OrtGewaehlte Exekutive [KommunaleExekutive 2]>
     <OrtGewaehlte Mandat [MitgliedWeitereGemeindeKommissionen 1]>
-    <OrtMitglieder Mitgliedschaften [Mitglied 62]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 57]>
     <OrtPraesidium Partei [Adressverwalter 1, Praesident 2]>
    <Ort Döttingen>
     <OrtGewaehlte Exekutive [Fraktionschef 1, KommunaleExekutive 1]>
@@ -542,29 +540,29 @@
     <OrtSympathisanten Sympathisanten [Sympathisant 1]>
     <OrtGewaehlte Exekutive [Fraktionschef 2, KommunaleExekutive 6]>
     <OrtGewaehlte Mandat [MitgliedWeitereGemeindeKommissionen 1]>
-    <OrtMitglieder Mitgliedschaften [Mitglied 44]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 40]>
     <OrtPraesidium Partei [Praesident 1]>
    <Ort Fisibach>
     <OrtGewaehlte Exekutive [KommunaleExekutive 2]>
    <Ort Full-Reuenthal>
     <OrtGewaehlte Exekutive [Fraktionschef 1, KommunaleExekutive 2]>
    <Ort Klingnau>
-    <OrtSympathisanten Sympathisanten [Sympathisant 17]>
+    <OrtSympathisanten Sympathisanten [Sympathisant 16]>
     <OrtGewaehlte Exekutive [Fraktionschef 1, KommunaleExekutive 2]>
     <OrtGewaehlte Mandat [MitgliedWeitereGemeindeKommissionen 1, Schulpflegekommission 3]>
-    <OrtMitglieder Mitgliedschaften [Mitglied 93]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 83]>
     <OrtPraesidium Partei [Praesident 1]>
    <Ort Leibstadt>
     <OrtGewaehlte Exekutive [KommunaleExekutive 3]>
    <Ort Lengnau>
     <OrtGewaehlte Exekutive [Fraktionschef 1, KommunaleExekutive 2]>
     <OrtGewaehlte Mandat [MitgliedWeitereGemeindeKommissionen 2, Schulpflegekommission 2]>
-    <OrtMitglieder Mitgliedschaften [Mitglied 43]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 34]>
     <OrtPraesidium Partei [Praesident 4]>
    <Ort Leuggern>
     <OrtSympathisanten Sympathisanten [Sympathisant 1]>
     <OrtGewaehlte Exekutive [KommunaleExekutive 4]>
-    <OrtMitglieder Mitgliedschaften [Mitglied 63]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 53]>
     <OrtPraesidium Partei [Praesident 1]>
    <Ort Rekingen>
     <OrtGewaehlte Exekutive [Fraktionschef 1, KommunaleExekutive 1]>

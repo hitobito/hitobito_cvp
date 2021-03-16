@@ -6,44 +6,44 @@
   <VereinigungExterneKontakte JCVPSchweiz [Kontakt 60]>
   <VereinigungPraesidium Parteileitung [Mitglied 16, Praesident 3]>
   <Kanton JCVP AG>
-   <KantonMitglieder Mitgliedschaften [Mitglied 97]>
+   <KantonMitglieder Mitgliedschaften [Mitglied 50]>
   <Kanton JCVP AI>
    <KantonExterneKontakte ExterneKontakte [Kontakt 1]>
   <Kanton JCVP BE>
    <KantonSympathisanten Sympathisanten [Sympathisant 15]>
-   <KantonMitglieder Mitgliedschaften [Mitglied 52]>
-  <Kanton JCVP BL>
-   <KantonSympathisanten Sympathisanten [Sympathisant 10]>
-   <KantonExterneKontakte ExterneKontakte [Kontakt 6]>
    <KantonMitglieder Mitgliedschaften [Mitglied 38]>
+  <Kanton JCVP BL>
+   <KantonSympathisanten Sympathisanten [Sympathisant 11]>
+   <KantonExterneKontakte ExterneKontakte [Kontakt 6]>
+   <KantonMitglieder Mitgliedschaften [Mitglied 14]>
   <Kanton JCVP BS>
-   <KantonSympathisanten Sympathisanten [Sympathisant 5]>
-   <KantonMitglieder Mitgliedschaften [Mitglied 32]>
+   <KantonSympathisanten Sympathisanten [Sympathisant 4]>
+   <KantonMitglieder Mitgliedschaften [Mitglied 24]>
   <Kanton JCVP FR>
-   <KantonSympathisanten Sympathisanten [Sympathisant 241]>
-   <KantonMitglieder Mitgliedschaften [Mitglied 214]>
+   <KantonSympathisanten Sympathisanten [Sympathisant 155]>
+   <KantonMitglieder Mitgliedschaften [Mitglied 134]>
   <Kanton JCVP GE>
    <KantonSympathisanten Sympathisanten [Sympathisant 3]>
-   <KantonMitglieder Mitgliedschaften [Mitglied 32]>
+   <KantonMitglieder Mitgliedschaften [Mitglied 31]>
   <Kanton JCVP GL>
-   <KantonSympathisanten Sympathisanten [Sympathisant 2]>
-   <KantonMitglieder Mitgliedschaften [Mitglied 16]>
+   <KantonSympathisanten Sympathisanten [Sympathisant 1]>
+   <KantonMitglieder Mitgliedschaften [Mitglied 13]>
   <Kanton JCVP GR>
-   <KantonSympathisanten Sympathisanten [Sympathisant 37]>
+   <KantonSympathisanten Sympathisanten [Sympathisant 34]>
    <KantonParteigremium Parteigremium [Mitglied 2]>
    <KantonPraesidium Praesidium [Mitglied 6]>
    <KantonSekretariat Sekretariat [Webadministrator 1]>
    <KantonExterneKontakte ExterneKontakte [Medien 65]>
    <KantonArbeitsgruppe Verschiedene Funktionen [Mitglied 115, Praesident 1]>
-   <KantonMitglieder Mitgliedschaften [Mitglied 96]>
+   <KantonMitglieder Mitgliedschaften [Mitglied 67]>
    <KantonPraesidium Vorstand [Mitglied 3, Praesident 2]>
   <Kanton JCVP JU>
-   <KantonSympathisanten Sympathisanten [Sympathisant 51]>
+   <KantonSympathisanten Sympathisanten [Sympathisant 50]>
    <KantonPraesidium Praesidium [Mitglied 11]>
    <KantonArbeitsgruppe Funktion [Praesident 5]>
-   <KantonMitglieder Mitgliedschaften [Mitglied 184]>
+   <KantonMitglieder Mitgliedschaften [Mitglied 137]>
   <Kanton JCVP LU>
-   <KantonSympathisanten Sympathisanten [Sympathisant 143]>
+   <KantonSympathisanten Sympathisanten [Sympathisant 134]>
    <KantonArbeitsgruppe Info [Mitglied 1561]>
    <KantonArbeitsgruppe JCVP Wahlkreis Luzern-Land>
     <KantonArbeitsgruppe Kriens>
@@ -51,22 +51,22 @@
      <KantonArbeitsgruppe Spender [Mitglied 166]>
      <KantonArbeitsgruppe bärebiss [Mitglied 1416]>
    <KantonExterneKontakte Newsletter [Kontakt 266]>
-   <KantonMitglieder Mitgliedschaften [Mitglied 139]>
+   <KantonMitglieder Mitgliedschaften [Mitglied 131]>
   <Kanton JCVP NE>
    <KantonMitglieder Mitgliedschaften [Mitglied 2]>
   <Kanton JCVP NW>
-   <KantonMitglieder Mitgliedschaften [Mitglied 19]>
+   <KantonMitglieder Mitgliedschaften [Mitglied 9]>
   <Kanton JCVP OW>
-   <KantonMitglieder Mitgliedschaften [Mitglied 24]>
+   <KantonMitglieder Mitgliedschaften [Mitglied 9]>
   <Kanton JCVP Oberwallis>
    <KantonSympathisanten Sympathisanten [Sympathisant 12]>
-   <KantonMitglieder Mitgliedschaften [Mitglied 66]>
+   <KantonMitglieder Mitgliedschaften [Mitglied 57]>
   <Kanton JCVP SG>
-   <KantonSympathisanten Sympathisanten [Sympathisant 47]>
+   <KantonSympathisanten Sympathisanten [Sympathisant 31]>
    <KantonPraesidium Praesidium [Mitglied 8]>
    <KantonArbeitsgruppe Alte Funktionen [Mitglied 21]>
    <KantonExterneKontakte Newsletter [Kontakt 1]>
-   <KantonMitglieder Mitgliedschaften [Mitglied 204]>
+   <KantonMitglieder Mitgliedschaften [Mitglied 113]>
    <KantonPraesidium Parteileitung [Mitglied 10, Praesident 4]>
    <KantonPraesidium Parteivorstand [Mitglied 4]>
   <Kanton JCVP SH>
@@ -76,22 +76,22 @@
   <Kanton JCVP SO>
    <KantonSympathisanten Sympathisanten [Sympathisant 21]>
    <KantonExterneKontakte Newsletter [Kontakt 46]>
-   <KantonMitglieder Mitgliedschaften [Mitglied 51]>
+   <KantonMitglieder Mitgliedschaften [Mitglied 41]>
   <Kanton JCVP SZ>
-   <KantonSympathisanten Sympathisanten [Sympathisant 7]>
-   <KantonMitglieder Mitgliedschaften [Mitglied 48]>
+   <KantonSympathisanten Sympathisanten [Sympathisant 6]>
+   <KantonMitglieder Mitgliedschaften [Mitglied 35]>
   <Kanton JCVP TG>
-   <KantonSympathisanten Sympathisanten [Sympathisant 401]>
+   <KantonSympathisanten Sympathisanten [Sympathisant 397]>
    <KantonSekretariat Sekretariat [Leitung 1]>
    <KantonExterneKontakte Gönner [Spender 81]>
-   <KantonMitglieder Mitgliedschaften [Mitglied 72]>
+   <KantonMitglieder Mitgliedschaften [Mitglied 55]>
    <KantonPraesidium Vorstand [Mitglied 3, Praesident 1]>
   <Kanton JCVP TI>
    <KantonSympathisanten Sympathisanten [Sympathisant 425]>
    <KantonPraesidium Praesidium [Praesident 2]>
    <KantonMitglieder Mitglieder [Mitglied 260]>
   <Kanton JCVP UR>
-   <KantonMitglieder Mitgliedschaften [Mitglied 67]>
+   <KantonMitglieder Mitgliedschaften [Mitglied 29]>
   <Kanton JCVP VD>
    <KantonArbeitsgruppe Parti [Praesident 1]>
   <Kanton JCVP VS-Romand>
@@ -100,7 +100,7 @@
   <Kanton JCVP Valais romand>
    <KantonMitglieder Mitgliedschaften [Mitglied 3]>
   <Kanton JCVP ZG>
-   <KantonMitglieder Mitgliedschaften [Mitglied 59]>
+   <KantonMitglieder Mitgliedschaften [Mitglied 53]>
   <Kanton JCVP ZH>
-   <KantonSympathisanten Sympathisanten [Sympathisant 41]>
-   <KantonMitglieder Mitgliedschaften [Mitglied 93]>
+   <KantonSympathisanten Sympathisanten [Sympathisant 9]>
+   <KantonMitglieder Mitgliedschaften [Mitglied 50]>

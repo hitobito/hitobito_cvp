@@ -38,17 +38,17 @@
   <KantonPraesidium id=35668, label=Vorstand CVP Schweiz, parent_id=170>
   <Region id=560, label=Bezirk Einsiedeln, parent_id=170>
    <RegionSympathisanten id=40446, label=Sympathisanten, parent_id=560>
-   <RegionGewaehlte id=35603, label=Exekutive, parent_id=560>
-   <RegionGewaehlte id=35602, label=Judikative, parent_id=560>
+   <RegionArbeitsgruppe id=35603, label=Exekutive, parent_id=560>
+   <RegionArbeitsgruppe id=35602, label=Judikative, parent_id=560>
    <RegionMitglieder id=1747, label=Mitgliedschaften, parent_id=560>
    <RegionPraesidium id=35601, label=Partei, parent_id=560>
   <Region id=561, label=Bezirk Gersau, parent_id=170>
-   <RegionGewaehlte id=35598, label=Exekutive, parent_id=561>
+   <RegionArbeitsgruppe id=35598, label=Exekutive, parent_id=561>
    <RegionMitglieder id=35600, label=Mitgliedschaften, parent_id=561>
    <RegionPraesidium id=35597, label=Partei, parent_id=561>
   <Region id=563, label=Bezirk Höfe, parent_id=170>
-   <RegionGewaehlte id=35625, label=Exekutive, parent_id=563>
-   <RegionGewaehlte id=35626, label=Judikative, parent_id=563>
+   <RegionArbeitsgruppe id=35625, label=Exekutive, parent_id=563>
+   <RegionArbeitsgruppe id=35626, label=Judikative, parent_id=563>
    <RegionPraesidium id=35624, label=Partei, parent_id=563>
    <Ort id=1751, label=Feusisberg, parent_id=563>
     <OrtSympathisanten id=40467, label=Sympathisanten, parent_id=1751>
@@ -71,13 +71,13 @@
     <OrtPraesidium id=3600, label=Partei, parent_id=1753>
   <Region id=562, label=Bezirk Küssnacht, parent_id=170>
    <RegionSympathisanten id=40494, label=Sympathisanten, parent_id=562>
-   <RegionGewaehlte id=35648, label=Exekutive, parent_id=562>
-   <RegionGewaehlte id=35649, label=Judikative, parent_id=562>
+   <RegionArbeitsgruppe id=35648, label=Exekutive, parent_id=562>
+   <RegionArbeitsgruppe id=35649, label=Judikative, parent_id=562>
    <RegionMitglieder id=35651, label=Mitgliedschaften, parent_id=562>
    <RegionPraesidium id=35647, label=Partei, parent_id=562>
   <Region id=564, label=Bezirk March, parent_id=170>
-   <RegionGewaehlte id=35632, label=Exekutive, parent_id=564>
-   <RegionGewaehlte id=35633, label=Judikative, parent_id=564>
+   <RegionArbeitsgruppe id=35632, label=Exekutive, parent_id=564>
+   <RegionArbeitsgruppe id=35633, label=Judikative, parent_id=564>
    <RegionPraesidium id=35631, label=Partei, parent_id=564>
    <Ort id=1754, label=Altendorf, parent_id=564>
     <OrtSympathisanten id=40508, label=Sympathisanten, parent_id=1754>
@@ -116,8 +116,8 @@
     <OrtMitglieder id=3613, label=Mitgliedschaften, parent_id=1762>
     <OrtPraesidium id=3614, label=Partei, parent_id=1762>
   <Region id=565, label=Bezirk Schwyz, parent_id=170>
-   <RegionGewaehlte id=35604, label=Exekutive, parent_id=565>
-   <RegionGewaehlte id=35605, label=Judikative, parent_id=565>
+   <RegionArbeitsgruppe id=35604, label=Exekutive, parent_id=565>
+   <RegionArbeitsgruppe id=35605, label=Judikative, parent_id=565>
    <RegionPraesidium id=1771, label=Partei, parent_id=565>
    <Ort id=1764, label=Arth-Oberarth-Goldau, parent_id=565>
     <OrtSympathisanten id=40587, label=Sympathisanten, parent_id=1764>

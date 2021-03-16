@@ -214,11 +214,9 @@
     <OrtMitglieder id=3051, label=Mitgliedschaften, parent_id=1404>
     <OrtPraesidium id=3052, label=Partei, parent_id=1404>
    <Ort id=1405, label=Altwis, parent_id=33704>
-    <OrtSympathisanten id=40559, label=Sympathisanten, parent_id=1405>
     <OrtArbeitsgruppe id=40560, label=Arbeitsgruppe, parent_id=1405>
     <OrtGewaehlte id=40562, label=Gewaehlte, parent_id=1405>
     <OrtGewaehlte id=3053, label=Exekutive, parent_id=1405>
-    <OrtMitglieder id=3054, label=Mitgliedschaften, parent_id=1405>
     <OrtPraesidium id=3055, label=Partei, parent_id=1405>
    <Ort id=1406, label=Ballwil, parent_id=33704>
     <OrtSympathisanten id=40568, label=Sympathisanten, parent_id=1406>
@@ -269,7 +267,6 @@
     <OrtSekretariat id=40617, label=Sekretariat, parent_id=1411>
     <OrtParteigremium id=40620, label=Parteigremium, parent_id=1411>
     <OrtGewaehlte id=3074, label=Exekutive, parent_id=1411>
-    <OrtMitglieder id=3075, label=Mitgliedschaften, parent_id=1411>
     <OrtPraesidium id=3076, label=Partei, parent_id=1411>
    <Ort id=1412, label=Hohenrain, parent_id=33704>
     <OrtSympathisanten id=40622, label=Sympathisanten, parent_id=1412>
@@ -394,7 +391,6 @@
     <OrtGewaehlte id=40776, label=Gewaehlte, parent_id=1432>
     <OrtSekretariat id=40777, label=Sekretariat, parent_id=1432>
     <OrtGewaehlte id=3130, label=Exekutive, parent_id=1432>
-    <OrtMitglieder id=3131, label=Mitgliedschaften, parent_id=1432>
     <OrtPraesidium id=3132, label=Partei, parent_id=1432>
    <Ort id=1433, label=Meggen, parent_id=34110>
     <OrtSympathisanten id=40782, label=Sympathisanten, parent_id=1433>
@@ -523,7 +519,6 @@
     <OrtArbeitsgruppe id=40950, label=Arbeitsgruppe, parent_id=1452>
     <OrtGewaehlte id=40952, label=Gewaehlte, parent_id=1452>
     <OrtGewaehlte id=3180, label=Exekutive, parent_id=1452>
-    <OrtMitglieder id=3182, label=Mitgliedschaften, parent_id=1452>
     <OrtPraesidium id=3183, label=Partei, parent_id=1452>
    <Ort id=1453, label=Mauensee, parent_id=34510>
     <OrtSympathisanten id=40958, label=Sympathisanten, parent_id=1453>
@@ -658,13 +653,11 @@
     <OrtGewaehlte id=41130, label=Gewaehlte, parent_id=1475>
     <OrtExterneKontakte id=41133, label=ExterneKontakte, parent_id=1475>
     <OrtGewaehlte id=3247, label=Exekutive, parent_id=1475>
-    <OrtMitglieder id=3248, label=Mitgliedschaften, parent_id=1475>
     <OrtPraesidium id=3249, label=Partei, parent_id=1475>
    <Ort id=1476, label=Fischbach, parent_id=34710>
     <OrtSympathisanten id=41136, label=Sympathisanten, parent_id=1476>
     <OrtGewaehlte id=41139, label=Gewaehlte, parent_id=1476>
     <OrtGewaehlte id=3250, label=Exekutive, parent_id=1476>
-    <OrtMitglieder id=3251, label=Mitgliedschaften, parent_id=1476>
     <OrtPraesidium id=3252, label=Partei, parent_id=1476>
    <Ort id=1477, label=Gettnau, parent_id=34710>
     <OrtSympathisanten id=41145, label=Sympathisanten, parent_id=1477>

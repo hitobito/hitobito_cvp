@@ -45,8 +45,6 @@
     <OrtSympathisanten id=40507, label=Sympathisanten, parent_id=1316>
     <OrtMitglieder id=2891, label=Mitgliedschaften, parent_id=1316>
     <OrtPraesidium id=2892, label=Partei, parent_id=1316>
-   <Ort id=1318, label=Buix, parent_id=485>
-    <OrtMitglieder id=2895, label=Mitgliedschaften, parent_id=1318>
    <Ort id=1319, label=Bure, parent_id=485>
     <OrtSekretariat id=40529, label=Sekretariat, parent_id=1319>
     <OrtGewaehlte id=36391, label=Exekutive, parent_id=1319>
@@ -155,7 +153,6 @@
     <OrtMitglieder id=2964, label=Mitgliedschaften, parent_id=1357>
     <OrtPraesidium id=2965, label=Partei, parent_id=1357>
    <Ort id=1358, label=Delémont, parent_id=486>
-    <OrtSympathisanten id=40784, label=Sympathisanten, parent_id=1358>
     <OrtSekretariat id=40788, label=Sekretariat, parent_id=1358>
     <OrtGewaehlte id=36420, label=Exekutive, parent_id=1358>
     <OrtMitglieder id=2966, label=Mitgliedschaften, parent_id=1358>
@@ -252,7 +249,6 @@
     <OrtMitglieder id=3021, label=Mitgliedschaften, parent_id=1392>
     <OrtPraesidium id=3022, label=Partei, parent_id=1392>
   <Region id=39884, label=Moutier, parent_id=162>
-   <RegionSympathisanten id=41061, label=Sympathisanten, parent_id=39884>
    <RegionSekretariat id=41065, label=Sekretariat, parent_id=39884>
    <RegionMitglieder id=39886, label=Mitgliedschaften, parent_id=39884>
    <RegionPraesidium id=39885, label=Partei, parent_id=39884>

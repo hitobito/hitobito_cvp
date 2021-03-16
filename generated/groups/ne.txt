@@ -13,7 +13,6 @@
   <KantonMitglieder id=503, label=Mitgliedschaften, parent_id=164>
   <KantonPraesidium id=504, label=Partei, parent_id=164>
   <Ort id=37503, label=Littoral / Entre-deux-Lacs, parent_id=164>
-   <OrtSympathisanten id=40446, label=Sympathisanten, parent_id=37503>
    <OrtGewaehlte id=39502, label=Législatif / conseil général, parent_id=37503>
    <OrtMitglieder id=37507, label=Mitgliedschaften, parent_id=37503>
    <OrtPraesidium id=37504, label=Partei, parent_id=37503>
