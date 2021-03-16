@@ -317,7 +317,7 @@ groups:
       - !ruby/regexp /Seniorenrat/i # 60+ > LU > Sursee
 
       - !ruby/regexp /Bürger/i  # Unklar
-      - !ruby/regexp /Exekutive|Legislative|Judikative/i # Gewählte nicht definiert
+      - !ruby/regexp /Exekutive|Legislative|Judikative|Kreisgericht/i # Gewählte nicht definiert
       default: Ort
     RegionPraesidium:
       RegionPraesidium:
@@ -537,6 +537,17 @@ roles_new:
     RegionSympathisanten:
       Sympathisant:
       - !ruby/regexp /symp/i
+    RegionArbeitsgruppe:
+      Mitglied:
+      - !ruby/regexp /Präsident/i
+      - !ruby/regexp /Amtsrichter/i
+      - !ruby/regexp /Amtsgerichtspräsident/i
+      - !ruby/regexp /Mitglied/i
+      - !ruby/regexp /Präfekt/i
+      - !ruby/regexp /Vizepräfekt/i
+      - !ruby/regexp /Vizepräsident/i
+      - !ruby/regexp /Richter/i
+      - !ruby/regexp /Staatsanwalt/i
     OrtPraesidium:
       Praesident:
       - !ruby/regexp /Präsident/i
