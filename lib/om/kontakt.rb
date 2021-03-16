@@ -103,7 +103,8 @@ class Kontakt < SourceModel
         kunden_id: kunden_id,
         kundennummer: kundennummer,
         kontaktnummer: kontaktnummer,
-        correspondence_language: correspondence_language
+        correspondence_language: correspondence_language,
+        salutation: :sehr_geehrter_titel_nachname
       )
   end
 
