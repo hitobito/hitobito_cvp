@@ -101,7 +101,6 @@
     <OrtMitglieder id=3645, label=Mitgliedschaften, parent_id=1781>
     <OrtPraesidium id=3646, label=Partei, parent_id=1781>
    <Ort id=1783, label=Romanshorn, parent_id=569>
-    <OrtSympathisanten id=40498, label=Sympathisanten, parent_id=1783>
     <OrtGewaehlte id=3647, label=Exekutive, parent_id=1783>
     <OrtMitglieder id=3648, label=Mitgliedschaften, parent_id=1783>
     <OrtPraesidium id=3649, label=Partei, parent_id=1783>
@@ -168,8 +167,6 @@
     <OrtGewaehlte id=38417, label=Exekutive, parent_id=38415>
     <OrtMitglieder id=38418, label=Mitgliedschaften, parent_id=38415>
     <OrtPraesidium id=38416, label=Partei, parent_id=38415>
-   <Ort id=1798, label=Ermatingen, parent_id=573>
-    <OrtMitglieder id=3676, label=Mitgliedschaften, parent_id=1798>
    <Ort id=1800, label=Kreuzlingen, parent_id=573>
     <OrtSympathisanten id=40629, label=Sympathisanten, parent_id=1800>
     <OrtGewaehlte id=3679, label=Exekutive, parent_id=1800>
@@ -206,7 +203,6 @@
     <OrtMitglieder id=3695, label=Mitgliedschaften, parent_id=1806>
     <OrtPraesidium id=3696, label=Partei, parent_id=1806>
    <Ort id=1808, label=Münchwilen, parent_id=574>
-    <OrtSympathisanten id=40699, label=Sympathisanten, parent_id=1808>
     <OrtGewaehlte id=3698, label=Exekutive, parent_id=1808>
     <OrtGewaehlte id=4667, label=Schulpflege, parent_id=1808>
     <OrtMitglieder id=3699, label=Mitgliedschaften, parent_id=1808>

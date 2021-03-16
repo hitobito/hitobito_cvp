@@ -95,7 +95,6 @@
    <OrtMitglieder id=1522, label=Mitgliedschaften, parent_id=516>
    <OrtPraesidium id=1523, label=Partei, parent_id=516>
   <Ort id=519, label=Stans, parent_id=165>
-   <OrtSympathisanten id=40518, label=Sympathisanten, parent_id=519>
    <OrtGewaehlte id=1528, label=Exekutive, parent_id=519>
    <OrtGewaehlte id=3325, label=Finanzkommission, parent_id=519>
    <OrtMitglieder id=1529, label=Mitgliedschaften, parent_id=519>

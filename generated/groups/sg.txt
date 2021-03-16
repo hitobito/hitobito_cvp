@@ -180,7 +180,7 @@
   <Region id=537, label=Regionalpartei Rheintal, parent_id=167>
    <RegionDelegierte id=40449, label=Delegierte, parent_id=537>
    <RegionParteigremium id=40451, label=Parteigremium, parent_id=537>
-   <RegionGewaehlte id=35102, label=Kreisgericht, parent_id=537>
+   <RegionArbeitsgruppe id=35102, label=Kreisgericht, parent_id=537>
    <RegionPraesidium id=1572, label=Partei, parent_id=537>
    <Ort id=1561, label=Altstätten (mit Lüchingen, Lienz und Eichberg), parent_id=537>
     <OrtSympathisanten id=40453, label=Sympathisanten, parent_id=1561>
@@ -233,7 +233,6 @@
     <OrtMitglieder id=3368, label=Mitgliedschaften, parent_id=1575>
     <OrtPraesidium id=3369, label=Partei, parent_id=1575>
    <Ort id=1576, label=St. Margrethen, parent_id=537>
-    <OrtSympathisanten id=40543, label=Sympathisanten, parent_id=1576>
     <OrtGewaehlte id=37234, label=Exekutive, parent_id=1576>
     <OrtMitglieder id=3370, label=Mitgliedschaften, parent_id=1576>
     <OrtPraesidium id=3371, label=Partei, parent_id=1576>
@@ -245,7 +244,7 @@
   <Region id=538, label=Regionalpartei Rorschach, parent_id=167>
    <RegionDelegierte id=40564, label=Delegierte, parent_id=538>
    <RegionParteigremium id=40566, label=Parteigremium, parent_id=538>
-   <RegionGewaehlte id=35865, label=Kreisgericht, parent_id=538>
+   <RegionArbeitsgruppe id=35865, label=Kreisgericht, parent_id=538>
    <RegionPraesidium id=1581, label=Partei, parent_id=538>
    <Ort id=1579, label=Goldach-Untereggen, parent_id=538>
     <OrtSympathisanten id=40568, label=Sympathisanten, parent_id=1579>
@@ -253,7 +252,6 @@
     <OrtMitglieder id=3376, label=Mitgliedschaften, parent_id=1579>
     <OrtPraesidium id=3377, label=Partei, parent_id=1579>
    <Ort id=1580, label=Mörschwil, parent_id=538>
-    <OrtSympathisanten id=40577, label=Sympathisanten, parent_id=1580>
     <OrtGewaehlte id=37214, label=Exekutive, parent_id=1580>
     <OrtMitglieder id=3378, label=Mitgliedschaften, parent_id=1580>
     <OrtPraesidium id=3379, label=Partei, parent_id=1580>
@@ -282,7 +280,7 @@
   <Region id=539, label=Regionalpartei Sarganserland, parent_id=167>
    <RegionDelegierte id=40634, label=Delegierte, parent_id=539>
    <RegionParteigremium id=40636, label=Parteigremium, parent_id=539>
-   <RegionGewaehlte id=35866, label=Kreisgericht, parent_id=539>
+   <RegionArbeitsgruppe id=35866, label=Kreisgericht, parent_id=539>
    <RegionPraesidium id=1590, label=Partei, parent_id=539>
    <Ort id=1587, label=Bad Ragaz-Taminatal, parent_id=539>
     <OrtSympathisanten id=40638, label=Sympathisanten, parent_id=1587>
@@ -319,7 +317,7 @@
     <OrtMitglieder id=3403, label=Mitgliedschaften, parent_id=1595>
     <OrtPraesidium id=3404, label=Partei, parent_id=1595>
   <Region id=540, label=Regionalpartei See-Gaster, parent_id=167>
-   <RegionGewaehlte id=35867, label=Kreisgericht, parent_id=540>
+   <RegionArbeitsgruppe id=35867, label=Kreisgericht, parent_id=540>
    <RegionPraesidium id=1603, label=Partei, parent_id=540>
    <Ort id=1596, label=Amden, parent_id=540>
     <OrtSympathisanten id=40708, label=Sympathisanten, parent_id=1596>
@@ -369,6 +367,7 @@
     <OrtGewaehlte id=37255, label=Exekutive, parent_id=1610>
     <OrtMitglieder id=3432, label=Mitgliedschaften, parent_id=1610>
   <Region id=541, label=Regionalpartei St. Gallen-Gossau, parent_id=167>
+   <RegionArbeitsgruppe id=35868, label=Kreisgericht, parent_id=541>
    <RegionDelegierte id=38186, label=Delegiertenversammlung, parent_id=541>
     <RegionDelegierte id=38187, label=Andwil, parent_id=38186>
      <RegionDelegierte id=38248, label=Delegierte aufgrund Mitgliederzahl, parent_id=38187>
@@ -407,7 +406,6 @@
     <RegionDelegierte id=38195, label=Wittenbach, parent_id=38186>
      <RegionDelegierte id=38255, label=Delegierte aufgrund Mitgliederzahl, parent_id=38195>
      <RegionDelegierte id=38263, label=Ortsparteipräsident, parent_id=38195>
-   <RegionGewaehlte id=35868, label=Kreisgericht, parent_id=541>
    <RegionPraesidium id=1617, label=Partei, parent_id=541>
    <RegionPraesidium id=38185, label=Vorstand, parent_id=541>
    <Ort id=1611, label=Andwil, parent_id=541>
@@ -459,14 +457,13 @@
     <OrtPraesidium id=3456, label=Partei, parent_id=1623>
   <Region id=542, label=Regionalpartei Toggenburg, parent_id=167>
    <RegionParteigremium id=40882, label=Parteigremium, parent_id=542>
-   <RegionGewaehlte id=35869, label=Kreisgericht, parent_id=542>
+   <RegionArbeitsgruppe id=35869, label=Kreisgericht, parent_id=542>
    <RegionPraesidium id=1634, label=Partei, parent_id=542>
    <Ort id=1624, label=Bütschwil-Ganterschwil, parent_id=542>
     <OrtGewaehlte id=37257, label=Exekutive, parent_id=1624>
     <OrtMitglieder id=3457, label=Mitgliedschaften, parent_id=1624>
     <OrtPraesidium id=3458, label=Partei, parent_id=1624>
    <Ort id=1625, label=Ebnat Kappel, parent_id=542>
-    <OrtSympathisanten id=40893, label=Sympathisanten, parent_id=1625>
     <OrtGewaehlte id=37258, label=Exekutive, parent_id=1625>
     <OrtMitglieder id=3459, label=Mitgliedschaften, parent_id=1625>
     <OrtPraesidium id=3460, label=Partei, parent_id=1625>
@@ -506,7 +503,7 @@
     <OrtMitglieder id=3482, label=Mitgliedschaften, parent_id=1637>
     <OrtPraesidium id=3483, label=Partei, parent_id=1637>
   <Region id=543, label=Regionalpartei Werdenberg, parent_id=167>
-   <RegionGewaehlte id=35870, label=Kreisgericht, parent_id=543>
+   <RegionArbeitsgruppe id=35870, label=Kreisgericht, parent_id=543>
    <RegionPraesidium id=1641, label=Partei, parent_id=543>
    <Ort id=1638, label=Buchs, parent_id=543>
     <OrtSympathisanten id=40990, label=Sympathisanten, parent_id=1638>
@@ -526,7 +523,7 @@
     <OrtMitglieder id=3491, label=Mitgliedschaften, parent_id=1642>
     <OrtPraesidium id=3492, label=Partei, parent_id=1642>
   <Region id=544, label=Regionalpartei Wil-Untertoggenburg, parent_id=167>
-   <RegionGewaehlte id=35871, label=Kreisgericht, parent_id=544>
+   <RegionArbeitsgruppe id=35871, label=Kreisgericht, parent_id=544>
    <RegionPraesidium id=1653, label=Partei, parent_id=544>
    <Ort id=1645, label=Degersheim [mit Wolfertswil, Magdenau, Dicken], parent_id=544>
     <OrtSympathisanten id=41033, label=Sympathisanten, parent_id=1645>
@@ -571,7 +568,6 @@
     <OrtMitglieder id=3514, label=Mitgliedschaften, parent_id=1655>
     <OrtPraesidium id=3515, label=Partei, parent_id=1655>
    <Ort id=1656, label=Zuzwil [mit Züberwangen], parent_id=544>
-    <OrtSympathisanten id=41114, label=Sympathisanten, parent_id=1656>
     <OrtGewaehlte id=37276, label=Exekutive, parent_id=1656>
     <OrtMitglieder id=3516, label=Mitgliedschaften, parent_id=1656>
     <OrtPraesidium id=3517, label=Partei, parent_id=1656>

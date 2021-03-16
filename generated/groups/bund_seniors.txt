@@ -21,7 +21,6 @@
   <Kanton id=44, label=60+ GR, parent_id=4>
    <KantonMitglieder id=36823, label=Mitgliedschaften, parent_id=44>
   <Kanton id=45, label=60+ LU, parent_id=4>
-   <KantonMitglieder id=40547, label=Mitglieder, parent_id=45>
    <KantonExterneKontakte id=38788, label=Newsletter, parent_id=45>
    <Region id=36819, label=Wahlkreis Entlebuch, parent_id=45>
     <RegionMitglieder id=36821, label=Mitgliedschaften, parent_id=36819>
@@ -33,6 +32,7 @@
     <RegionSympathisanten id=40577, label=Sympathisanten, parent_id=37019>
     <RegionMitglieder id=37027, label=Mitgliedschaften, parent_id=37019>
    <Region id=37021, label=Wahlkreis Sursee, parent_id=45>
+    <RegionArbeitsgruppe id=40047, label=Seniorenrat, parent_id=37021>
     <RegionMitglieder id=37028, label=Mitgliedschaften, parent_id=37021>
    <Region id=37023, label=Wahlkreis Willisau, parent_id=45>
     <RegionMitglieder id=37029, label=Mitgliedschaften, parent_id=37023>

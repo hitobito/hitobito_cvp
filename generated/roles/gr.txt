@@ -4,7 +4,7 @@
  <BundGewaehlte Nationalrat [Nationalrat 141]>
  <BundGewaehlte Ständerat [Staenderat 50]>
  <Kanton CVP GR>
-  <KantonSympathisanten Sympathisanten [Sympathisant 74]>
+  <KantonSympathisanten Sympathisanten [Sympathisant 68]>
   <KantonPraesidium Praesidium [Mitglied 1, Vizepraesident 7]>
   <KantonGewaehlte Gewaehlte [MitgliedKantonalesGerichtErsteInstanz 1, WeitereMandate 5]>
   <KantonSekretariat Sekretariat [Leitung 1]>
@@ -44,40 +44,40 @@
   <KantonGewaehlte Judikative>
    <KantonGewaehlte Kantonsgericht [MitgliedKantonalesGerichtErsteInstanz 1]>
   <KantonGewaehlte Legislative [KantonaleLegislative 97, WeitereMandate 67]>
-  <KantonMitglieder Mitgliedschaften [Mitglied 47]>
+  <KantonMitglieder Mitgliedschaften [Mitglied 44]>
   <KantonPraesidium Partei [Kassier 1, Mitglied 136, Praesident 55]>
   <Ort Kreispartei Chur>
-   <OrtSympathisanten Sympathisanten [Sympathisant 10]>
+   <OrtSympathisanten Sympathisanten [Sympathisant 8]>
    <OrtGewaehlte Legislative [KommunaleExekutive 2]>
-   <OrtMitglieder Mitgliedschaften [Mitglied 185]>
+   <OrtMitglieder Mitgliedschaften [Mitglied 134]>
    <OrtPraesidium Partei [Adressverwalter 10, Praesident 4]>
   <Ort Kreispartei Churwalden>
-   <OrtMitglieder Mitgliedschaften [Mitglied 24]>
+   <OrtMitglieder Mitgliedschaften [Mitglied 15]>
    <OrtPraesidium Partei [Praesident 3]>
   <Ort Kreispartei Davos>
-   <OrtSympathisanten Sympathisanten [Sympathisant 10]>
-   <OrtMitglieder Mitgliedschaften [Mitglied 11]>
+   <OrtSympathisanten Sympathisanten [Sympathisant 9]>
+   <OrtMitglieder Mitgliedschaften [Mitglied 10]>
    <OrtPraesidium Partei [Adressverwalter 3, Praesident 1]>
   <Ort Kreispartei Ramosch>
-   <OrtMitglieder Mitgliedschaften [Mitglied 45]>
+   <OrtMitglieder Mitgliedschaften [Mitglied 29]>
    <OrtPraesidium Partei [Praesident 1]>
   <Ort Kreispartei Schanfigg>
    <OrtSympathisanten Sympathisanten [Sympathisant 1]>
-   <OrtMitglieder Mitgliedschaften [Mitglied 25]>
+   <OrtMitglieder Mitgliedschaften [Mitglied 16]>
    <OrtPraesidium Partei [Praesident 2]>
   <Ort Kreispartei Val Mustair>
-   <OrtMitglieder Mitgliedschaften [Mitglied 83]>
+   <OrtMitglieder Mitgliedschaften [Mitglied 55]>
    <OrtPraesidium Partei [Praesident 2]>
   <Region Kreispartei Oberengadin>
-   <RegionMitglieder Mitgliedschaften [Mitglied 47]>
+   <RegionMitglieder Mitgliedschaften [Mitglied 46]>
    <Ort Ortspartei St. Moritz>
     <OrtMitglieder Mitgliedschaften [Mitglied 50]>
     <OrtPraesidium Partei [Praesident 3]>
    <Ort Ortspartei Zuoz>
     <OrtSympathisanten Sympathisanten [Sympathisant 1]>
   <Region Regionalpartei Albula / Surses>
-   <RegionSympathisanten Sympathisanten [Sympathisant 28]>
-   <RegionMitglieder Mitgliedschaften [Mitglied 155]>
+   <RegionSympathisanten Sympathisanten [Sympathisant 26]>
+   <RegionMitglieder Mitgliedschaften [Mitglied 99]>
    <RegionPraesidium Partei [Mitglied 8, Praesident 2]>
    <Ort Kreispartei Alvaschein>
     <OrtExterneKontakte ExterneKontakte [Kontakt 13]>
@@ -88,67 +88,67 @@
    <Ort Ortspartei Vaz/Obervaz>
     <OrtExterneKontakte ExterneKontakte [Kontakt 54]>
   <Region Regionalpartei Imboden>
-   <RegionSympathisanten Sympathisanten [Sympathisant 9]>
-   <RegionMitglieder Mitgliedschaften [Mitglied 257]>
+   <RegionSympathisanten Sympathisanten [Sympathisant 8]>
+   <RegionMitglieder Mitgliedschaften [Mitglied 167]>
    <RegionPraesidium Partei [Mitglied 7, Praesident 2]>
    <Ort Ortspartei Bonaduz>
-    <OrtSympathisanten Sympathisanten [Sympathisant 4]>
-    <OrtMitglieder Mitgliedschaften [Mitglied 77]>
+    <OrtSympathisanten Sympathisanten [Sympathisant 3]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 62]>
     <OrtPraesidium Partei [Praesident 1]>
    <Ort Ortspartei Domat/Ems>
-    <OrtMitglieder Mitgliedschaften [Mitglied 154]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 94]>
     <OrtPraesidium Partei [Praesident 3]>
    <Ort Ortspartei Rhäzüns>
     <OrtParteigremium Parteigremium [Mitglied 1]>
-    <OrtMitglieder Mitgliedschaften [Mitglied 16]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 10]>
     <OrtPraesidium Partei [Adressverwalter 1, Kassier 2, Praesident 3]>
   <Region Regionalpartei Landquart>
-   <RegionSympathisanten Sympathisanten [Sympathisant 37]>
-   <RegionMitglieder Mitgliedschaften [Mitglied 14]>
+   <RegionSympathisanten Sympathisanten [Sympathisant 36]>
+   <RegionMitglieder Mitgliedschaften [Mitglied 12]>
    <RegionPraesidium Partei [Mitglied 2, Praesident 2]>
    <Ort Ortspartei Landquart>
-    <OrtMitglieder Mitgliedschaften [Mitglied 112]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 79]>
     <OrtPraesidium Partei [Adressverwalter 3, Praesident 2]>
    <Ort Ortspartei Trimmis>
-    <OrtSympathisanten Sympathisanten [Sympathisant 8]>
-    <OrtMitglieder Mitgliedschaften [Mitglied 46]>
+    <OrtSympathisanten Sympathisanten [Sympathisant 7]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 35]>
     <OrtPraesidium Partei [Praesident 3]>
    <Ort Ortspartei Untervaz>
     <OrtSympathisanten Sympathisanten [Sympathisant 5]>
-    <OrtMitglieder Mitgliedschaften [Mitglied 66]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 43]>
     <OrtPraesidium Partei [Praesident 3]>
    <Ort Ortspartei Zizers>
     <OrtSympathisanten Sympathisanten [Sympathisant 13]>
-    <OrtMitglieder Mitgliedschaften [Mitglied 52]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 38]>
     <OrtPraesidium Partei [Adressverwalter 1, Praesident 2]>
   <Region Regionalpartei Moesa>
-   <RegionMitglieder Mitgliedschaften [Mitglied 69]>
+   <RegionMitglieder Mitgliedschaften [Mitglied 68]>
    <RegionPraesidium Partei [Praesident 1]>
   <Region Regionalpartei Surselva>
-   <RegionMitglieder Mitgliedschaften [Mitglied 19]>
+   <RegionMitglieder Mitgliedschaften [Mitglied 2]>
    <RegionPraesidium Partei [Mitglied 1, Praesident 3]>
    <Ort Kreispartei Disentis/Cadi>
-    <OrtMitglieder Mitgliedschaften [Mitglied 176]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 148]>
     <OrtPraesidium Partei [Adressverwalter 2, Praesident 2]>
    <Ort Kreispartei Ilanz/Foppa>
-    <OrtSympathisanten Sympathisanten [Sympathisant 53]>
-    <OrtMitglieder Mitgliedschaften [Mitglied 172]>
+    <OrtSympathisanten Sympathisanten [Sympathisant 35]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 131]>
     <OrtPraesidium Partei [Adressverwalter 5, Praesident 4]>
    <Ort Kreispartei Lugnez/Lumnezia>
-    <OrtSympathisanten Sympathisanten [Sympathisant 2]>
-    <OrtMitglieder Mitgliedschaften [Mitglied 113]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 94]>
     <OrtPraesidium Partei [Adressverwalter 5, Praesident 2]>
   <Region Regionalpartei Valposchiavo>
    <RegionSympathisanten Sympathisanten [Sympathisant 1]>
-   <RegionMitglieder Mitgliedschaften [Mitglied 209]>
+   <RegionMitglieder Mitgliedschaften [Mitglied 203]>
    <RegionPraesidium Partei [Mitglied 1, Praesident 4]>
   <Region Regionalpartei Viamala>
    <RegionSympathisanten Sympathisanten [Sympathisant 41]>
-   <RegionMitglieder Mitgliedschaften [Mitglied 185]>
+   <RegionMitglieder Mitgliedschaften [Mitglied 109]>
    <RegionPraesidium Partei [Mitglied 1, Praesident 2]>
    <Ort Ortspartei Cazis>
-    <OrtMitglieder Mitgliedschaften [Mitglied 29]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 27]>
     <OrtPraesidium Partei [Praesident 1]>
    <Ort Ortspartei Thusis>
-    <OrtMitglieder Mitgliedschaften [Mitglied 60]>
+    <OrtSympathisanten Sympathisanten [Sympathisant 1]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 38]>
     <OrtPraesidium Partei [Mitglied 1, Praesident 1]>

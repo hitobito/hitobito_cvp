@@ -140,7 +140,6 @@
    <OrtMitglieder id=34855, label=Mitgliedschaften, parent_id=34754>
    <OrtPraesidium id=34776, label=Partei, parent_id=34754>
   <Ort id=34764, label=Lancy, parent_id=159>
-   <OrtSympathisanten id=40581, label=Sympathisanten, parent_id=34764>
    <OrtSekretariat id=40585, label=Sekretariat, parent_id=34764>
    <OrtGewaehlte id=34827, label=Exekutive, parent_id=34764>
    <OrtGewaehlte id=34828, label=Legislative, parent_id=34764>

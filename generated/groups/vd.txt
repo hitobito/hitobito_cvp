@@ -16,7 +16,6 @@
    <OrtPraesidium id=37858, label=Partei, parent_id=37857>
   <Ort id=616, label=Crissier, parent_id=174>
    <OrtSympathisanten id=40455, label=Sympathisanten, parent_id=616>
-   <OrtMitglieder id=2080, label=Mitgliedschaften, parent_id=616>
   <Ort id=617, label=Echallens - Gros-de-Vaud, parent_id=174>
    <OrtSympathisanten id=40464, label=Sympathisanten, parent_id=617>
    <OrtMitglieder id=2082, label=Mitgliedschaften, parent_id=617>
@@ -46,7 +45,6 @@
    <OrtSympathisanten id=40518, label=Sympathisanten, parent_id=36304>
    <OrtMitglieder id=36306, label=Mitgliedschaften, parent_id=36304>
   <Ort id=626, label=Prilly, parent_id=174>
-   <OrtSympathisanten id=40527, label=Sympathisanten, parent_id=626>
    <OrtMitglieder id=2092, label=Mitgliedschaften, parent_id=626>
    <OrtPraesidium id=2093, label=Partei, parent_id=626>
   <Ort id=628, label=Villeneuve, parent_id=174>

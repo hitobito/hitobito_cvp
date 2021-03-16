@@ -6,18 +6,18 @@
    <KantonMitglieder Mitgliedschaften [Mitglied 18]>
   <Kanton GR>
    <KantonSympathisanten Sympathisanten [Sympathisant 1]>
-   <KantonMitglieder Mitgliedschaften [Mitglied 12]>
+   <KantonMitglieder Mitgliedschaften [Mitglied 1]>
   <Kanton SG>
-   <KantonMitglieder Mitgliedschaften [Mitglied 191]>
+   <KantonMitglieder Mitgliedschaften [Mitglied 124]>
   <Kanton TG>
    <KantonPraesidium Praesidium [Mitglied 1, Praesident 1]>
    <KantonMitglieder Mitglieder [Mitglied 1]>
   <Kanton UR>
-   <KantonMitglieder Mitgliedschaften [Mitglied 99]>
+   <KantonMitglieder Mitgliedschaften [Mitglied 98]>
   <Kanton VD>
    <KantonArbeitsgruppe Interessenten [Gast 1]>
   <Kanton ZG>
    <KantonMitglieder Mitglieder [Mitglied 1]>
   <Kanton ZH>
-   <KantonSympathisanten Sympathisanten [Sympathisant 78]>
-   <KantonMitglieder Mitgliedschaften [Mitglied 121]>
+   <KantonSympathisanten Sympathisanten [Sympathisant 75]>
+   <KantonMitglieder Mitgliedschaften [Mitglied 95]>

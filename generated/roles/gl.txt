@@ -4,24 +4,24 @@
  <BundGewaehlte Nationalrat [Nationalrat 138]>
  <BundGewaehlte Ständerat [Staenderat 47]>
  <Kanton CVP GL>
-  <KantonSympathisanten Sympathisanten [Sympathisant 2]>
+  <KantonSympathisanten Sympathisanten [Sympathisant 1]>
   <KantonSekretariat Sekretariat [Leitung 1, Mitarbeiter 2]>
   <KantonArbeitsgruppe Arbeitsgruppe [Mitglied 1]>
   <KantonArbeitsgruppe Rechnung Sektionen [Mitglied 2]>
   <KantonGewaehlte Regierungsrat [KantonaleExekutive 1]>
   <KantonGewaehlte Judikative [MitgliedKantonalesGerichtErsteInstanz 6, Staatsanwaltschaft 1]>
   <KantonGewaehlte Legislative [KantonaleLegislative 41]>
-  <KantonMitglieder Mitgliedschaften [Mitglied 4]>
+  <KantonMitglieder Mitgliedschaften [Mitglied 3]>
   <KantonPraesidium Partei [Kassier 2, Mitglied 2, Praesident 2]>
   <Ort Glarus Mitte>
-   <OrtSympathisanten Sympathisanten [Sympathisant 42]>
-   <OrtMitglieder Mitgliedschaften [Mitglied 62]>
+   <OrtSympathisanten Sympathisanten [Sympathisant 36]>
+   <OrtMitglieder Mitgliedschaften [Mitglied 42]>
    <OrtPraesidium Partei [Adressverwalter 3]>
   <Ort Glarus Nord>
-   <OrtSympathisanten Sympathisanten [Sympathisant 128]>
+   <OrtSympathisanten Sympathisanten [Sympathisant 119]>
    <OrtGewaehlte Legislative [KommunaleExekutive 1]>
-   <OrtMitglieder Mitgliedschaften [Mitglied 142]>
+   <OrtMitglieder Mitgliedschaften [Mitglied 114]>
    <OrtPraesidium Partei [Adressverwalter 3, Mitglied 1]>
   <Ort Glarus Süd>
-   <OrtMitglieder Mitgliedschaften [Mitglied 52]>
+   <OrtMitglieder Mitgliedschaften [Mitglied 44]>
    <OrtPraesidium Partei [Adressverwalter 1]>

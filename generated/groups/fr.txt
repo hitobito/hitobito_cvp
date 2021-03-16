@@ -89,7 +89,6 @@
     <OrtMitglieder id=2731, label=Mitgliedschaften, parent_id=1110>
     <OrtPraesidium id=14785, label=Partei, parent_id=1110>
    <Ort id=1111, label=La Jogne, parent_id=424>
-    <OrtSympathisanten id=40566, label=Sympathisanten, parent_id=1111>
     <OrtMitglieder id=2732, label=Mitgliedschaften, parent_id=1111>
     <OrtPraesidium id=14787, label=Partei, parent_id=1111>
    <Ort id=1131, label=La Sionge, parent_id=424>
@@ -139,13 +138,11 @@
     <OrtMitglieder id=2783, label=Mitgliedschaften, parent_id=1165>
     <OrtPraesidium id=14797, label=Partei, parent_id=1165>
   <Region id=429, label=See, parent_id=158>
-   <RegionSympathisanten id=40681, label=Sympathisanten, parent_id=429>
    <RegionDelegierte id=40684, label=Delegierte, parent_id=429>
    <RegionSekretariat id=40685, label=Sekretariat, parent_id=429>
    <RegionMitglieder id=1178, label=Mitgliedschaften, parent_id=429>
    <RegionPraesidium id=1181, label=Partei, parent_id=429>
    <Ort id=1170, label=Gurmels, parent_id=429>
-    <OrtSympathisanten id=40688, label=Sympathisanten, parent_id=1170>
     <OrtMitglieder id=2788, label=Mitgliedschaften, parent_id=1170>
     <OrtPraesidium id=2789, label=Partei, parent_id=1170>
    <Ort id=1168, label=Haut Lac, parent_id=429>
@@ -168,6 +165,7 @@
    <RegionArbeitsgruppe id=40735, label=Arbeitsgruppe, parent_id=430>
    <RegionDelegierte id=40736, label=Delegierte, parent_id=430>
    <RegionSekretariat id=40737, label=Sekretariat, parent_id=430>
+   <RegionArbeitsgruppe id=1189, label=Legislative, parent_id=430>
    <RegionDelegierte id=14808, label=Delegiertenversammlung, parent_id=430>
     <RegionDelegierte id=14809, label=Alterswil, parent_id=14808>
     <RegionDelegierte id=14810, label=Bösingen, parent_id=14808>
@@ -183,7 +181,6 @@
     <RegionDelegierte id=14822, label=Tafers, parent_id=14808>
     <RegionDelegierte id=14824, label=Ueberstorf, parent_id=14808>
     <RegionDelegierte id=14825, label=Wünnewil-Flamatt, parent_id=14808>
-   <RegionGewaehlte id=1189, label=Legislative, parent_id=430>
    <RegionMitglieder id=1190, label=Mitgliedschaften, parent_id=430>
    <RegionPraesidium id=1192, label=Partei, parent_id=430>
    <Ort id=1183, label=Alterswil, parent_id=430>
@@ -238,7 +235,6 @@
    <Ort id=39413, label=Conseil politique, parent_id=422>
     <OrtMitglieder id=40887, label=Mitglieder, parent_id=39413>
   <Region id=431, label=Vivisbach, parent_id=158>
-   <RegionSympathisanten id=40891, label=Sympathisanten, parent_id=431>
    <RegionSekretariat id=40895, label=Sekretariat, parent_id=431>
    <RegionMitglieder id=1210, label=Mitgliedschaften, parent_id=431>
    <RegionPraesidium id=1211, label=Partei, parent_id=431>

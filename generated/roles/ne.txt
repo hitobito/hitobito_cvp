@@ -4,23 +4,22 @@
  <BundGewaehlte Nationalrat [Nationalrat 138]>
  <BundGewaehlte Ständerat [Staenderat 47]>
  <Kanton CVP NE>
-  <KantonSympathisanten Sympathisanten [Sympathisant 518]>
+  <KantonSympathisanten Sympathisanten [Sympathisant 519]>
   <KantonSekretariat Sekretariat [Leitung 2]>
   <KantonExterneKontakte ExterneKontakte [Kontakt 1, Spender 1]>
   <KantonArbeitsgruppe Arbeitsgruppe [Mitglied 2]>
   <KantonArbeitsgruppe Politische Kommission [Mitglied 1]>
   <KantonGewaehlte Législatif [KantonaleExekutive 4]>
-  <KantonMitglieder Mitgliedschaften [Mitglied 89]>
+  <KantonMitglieder Mitgliedschaften [Mitglied 64]>
   <KantonPraesidium Partei [Kassier 2, Mitglied 20, Praesident 6]>
   <Ort Littoral / Entre-deux-Lacs>
-   <OrtSympathisanten Sympathisanten [Sympathisant 2]>
    <OrtGewaehlte Législatif / conseil général [KommunaleExekutive 3]>
    <OrtMitglieder Mitgliedschaften [Mitglied 31]>
    <OrtPraesidium Partei [Praesident 1]>
   <Ort Montagnes>
    <OrtGewaehlte Exécutif / conseil communal [KommunaleExekutive 1]>
    <OrtGewaehlte Législatif / conseil général [KommunaleExekutive 3]>
-   <OrtMitglieder Mitgliedschaften [Mitglied 24]>
+   <OrtMitglieder Mitgliedschaften [Mitglied 23]>
    <OrtPraesidium Partei [Adressverwalter 1, Praesident 2]>
   <Ort Vallées>
    <OrtMitglieder Mitgliedschaften [Mitglied 10]>

@@ -3,72 +3,72 @@
   <VereinigungExterneKontakte ExterneKontakte [Kontakt 38]>
   <VereinigungPraesidium Vorstand [Mitglied 7, Praesident 3]>
   <Kanton 60+ AG>
-   <KantonMitglieder Mitgliedschaften [Mitglied 261]>
+   <KantonMitglieder Mitgliedschaften [Mitglied 209]>
    <KantonPraesidium Vorstand [Praesident 2]>
   <Kanton 60+ BE>
    <KantonSympathisanten Sympathisanten [Sympathisant 1]>
-   <KantonMitglieder Mitgliedschaften [Mitglied 106]>
+   <KantonMitglieder Mitgliedschaften [Mitglied 101]>
    <KantonPraesidium Vorstand [Mitglied 1]>
   <Kanton 60+ BL>
    <KantonSympathisanten Sympathisanten [Sympathisant 1]>
    <KantonExterneKontakte Newsletter [Kontakt 103]>
-   <KantonMitglieder Mitgliedschaften [Mitglied 126]>
+   <KantonMitglieder Mitgliedschaften [Mitglied 118]>
   <Kanton 60+ BS>
-   <KantonSympathisanten Sympathisanten [Sympathisant 194]>
+   <KantonSympathisanten Sympathisanten [Sympathisant 189]>
    <KantonMitglieder Mitgliedschaften [Mitglied 3]>
   <Kanton 60+ FR>
    <KantonMitglieder Mitgliedschaften [Mitglied 1]>
   <Kanton 60+ GR>
-   <KantonMitglieder Mitgliedschaften [Mitglied 391]>
+   <KantonMitglieder Mitgliedschaften [Mitglied 371]>
   <Kanton 60+ LU>
-   <KantonMitglieder Mitglieder [Mitglied 12]>
    <KantonExterneKontakte Newsletter [Kontakt 679]>
    <Region Wahlkreis Entlebuch>
-    <RegionMitglieder Mitgliedschaften [Mitglied 12]>
+    <RegionMitglieder Mitgliedschaften [Mitglied 11]>
    <Region Wahlkreis Hochdorf>
-    <RegionMitglieder Mitgliedschaften [Mitglied 576]>
+    <RegionMitglieder Mitgliedschaften [Mitglied 550]>
    <Region Wahlkreis Luzern Land>
-    <RegionMitglieder Mitgliedschaften [Mitglied 666]>
+    <RegionMitglieder Mitgliedschaften [Mitglied 639]>
    <Region Wahlkreis Luzern Stadt>
-    <RegionSympathisanten Sympathisanten [Sympathisant 61]>
-    <RegionMitglieder Mitgliedschaften [Mitglied 591]>
+    <RegionSympathisanten Sympathisanten [Sympathisant 56]>
+    <RegionMitglieder Mitgliedschaften [Mitglied 522]>
    <Region Wahlkreis Sursee>
-    <RegionMitglieder Mitgliedschaften [Mitglied 693]>
+    <RegionArbeitsgruppe Seniorenrat [Mitglied 12]>
+    <RegionMitglieder Mitgliedschaften [Mitglied 683]>
    <Region Wahlkreis Willisau>
-    <RegionMitglieder Mitgliedschaften [Mitglied 289]>
+    <RegionMitglieder Mitgliedschaften [Mitglied 282]>
   <Kanton 60+ SG>
    <Region Regionalpartei Rheintal>
-    <RegionMitglieder Mitgliedschaften [Mitglied 226]>
+    <RegionMitglieder Mitgliedschaften [Mitglied 213]>
    <Region Regionalpartei Rorschach>
-    <RegionMitglieder Mitgliedschaften [Mitglied 281]>
+    <RegionMitglieder Mitgliedschaften [Mitglied 276]>
    <Region Regionalpartei Sarganserland>
-    <RegionMitglieder Mitgliedschaften [Mitglied 208]>
+    <RegionMitglieder Mitgliedschaften [Mitglied 201]>
    <Region Regionalpartei See-Gaster>
-    <RegionMitglieder Mitgliedschaften [Mitglied 240]>
+    <RegionMitglieder Mitgliedschaften [Mitglied 236]>
    <Region Regionalpartei St. Gallen-Gossau>
-    <RegionMitglieder Mitgliedschaften [Mitglied 696]>
+    <RegionMitglieder Mitgliedschaften [Mitglied 649]>
    <Region Regionalpartei Toggenburg>
-    <RegionMitglieder Mitgliedschaften [Mitglied 188]>
+    <RegionMitglieder Mitgliedschaften [Mitglied 185]>
    <Region Regionalpartei Werdenberg>
-    <RegionMitglieder Mitgliedschaften [Mitglied 115]>
+    <RegionMitglieder Mitgliedschaften [Mitglied 113]>
    <Region Regionalpartei Wil-Untertoggenburg>
     <RegionSympathisanten Sympathisanten [Sympathisant 4]>
-    <RegionMitglieder Mitgliedschaften [Mitglied 244]>
+    <RegionMitglieder Mitgliedschaften [Mitglied 240]>
   <Kanton 60+ SO>
-   <KantonMitglieder Mitgliedschaften [Mitglied 107]>
+   <KantonMitglieder Mitgliedschaften [Mitglied 99]>
   <Kanton 60+ SZ>
    <KantonSympathisanten Sympathisanten [Sympathisant 38]>
    <KantonArbeitsgruppe Leitungsteam [Mitglied 8]>
-   <KantonMitglieder Mitgliedschaften [Mitglied 376]>
+   <KantonMitglieder Mitgliedschaften [Mitglied 375]>
   <Kanton 60+ TG>
-   <KantonMitglieder Mitgliedschaften [Mitglied 291]>
+   <KantonMitglieder Mitgliedschaften [Mitglied 280]>
   <Kanton 60+ UR>
    <KantonMitglieder Mitgliedschaften [Mitglied 8]>
   <Kanton 60+ ZG>
-   <KantonSympathisanten Sympathisanten [Sympathisant 36]>
-   <KantonMitglieder Mitgliedschaften [Mitglied 156]>
+   <KantonSympathisanten Sympathisanten [Sympathisant 35]>
+   <KantonMitglieder Mitgliedschaften [Mitglied 142]>
   <Kanton 60+ ZH>
-   <KantonMitglieder Mitgliedschaften [Mitglied 78]>
+   <KantonMitglieder Mitgliedschaften [Mitglied 76]>
   <Kanton Weitere Funktionen>
    <KantonParteigremium Parteigremium [Mitglied 2]>
    <KantonSekretariat Sekretariat [Leitung 2, Mitarbeiter 1]>

@@ -120,6 +120,15 @@
    <BundArbeitsgruppe SODK [Mitglied 3]>
    <BundArbeitsgruppe VDK [Mitglied 5]>
  <BundArbeitsgruppe Schiedsgericht (JM) [Mitglied 8]>
+ <BundArbeitsgruppe Sekretäre (Administration Kantonalparteien)>
+  <BundArbeitsgruppe AG [Leitung 1]>
+  <BundArbeitsgruppe BE [Leitung 2]>
+  <BundArbeitsgruppe BS [Leitung 1]>
+  <BundArbeitsgruppe FR-französisch [Leitung 1]>
+  <BundArbeitsgruppe JU [Leitung 1]>
+  <BundArbeitsgruppe LU [Leitung 2]>
+  <BundArbeitsgruppe SG [Leitung 1]>
+  <BundArbeitsgruppe SZ [Leitung 1]>
  <BundArbeitsgruppe Sommerparteitag (CS)>
   <BundArbeitsgruppe Einladung (MG) [Mitglied 1590]>
  <BundDelegierte Delegiertenversammlung (CS)>
@@ -191,4 +200,4 @@
  <BundGewaehlte Ständerat [Staenderat 47]>
  <BundKommission Kontrollkommission (JM) [Praesident 1]>
  <BundPraesidium Präsidium (LS) [Praesident 2, Vizepraesident 4]>
- <BundSekretariat Generalsekretariat (JM) [Leitung 8, Mitarbeiter 53]>
+ <BundSekretariat Generalsekretariat (JM) [Leitung 8, Mitarbeiter 43]>

@@ -4,7 +4,7 @@
  <BundGewaehlte Nationalrat [Nationalrat 138]>
  <BundGewaehlte Ständerat [Staenderat 47]>
  <Kanton CVP BL>
-  <KantonSympathisanten Sympathisanten [Sympathisant 27]>
+  <KantonSympathisanten Sympathisanten [Sympathisant 32]>
   <KantonParteigremium Parteigremium [Leitung 1]>
   <KantonPraesidium Praesidium [Mitglied 9, Vizepraesident 3]>
   <KantonDelegierte Delegierte [Delegierte 2]>
@@ -24,7 +24,7 @@
   <KantonGewaehlte Judikative>
    <KantonGewaehlte Kantonsgericht [MitgliedKantonalesGerichtErsteInstanz 1]>
   <KantonGewaehlte Legislative [KantonaleExekutive 3, KantonaleLegislative 20]>
-  <KantonMitglieder Mitgliedschaften [Mitglied 176]>
+  <KantonMitglieder Mitgliedschaften [Mitglied 276]>
   <KantonParteigremium Parteirat [Mitglied 50]>
   <KantonParteigremium Personalkommission [Mitglied 1]>
   <KantonParteigremium Schiedsgericht [Mitglied 2]>
@@ -35,32 +35,30 @@
   <Ort Birsfelden>
    <OrtSympathisanten Sympathisanten [Sympathisant 5]>
    <OrtGewaehlte Exekutive [KommunaleExekutive 1]>
-   <OrtMitglieder Mitgliedschaften [Mitglied 42]>
+   <OrtMitglieder Mitgliedschaften [Mitglied 41]>
    <OrtPraesidium Partei [Adressverwalter 1, Mitglied 1, Praesident 1]>
   <Ort Muttenz>
    <OrtSympathisanten Sympathisanten [Sympathisant 19]>
    <OrtSekretariat Sekretariat [Mitarbeiter 3]>
    <OrtGewaehlte Exekutive [KommunaleExekutive 2]>
-   <OrtMitglieder Mitgliedschaften [Mitglied 108]>
+   <OrtMitglieder Mitgliedschaften [Mitglied 96]>
    <OrtPraesidium Partei [Adressverwalter 2, Mitglied 10, Praesident 5]>
   <Region Wahlkreis Allschwil/Schönenbuch>
    <RegionSympathisanten Sympathisanten [Sympathisant 1]>
    <RegionSekretariat Sekretariat [Mitarbeiter 2]>
-   <RegionGewaehlte Exekutive [RegionExekutive 2]>
-   <RegionMitglieder Mitgliedschaften [Mitglied 200]>
+   <RegionArbeitsgruppe Exekutive [Mitglied 2]>
+   <RegionMitglieder Mitgliedschaften [Mitglied 187]>
    <RegionPraesidium Partei [Mitglied 6, Praesident 1]>
   <Region Wahlkreis Binningen (inkl. Bottmingen)>
-   <RegionSympathisanten Sympathisanten [Sympathisant 33]>
+   <RegionSympathisanten Sympathisanten [Sympathisant 32]>
    <RegionSekretariat Sekretariat [Mitarbeiter 2]>
-   <RegionGewaehlte Legislative [RegionLegislative 5]>
-   <RegionMitglieder Mitgliedschaften [Mitglied 106]>
+   <RegionArbeitsgruppe Legislative [Mitglied 5]>
+   <RegionMitglieder Mitgliedschaften [Mitglied 79]>
    <RegionPraesidium Partei [Mitglied 15, Praesident 2]>
-  <Region Wahlkreis Gelterkinden>
-   <RegionMitglieder Mitgliedschaften [Mitglied 3]>
   <Region Wahlkreis Laufental>
-   <RegionSympathisanten Sympathisanten [Sympathisant 14]>
+   <RegionSympathisanten Sympathisanten [Sympathisant 13]>
    <RegionSekretariat Sekretariat [Mitarbeiter 2]>
-   <RegionMitglieder Mitgliedschaften [Mitglied 151]>
+   <RegionMitglieder Mitgliedschaften [Mitglied 146]>
    <RegionPraesidium Partei [Mitglied 4, Praesident 1]>
    <Ort Blauen>
     <OrtPraesidium Partei [Mitglied 1]>
@@ -72,97 +70,97 @@
    <Ort Dittingen>
     <OrtMitglieder Mitgliedschaften [Mitglied 19]>
    <Ort Grellingen>
-    <OrtSympathisanten Sympathisanten [Sympathisant 23]>
+    <OrtSympathisanten Sympathisanten [Sympathisant 19]>
     <OrtSekretariat Sekretariat [Mitarbeiter 1]>
     <OrtGewaehlte Exekutive [Fraktionschef 1, KommunaleExekutive 6]>
-    <OrtMitglieder Mitgliedschaften [Mitglied 49]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 40]>
     <OrtPraesidium Partei [Adressverwalter 1, Kassier 1, Mitglied 7, Praesident 3]>
    <Ort Laufen>
-    <OrtSympathisanten Sympathisanten [Sympathisant 68]>
+    <OrtSympathisanten Sympathisanten [Sympathisant 67]>
     <OrtSekretariat Sekretariat [Mitarbeiter 1]>
     <OrtGewaehlte Exekutive [KommunaleExekutive 7]>
-    <OrtMitglieder Mitgliedschaften [Mitglied 136]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 84]>
     <OrtPraesidium Partei [Adressverwalter 7, Mitglied 2, Praesident 2]>
    <Ort Liesberg>
-    <OrtSympathisanten Sympathisanten [Sympathisant 67]>
+    <OrtSympathisanten Sympathisanten [Sympathisant 66]>
     <OrtGewaehlte Exekutive [KommunaleExekutive 2]>
-    <OrtMitglieder Mitgliedschaften [Mitglied 32]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 31]>
     <OrtPraesidium Partei [Praesident 1]>
    <Ort Nenzlingen>
     <OrtPraesidium Partei [Praesident 1]>
    <Ort Röschenz>
     <OrtSekretariat Sekretariat [Leitung 1]>
     <OrtGewaehlte Exekutive [KommunaleExekutive 4]>
-    <OrtMitglieder Mitgliedschaften [Mitglied 59]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 57]>
     <OrtPraesidium Partei [Mitglied 1]>
    <Ort Zwingen>
     <OrtSympathisanten Sympathisanten [Sympathisant 28]>
     <OrtGewaehlte Exekutive [KommunaleExekutive 2]>
-    <OrtMitglieder Mitgliedschaften [Mitglied 71]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 69]>
   <Region Wahlkreis Liestal>
-   <RegionSympathisanten Sympathisanten [Sympathisant 173]>
+   <RegionSympathisanten Sympathisanten [Sympathisant 167]>
    <RegionSekretariat Sekretariat [Mitarbeiter 2]>
-   <RegionMitglieder Mitgliedschaften [Mitglied 53]>
+   <RegionMitglieder Mitgliedschaften [Mitglied 24]>
    <RegionPraesidium Partei [Mitglied 16, Praesident 1]>
   <Region Wahlkreis Münchenstein>
    <Ort Arlesheim>
-    <OrtSympathisanten Sympathisanten [Sympathisant 93]>
+    <OrtSympathisanten Sympathisanten [Sympathisant 91]>
     <OrtSekretariat Sekretariat [Mitarbeiter 2]>
     <OrtGewaehlte Exekutive [KommunaleExekutive 1]>
-    <OrtMitglieder Mitgliedschaften [Mitglied 117]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 101]>
     <OrtPraesidium Partei [Adressverwalter 3, Mitglied 6, Praesident 1]>
    <Ort Münchenstein>
     <OrtSympathisanten Sympathisanten [Sympathisant 31]>
     <OrtSekretariat Sekretariat [Leitung 1, Mitarbeiter 1]>
     <OrtGewaehlte Exekutive [Fraktionschef 1, KommunaleExekutive 1]>
     <OrtGewaehlte Schulpflege [Schulpflegekommission 1]>
-    <OrtMitglieder Mitgliedschaften [Mitglied 45]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 19]>
     <OrtPraesidium Partei [Adressverwalter 3, Mitglied 6, Praesident 3]>
   <Region Wahlkreis Oberwil>
    <Ort Ettingen>
     <OrtSympathisanten Sympathisanten [Sympathisant 2]>
     <OrtSekretariat Sekretariat [Mitarbeiter 1]>
     <OrtGewaehlte Exekutive [Fraktionschef 1]>
-    <OrtMitglieder Mitgliedschaften [Mitglied 29]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 26]>
     <OrtPraesidium Partei [Adressverwalter 2, Kassier 1, Mitglied 1, Praesident 1]>
    <Ort Oberwil>
     <OrtSekretariat Sekretariat [Mitarbeiter 1]>
     <OrtGewaehlte Exekutive [KommunaleExekutive 1]>
-    <OrtMitglieder Mitgliedschaften [Mitglied 62]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 53]>
     <OrtPraesidium Partei [Adressverwalter 5, Kassier 1, Mitglied 6, Praesident 1]>
    <Ort Therwil/Biel-Benken>
-    <OrtSympathisanten Sympathisanten [Sympathisant 2]>
+    <OrtSympathisanten Sympathisanten [Sympathisant 1]>
     <OrtSekretariat Sekretariat [Mitarbeiter 1]>
     <OrtGewaehlte Exekutive [KommunaleExekutive 4]>
     <OrtGewaehlte Schulpflege [Schulpflegekommission 4]>
-    <OrtMitglieder Mitgliedschaften [Mitglied 105]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 70]>
     <OrtPraesidium Partei [Adressverwalter 2, Kassier 1, Mitglied 10, Praesident 2]>
   <Region Wahlkreis Reinach>
    <Ort Aesch/Pfeffingen>
     <OrtSympathisanten Sympathisanten [Sympathisant 1]>
     <OrtSekretariat Sekretariat [Leitung 1, Mitarbeiter 1]>
     <OrtGewaehlte Exekutive [KommunaleExekutive 1]>
-    <OrtMitglieder Mitgliedschaften [Mitglied 268]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 96]>
     <OrtPraesidium Partei [Adressverwalter 5, Kassier 1, Mitglied 8, Praesident 1]>
    <Ort Reinach>
-    <OrtSympathisanten Sympathisanten [Sympathisant 294]>
+    <OrtSympathisanten Sympathisanten [Sympathisant 275]>
     <OrtSekretariat Sekretariat [Mitarbeiter 1]>
     <OrtGewaehlte Exekutive [KommunaleExekutive 1]>
     <OrtGewaehlte Legislative [KommunaleExekutive 5]>
-    <OrtMitglieder Mitgliedschaften [Mitglied 213]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 78]>
     <OrtPraesidium Partei [Adressverwalter 4, Mitglied 9, Praesident 2]>
   <Region Wahlkreis Sissach>
    <RegionSympathisanten Sympathisanten [Sympathisant 1]>
    <RegionMitglieder Mitgliedschaften [Mitglied 2]>
   <Region Wahlkreis Waldenburg>
    <RegionSekretariat Sekretariat [Mitarbeiter 1]>
-   <RegionGewaehlte Exekutive [RegionExekutive 1]>
-   <RegionMitglieder Mitgliedschaften [Mitglied 20]>
+   <RegionArbeitsgruppe Exekutive [Mitglied 1]>
+   <RegionMitglieder Mitgliedschaften [Mitglied 19]>
    <RegionPraesidium Partei [Mitglied 1]>
   <Region Wahlreis Pratteln>
-   <RegionSympathisanten Sympathisanten [Sympathisant 11]>
+   <RegionSympathisanten Sympathisanten [Sympathisant 10]>
    <RegionSekretariat Sekretariat [Mitarbeiter 2]>
-   <RegionGewaehlte Exekutive [RegionExekutive 1]>
-   <RegionGewaehlte Legislative [RegionLegislative 3]>
-   <RegionMitglieder Mitgliedschaften [Mitglied 31]>
+   <RegionArbeitsgruppe Exekutive [Mitglied 1]>
+   <RegionArbeitsgruppe Legislative [Mitglied 3]>
+   <RegionMitglieder Mitgliedschaften [Mitglied 23]>
    <RegionPraesidium Partei [Kassier 1, Mitglied 9, Praesident 2]>
