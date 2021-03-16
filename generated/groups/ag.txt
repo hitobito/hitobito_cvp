@@ -155,7 +155,6 @@
     <OrtMitglieder id=5010, label=Mitgliedschaften, parent_id=773>
     <OrtPraesidium id=2446, label=Partei, parent_id=773>
    <Ort id=776, label=Spreitenbach, parent_id=337>
-    <OrtSympathisanten id=40676, label=Sympathisanten, parent_id=776>
     <OrtGewaehlte id=2448, label=Exekutive, parent_id=776>
     <OrtGewaehlte id=39621, label=Mandat, parent_id=776>
     <OrtMitglieder id=4914, label=Mitgliedschaften, parent_id=776>
@@ -314,7 +313,6 @@
    <RegionMitglieder id=824, label=Mitgliedschaften, parent_id=341>
    <RegionPraesidium id=828, label=Partei, parent_id=341>
    <Ort id=813, label=Eiken, parent_id=341>
-    <OrtSympathisanten id=40983, label=Sympathisanten, parent_id=813>
     <OrtGewaehlte id=2506, label=Exekutive, parent_id=813>
     <OrtMitglieder id=4929, label=Mitgliedschaften, parent_id=813>
     <OrtPraesidium id=2507, label=Partei, parent_id=813>

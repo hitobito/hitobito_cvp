@@ -4,7 +4,6 @@
  <BundGewaehlte Nationalrat [Nationalrat 138]>
  <BundGewaehlte Ständerat [Staenderat 47]>
  <Kanton CVP SO>
-  <KantonSympathisanten Sympathisanten [Sympathisant 124]>
   <KantonParteigremium Parteigremium [Mitglied 3]>
   <KantonSekretariat Sekretariat [Leitung 2, Webadministrator 1]>
   <KantonExterneKontakte ExterneKontakte [Medien 15]>
@@ -27,7 +26,7 @@
   <KantonExterneKontakte Newsletter [Kontakt 1154]>
   <KantonGewaehlte Regierungsrat [KantonaleExekutive 4]>
   <KantonGewaehlte Legislative [KantonaleLegislative 74]>
-  <KantonMitglieder Mitgliedschaften [Mitglied 3874]>
+  <KantonMitglieder Mitgliedschaften [Mitglied 3838]>
   <KantonPraesidium Erweiterte Parteileitung [Mitglied 18]>
   <KantonPraesidium Partei [Kassier 1, Mitglied 40, Praesident 10]>
   <KantonPraesidium Parteileitung [Mitglied 12]>
@@ -59,7 +58,7 @@
     <OrtGewaehlte Exekutive [KommunaleExekutive 2]>
     <OrtPraesidium Partei [Adressverwalter 4, Praesident 2]>
    <Ort Etziken>
-    <OrtSympathisanten Sympathisanten [Sympathisant 11]>
+    <OrtSympathisanten Sympathisanten [Sympathisant 10]>
     <OrtPraesidium Partei [Praesident 1]>
    <Ort Gerlafingen>
     <OrtSympathisanten Sympathisanten [Sympathisant 21]>
@@ -80,17 +79,17 @@
     <OrtSympathisanten Sympathisanten [Sympathisant 7]>
     <OrtPraesidium Partei [Praesident 1]>
    <Ort Kriegstetten>
-    <OrtSympathisanten Sympathisanten [Sympathisant 13]>
+    <OrtSympathisanten Sympathisanten [Sympathisant 11]>
     <OrtMitglieder Mitgliedschaften [Mitglied 4]>
     <OrtPraesidium Partei [Praesident 1]>
    <Ort Küttigkofen>
     <OrtSympathisanten Sympathisanten [Sympathisant 1]>
    <Ort Lohn-Ammannsegg>
-    <OrtSympathisanten Sympathisanten [Sympathisant 9]>
+    <OrtSympathisanten Sympathisanten [Sympathisant 8]>
     <OrtMitglieder Mitgliedschaften [Mitglied 2]>
     <OrtPraesidium Partei [Adressverwalter 1, Praesident 2]>
    <Ort Luterbach>
-    <OrtSympathisanten Sympathisanten [Sympathisant 160]>
+    <OrtSympathisanten Sympathisanten [Sympathisant 158]>
     <OrtGewaehlte Exekutive [Fraktionschef 1, KommunaleExekutive 8]>
     <OrtPraesidium Partei [Adressverwalter 4, Praesident 3]>
    <Ort Lüterswil-Gächliwil>
@@ -106,7 +105,7 @@
     <OrtSympathisanten Sympathisanten [Sympathisant 17]>
     <OrtPraesidium Partei [Praesident 1]>
    <Ort Recherswil>
-    <OrtSympathisanten Sympathisanten [Sympathisant 34]>
+    <OrtSympathisanten Sympathisanten [Sympathisant 33]>
     <OrtGewaehlte Exekutive [KommunaleExekutive 2]>
     <OrtMitglieder Mitgliedschaften [Mitglied 1]>
     <OrtPraesidium Partei [Praesident 1]>
@@ -127,7 +126,7 @@
     <OrtPraesidium Partei [Adressverwalter 4, Praesident 3]>
   <Region Amteipartei Dorneck-Thierstein>
    <RegionSympathisanten Sympathisanten [Sympathisant 4]>
-   <RegionGewaehlte Judikative [RegionJudikative 2]>
+   <RegionArbeitsgruppe Judikative [Mitglied 2]>
    <RegionMitglieder Mitgliedschaften [Mitglied 19]>
    <RegionPraesidium Partei [Praesident 2]>
    <Ort Beinwil>
@@ -155,11 +154,11 @@
     <OrtMitglieder Mitgliedschaften [Mitglied 5]>
     <OrtPraesidium Partei [Praesident 1]>
    <Ort Büsserach>
-    <OrtSympathisanten Sympathisanten [Sympathisant 16]>
+    <OrtSympathisanten Sympathisanten [Sympathisant 15]>
     <OrtGewaehlte Exekutive [KommunaleExekutive 2]>
     <OrtPraesidium Partei [Praesident 1]>
    <Ort Dornach>
-    <OrtSympathisanten Sympathisanten [Sympathisant 57]>
+    <OrtSympathisanten Sympathisanten [Sympathisant 54]>
     <OrtGewaehlte Exekutive [KommunaleExekutive 1]>
     <OrtMitglieder Mitgliedschaften [Mitglied 4]>
     <OrtPraesidium Partei [Adressverwalter 7, Praesident 1]>
@@ -177,17 +176,17 @@
     <OrtSympathisanten Sympathisanten [Sympathisant 11]>
     <OrtPraesidium Partei [Adressverwalter 1]>
    <Ort Grindel>
-    <OrtSympathisanten Sympathisanten [Sympathisant 10]>
+    <OrtSympathisanten Sympathisanten [Sympathisant 9]>
     <OrtPraesidium Partei [Adressverwalter 1]>
    <Ort Himmelried>
-    <OrtSympathisanten Sympathisanten [Sympathisant 29]>
+    <OrtSympathisanten Sympathisanten [Sympathisant 28]>
     <OrtGewaehlte Exekutive [KommunaleExekutive 2]>
     <OrtMitglieder Mitgliedschaften [Mitglied 4]>
     <OrtPraesidium Partei [Praesident 1]>
    <Ort Hochwald>
     <OrtSympathisanten Sympathisanten [Sympathisant 46]>
     <OrtGewaehlte Exekutive [KommunaleExekutive 2]>
-    <OrtMitglieder Mitgliedschaften [Mitglied 3]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 2]>
     <OrtPraesidium Partei [Adressverwalter 2, Praesident 1]>
    <Ort Hofstetten-Flüh>
     <OrtSympathisanten Sympathisanten [Sympathisant 33]>
@@ -204,7 +203,7 @@
     <OrtGewaehlte Exekutive [KommunaleExekutive 1]>
     <OrtPraesidium Partei [Praesident 3]>
    <Ort Metzerlen-Mariastein>
-    <OrtSympathisanten Sympathisanten [Sympathisant 26]>
+    <OrtSympathisanten Sympathisanten [Sympathisant 25]>
     <OrtGewaehlte Exekutive [KommunaleExekutive 1]>
     <OrtMitglieder Mitgliedschaften [Mitglied 1]>
     <OrtPraesidium Partei [Praesident 1]>
@@ -215,7 +214,7 @@
     <OrtMitglieder Mitgliedschaften [Mitglied 2]>
     <OrtPraesidium Partei [Adressverwalter 2, Praesident 1]>
    <Ort Nunningen>
-    <OrtSympathisanten Sympathisanten [Sympathisant 48]>
+    <OrtSympathisanten Sympathisanten [Sympathisant 47]>
     <OrtGewaehlte Exekutive [KommunaleExekutive 3]>
     <OrtMitglieder Mitgliedschaften [Mitglied 3]>
     <OrtPraesidium Partei [Adressverwalter 2, Praesident 1]>
@@ -227,18 +226,18 @@
     <OrtMitglieder Mitgliedschaften [Mitglied 2]>
     <OrtPraesidium Partei [Praesident 1]>
    <Ort Witterswil>
-    <OrtSympathisanten Sympathisanten [Sympathisant 31]>
+    <OrtSympathisanten Sympathisanten [Sympathisant 30]>
     <OrtGewaehlte Exekutive [KommunaleExekutive 4]>
     <OrtMitglieder Mitgliedschaften [Mitglied 6]>
     <OrtPraesidium Partei [Praesident 1]>
    <Ort Zullwil>
-    <OrtSympathisanten Sympathisanten [Sympathisant 16]>
+    <OrtSympathisanten Sympathisanten [Sympathisant 15]>
     <OrtGewaehlte Exekutive [KommunaleExekutive 1]>
     <OrtPraesidium Partei [Praesident 1]>
   <Region Amteipartei Olten-Gösgen>
    <RegionSympathisanten Sympathisanten [Sympathisant 1]>
-   <RegionGewaehlte Judikative [RegionJudikative 1]>
-   <RegionMitglieder Mitgliedschaften [Mitglied 106]>
+   <RegionArbeitsgruppe Judikative [Mitglied 1]>
+   <RegionMitglieder Mitgliedschaften [Mitglied 104]>
    <RegionPraesidium Partei [Praesident 2]>
    <Ort Boningen>
     <OrtSympathisanten Sympathisanten [Sympathisant 9]>
@@ -246,9 +245,9 @@
     <OrtMitglieder Mitgliedschaften [Mitglied 1]>
     <OrtPraesidium Partei [Praesident 1]>
    <Ort Dulliken>
-    <OrtSympathisanten Sympathisanten [Sympathisant 35]>
+    <OrtSympathisanten Sympathisanten [Sympathisant 36]>
     <OrtGewaehlte Exekutive [KommunaleExekutive 1]>
-    <OrtMitglieder Mitgliedschaften [Mitglied 3]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 2]>
     <OrtPraesidium Partei [Adressverwalter 2, Praesident 1]>
    <Ort Däniken>
     <OrtSympathisanten Sympathisanten [Sympathisant 31]>
@@ -267,7 +266,7 @@
     <OrtMitglieder Mitgliedschaften [Mitglied 2]>
     <OrtPraesidium Partei [Praesident 1]>
    <Ort Gretzenbach>
-    <OrtSympathisanten Sympathisanten [Sympathisant 29]>
+    <OrtSympathisanten Sympathisanten [Sympathisant 28]>
     <OrtGewaehlte Exekutive [KommunaleExekutive 1]>
     <OrtPraesidium Partei [Praesident 1]>
    <Ort Gunzgen>
@@ -284,7 +283,7 @@
     <OrtMitglieder Mitgliedschaften [Mitglied 1]>
     <OrtPraesidium Partei [Adressverwalter 4, Praesident 1]>
    <Ort Kappel>
-    <OrtSympathisanten Sympathisanten [Sympathisant 38]>
+    <OrtSympathisanten Sympathisanten [Sympathisant 37]>
     <OrtGewaehlte Exekutive [Fraktionschef 1, KommunaleExekutive 1]>
     <OrtPraesidium Partei [Adressverwalter 4, Praesident 1]>
    <Ort Kienberg>
@@ -298,23 +297,23 @@
    <Ort Newsletter>
     <OrtArbeitsgruppe Arbeitsgruppe [Mitglied 227]>
    <Ort Niedergösgen>
-    <OrtSympathisanten Sympathisanten [Sympathisant 43]>
+    <OrtSympathisanten Sympathisanten [Sympathisant 42]>
     <OrtGewaehlte Exekutive [Fraktionschef 2, KommunaleExekutive 8]>
     <OrtMitglieder Mitgliedschaften [Mitglied 2]>
     <OrtPraesidium Partei [Praesident 4]>
    <Ort Obergösgen>
-    <OrtSympathisanten Sympathisanten [Sympathisant 26]>
+    <OrtSympathisanten Sympathisanten [Sympathisant 25]>
     <OrtGewaehlte Exekutive [KommunaleExekutive 1]>
     <OrtMitglieder Mitgliedschaften [Mitglied 3]>
     <OrtPraesidium Partei [Adressverwalter 2, Praesident 1]>
    <Ort Olten>
-    <OrtSympathisanten Sympathisanten [Sympathisant 116]>
+    <OrtSympathisanten Sympathisanten [Sympathisant 108]>
     <OrtGewaehlte Exekutive [Fraktionschef 1, KommunaleExekutive 1]>
     <OrtGewaehlte Legislative [KommunaleExekutive 9]>
-    <OrtMitglieder Mitgliedschaften [Mitglied 93]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 86]>
     <OrtPraesidium Partei [Adressverwalter 16, Mitglied 11, Praesident 2]>
    <Ort Rickenbach>
-    <OrtSympathisanten Sympathisanten [Sympathisant 18]>
+    <OrtSympathisanten Sympathisanten [Sympathisant 17]>
     <OrtGewaehlte Exekutive [Fraktionschef 1, KommunaleExekutive 2]>
     <OrtMitglieder Mitgliedschaften [Mitglied 2]>
     <OrtPraesidium Partei [Praesident 1]>
@@ -335,9 +334,9 @@
     <OrtGewaehlte Exekutive [KommunaleExekutive 1]>
     <OrtPraesidium Partei [Praesident 2]>
    <Ort Trimbach>
-    <OrtSympathisanten Sympathisanten [Sympathisant 35]>
+    <OrtSympathisanten Sympathisanten [Sympathisant 34]>
     <OrtGewaehlte Exekutive [KommunaleExekutive 1]>
-    <OrtMitglieder Mitgliedschaften [Mitglied 3]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 4]>
     <OrtPraesidium Partei [Adressverwalter 1, Mitglied 1, Praesident 1]>
    <Ort Walterswil>
     <OrtSympathisanten Sympathisanten [Sympathisant 10]>
@@ -356,13 +355,13 @@
     <OrtPraesidium Partei [Praesident 1]>
   <Region Amteipartei Solothurn-Lebern>
    <RegionSympathisanten Sympathisanten [Sympathisant 5]>
-   <RegionGewaehlte Judikative [RegionJudikative 1]>
-   <RegionMitglieder Mitgliedschaften [Mitglied 82]>
+   <RegionArbeitsgruppe Judikative [Mitglied 1]>
+   <RegionMitglieder Mitgliedschaften [Mitglied 79]>
    <RegionPraesidium Partei [Praesident 3]>
    <Ort Balm bei Günsberg>
-    <OrtSympathisanten Sympathisanten [Sympathisant 5]>
+    <OrtSympathisanten Sympathisanten [Sympathisant 4]>
    <Ort Bellach>
-    <OrtSympathisanten Sympathisanten [Sympathisant 46]>
+    <OrtSympathisanten Sympathisanten [Sympathisant 44]>
     <OrtGewaehlte Exekutive [KommunaleExekutive 2]>
     <OrtMitglieder Mitgliedschaften [Mitglied 3]>
     <OrtPraesidium Partei [Adressverwalter 1, Praesident 1]>
@@ -379,15 +378,15 @@
     <OrtSympathisanten Sympathisanten [Sympathisant 8]>
     <OrtPraesidium Partei [Adressverwalter 1, Praesident 1]>
    <Ort Grenchen>
-    <OrtSympathisanten Sympathisanten [Sympathisant 27]>
+    <OrtSympathisanten Sympathisanten [Sympathisant 25]>
     <OrtGewaehlte Gewaehlte [MitgliedWeitereGemeindeKommissionen 30]>
     <OrtGewaehlte Exekutive [KommunaleExekutive 3]>
-    <OrtMitglieder Mitgliedschaften [Mitglied 128]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 127]>
     <OrtPraesidium Partei [Adressverwalter 3, Mitglied 1]>
    <Ort Günsberg>
     <OrtSympathisanten Sympathisanten [Sympathisant 9]>
    <Ort Hubersdorf>
-    <OrtSympathisanten Sympathisanten [Sympathisant 33]>
+    <OrtSympathisanten Sympathisanten [Sympathisant 32]>
     <OrtGewaehlte Exekutive [Fraktionschef 1, KommunaleExekutive 2]>
     <OrtMitglieder Mitgliedschaften [Mitglied 1]>
     <OrtPraesidium Partei [Praesident 1]>
@@ -398,7 +397,7 @@
     <OrtGewaehlte Exekutive [KommunaleExekutive 1]>
     <OrtPraesidium Partei [Adressverwalter 1, Praesident 1]>
    <Ort Lommiswil>
-    <OrtSympathisanten Sympathisanten [Sympathisant 37]>
+    <OrtSympathisanten Sympathisanten [Sympathisant 32]>
     <OrtGewaehlte Exekutive [KommunaleExekutive 1]>
     <OrtMitglieder Mitgliedschaften [Mitglied 2]>
    <Ort Newsletter>
@@ -406,7 +405,7 @@
    <Ort Niederwil>
     <OrtSympathisanten Sympathisanten [Sympathisant 2]>
    <Ort Oberdorf>
-    <OrtSympathisanten Sympathisanten [Sympathisant 23]>
+    <OrtSympathisanten Sympathisanten [Sympathisant 21]>
     <OrtGewaehlte Exekutive [Fraktionschef 1, KommunaleExekutive 1]>
     <OrtMitglieder Mitgliedschaften [Mitglied 2]>
     <OrtPraesidium Partei [Adressverwalter 1, Praesident 1]>
@@ -416,11 +415,11 @@
     <OrtMitglieder Mitgliedschaften [Mitglied 1]>
     <OrtPraesidium Partei [Praesident 1]>
    <Ort Rüttenen>
-    <OrtSympathisanten Sympathisanten [Sympathisant 17]>
+    <OrtSympathisanten Sympathisanten [Sympathisant 16]>
     <OrtGewaehlte Exekutive [KommunaleExekutive 3]>
     <OrtPraesidium Partei [Praesident 2]>
    <Ort Selzach>
-    <OrtSympathisanten Sympathisanten [Sympathisant 113]>
+    <OrtSympathisanten Sympathisanten [Sympathisant 111]>
     <OrtGewaehlte Exekutive [KommunaleExekutive 4]>
     <OrtPraesidium Partei [Adressverwalter 1, Praesident 1]>
    <Ort Solothurn>
@@ -431,7 +430,7 @@
     <OrtPraesidium Partei [Adressverwalter 9, Praesident 2]>
   <Region Amteipartei Thal-Gäu>
    <RegionSympathisanten Sympathisanten [Sympathisant 2]>
-   <RegionGewaehlte Judikative [RegionJudikative 1]>
+   <RegionArbeitsgruppe Judikative [Mitglied 1]>
    <RegionMitglieder Mitgliedschaften [Mitglied 14]>
    <RegionPraesidium Partei [Praesident 2]>
    <Ort Aedermannsdorf>
@@ -439,14 +438,13 @@
     <OrtGewaehlte Exekutive [Fraktionschef 1, KommunaleExekutive 4]>
     <OrtPraesidium Partei [Praesident 1]>
    <Ort Balsthal>
-    <OrtSympathisanten Sympathisanten [Sympathisant 497]>
+    <OrtSympathisanten Sympathisanten [Sympathisant 498]>
     <OrtGewaehlte Exekutive [KommunaleExekutive 3]>
-    <OrtMitglieder Mitgliedschaften [Mitglied 4]>
     <OrtPraesidium Partei [Adressverwalter 7, Mitglied 7, Praesident 3]>
    <Ort Egerkingen>
-    <OrtSympathisanten Sympathisanten [Sympathisant 29]>
+    <OrtSympathisanten Sympathisanten [Sympathisant 10]>
     <OrtGewaehlte Exekutive [KommunaleExekutive 3]>
-    <OrtMitglieder Mitgliedschaften [Mitglied 181]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 180]>
     <OrtPraesidium Partei [Adressverwalter 2, Praesident 1]>
    <Ort Herbetswil>
     <OrtSympathisanten Sympathisanten [Sympathisant 15]>
@@ -472,17 +470,17 @@
     <OrtMitglieder Mitgliedschaften [Mitglied 4]>
     <OrtPraesidium Partei [Praesident 3]>
    <Ort Matzendorf>
-    <OrtSympathisanten Sympathisanten [Sympathisant 45]>
+    <OrtSympathisanten Sympathisanten [Sympathisant 44]>
     <OrtGewaehlte Exekutive [KommunaleExekutive 4]>
     <OrtMitglieder Mitgliedschaften [Mitglied 2]>
     <OrtPraesidium Partei [Praesident 1]>
    <Ort Mümliswil-Ramiswil>
-    <OrtSympathisanten Sympathisanten [Sympathisant 76]>
+    <OrtSympathisanten Sympathisanten [Sympathisant 73]>
     <OrtGewaehlte Exekutive [Fraktionschef 1, KommunaleExekutive 4]>
     <OrtMitglieder Mitgliedschaften [Mitglied 3]>
     <OrtPraesidium Partei [Adressverwalter 2, Praesident 2]>
    <Ort Neuendorf>
-    <OrtSympathisanten Sympathisanten [Sympathisant 37]>
+    <OrtSympathisanten Sympathisanten [Sympathisant 36]>
     <OrtGewaehlte Exekutive [KommunaleExekutive 5]>
     <OrtMitglieder Mitgliedschaften [Mitglied 1]>
     <OrtPraesidium Partei [Adressverwalter 2, Praesident 1]>
@@ -493,12 +491,12 @@
     <OrtGewaehlte Exekutive [Fraktionschef 1]>
     <OrtPraesidium Partei [Adressverwalter 1, Praesident 1]>
    <Ort Oberbuchsiten>
-    <OrtSympathisanten Sympathisanten [Sympathisant 31]>
+    <OrtSympathisanten Sympathisanten [Sympathisant 30]>
     <OrtGewaehlte Exekutive [KommunaleExekutive 2]>
     <OrtMitglieder Mitgliedschaften [Mitglied 2]>
     <OrtPraesidium Partei [Adressverwalter 1, Praesident 1]>
    <Ort Oensingen>
-    <OrtSympathisanten Sympathisanten [Sympathisant 50]>
+    <OrtSympathisanten Sympathisanten [Sympathisant 48]>
     <OrtGewaehlte Exekutive [Fraktionschef 1, KommunaleExekutive 4]>
     <OrtMitglieder Mitgliedschaften [Mitglied 4]>
     <OrtPraesidium Partei [Praesident 1]>

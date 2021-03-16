@@ -6,8 +6,8 @@
   <VereinigungArbeitsgruppe Freundeskreis [Mitglied 1520]>
   <VereinigungPraesidium CVP Frauen Schweiz [Mitglied 145, Praesident 4]>
   <Kanton AG>
-   <KantonSympathisanten Sympathisanten [Sympathisant 263]>
-   <KantonMitglieder Mitgliedschaften [Mitglied 119]>
+   <KantonSympathisanten Sympathisanten [Sympathisant 259]>
+   <KantonMitglieder Mitgliedschaften [Mitglied 77]>
   <Kanton AI>
    <KantonPraesidium Praesidium [Praesident 1]>
   <Kanton BE>
@@ -27,26 +27,26 @@
    <KantonSekretariat Sekretariat [Leitung 1]>
    <KantonMitglieder Mitglieder [Mitglied 3]>
   <Kanton GR>
-   <KantonSympathisanten Sympathisanten [Sympathisant 42]>
+   <KantonSympathisanten Sympathisanten [Sympathisant 41]>
    <KantonDelegierte Delegierte [Delegierte 2]>
    <KantonArbeitsgruppe Frau Aktiv [Mitglied 50]>
-   <KantonMitglieder Mitgliedschaften [Mitglied 404]>
+   <KantonMitglieder Mitgliedschaften [Mitglied 382]>
    <KantonPraesidium Vorstand [Mitglied 7, Praesident 1]>
   <Kanton JU>
-   <KantonMitglieder Mitgliedschaften [Mitglied 488]>
+   <KantonMitglieder Mitgliedschaften [Mitglied 475]>
   <Kanton LU>
-   <KantonSympathisanten Sympathisanten [Sympathisant 2754]>
+   <KantonSympathisanten Sympathisanten [Sympathisant 2731]>
    <KantonExterneKontakte Newsletter [Kontakt 1438]>
-   <KantonMitglieder Mitgliedschaften [Mitglied 424]>
+   <KantonMitglieder Mitgliedschaften [Mitglied 419]>
   <Kanton NE>
    <KantonPraesidium Praesidium [Praesident 1]>
    <KantonMitglieder Mitglieder [Mitglied 1]>
   <Kanton NW>
    <KantonMitglieder Mitglieder [Mitglied 2]>
   <Kanton SG>
-   <KantonSympathisanten Sympathisanten [Sympathisant 94]>
+   <KantonSympathisanten Sympathisanten [Sympathisant 88]>
    <KantonExterneKontakte Newsletter [Kontakt 264]>
-   <KantonMitglieder Mitgliedschaften [Mitglied 274]>
+   <KantonMitglieder Mitgliedschaften [Mitglied 219]>
    <KantonPraesidium Vorstand [Kassier 1, Mitglied 2, Praesident 1]>
   <Kanton SH>
    <KantonPraesidium Praesidium [Praesident 1]>
@@ -54,9 +54,9 @@
   <Kanton SO>
    <KantonMitglieder Mitgliedschaften [Mitglied 3]>
   <Kanton TG>
-   <KantonSympathisanten Sympathisanten [Sympathisant 140]>
+   <KantonSympathisanten Sympathisanten [Sympathisant 124]>
    <KantonExterneKontakte Newsletter [Kontakt 252]>
-   <KantonMitglieder Mitgliedschaften [Mitglied 94]>
+   <KantonMitglieder Mitgliedschaften [Mitglied 82]>
    <KantonPraesidium Vorstand [Mitglied 12, Praesident 2]>
   <Kanton TI>
    <KantonPraesidium Praesidium [Praesident 2]>
@@ -64,13 +64,13 @@
   <Kanton VD>
    <KantonSympathisanten Sympathisanten [Sympathisant 1]>
    <KantonArbeitsgruppe Parti [Praesident 1]>
-   <KantonMitglieder Mitgliedschaften [Mitglied 108]>
+   <KantonMitglieder Mitgliedschaften [Mitglied 100]>
   <Kanton VS Oberwallis>
    <KantonMitglieder Mitgliedschaften [Mitglied 19]>
   <Kanton ZG>
    <KantonPraesidium Praesidium [Praesident 1]>
    <KantonMitglieder Mitglieder [Mitglied 253]>
   <Kanton ZH>
-   <KantonSympathisanten Sympathisanten [Sympathisant 167]>
+   <KantonSympathisanten Sympathisanten [Sympathisant 146]>
    <KantonExterneKontakte Newsletter [Kontakt 1]>
-   <KantonMitglieder Mitgliedschaften [Mitglied 84]>
+   <KantonMitglieder Mitgliedschaften [Mitglied 80]>

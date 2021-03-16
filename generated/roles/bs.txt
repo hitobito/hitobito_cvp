@@ -4,7 +4,7 @@
  <BundGewaehlte Nationalrat [Nationalrat 138]>
  <BundGewaehlte Ständerat [Staenderat 47]>
  <Kanton CVP BS>
-  <KantonSympathisanten Sympathisanten [Sympathisant 132]>
+  <KantonSympathisanten Sympathisanten [Sympathisant 127]>
   <KantonPraesidium Praesidium [Kassier 1, Mitglied 5]>
   <KantonSekretariat Sekretariat [Leitung 1]>
   <KantonArbeitsgruppe Arbeitsgruppe [Praesident 4]>
@@ -33,30 +33,31 @@
    <KantonGewaehlte Strafgericht [MitgliedKantonalesGerichtErsteInstanz 6]>
    <KantonGewaehlte Zivilgericht [MitgliedKantonalesGerichtErsteInstanz 3]>
   <KantonGewaehlte Legislative [Fraktionschef 1, KantonaleLegislative 15]>
-  <KantonMitglieder Mitgliedschaften [Mitglied 165]>
+  <KantonMitglieder Mitgliedschaften [Mitglied 12]>
   <KantonParteigremium Vorstand [Mitglied 24]>
   <KantonPraesidium Parteileitung [Mitglied 15]>
   <KantonSekretariat Partei [Mitarbeiter 1]>
   <Ort Riehen>
-   <OrtSympathisanten Sympathisanten [Sympathisant 23]>
+   <OrtSympathisanten Sympathisanten [Sympathisant 19]>
    <OrtGewaehlte Exekutive [KommunaleExekutive 2]>
    <OrtGewaehlte Legislative [KommunaleExekutive 4]>
-   <OrtMitglieder Mitgliedschaften [Mitglied 89]>
+   <OrtMitglieder Mitgliedschaften [Mitglied 53]>
    <OrtPraesidium Partei [Adressverwalter 10, Kassier 1, Mitglied 10, Praesident 1]>
   <Region Stadt Basel>
-   <RegionGewaehlte Exekutive [RegionExekutive 1]>
-   <RegionGewaehlte Legislative [RegionLegislative 7]>
+   <RegionArbeitsgruppe Basler Bürger [Mitglied 141]>
+   <RegionArbeitsgruppe Exekutive [Mitglied 1]>
+   <RegionArbeitsgruppe Legislative [Mitglied 7]>
    <Ort Grossbasel-Ost>
-    <OrtSympathisanten Sympathisanten [Sympathisant 56]>
-    <OrtMitglieder Mitgliedschaften [Mitglied 117]>
+    <OrtSympathisanten Sympathisanten [Sympathisant 39]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 78]>
     <OrtPraesidium Partei [Adressverwalter 11, Kassier 3, Mitglied 14, Praesident 1]>
    <Ort Grossbasel-West>
-    <OrtSympathisanten Sympathisanten [Sympathisant 65]>
-    <OrtMitglieder Mitgliedschaften [Mitglied 126]>
+    <OrtSympathisanten Sympathisanten [Sympathisant 43]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 83]>
     <OrtPraesidium Partei [Adressverwalter 11, Kassier 1, Mitglied 8, Praesident 1]>
    <Ort Kleinbasel>
-    <OrtSympathisanten Sympathisanten [Sympathisant 32]>
-    <OrtMitglieder Mitgliedschaften [Mitglied 89]>
+    <OrtSympathisanten Sympathisanten [Sympathisant 21]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 65]>
     <OrtPraesidium Partei [Adressverwalter 6, Kassier 2, Mitglied 13, Praesident 3]>
    <Ort Stiftungskommission>
     <OrtMitglieder Mitglieder [Mitglied 1]>

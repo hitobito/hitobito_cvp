@@ -4,21 +4,21 @@
  <BundGewaehlte Nationalrat [Nationalrat 138]>
  <BundGewaehlte Ständerat [Staenderat 47]>
  <Kanton CVP AR>
-  <KantonSympathisanten Sympathisanten [Sympathisant 14]>
+  <KantonSympathisanten Sympathisanten [Sympathisant 6]>
   <KantonSekretariat Sekretariat [Leitung 1, Mitarbeiter 1]>
   <KantonArbeitsgruppe Arbeitsgruppe [Mitglied 2]>
   <KantonExterneKontakte Newsletter [Kontakt 35]>
   <KantonGewaehlte Legislative [KantonaleLegislative 1]>
-  <KantonMitglieder Mitgliedschaften [Mitglied 65]>
+  <KantonMitglieder Mitgliedschaften [Mitglied 6]>
   <KantonPraesidium Partei [Kassier 1, Mitglied 3, Praesident 1]>
   <Ort Heiden>
    <OrtSympathisanten Sympathisanten [Sympathisant 1]>
    <OrtExterneKontakte Newsletter [Kontakt 40]>
-   <OrtMitglieder Mitgliedschaften [Mitglied 18]>
+   <OrtMitglieder Mitgliedschaften [Mitglied 15]>
    <OrtPraesidium Partei [Adressverwalter 1, Kassier 1, Mitglied 3, Praesident 2]>
   <Ort Herisau>
-   <OrtSympathisanten Sympathisanten [Sympathisant 23]>
+   <OrtSympathisanten Sympathisanten [Sympathisant 22]>
    <OrtExterneKontakte Newsletter [Kontakt 89]>
    <OrtGewaehlte Legislative [KommunaleExekutive 1]>
-   <OrtMitglieder Mitgliedschaften [Mitglied 57]>
+   <OrtMitglieder Mitgliedschaften [Mitglied 47]>
    <OrtPraesidium Partei [Adressverwalter 1]>

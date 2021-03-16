@@ -135,7 +135,6 @@
     <OrtMitglieder id=1267, label=Mitgliedschaften, parent_id=466>
     <OrtPraesidium id=1269, label=Partei, parent_id=466>
    <Ort id=467, label=Kreispartei Lugnez/Lumnezia, parent_id=482>
-    <OrtSympathisanten id=40695, label=Sympathisanten, parent_id=467>
     <OrtMitglieder id=1270, label=Mitgliedschaften, parent_id=467>
     <OrtPraesidium id=1271, label=Partei, parent_id=467>
   <Region id=483, label=Regionalpartei Valposchiavo, parent_id=161>
@@ -150,5 +149,6 @@
     <OrtMitglieder id=2868, label=Mitgliedschaften, parent_id=1290>
     <OrtPraesidium id=2869, label=Partei, parent_id=1290>
    <Ort id=1291, label=Ortspartei Thusis, parent_id=476>
+    <OrtSympathisanten id=40736, label=Sympathisanten, parent_id=1291>
     <OrtMitglieder id=2870, label=Mitgliedschaften, parent_id=1291>
     <OrtPraesidium id=2871, label=Partei, parent_id=1291>

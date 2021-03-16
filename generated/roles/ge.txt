@@ -63,56 +63,56 @@
    <KantonKommission Sécurité [Mitglied 11, Praesident 1]>
    <KantonKommission Transfrontalière [Mitglied 10, Praesident 1]>
    <KantonKommission Transports [Mitglied 14, Praesident 1]>
-  <KantonMitglieder Mitgliedschaften [Mitglied 74]>
+  <KantonMitglieder Mitgliedschaften [Mitglied 56]>
   <KantonPraesidium Partei [Kassier 1, Mitglied 19, Praesident 12]>
   <Ort Aire-La-Ville>
    <OrtGewaehlte Exekutive [KommunaleExekutive 1]>
-   <OrtMitglieder Mitgliedschaften [Mitglied 13]>
+   <OrtMitglieder Mitgliedschaften [Mitglied 12]>
    <OrtPraesidium Partei [Adressverwalter 1, Praesident 1]>
   <Ort Bardonnex>
    <OrtSekretariat Sekretariat [Leitung 1]>
    <OrtGewaehlte Exekutive [KommunaleExekutive 7]>
    <OrtGewaehlte Legislative [KommunaleExekutive 15]>
-   <OrtMitglieder Mitgliedschaften [Mitglied 83]>
+   <OrtMitglieder Mitgliedschaften [Mitglied 79]>
    <OrtPraesidium Partei [Adressverwalter 1, Kassier 1, Mitglied 3, Praesident 3]>
   <Ort Bellevue>
    <OrtGewaehlte Legislative [KommunaleExekutive 4]>
-   <OrtMitglieder Mitgliedschaften [Mitglied 11]>
+   <OrtMitglieder Mitgliedschaften [Mitglied 9]>
    <OrtPraesidium Partei [Praesident 2]>
   <Ort Bernex>
    <OrtSekretariat Sekretariat [Leitung 1]>
    <OrtGewaehlte Exekutive [KommunaleExekutive 5]>
    <OrtGewaehlte Legislative [KommunaleExekutive 12]>
-   <OrtMitglieder Mitgliedschaften [Mitglied 56]>
+   <OrtMitglieder Mitgliedschaften [Mitglied 54]>
    <OrtPraesidium Partei [Adressverwalter 4, Kassier 2, Praesident 3]>
   <Ort Carouge>
-   <OrtSympathisanten Sympathisanten [Sympathisant 18]>
+   <OrtSympathisanten Sympathisanten [Sympathisant 17]>
    <OrtGewaehlte Legislative [KommunaleExekutive 8]>
-   <OrtMitglieder Mitgliedschaften [Mitglied 75]>
+   <OrtMitglieder Mitgliedschaften [Mitglied 63]>
    <OrtPraesidium Partei [Adressverwalter 2, Kassier 2, Mitglied 5, Praesident 4]>
   <Ort Chêne-Bougeries>
    <OrtGewaehlte Legislative [KommunaleExekutive 2]>
-   <OrtMitglieder Mitgliedschaften [Mitglied 56]>
+   <OrtMitglieder Mitgliedschaften [Mitglied 52]>
    <OrtPraesidium Partei [Adressverwalter 4, Kassier 2, Praesident 1]>
   <Ort Chêne-Bourg>
    <OrtSekretariat Sekretariat [Leitung 1]>
    <OrtGewaehlte Exekutive [KommunaleExekutive 2]>
    <OrtGewaehlte Legislative [KommunaleExekutive 3]>
-   <OrtMitglieder Mitgliedschaften [Mitglied 39]>
+   <OrtMitglieder Mitgliedschaften [Mitglied 31]>
    <OrtPraesidium Partei [Adressverwalter 3, Mitglied 11, Praesident 2]>
   <Ort Coheran>
    <OrtSekretariat Sekretariat [Leitung 1]>
    <OrtGewaehlte Exekutive [KommunaleExekutive 3]>
    <OrtGewaehlte Legislative [KommunaleExekutive 4]>
-   <OrtMitglieder Mitgliedschaften [Mitglied 35]>
+   <OrtMitglieder Mitgliedschaften [Mitglied 34]>
    <OrtPraesidium Partei [Adressverwalter 1, Kassier 1, Praesident 1]>
   <Ort Collex-Bossy>
    <OrtGewaehlte Legislative [KommunaleExekutive 6]>
-   <OrtMitglieder Mitgliedschaften [Mitglied 25]>
+   <OrtMitglieder Mitgliedschaften [Mitglied 23]>
   <Ort Collonge-Bellerive>
    <OrtGewaehlte Exekutive [KommunaleExekutive 5]>
    <OrtGewaehlte Legislative [KommunaleExekutive 12]>
-   <OrtMitglieder Mitgliedschaften [Mitglied 95]>
+   <OrtMitglieder Mitgliedschaften [Mitglied 89]>
    <OrtPraesidium Partei [Adressverwalter 3, Kassier 1, Praesident 2]>
   <Ort Cologny>
    <OrtMitglieder Mitgliedschaften [Mitglied 19]>
@@ -121,92 +121,91 @@
    <OrtSekretariat Sekretariat [Leitung 1]>
    <OrtGewaehlte Exekutive [KommunaleExekutive 4]>
    <OrtGewaehlte Legislative [KommunaleExekutive 7]>
-   <OrtMitglieder Mitgliedschaften [Mitglied 39]>
+   <OrtMitglieder Mitgliedschaften [Mitglied 37]>
    <OrtPraesidium Partei [Adressverwalter 2, Kassier 2, Mitglied 4, Praesident 3]>
   <Ort Genthod>
    <OrtSekretariat Sekretariat [Leitung 1]>
    <OrtGewaehlte Legislative [KommunaleExekutive 4]>
-   <OrtMitglieder Mitgliedschaften [Mitglied 23]>
+   <OrtMitglieder Mitgliedschaften [Mitglied 19]>
    <OrtPraesidium Partei [Adressverwalter 1, Kassier 1, Praesident 3]>
   <Ort Grand-Saconnex>
    <OrtSympathisanten Sympathisanten [Sympathisant 1]>
    <OrtSekretariat Sekretariat [Leitung 1]>
    <OrtGewaehlte Exekutive [KommunaleExekutive 4]>
    <OrtGewaehlte Legislative [KommunaleExekutive 7]>
-   <OrtMitglieder Mitgliedschaften [Mitglied 51]>
+   <OrtMitglieder Mitgliedschaften [Mitglied 44]>
    <OrtPraesidium Partei [Adressverwalter 1, Kassier 2, Mitglied 18, Praesident 6]>
   <Ort La Champagne>
    <OrtGewaehlte Exekutive [KommunaleExekutive 4]>
-   <OrtMitglieder Mitgliedschaften [Mitglied 61]>
+   <OrtMitglieder Mitgliedschaften [Mitglied 42]>
    <OrtPraesidium Partei [Adressverwalter 3, Praesident 1]>
   <Ort Lancy>
-   <OrtSympathisanten Sympathisanten [Sympathisant 1]>
    <OrtSekretariat Sekretariat [Leitung 1]>
    <OrtGewaehlte Exekutive [KommunaleExekutive 4]>
    <OrtGewaehlte Legislative [KommunaleExekutive 17]>
-   <OrtMitglieder Mitgliedschaften [Mitglied 117]>
+   <OrtMitglieder Mitgliedschaften [Mitglied 102]>
    <OrtPraesidium Partei [Adressverwalter 2, Kassier 1, Mitglied 15, Praesident 3]>
   <Ort Mandemant>
    <OrtSekretariat Sekretariat [Leitung 1]>
    <OrtGewaehlte Exekutive [KommunaleExekutive 2]>
    <OrtGewaehlte Legislative [KommunaleExekutive 4]>
-   <OrtMitglieder Mitgliedschaften [Mitglied 18]>
+   <OrtMitglieder Mitgliedschaften [Mitglied 17]>
    <OrtPraesidium Partei [Praesident 1]>
   <Ort Meyrin>
    <OrtSekretariat Sekretariat [Leitung 1]>
    <OrtGewaehlte Exekutive [KommunaleExekutive 4]>
    <OrtGewaehlte Legislative [KommunaleExekutive 11]>
-   <OrtMitglieder Mitgliedschaften [Mitglied 62]>
+   <OrtMitglieder Mitgliedschaften [Mitglied 59]>
    <OrtPraesidium Partei [Adressverwalter 3, Kassier 1, Praesident 2]>
   <Ort Onex>
    <OrtSekretariat Sekretariat [Leitung 2]>
    <OrtGewaehlte Exekutive [KommunaleExekutive 1]>
    <OrtGewaehlte Legislative [KommunaleExekutive 2]>
-   <OrtMitglieder Mitgliedschaften [Mitglied 69]>
+   <OrtMitglieder Mitgliedschaften [Mitglied 62]>
    <OrtPraesidium Partei [Kassier 2, Mitglied 12, Praesident 3]>
   <Ort Plan-les-Ouates>
    <OrtSekretariat Sekretariat [Leitung 1]>
    <OrtGewaehlte Exekutive [KommunaleExekutive 4]>
    <OrtGewaehlte Legislative [KommunaleExekutive 11]>
-   <OrtMitglieder Mitgliedschaften [Mitglied 87]>
+   <OrtMitglieder Mitgliedschaften [Mitglied 81]>
    <OrtPraesidium Partei [Adressverwalter 2, Kassier 1, Mitglied 7, Praesident 2]>
   <Ort Pregny-Chambesy>
    <OrtSekretariat Sekretariat [Leitung 1]>
    <OrtGewaehlte Exekutive [KommunaleExekutive 1]>
    <OrtGewaehlte Legislative [KommunaleExekutive 4]>
-   <OrtMitglieder Mitgliedschaften [Mitglied 18]>
+   <OrtMitglieder Mitgliedschaften [Mitglied 15]>
    <OrtPraesidium Partei [Kassier 1, Praesident 2]>
   <Ort Thônex>
    <OrtSekretariat Sekretariat [Leitung 1]>
    <OrtGewaehlte Exekutive [KommunaleExekutive 5]>
    <OrtGewaehlte Legislative [KommunaleExekutive 12]>
-   <OrtMitglieder Mitgliedschaften [Mitglied 73]>
+   <OrtMitglieder Mitgliedschaften [Mitglied 63]>
    <OrtPraesidium Partei [Adressverwalter 1, Kassier 1, Praesident 3]>
   <Ort Troinex>
    <OrtSekretariat Sekretariat [Leitung 1]>
    <OrtGewaehlte Exekutive [KommunaleExekutive 4]>
    <OrtGewaehlte Legislative [KommunaleExekutive 3]>
-   <OrtMitglieder Mitgliedschaften [Mitglied 31]>
+   <OrtMitglieder Mitgliedschaften [Mitglied 28]>
    <OrtPraesidium Partei [Adressverwalter 2, Kassier 1, Praesident 1]>
   <Ort Vernier>
    <OrtSekretariat Sekretariat [Leitung 1]>
    <OrtGewaehlte Legislative [KommunaleExekutive 5]>
-   <OrtMitglieder Mitgliedschaften [Mitglied 78]>
+   <OrtMitglieder Mitgliedschaften [Mitglied 70]>
    <OrtPraesidium Partei [Adressverwalter 1, Kassier 1, Mitglied 3, Praesident 2]>
   <Ort Versoix>
    <OrtGewaehlte Exekutive [KommunaleExekutive 4]>
    <OrtGewaehlte Legislative [KommunaleExekutive 10]>
-   <OrtMitglieder Mitgliedschaften [Mitglied 60]>
+   <OrtMitglieder Mitgliedschaften [Mitglied 54]>
    <OrtPraesidium Partei [Adressverwalter 3, Kassier 1, Praesident 4]>
   <Ort Veyrier>
    <OrtSekretariat Sekretariat [Leitung 1]>
    <OrtGewaehlte Exekutive [KommunaleExekutive 4]>
    <OrtGewaehlte Legislative [KommunaleExekutive 7]>
-   <OrtMitglieder Mitgliedschaften [Mitglied 86]>
+   <OrtMitglieder Mitgliedschaften [Mitglied 76]>
    <OrtPraesidium Partei [Adressverwalter 6, Mitglied 22, Praesident 1]>
   <Ort Ville de Genève>
    <OrtSympathisanten Sympathisanten [Sympathisant 4]>
    <OrtGewaehlte Exekutive [KommunaleExekutive 4]>
    <OrtGewaehlte Legislative [KommunaleExekutive 17]>
-   <OrtMitglieder Mitgliedschaften [Mitglied 382]>
+   <OrtMitglieder Mitgliedschaften [Mitglied 325]>
    <OrtPraesidium Partei [Adressverwalter 17, Kassier 2, Mitglied 17, Praesident 4]>

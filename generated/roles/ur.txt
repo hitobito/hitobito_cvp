@@ -18,34 +18,34 @@
    <KantonGewaehlte Landgericht Ursern [MitgliedKantonalesGerichtErsteInstanz 1]>
    <KantonGewaehlte Obergericht [MitgliedKantonalesGerichtErsteInstanz 3]>
   <KantonGewaehlte Legislative [KantonaleLegislative 32]>
-  <KantonMitglieder Mitgliedschaften [Mitglied 159]>
+  <KantonMitglieder Mitgliedschaften [Mitglied 139]>
   <KantonParteigremium Kontrollkommission [Mitglied 3]>
   <KantonPraesidium Parteivorstand [Mitglied 5, Praesident 1]>
   <Ort Altdorf>
    <OrtSympathisanten Sympathisanten [Sympathisant 1]>
    <OrtGewaehlte Gewaehlte [Rechnungspruefungskommission 2]>
    <OrtGewaehlte Exekutive [KommunaleExekutive 3]>
-   <OrtMitglieder Mitgliedschaften [Mitglied 154]>
+   <OrtMitglieder Mitgliedschaften [Mitglied 86]>
    <OrtPraesidium Partei [Praesident 1]>
   <Ort Andermatt>
-   <OrtMitglieder Mitgliedschaften [Mitglied 30]>
+   <OrtMitglieder Mitgliedschaften [Mitglied 27]>
    <OrtPraesidium Partei [Adressverwalter 1, Praesident 2]>
   <Ort Attinghausen>
-   <OrtMitglieder Mitgliedschaften [Mitglied 75]>
+   <OrtMitglieder Mitgliedschaften [Mitglied 68]>
    <OrtPraesidium Partei [Adressverwalter 1, Praesident 1]>
   <Ort Bürglen>
-   <OrtMitglieder Mitgliedschaften [Mitglied 86]>
+   <OrtMitglieder Mitgliedschaften [Mitglied 80]>
    <OrtPraesidium Partei [Adressverwalter 1, Praesident 1]>
   <Ort Erstfeld>
    <OrtSympathisanten Sympathisanten [Sympathisant 6]>
-   <OrtMitglieder Mitgliedschaften [Mitglied 84]>
+   <OrtMitglieder Mitgliedschaften [Mitglied 71]>
    <OrtPraesidium Partei [Adressverwalter 3, Praesident 2]>
   <Ort Schattdorf>
-   <OrtMitglieder Mitgliedschaften [Mitglied 115]>
+   <OrtMitglieder Mitgliedschaften [Mitglied 105]>
    <OrtPraesidium Partei [Adressverwalter 5, Praesident 1]>
   <Ort Seedorf>
-   <OrtMitglieder Mitgliedschaften [Mitglied 41]>
+   <OrtMitglieder Mitgliedschaften [Mitglied 34]>
    <OrtPraesidium Partei [Praesident 1]>
   <Ort Silenen>
-   <OrtMitglieder Mitgliedschaften [Mitglied 31]>
+   <OrtMitglieder Mitgliedschaften [Mitglied 30]>
    <OrtPraesidium Partei [Adressverwalter 1, Praesident 1]>

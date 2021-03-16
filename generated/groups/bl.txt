@@ -46,17 +46,15 @@
   <Region id=386, label=Wahlkreis Allschwil/Schönenbuch, parent_id=156>
    <RegionSympathisanten id=40464, label=Sympathisanten, parent_id=386>
    <RegionSekretariat id=40468, label=Sekretariat, parent_id=386>
-   <RegionGewaehlte id=950, label=Exekutive, parent_id=386>
+   <RegionArbeitsgruppe id=950, label=Exekutive, parent_id=386>
    <RegionMitglieder id=952, label=Mitgliedschaften, parent_id=386>
    <RegionPraesidium id=953, label=Partei, parent_id=386>
   <Region id=398, label=Wahlkreis Binningen (inkl. Bottmingen), parent_id=156>
    <RegionSympathisanten id=40471, label=Sympathisanten, parent_id=398>
    <RegionSekretariat id=40475, label=Sekretariat, parent_id=398>
-   <RegionGewaehlte id=978, label=Legislative, parent_id=398>
+   <RegionArbeitsgruppe id=978, label=Legislative, parent_id=398>
    <RegionMitglieder id=979, label=Mitgliedschaften, parent_id=398>
    <RegionPraesidium id=980, label=Partei, parent_id=398>
-  <Region id=388, label=Wahlkreis Gelterkinden, parent_id=156>
-   <RegionMitglieder id=957, label=Mitgliedschaften, parent_id=388>
   <Region id=389, label=Wahlkreis Laufental, parent_id=156>
    <RegionSympathisanten id=40485, label=Sympathisanten, parent_id=389>
    <RegionSekretariat id=40489, label=Sekretariat, parent_id=389>
@@ -156,13 +154,13 @@
    <RegionMitglieder id=973, label=Mitgliedschaften, parent_id=394>
   <Region id=397, label=Wahlkreis Waldenburg, parent_id=156>
    <RegionSekretariat id=40720, label=Sekretariat, parent_id=397>
-   <RegionGewaehlte id=33679, label=Exekutive, parent_id=397>
+   <RegionArbeitsgruppe id=33679, label=Exekutive, parent_id=397>
    <RegionMitglieder id=976, label=Mitgliedschaften, parent_id=397>
    <RegionPraesidium id=33678, label=Partei, parent_id=397>
   <Region id=33684, label=Wahlreis Pratteln, parent_id=156>
    <RegionSympathisanten id=40723, label=Sympathisanten, parent_id=33684>
    <RegionSekretariat id=40727, label=Sekretariat, parent_id=33684>
-   <RegionGewaehlte id=33686, label=Exekutive, parent_id=33684>
-   <RegionGewaehlte id=36522, label=Legislative, parent_id=33684>
+   <RegionArbeitsgruppe id=33686, label=Exekutive, parent_id=33684>
+   <RegionArbeitsgruppe id=36522, label=Legislative, parent_id=33684>
    <RegionMitglieder id=35073, label=Mitgliedschaften, parent_id=33684>
    <RegionPraesidium id=33685, label=Partei, parent_id=33684>
