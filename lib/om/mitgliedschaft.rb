@@ -15,8 +15,8 @@ class Mitgliedschaft < SourceModel
     struktur_id
     mitgliedschafts_bezeichnung
     mitgliedschafts_nummer
-    erfassungs_datum
-    mutations_datum
+    created_at
+    deleted_at
   )
 
   scope :einzel, -> { where("mitgliedschafts_bezeichnung ~* '#{EINZEL}'") }
@@ -26,9 +26,10 @@ class Mitgliedschaft < SourceModel
   scope :other, -> { where.not(mitgliedschafts_nummer: mitglieder.select(:mitgliedschafts_nummer)) }
 
   def timestamps
-    { created_at: erfassungs_datum.presence || Time.zone.now,
-      updated_at: mutations_datum || Time.zone.now,
-      deleted_at: nil
+    {
+      created_at: created_at || deleted_at,
+      updated_at: Time.zone.now,
+      deleted_at: deleted_at
     }
   end
 

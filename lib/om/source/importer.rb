@@ -3,7 +3,7 @@ class Source::Importer
   include Rake::DSL
 
   def initialize(files = nil)
-    @zip = "~/Downloads/cvp/DatenExport.zip"
+    @zip = "~/Documents/hitobito/CVP/Migration/DatenExport_2.zip"
     @config = YAML.load_file(File.expand_path('config.yml', __dir__))
     @files = files ? Array(files) : config['files']
   end

@@ -3,6 +3,7 @@ files:
   - 01_KontaktDaten
   - 03_Kampagnenstamm
   - 06_SpendenHistory
+  - 08_MitgliedschaftMerkmal
   - 07_Mitgliedschaft
   - 09_MerkmalStamm
   - 11_Notizen
@@ -87,7 +88,10 @@ migrate:
         ALTER COLUMN kunden_id TYPE UUID USING kunden_id::uuid,
         ALTER COLUMN organisations_id TYPE UUID USING organisations_id::uuid,
         ALTER COLUMN mitgliedschafts_nummer TYPE INTEGER USING mitgliedschafts_nummer::integer,
-        ADD COLUMN struktur_id INTEGER;
+        ADD COLUMN struktur_id INTEGER,
+        ADD COLUMN created_at VARCHAR,
+        ADD COLUMN deleted_at VARCHAR;
+
 
       -- Update foreign key to verband:
       UPDATE mitgliedschaft
@@ -96,12 +100,26 @@ migrate:
       WHERE verbandstruktur.kunden_id = mitgliedschaft.organisations_id
       AND verbandstruktur.bezeichnung_d = 'Mitgliedschaften';
 
+      -- Update foreign key to verband:
+      UPDATE mitgliedschaft
+      SET created_at = datum
+      FROM mitgliedschaft_merkmal
+      WHERE mitgliedschaftsnummer = mitgliedschafts_nummer
+      AND mitgliedschaft_merkmal.hauptcode = '7019';
+
+      -- Update foreign key to verband:
+      UPDATE mitgliedschaft
+      SET deleted_at = datum
+      FROM mitgliedschaft_merkmal
+      WHERE mitgliedschaftsnummer = mitgliedschafts_nummer
+      AND mitgliedschaft_merkmal.hauptcode = '7022';
+
       -- CREATE indices for mv query:
       CREATE INDEX idx_mitgliedschaft_kunden_id ON mitgliedschaft(kunden_id);
 
-      -- Create mv without deleted kontakts and duplicate entries (about 10_000):
+      -- Create mv without deleted kontakts:
       CREATE MATERIALIZED VIEW mitgliedschafts AS
-      SELECT DISTINCT ON(struktur_id, kunden_id) * FROM mitgliedschaft
+      SELECT * FROM mitgliedschaft
       WHERE kunden_id IN (
         SELECT kunden_id FROM people
       ) ORDER BY struktur_id, kunden_id, erfassungs_datum DESC;
@@ -110,6 +128,16 @@ migrate:
       CREATE INDEX midx_mitgliedschaft_struktur_id ON mitgliedschafts(struktur_id);
       CREATE INDEX midx_mitgliedschaft_kunden_id ON mitgliedschafts(kunden_id);
       CREATE INDEX midx_mitgliedschaft_label ON mitgliedschafts USING gin(lower(mitgliedschafts_bezeichnung) gin_trgm_ops);
+
+  08_MitgliedschaftMerkmal:
+    alter: |
+      -- Change types:
+        ALTER TABLE mitgliedschaft_merkmal
+          ALTER COLUMN mitgliedschaftsnummer TYPE INTEGER USING mitgliedschaftsnummer::integer;
+
+        CREATE INDEX idx_mitgliedschaft_merkmal_mitgliedschaftsnummer ON mitgliedschaft_merkmal(mitgliedschaftsnummer);
+
+
   09_MerkmalStamm:
     alter: |
       -- Create a primary key:

@@ -55,7 +55,7 @@ module Structure::Steps::Role
 
     # TODO we are ignoring some mitgliedschaften here
     def mitgliedschaften
-      Mitgliedschaft.where(
+      Mitgliedschaft.where(deleted_at: nil).where(
         struktur_id: @rows.select(&:mitgliedschaft?).collect(&:id)
       ).mitglieder.minimal
     end
