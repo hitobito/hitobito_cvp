@@ -17,6 +17,8 @@ module Import
       end
     end
 
+    # By kundennummer, 0 familie
+    #
     Family = Struct.new(:nr, :members) do
       def attrs
         return {} unless valid?
@@ -57,6 +59,10 @@ module Import
         members.find(&:stale?)&.id
       end
 
+      def other_ids
+        members.reject(&:stale?).collect(&:id)
+      end
+
       def stale?
         members.select(&:stale?).one?
       end
@@ -69,11 +75,19 @@ module Import
     def run
       update_households
       update_people_memo
+      update_roles
       delete_stale
     end
 
+    def update_roles
+      Import::FamilienRoleSync.new(families).run
+    end
+
+    def roles(person_ids)
+      Role.where(person_id: person_ids).where("type LIKE '%Mitglied'")
+    end
+
     def update_households
-      households = families.select(&:valid?)
       households.group_by(&:size).transform_values(&:size).each do |size, count|
         puts " Updating #{count} households of size #{size}"
       end
@@ -99,7 +113,7 @@ module Import
     end
 
     def households
-      @households ||= families.select(&:same_addresses?)
+      @households ||= families.select(&:valid?)
     end
 
     def delete_all(scope)
@@ -116,11 +130,19 @@ module Import
     end
 
     def scope
+      people.where(kundennummer: counts.keys)
+    end
+
+    def mitgliedschaften
       ::Person.where.not(company: true).where(kundennummer: counts.keys)
     end
 
+    def people
+      ::Person.where.not(company: true)
+    end
+
     def counts
-      @counts ||= ::Person.group(:kundennummer).having('count(kundennummer) > 1').count
+      @counts ||= people.group(:kundennummer).having('count(kundennummer) > 1').count
     end
   end
 end
