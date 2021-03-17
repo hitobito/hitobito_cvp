@@ -40,7 +40,7 @@ module Target
     def find_or_create_person(row)
       Person.find_or_create_by(email: row['EMail']) do |p|
         p.first_name = row['Vorname']
-        p.last_name = row['Nachname']
+        p.last_name = row['Name']
         p.correspondence_language = language(row['Sprache'])
       end.tap do |person|
         person.update!(password: password)
