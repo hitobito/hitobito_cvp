@@ -34,7 +34,8 @@ module Import
     end
 
     def roles
-      groups.flat_map(&:roles)
+      # strip out duplicate roles
+      groups.flat_map(&:roles).uniq
     end
   end
 end

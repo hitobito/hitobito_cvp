@@ -22,6 +22,15 @@ module Structure
       type.starts_with?('tbd')
     end
 
+    def eql?(other)
+      group == other.group && kunden_id == other.kunden_id && type == other.type &&
+        timestamps == other.timestamps && label == other.label
+    end
+
+    def hash
+      [group, kunden_id, type, label, timestamps].hash
+    end
+
     def to_s(format = nil)
       if format == :full
         type_string = tbd? ? :tbd : type
