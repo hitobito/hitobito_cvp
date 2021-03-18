@@ -15,6 +15,10 @@ module Import
       def stale?
         gender.nil? || first_name =~ /\set|und\s/
       end
+
+      def canonical_last_name
+        last_name.downcase.gsub(/-|&/, " ").gsub("von", "").split(" ").sort.join("-")
+      end
     end
 
     # By kundennummer, 0 familie
@@ -35,7 +39,11 @@ module Import
       end
 
       def valid?
-        same_addresses? && (same_name? || similar_name?)
+        same_addresses? && non_stale_members.size > 1 && name_valid?
+      end
+
+      def name_valid?
+        same_name? || similar_name?(:last_name) || similar_name?(:canonical_last_name)
       end
 
       def same_addresses?
@@ -44,15 +52,19 @@ module Import
       end
 
       def same_name?
-        first_last_name = members.first.last_name
-        members.all? { |member| member.last_name == first_last_name }
+        first_last_name = non_stale_members.first.last_name
+        non_stale_members.all? { |member| member.last_name == first_last_name }
       end
 
       # für Doppelnamen, zb. 'Maier' && 'Müller-Maier'
-      def similar_name?
-        last_names = members.collect(&:last_name)
+      def similar_name?(name = :last_name)
+        last_names = non_stale_members.collect { |member| member.send(name) }
         shortest_last_name = last_names.min_by(&:length)
         last_names.all? { |name| name.include?(shortest_last_name) }
+      end
+
+      def non_stale_members
+        members.reject(&:stale?)
       end
 
       def stale_id
