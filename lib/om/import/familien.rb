@@ -1,20 +1,22 @@
 module Import
   class Familien < Base
 
-    ADDRESS_ATTRS = ::Person::ADDRESS_ATTRS - [:country]
+    ADDRESS_ATTRS = ::Person::ADDRESS_ATTRS.collect(&:to_sym) - [:country]
 
     PERSON_ATTRS = [:kundennummer, :kunden_id, :kontaktnummer, :id, :first_name, :last_name, :gender] + ADDRESS_ATTRS
 
-
-    Member = Struct.new(*PERSON_ATTRS - [:kundennummer]) do
-      def address_attrs
-        attrs = to_h.stringify_keys.slice(*ADDRESS_ATTRS.collect(&:to_s))
-        attrs.transform_values { |val| val.blank? ? nil : val }
+    Member = Struct.new(*PERSON_ATTRS) do
+      def address_household_keys
+        household_keys = to_h.stringify_keys.slice(*ADDRESS_ATTRS.collect(&:to_s))
+        household_keys.transform_values { |val| val.blank? ? nil : val }
       end
 
-      # scheint zuverlässiger als kontaktnummer == 0
       def stale?
-        gender.nil? || first_name =~ /\set|und\s/
+        kontaktnummer == 0 || (gender.nil? && first_name =~ /\set|und\s/)
+      end
+
+      def missing?
+        id.nil?
       end
 
       def canonical_last_name
@@ -26,9 +28,24 @@ module Import
       end
     end
 
-    # By kundennummer, 0 familie
-    Family = Struct.new(:nr, :members) do
-      def attrs
+    Family = Struct.new(:nr, :max, :members) do
+
+      def stale
+        members.find(&:stale?)
+      end
+
+      def complete?
+        members.size == max + 1
+      end
+
+      def missing_keys
+        0.upto(max).collect do |kontaktnummer|
+          next if members.collect(&:kontaktnummer).include?(kontaktnummer)
+          [nr, kontaktnummer].join('_')
+        end.compact
+      end
+
+      def household_keys
         return {} unless valid?
 
         members.collect do |member|
@@ -38,8 +55,11 @@ module Import
 
       def update_household
         household_key = members.first.kunden_id
-        ::Person.where(kundennummer: nr)
-          .update_all(household_key: household_key)
+        ::Person.where(kundennummer: nr).update_all(household_key: household_key)
+      end
+
+      def candidate?
+        same_addresses? && name_valid?
       end
 
       def valid?
@@ -51,8 +71,8 @@ module Import
       end
 
       def same_addresses?
-        first_address = members.first.address_attrs
-        members.all? { |member| member.address_attrs == first_address }
+        first_address = members.first.address_household_keys
+        members.all? { |member| member.address_household_keys == first_address }
       end
 
       def same_name?
@@ -99,10 +119,16 @@ module Import
     end
 
     def run
-      update_households
-      update_people_memo
+      prepare
+      update_household_keys
       update_roles
       delete_stale
+      replace_stale_with_first_household_member
+    end
+
+    def prepare
+      incomplete_candidate_families = families.select(&:candidate?).reject(&:complete?)
+      Import::FamilienImportMissing.new(incomplete_candidate_families).run
     end
 
     def update_roles
@@ -113,14 +139,16 @@ module Import
       Role.where(person_id: person_ids).where("type LIKE '%Mitglied'")
     end
 
-    def update_households
+    def update_household_keys
       households.group_by(&:size).transform_values(&:size).each do |size, count|
         puts " Updating #{count} households of size #{size}"
       end
-      ::Person.upsert_all(households.collect(&:attrs).compact.flatten)
+      attributes = households.collect(&:household_keys).compact.flatten
+      ::Person.upsert_all(attributes)
     end
 
-    def update_people_memo
+    # So anything that uses @@people will map to new person
+    def replace_stale_with_first_household_member
       fetch_person_id  '1cf7f88d-b3d9-4215-95a3-1a4073b8e970' # initialze memo
       families.select(&:valid?).select(&:stale?).each do |family|
         stale_person = family.members.find(&:stale?)
@@ -149,26 +177,26 @@ module Import
 
     def families
       scope.pluck(*PERSON_ATTRS).each_with_object({}) do |row, memo|
-        nr = row.shift
-        family = memo.fetch(nr) { memo[nr] = Family.new(nr, []) }
+        nr = row.first
+        family = memo.fetch(nr) { memo[nr] = Family.new(nr, numbers_with_max[nr], []) }
         family.members << Member.new(*row)
       end.to_h.values
     end
 
-    def scope
-      people.where(kundennummer: counts.keys)
+    def numbers
+      @numbers ||= people.group(:kundennummer).having('count(kundennummer) > 1').count.keys
     end
 
-    def mitgliedschaften
-      ::Person.where.not(company: true).where(kundennummer: counts.keys)
+    def numbers_with_max
+      @numbers_with_max ||= ::Kontakt.group(:kundennummer).pluck('kundennummer, max(kontaktnummer)').to_h
+    end
+
+    def scope
+      people.where(kundennummer: numbers)
     end
 
     def people
       ::Person.where.not(company: true)
-    end
-
-    def counts
-      @counts ||= people.group(:kundennummer).having('count(kundennummer) > 1').count
     end
   end
 end

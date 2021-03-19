@@ -17,7 +17,10 @@ module Import
     end
 
     def run
-      Role.upsert_all(build)
+      attrs = build
+      attrs.each_slice(1000) do |slice|
+        Role.upsert_all(slice)
+      end
     end
 
     private
@@ -36,7 +39,7 @@ module Import
         if existing
           existing.attributes.symbolize_keys.merge(label: role.label)
         else
-          role.attributes.symbolize_keys.merge(id: nil, person_id: other_id)
+          role.attributes.symbolize_keys.merge(id: nil, person_id: other_id, label: role.label)
         end
       end
     end
