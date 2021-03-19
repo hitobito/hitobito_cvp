@@ -17,7 +17,8 @@ module Import
         group_id: role.group.id,
         person_id: fetch_person_id(role.kunden_id),
         type: type_or_default(role),
-        label: role.label
+        label: role.label,
+        mitgliedschafts_nummer: role.mitgliedschafts_nummer,
       )
     end
 
