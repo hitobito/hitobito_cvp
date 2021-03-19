@@ -53,8 +53,8 @@ module Import
       prepare
       with_disabled_indices do
         core_data_import
-        invoice_data_import
-        run_validations if @validate
+        # invoice_data_import
+        # run_validations if @validate
       end
     end
 
@@ -62,9 +62,9 @@ module Import
       import_groups
       import_people
       import_roles
-      consolidate_families
-      rebuild_groups
-      update_primary_groups
+      # consolidate_families
+      # rebuild_groups
+      # update_primary_groups
     end
 
     def invoice_data_import
