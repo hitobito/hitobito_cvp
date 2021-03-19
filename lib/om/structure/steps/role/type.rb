@@ -24,7 +24,9 @@ module Structure::Steps::Role
           role = Structure::RoleRow.new(group,
                                         obj.kunden_id,
                                         obj.label,
-                                        obj.timestamps)
+                                        obj.timestamps,
+                                        obj.mitgliedschafts_nummer
+                                       )
 
           role.type = guesser.type(role)
           group.roles << role

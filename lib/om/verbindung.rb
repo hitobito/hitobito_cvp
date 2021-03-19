@@ -36,6 +36,11 @@ class Verbindung < SourceModel
     merkmal.merkmal_bezeichnung_d
   end
 
+  # noop for constistent api
+  def mitgliedschafts_nummer
+    verbindungsnummer
+  end
+
   def to_s
     [verband, label, bemerkungen].reject(&:blank?).join(' - ')
   end
