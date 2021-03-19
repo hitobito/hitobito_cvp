@@ -32,11 +32,11 @@ module Import
 
     def build_missing(family, role)
       family.other_ids.collect do |other_id|
-        role = find(role,  other_id)
-        if role
-          role.attributes.symbolize_keys.merge(label: role.label)
+        existing = find(role, other_id)
+        if existing
+          existing.attributes.symbolize_keys.merge(label: role.label)
         else
-          role.attributes.symbolize_keys.except(:id).merge(person_id: other_id)
+          role.attributes.symbolize_keys.merge(id: nil, person_id: other_id)
         end
       end
     end
