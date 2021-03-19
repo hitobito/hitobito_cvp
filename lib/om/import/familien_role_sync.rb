@@ -17,14 +17,13 @@ module Import
     end
 
     def run
-      Role.insert_all(build)
+      Role.upsert_all(build)
     end
 
     private
 
     def build
       @families.flat_map do |family|
-
         stale.fetch(family.stale_id, []).collect do |role|
           build_missing(family, role)
         end.flatten
@@ -33,13 +32,16 @@ module Import
 
     def build_missing(family, role)
       family.other_ids.collect do |other_id|
-        next if exists?(role, other_id)
-
-        role.attributes.symbolize_keys.except(:id).merge(person_id: other_id)
+        role = find(role,  other_id)
+        if role
+          role.attributes.symbolize_keys.merge(label: role.label)
+        else
+          role.attributes.symbolize_keys.except(:id).merge(person_id: other_id)
+        end
       end
     end
 
-    def exists?(role, other_id)
+    def find(role, other_id)
       people.fetch(other_id, []).find { |r| r.type == role.type && r.group_id == role.group_id }
     end
 
