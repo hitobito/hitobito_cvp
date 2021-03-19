@@ -5,6 +5,7 @@ module Import
 
     PERSON_ATTRS = [:kundennummer, :kunden_id, :kontaktnummer, :id, :first_name, :last_name, :gender] + ADDRESS_ATTRS
 
+
     Member = Struct.new(*PERSON_ATTRS - [:kundennummer]) do
       def address_attrs
         attrs = to_h.stringify_keys.slice(*ADDRESS_ATTRS.collect(&:to_s))
@@ -19,10 +20,13 @@ module Import
       def canonical_last_name
         last_name.downcase.gsub(/-|&/, " ").gsub("von", "").split(" ").sort.join("-")
       end
+
+      def to_s
+        "#{kontaktnummer} - #{first_name} #{last_name}, stale: #{stale?}"
+      end
     end
 
     # By kundennummer, 0 familie
-    #
     Family = Struct.new(:nr, :members) do
       def attrs
         return {} unless valid?
@@ -52,8 +56,10 @@ module Import
       end
 
       def same_name?
-        first_last_name = non_stale_members.first.last_name
-        non_stale_members.all? { |member| member.last_name == first_last_name }
+        if non_stale_members.present?
+          first_last_name = non_stale_members.first.last_name
+          non_stale_members.all? { |member| member.last_name == first_last_name }
+        end
       end
 
       # für Doppelnamen, zb. 'Maier' && 'Müller-Maier'
@@ -81,6 +87,14 @@ module Import
 
       def size
         members.size
+      end
+
+      def to_s
+        string = "#{nr}(#{valid?}): #{same_addresses?},  #{name_valid?}, #{non_stale_members.size}\n"
+        members.sort_by(&:kontaktnummer).each do |person|
+          string << " " << person.to_s << "\n"
+        end  << "\n"
+        string
       end
     end
 
