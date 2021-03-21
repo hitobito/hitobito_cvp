@@ -143,6 +143,7 @@ module Import
       households.group_by(&:size).transform_values(&:size).each do |size, count|
         puts " Updating #{count} households of size #{size}"
       end
+      puts " Updated households still include stale ids"
       attributes = households.collect(&:household_keys).compact.flatten
       ::Person.upsert_all(attributes)
     end
