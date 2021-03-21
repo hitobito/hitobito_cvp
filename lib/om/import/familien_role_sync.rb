@@ -2,10 +2,11 @@
 module Import
   class FamilienRoleSync
 
-    def initialize(families)
+    def initialize(families, filter = false)
       @families = families.select(&:stale?)
       @stale_ids = families.collect(&:stale_id).compact
       @people_ids = families.flat_map(&:other_ids)
+      @filter = filter
     end
 
     def stale
@@ -56,11 +57,20 @@ module Import
     end
 
     def role_scope(ids)
-      Role.where("type LIKE '%Mitglieder::Mitglied'").where(person_id: ids)
+      scope = Role.where(person_id: ids)
+      filter? ? scope.where("type LIKE '%Mitglieder::Mitglied'") : scope
     end
 
     def family_scope(ids)
-      role_scope(ids).where("lower(label) LIKE '%fam%'").where.not("lower(label) LIKE '%emp%'")
+      filter? ? filter_by_label(role_scope(ids)) : role_scope(ids)
+    end
+
+    def filter_by_label(scope)
+      scope.where("lower(label) LIKE '%fam%'").where.not("lower(label) LIKE '%emp%'")
+    end
+
+    def filter?
+      @filter
     end
   end
 end
