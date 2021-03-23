@@ -48,7 +48,7 @@
   <KantonPraesidium Partei [Kassier 1, Mitglied 136, Praesident 55]>
   <Ort Kreispartei Chur>
    <OrtSympathisanten Sympathisanten [Sympathisant 8]>
-   <OrtGewaehlte Legislative [KommunaleExekutive 2]>
+   <OrtGewaehlte Legislative [KommunaleLegislative 2]>
    <OrtMitglieder Mitgliedschaften [Mitglied 134]>
    <OrtPraesidium Partei [Adressverwalter 10, Praesident 4]>
   <Ort Kreispartei Churwalden>

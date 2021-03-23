@@ -576,6 +576,8 @@ roles_new:
       - !ruby/regexp /Schulrat|Schulparlament|Schulpflege/i
       - ['Schulpflege', 'Mitglied']
       - ['Schulpflege', 'Präsident']
+      KommunaleLegislative:
+      - ['Legislative', 'Mitglied']
       KommunaleExekutive:
       - !ruby/regexp /Exekutive/i
       - !ruby/regexp /^Mitglied$/i

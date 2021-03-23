@@ -49,13 +49,13 @@
    <Ort Aarau>
     <OrtSympathisanten Sympathisanten [Sympathisant 12]>
     <OrtGewaehlte Exekutive [Fraktionschef 1, KommunaleExekutive 3]>
-    <OrtGewaehlte Legislative [KommunaleExekutive 6]>
+    <OrtGewaehlte Legislative [KommunaleLegislative 6]>
     <OrtGewaehlte Mandat [MitgliedWeitereGemeindeKommissionen 1, Schulpflegekommission 1]>
     <OrtMitglieder Mitgliedschaften [Mitglied 140]>
     <OrtPraesidium Partei [Adressverwalter 1, Praesident 2]>
    <Ort Buchs>
     <OrtGewaehlte Exekutive [KommunaleExekutive 2]>
-    <OrtGewaehlte Legislative [KommunaleExekutive 10]>
+    <OrtGewaehlte Legislative [KommunaleLegislative 10]>
     <OrtPraesidium Partei [Mitglied 1]>
    <Ort Erlinsbach>
     <OrtGewaehlte Exekutive [Fraktionschef 1, KommunaleExekutive 1]>
@@ -79,7 +79,7 @@
    <Ort Baden>
     <OrtSympathisanten Sympathisanten [Sympathisant 16]>
     <OrtGewaehlte Exekutive [Fraktionschef 2, KommunaleExekutive 4]>
-    <OrtGewaehlte Legislative [KommunaleExekutive 15]>
+    <OrtGewaehlte Legislative [KommunaleLegislative 15]>
     <OrtGewaehlte Mandat [MitgliedWeitereGemeindeKommissionen 1, Schulpflegekommission 1]>
     <OrtMitglieder Mitgliedschaften [Mitglied 167]>
     <OrtPraesidium Partei [Adressverwalter 5, Kassier 1, Praesident 3]>
@@ -150,7 +150,7 @@
    <Ort Obersiggenthal>
     <OrtSympathisanten Sympathisanten [Sympathisant 35]>
     <OrtGewaehlte Exekutive [Fraktionschef 2, KommunaleExekutive 5]>
-    <OrtGewaehlte Legislative [KommunaleExekutive 21]>
+    <OrtGewaehlte Legislative [KommunaleLegislative 21]>
     <OrtGewaehlte Mandat [MitgliedWeitereGemeindeKommissionen 2, Schulpflegekommission 2]>
     <OrtMitglieder Mitgliedschaften [Mitglied 108]>
     <OrtPraesidium Partei [Praesident 3]>
@@ -170,7 +170,7 @@
    <Ort Wettingen>
     <OrtSympathisanten Sympathisanten [Sympathisant 2]>
     <OrtGewaehlte Exekutive [Fraktionschef 3, KommunaleExekutive 4]>
-    <OrtGewaehlte Legislative [KommunaleExekutive 34]>
+    <OrtGewaehlte Legislative [KommunaleLegislative 34]>
     <OrtGewaehlte Mandat [MitgliedWeitereGemeindeKommissionen 3, Schulpflegekommission 2]>
     <OrtMitglieder Mitgliedschaften [Mitglied 156]>
     <OrtPraesidium Partei [Adressverwalter 2, Praesident 4]>
@@ -263,7 +263,7 @@
    <Ort Wohlen>
     <OrtSympathisanten Sympathisanten [Sympathisant 66]>
     <OrtGewaehlte Exekutive [KommunaleExekutive 6]>
-    <OrtGewaehlte Legislative [KommunaleExekutive 20]>
+    <OrtGewaehlte Legislative [KommunaleLegislative 20]>
     <OrtGewaehlte Mandat [MitgliedWeitereGemeindeKommissionen 1, Schulpflegekommission 2]>
     <OrtMitglieder Mitgliedschaften [Mitglied 139]>
     <OrtPraesidium Partei [Adressverwalter 3, Praesident 2]>
@@ -279,7 +279,7 @@
    <Ort Brugg>
     <OrtSympathisanten Sympathisanten [Sympathisant 11]>
     <OrtGewaehlte Exekutive [Fraktionschef 1, KommunaleExekutive 3]>
-    <OrtGewaehlte Legislative [KommunaleExekutive 11]>
+    <OrtGewaehlte Legislative [KommunaleLegislative 11]>
     <OrtMitglieder Mitgliedschaften [Mitglied 80]>
     <OrtPraesidium Partei [Adressverwalter 1, Praesident 4]>
    <Ort Hausen>
@@ -297,7 +297,7 @@
    <Ort Windisch>
     <OrtSympathisanten Sympathisanten [Sympathisant 3]>
     <OrtGewaehlte Exekutive [KommunaleExekutive 2]>
-    <OrtGewaehlte Legislative [KommunaleExekutive 12]>
+    <OrtGewaehlte Legislative [KommunaleLegislative 12]>
     <OrtGewaehlte Mandat [MitgliedWeitereGemeindeKommissionen 3]>
     <OrtMitglieder Mitgliedschaften [Mitglied 40]>
     <OrtPraesidium Partei [Adressverwalter 1, Praesident 1]>
@@ -373,7 +373,7 @@
    <Ort Lenzburg>
     <OrtSympathisanten Sympathisanten [Sympathisant 17]>
     <OrtGewaehlte Exekutive [Fraktionschef 1, KommunaleExekutive 2]>
-    <OrtGewaehlte Legislative [KommunaleExekutive 9]>
+    <OrtGewaehlte Legislative [KommunaleLegislative 9]>
     <OrtGewaehlte Mandat [MitgliedWeitereGemeindeKommissionen 1]>
     <OrtMitglieder Mitgliedschaften [Mitglied 78]>
     <OrtPraesidium Partei [Adressverwalter 1, Praesident 4]>
@@ -514,7 +514,7 @@
    <Ort Zofingen-Strengelbach>
     <OrtSympathisanten Sympathisanten [Sympathisant 7]>
     <OrtGewaehlte Exekutive [Fraktionschef 1, KommunaleExekutive 3]>
-    <OrtGewaehlte Legislative [KommunaleExekutive 7]>
+    <OrtGewaehlte Legislative [KommunaleLegislative 7]>
     <OrtGewaehlte Mandat [MitgliedWeitereGemeindeKommissionen 1, Schulpflegekommission 1]>
     <OrtMitglieder Mitgliedschaften [Mitglied 59]>
     <OrtPraesidium Partei [Adressverwalter 2, Praesident 2]>

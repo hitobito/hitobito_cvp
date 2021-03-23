@@ -19,6 +19,6 @@
   <Ort Herisau>
    <OrtSympathisanten Sympathisanten [Sympathisant 22]>
    <OrtExterneKontakte Newsletter [Kontakt 89]>
-   <OrtGewaehlte Legislative [KommunaleExekutive 1]>
+   <OrtGewaehlte Legislative [KommunaleLegislative 1]>
    <OrtMitglieder Mitgliedschaften [Mitglied 47]>
    <OrtPraesidium Partei [Adressverwalter 1]>

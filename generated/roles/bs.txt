@@ -40,7 +40,7 @@
   <Ort Riehen>
    <OrtSympathisanten Sympathisanten [Sympathisant 19]>
    <OrtGewaehlte Exekutive [KommunaleExekutive 2]>
-   <OrtGewaehlte Legislative [KommunaleExekutive 4]>
+   <OrtGewaehlte Legislative [KommunaleLegislative 4]>
    <OrtMitglieder Mitgliedschaften [Mitglied 53]>
    <OrtPraesidium Partei [Adressverwalter 10, Kassier 1, Mitglied 10, Praesident 1]>
   <Region Stadt Basel>

@@ -62,7 +62,7 @@
    <OrtPraesidium Partei [Adressverwalter 3, Praesident 3]>
   <Ort Stadt Zug>
    <OrtSympathisanten Sympathisanten [Sympathisant 2]>
-   <OrtGewaehlte Legislative [KommunaleExekutive 2]>
+   <OrtGewaehlte Legislative [KommunaleLegislative 2]>
    <OrtMitglieder Mitgliedschaften [Mitglied 141]>
    <OrtPraesidium Partei [Adressverwalter 2, Praesident 2]>
   <Ort Steinhausen>

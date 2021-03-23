@@ -14,7 +14,7 @@
   <Ort Neuhausen am Rheinfall>
    <OrtSympathisanten Sympathisanten [Sympathisant 6]>
    <OrtGewaehlte Exekutive [KommunaleExekutive 1]>
-   <OrtGewaehlte Legislative [KommunaleExekutive 2]>
+   <OrtGewaehlte Legislative [KommunaleLegislative 2]>
    <OrtMitglieder Mitgliedschaften [Mitglied 25]>
    <OrtPraesidium Partei [Adressverwalter 1, Mitglied 11, Praesident 1]>
   <Ort Ramsen>
@@ -24,7 +24,7 @@
    <OrtPraesidium Partei [Adressverwalter 1, Praesident 1]>
   <Ort Schaffhausen>
    <OrtSympathisanten Sympathisanten [Sympathisant 13]>
-   <OrtGewaehlte Legislative [KommunaleExekutive 1]>
+   <OrtGewaehlte Legislative [KommunaleLegislative 1]>
    <OrtMitglieder Mitgliedschaften [Mitglied 36]>
    <OrtPraesidium Partei [Praesident 2]>
   <Ort Stein am Rhein>

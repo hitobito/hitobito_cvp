@@ -266,7 +266,7 @@
    <Ort Sion>
     <OrtSympathisanten Sympathisanten [Sympathisant 351]>
     <OrtGewaehlte Exekutive [Fraktionschef 1]>
-    <OrtGewaehlte Legislative [KommunaleExekutive 1]>
+    <OrtGewaehlte Legislative [KommunaleLegislative 1]>
     <OrtMitglieder Mitgliedschaften [Mitglied 544]>
     <OrtPraesidium Partei [Adressverwalter 31, Praesident 1]>
    <Ort Veysonnaz>

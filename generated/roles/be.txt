@@ -45,13 +45,13 @@
    <OrtSekretariat Sekretariat [Leitung 1]>
    <OrtExterneKontakte ExterneKontakte [Kontakt 319]>
    <OrtGewaehlte Exekutive [KommunaleExekutive 1]>
-   <OrtGewaehlte Legislative [KommunaleExekutive 3]>
+   <OrtGewaehlte Legislative [KommunaleLegislative 3]>
    <OrtMitglieder Mitgliedschaften [Mitglied 80]>
    <OrtPraesidium Partei [Adressverwalter 15, Kassier 1, Praesident 4]>
    <OrtPraesidium Vorstand [Mitglied 14]>
   <Ort Biel>
    <OrtSympathisanten Sympathisanten [Sympathisant 11]>
-   <OrtGewaehlte Legislative [KommunaleExekutive 2]>
+   <OrtGewaehlte Legislative [KommunaleLegislative 2]>
    <OrtMitglieder Mitgliedschaften [Mitglied 48]>
    <OrtPraesidium Partei [Adressverwalter 10]>
   <Ort Bolligen-Ittingen-Ostermundigen>
@@ -67,7 +67,7 @@
   <Ort Köniz [betreut durch Kehrsatz]>
    <OrtSympathisanten Sympathisanten [Sympathisant 102]>
    <OrtArbeitsgruppe Arbeitsgruppe [Mitglied 1]>
-   <OrtGewaehlte Legislative [KommunaleExekutive 1]>
+   <OrtGewaehlte Legislative [KommunaleLegislative 1]>
    <OrtMitglieder Mitgliedschaften [Mitglied 41]>
    <OrtPraesidium Partei [Adressverwalter 2, Mitglied 1, Praesident 1]>
   <Ort Muri>

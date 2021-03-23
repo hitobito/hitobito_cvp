@@ -88,7 +88,7 @@
    <Ort Arbon>
     <OrtSympathisanten Sympathisanten [Sympathisant 49]>
     <OrtGewaehlte Exekutive [Fraktionschef 1, KommunaleExekutive 3]>
-    <OrtGewaehlte Legislative [KommunaleExekutive 11]>
+    <OrtGewaehlte Legislative [KommunaleLegislative 11]>
     <OrtMitglieder Mitgliedschaften [Mitglied 127]>
     <OrtPraesidium Partei [Adressverwalter 2, Kassier 3, Mitglied 20, Praesident 6]>
    <Ort Egnach und Umgebung>
@@ -126,7 +126,7 @@
     <OrtSympathisanten Sympathisanten [Sympathisant 40]>
     <OrtArbeitsgruppe Schulbehörde [Praesident 1]>
     <OrtGewaehlte Exekutive [KommunaleExekutive 2]>
-    <OrtGewaehlte Legislative [Fraktionschef 1, KommunaleExekutive 6]>
+    <OrtGewaehlte Legislative [Fraktionschef 1, KommunaleLegislative 6]>
     <OrtGewaehlte Schulpflege [Schulpflegekommission 1]>
     <OrtMitglieder Mitgliedschaften [Mitglied 142]>
     <OrtPraesidium Partei [Adressverwalter 9, Mitglied 7, Praesident 5]>
@@ -170,7 +170,7 @@
    <Ort Kreuzlingen>
     <OrtSympathisanten Sympathisanten [Sympathisant 10]>
     <OrtGewaehlte Exekutive [KommunaleExekutive 2]>
-    <OrtGewaehlte Legislative [Fraktionschef 2, KommunaleExekutive 8]>
+    <OrtGewaehlte Legislative [Fraktionschef 2, KommunaleLegislative 8]>
     <OrtMitglieder Mitgliedschaften [Mitglied 87]>
     <OrtPraesidium Partei [Adressverwalter 2, Kassier 1, Mitglied 15, Praesident 6]>
    <Ort Tägerwilen>
@@ -272,7 +272,7 @@
     <OrtExterneKontakte ExterneKontakte [Kontakt 21]>
     <OrtArbeitsgruppe Nur Spendenbriefe [Mitglied 1]>
     <OrtGewaehlte Exekutive [KommunaleExekutive 6]>
-    <OrtGewaehlte Legislative [Fraktionschef 1, KommunaleExekutive 15]>
+    <OrtGewaehlte Legislative [Fraktionschef 1, KommunaleLegislative 15]>
     <OrtGewaehlte Schulpflege [Schulpflegekommission 3]>
     <OrtMitglieder Mitgliedschaften [Mitglied 431]>
     <OrtPraesidium Vorstand [Kassier 3, Mitglied 26, Praesident 2]>

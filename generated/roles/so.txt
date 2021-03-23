@@ -309,7 +309,7 @@
    <Ort Olten>
     <OrtSympathisanten Sympathisanten [Sympathisant 108]>
     <OrtGewaehlte Exekutive [Fraktionschef 1, KommunaleExekutive 1]>
-    <OrtGewaehlte Legislative [KommunaleExekutive 9]>
+    <OrtGewaehlte Legislative [KommunaleLegislative 9]>
     <OrtMitglieder Mitgliedschaften [Mitglied 86]>
     <OrtPraesidium Partei [Adressverwalter 16, Mitglied 11, Praesident 2]>
    <Ort Rickenbach>

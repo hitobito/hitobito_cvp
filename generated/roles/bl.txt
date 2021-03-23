@@ -146,7 +146,7 @@
     <OrtSympathisanten Sympathisanten [Sympathisant 275]>
     <OrtSekretariat Sekretariat [Mitarbeiter 1]>
     <OrtGewaehlte Exekutive [KommunaleExekutive 1]>
-    <OrtGewaehlte Legislative [KommunaleExekutive 5]>
+    <OrtGewaehlte Legislative [KommunaleLegislative 5]>
     <OrtMitglieder Mitgliedschaften [Mitglied 78]>
     <OrtPraesidium Partei [Adressverwalter 4, Mitglied 9, Praesident 2]>
   <Region Wahlkreis Sissach>

@@ -19,7 +19,7 @@
    <OrtPraesidium Partei [Adressverwalter 3]>
   <Ort Glarus Nord>
    <OrtSympathisanten Sympathisanten [Sympathisant 119]>
-   <OrtGewaehlte Legislative [KommunaleExekutive 1]>
+   <OrtGewaehlte Legislative [KommunaleLegislative 1]>
    <OrtMitglieder Mitgliedschaften [Mitglied 114]>
    <OrtPraesidium Partei [Adressverwalter 3, Mitglied 1]>
   <Ort Glarus Süd>

@@ -485,7 +485,7 @@
     <OrtSympathisanten Sympathisanten [Sympathisant 19]>
     <OrtPraesidium Praesidium [Mitglied 1]>
     <OrtGewaehlte Exekutive [KommunaleExekutive 3]>
-    <OrtGewaehlte Legislative [KommunaleExekutive 5]>
+    <OrtGewaehlte Legislative [KommunaleLegislative 5]>
      <OrtGewaehlte Büro [KommunaleExekutive 2]>
      <OrtGewaehlte Fraktion [KommunaleExekutive 8]>
      <OrtGewaehlte GPK [KommunaleExekutive 2]>

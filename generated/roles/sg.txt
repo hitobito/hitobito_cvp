@@ -425,7 +425,7 @@
     <OrtSympathisanten Sympathisanten [Sympathisant 6]>
     <OrtExterneKontakte Helfer-Pool [Kontakt 3]>
     <OrtGewaehlte Exekutive [KommunaleExekutive 3]>
-    <OrtGewaehlte Legislative [KommunaleExekutive 16]>
+    <OrtGewaehlte Legislative [KommunaleLegislative 16]>
     <OrtMitglieder Mitgliedschaften [Mitglied 134]>
     <OrtPraesidium Partei [Adressverwalter 6, Kassier 2, Mitglied 11, Praesident 5]>
    <Ort Muolen-Häggenschwil>
@@ -439,7 +439,7 @@
     <OrtExterneKontakte Newsletter [Kontakt 286]>
     <OrtExterneKontakte Sponsoren [Spender 4]>
     <OrtGewaehlte Exekutive [KommunaleExekutive 1]>
-    <OrtGewaehlte Legislative [Fraktionschef 1, KommunaleExekutive 19]>
+    <OrtGewaehlte Legislative [Fraktionschef 1, KommunaleLegislative 19]>
     <OrtMitglieder Mitgliedschaften [Mitglied 213]>
     <OrtPraesidium Partei [Adressverwalter 19, Kassier 3, Mitglied 14, Praesident 1]>
    <Ort Waldkirch-Bernhardzell>
@@ -564,7 +564,7 @@
    <Ort Wil>
     <OrtSympathisanten Sympathisanten [Sympathisant 13]>
     <OrtGewaehlte Exekutive [Fraktionschef 1]>
-    <OrtGewaehlte Legislative [KommunaleExekutive 7]>
+    <OrtGewaehlte Legislative [KommunaleLegislative 7]>
     <OrtMitglieder Mitgliedschaften [Mitglied 198]>
     <OrtPraesidium Partei [Adressverwalter 10, Kassier 3, Mitglied 9, Praesident 3]>
    <Ort Zuzwil [mit Züberwangen]>

@@ -456,7 +456,7 @@
     <OrtExterneKontakte Firmen [Kontakt 526]>
     <OrtExterneKontakte Newsletter [Kontakt 851]>
     <OrtGewaehlte Exekutive [Fraktionschef 2, KommunaleExekutive 3, MitgliedWeitereGemeindeKommissionen 3]>
-    <OrtGewaehlte Legislative [KommunaleExekutive 14]>
+    <OrtGewaehlte Legislative [KommunaleLegislative 14]>
     <OrtMitglieder Mitgliedschaften [Mitglied 286]>
     <OrtPraesidium Parteileitung [Adressverwalter 1, Kassier 2, Mitglied 14, Praesident 2]>
   <Region Wahlkreis Sursee>
