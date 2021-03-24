@@ -87,14 +87,14 @@ module Target
 
     def run
       puts "Seeding total of #{csv.size} rows"
-      CSV.read(@file, headers: true).collect.each_with_index do |row, index|
+      csv.collect.each_with_index do |row, index|
         next if row['Rolle'].blank?
         seed(row, index)
       end
     end
 
     def csv
-      @csv ||= CSV.read(@file, headers: true)
+      @csv ||= CSV.read(@file, headers: true, converters: ->(f) { f&.strip } )
     end
 
     def seed(row, index)
@@ -105,10 +105,12 @@ module Target
       else
         puts("%-3d %-5s %s" % [index, finder.error, row])
       end
+    rescue => e
+      puts("%-3d %-5s %s" % [index, e.message, row])
     end
 
     def find_or_create_person(row)
-      Person.find_or_create_by(email: row['EMail']) do |p|
+      Person.find_or_create_by(email: row['Email']) do |p|
         p.first_name = row['Vorname']
         p.last_name = row['Name']
         p.correspondence_language = language(row['Sprache'])
@@ -132,6 +134,7 @@ module Target
       when /Deutsch/ then :de
       when /Französisch/ then :fr
       when /Italienisch/ then :it
+      else :de
       end
     end
   end
