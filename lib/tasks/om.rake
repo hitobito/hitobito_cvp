@@ -32,7 +32,7 @@ namespace :om do
     desc 'Import into local database'
     task :import, [:validate, :tree] do |_t, args|
       tree = args[:tree]&.to_sym
-      Import::Runner.run(tree: tree, validate: args.fech(:validdate, false))
+      Import::Runner.run(tree: tree, validate: args.fetch(:validate, false))
     end
 
     desc 'Publish import to production'
