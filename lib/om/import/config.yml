@@ -569,6 +569,7 @@ roles_new:
     OrtGewaehlte:
       Fraktionschef:
       - ['Legislative', /Präsident/]
+      - ['Fraktion', /Präsident/]
       MitgliedWeitereGemeindeKommissionen:
       - !ruby/regexp /GPK Mitglied/i
       - ['Finanzkommission', 'Mitglied']
@@ -578,6 +579,7 @@ roles_new:
       - ['Schulpflege', 'Präsident']
       KommunaleLegislative:
       - ['Legislative', 'Mitglied']
+      - ['Fraktion', 'Mitglied']
       KommunaleExekutive:
       - !ruby/regexp /Exekutive/i
       - !ruby/regexp /^Mitglied$/i

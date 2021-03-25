@@ -115,7 +115,7 @@
      <OrtGewaehlte Schulpflege [Schulpflegekommission 7]>
     <OrtGewaehlte Exekutive [KommunaleExekutive 15]>
     <OrtGewaehlte Legislative>
-     <OrtGewaehlte Fraktion [KommunaleExekutive 3]>
+     <OrtGewaehlte Fraktion [Fraktionschef 1, KommunaleLegislative 2]>
      <OrtGewaehlte RPK [KommunaleExekutive 4]>
     <OrtMitglieder Mitgliedschaften [Mitglied 49]>
     <OrtPraesidium Vorstand [Kassier 4, Mitglied 4, Praesident 8]>
@@ -127,7 +127,7 @@
     <OrtGewaehlte Exekutive [KommunaleExekutive 3]>
     <OrtGewaehlte Legislative>
      <OrtGewaehlte Büro [KommunaleExekutive 2]>
-     <OrtGewaehlte Fraktion [KommunaleExekutive 11]>
+     <OrtGewaehlte Fraktion [Fraktionschef 3, KommunaleLegislative 8]>
      <OrtGewaehlte GPK [KommunaleExekutive 2]>
      <OrtGewaehlte RPK [KommunaleExekutive 1]>
     <OrtMitglieder Mitgliedschaften [Mitglied 63]>
@@ -187,7 +187,7 @@
      <OrtGewaehlte Schulpflege [Schulpflegekommission 4]>
     <OrtGewaehlte Legislative>
      <OrtGewaehlte Büro [KommunaleExekutive 1]>
-     <OrtGewaehlte Fraktion [KommunaleExekutive 12]>
+     <OrtGewaehlte Fraktion [KommunaleLegislative 12]>
      <OrtGewaehlte GPK [KommunaleExekutive 2]>
      <OrtGewaehlte RPK [KommunaleExekutive 4]>
     <OrtMitglieder Mitgliedschaften [Mitglied 125]>
@@ -212,7 +212,7 @@
     <OrtGewaehlte Bildung>
      <OrtGewaehlte Schulpflege [Schulpflegekommission 2]>
     <OrtGewaehlte Legislative>
-     <OrtGewaehlte Fraktion [KommunaleExekutive 5]>
+     <OrtGewaehlte Fraktion [Fraktionschef 1, KommunaleLegislative 4]>
      <OrtGewaehlte RPK [KommunaleExekutive 1]>
     <OrtMitglieder Mitgliedschaften [Mitglied 52]>
     <OrtPraesidium Vorstand [Kassier 1, Mitglied 3, Praesident 4]>
@@ -306,7 +306,7 @@
     <OrtGewaehlte Exekutive [KommunaleExekutive 3]>
     <OrtGewaehlte Legislative>
      <OrtGewaehlte Büro [KommunaleExekutive 1]>
-     <OrtGewaehlte Fraktion [KommunaleExekutive 11]>
+     <OrtGewaehlte Fraktion [Fraktionschef 2, KommunaleLegislative 9]>
      <OrtGewaehlte RPK [KommunaleExekutive 1]>
     <OrtMitglieder Mitgliedschaften [Mitglied 67]>
     <OrtPraesidium Vorstand [Kassier 1, Mitglied 9, Praesident 2]>
@@ -376,7 +376,7 @@
     <OrtGewaehlte Exekutive [KommunaleExekutive 4]>
     <OrtGewaehlte Legislative>
      <OrtGewaehlte Büro [KommunaleExekutive 1]>
-     <OrtGewaehlte Fraktion [KommunaleExekutive 8]>
+     <OrtGewaehlte Fraktion [Fraktionschef 1, KommunaleLegislative 7]>
      <OrtGewaehlte GRPK [KommunaleExekutive 1]>
      <OrtGewaehlte RPLK [KommunaleExekutive 1]>
     <OrtMitglieder Mitgliedschaften [Mitglied 80]>
@@ -466,7 +466,7 @@
     <OrtGewaehlte Exekutive [KommunaleExekutive 1]>
     <OrtGewaehlte Legislative>
      <OrtGewaehlte Büro [KommunaleExekutive 1]>
-     <OrtGewaehlte Fraktion [KommunaleExekutive 4]>
+     <OrtGewaehlte Fraktion [Fraktionschef 1, KommunaleLegislative 3]>
      <OrtGewaehlte RPK [KommunaleExekutive 1]>
     <OrtMitglieder Mitgliedschaften [Mitglied 43]>
     <OrtPraesidium Vorstand [Kassier 2, Mitglied 6, Praesident 2]>
@@ -487,7 +487,7 @@
     <OrtGewaehlte Exekutive [KommunaleExekutive 3]>
     <OrtGewaehlte Legislative [KommunaleLegislative 5]>
      <OrtGewaehlte Büro [KommunaleExekutive 2]>
-     <OrtGewaehlte Fraktion [KommunaleExekutive 8]>
+     <OrtGewaehlte Fraktion [KommunaleLegislative 8]>
      <OrtGewaehlte GPK [KommunaleExekutive 2]>
      <OrtGewaehlte KRL [KommunaleExekutive 2]>
      <OrtGewaehlte RPK [KommunaleExekutive 1]>
@@ -522,7 +522,7 @@
     <OrtGewaehlte Bildung>
      <OrtGewaehlte Schulpflege [Schulpflegekommission 1]>
     <OrtGewaehlte Legislative>
-     <OrtGewaehlte Fraktion [KommunaleExekutive 3]>
+     <OrtGewaehlte Fraktion [KommunaleLegislative 3]>
     <OrtMitglieder Mitgliedschaften [Mitglied 43]>
     <OrtPraesidium Vorstand [Kassier 1, Mitglied 2, Praesident 1]>
     <OrtSekretariat Sekretariat [Mitarbeiter 1]>
@@ -562,7 +562,7 @@
      <OrtGewaehlte Schulpflege [Schulpflegekommission 15]>
     <OrtGewaehlte Exekutive [KommunaleExekutive 1]>
     <OrtGewaehlte Legislative>
-     <OrtGewaehlte Fraktion [KommunaleExekutive 7]>
+     <OrtGewaehlte Fraktion [Fraktionschef 1, KommunaleLegislative 6]>
     <OrtMitglieder Mitgliedschaften [Mitglied 179]>
     <OrtSekretariat Sekretariat [Mitarbeiter 2]>
    <Ort Zell>
