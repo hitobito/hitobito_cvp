@@ -568,7 +568,7 @@ roles_new:
       - !ruby/regexp /symp/i
     OrtGewaehlte:
       Fraktionschef:
-      - !ruby/regexp /Präsident/i
+      - ['Legislative', /Präsident/]
       MitgliedWeitereGemeindeKommissionen:
       - !ruby/regexp /GPK Mitglied/i
       - ['Finanzkommission', 'Mitglied']
@@ -581,6 +581,7 @@ roles_new:
       KommunaleExekutive:
       - !ruby/regexp /Exekutive/i
       - !ruby/regexp /^Mitglied$/i
+      - !ruby/regexp /Präsident/i
     OrtExterneKontakte:
       Spender:
       - ['Sponsoren', 'Kontakt']

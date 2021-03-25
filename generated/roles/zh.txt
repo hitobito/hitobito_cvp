@@ -115,7 +115,7 @@
      <OrtGewaehlte Schulpflege [Schulpflegekommission 7]>
     <OrtGewaehlte Exekutive [KommunaleExekutive 15]>
     <OrtGewaehlte Legislative>
-     <OrtGewaehlte Fraktion [Fraktionschef 1, KommunaleExekutive 2]>
+     <OrtGewaehlte Fraktion [KommunaleExekutive 3]>
      <OrtGewaehlte RPK [KommunaleExekutive 4]>
     <OrtMitglieder Mitgliedschaften [Mitglied 49]>
     <OrtPraesidium Vorstand [Kassier 4, Mitglied 4, Praesident 8]>
@@ -127,7 +127,7 @@
     <OrtGewaehlte Exekutive [KommunaleExekutive 3]>
     <OrtGewaehlte Legislative>
      <OrtGewaehlte Büro [KommunaleExekutive 2]>
-     <OrtGewaehlte Fraktion [Fraktionschef 3, KommunaleExekutive 8]>
+     <OrtGewaehlte Fraktion [KommunaleExekutive 11]>
      <OrtGewaehlte GPK [KommunaleExekutive 2]>
      <OrtGewaehlte RPK [KommunaleExekutive 1]>
     <OrtMitglieder Mitgliedschaften [Mitglied 63]>
@@ -212,7 +212,7 @@
     <OrtGewaehlte Bildung>
      <OrtGewaehlte Schulpflege [Schulpflegekommission 2]>
     <OrtGewaehlte Legislative>
-     <OrtGewaehlte Fraktion [Fraktionschef 1, KommunaleExekutive 4]>
+     <OrtGewaehlte Fraktion [KommunaleExekutive 5]>
      <OrtGewaehlte RPK [KommunaleExekutive 1]>
     <OrtMitglieder Mitgliedschaften [Mitglied 52]>
     <OrtPraesidium Vorstand [Kassier 1, Mitglied 3, Praesident 4]>
@@ -274,8 +274,8 @@
     <OrtExterneKontakte ExterneKontakte [Kontakt 53]>
     <OrtArbeitsgruppe Streuadressen [Mitglied 12]>
     <OrtGewaehlte Bildung>
-     <OrtGewaehlte Schulpflege [Fraktionschef 1, Schulpflegekommission 3]>
-    <OrtGewaehlte Exekutive [Fraktionschef 1, KommunaleExekutive 4]>
+     <OrtGewaehlte Schulpflege [Schulpflegekommission 4]>
+    <OrtGewaehlte Exekutive [KommunaleExekutive 5]>
     <OrtMitglieder Mitgliedschaften [Mitglied 120]>
     <OrtPraesidium Vorstand [Kassier 3, Mitglied 4, Praesident 5]>
    <Ort Wald>
@@ -303,10 +303,10 @@
     <OrtPraesidium Praesidium [Mitglied 4]>
     <OrtGewaehlte Bildung>
      <OrtGewaehlte Schulpflege [Schulpflegekommission 3]>
-    <OrtGewaehlte Exekutive [Fraktionschef 1, KommunaleExekutive 2]>
+    <OrtGewaehlte Exekutive [KommunaleExekutive 3]>
     <OrtGewaehlte Legislative>
      <OrtGewaehlte Büro [KommunaleExekutive 1]>
-     <OrtGewaehlte Fraktion [Fraktionschef 2, KommunaleExekutive 9]>
+     <OrtGewaehlte Fraktion [KommunaleExekutive 11]>
      <OrtGewaehlte RPK [KommunaleExekutive 1]>
     <OrtMitglieder Mitgliedschaften [Mitglied 67]>
     <OrtPraesidium Vorstand [Kassier 1, Mitglied 9, Praesident 2]>
@@ -334,7 +334,7 @@
     <OrtPraesidium Praesidium [Mitglied 3]>
     <OrtGewaehlte Bildung>
      <OrtGewaehlte Schulpflege [Schulpflegekommission 1]>
-    <OrtGewaehlte Exekutive [Fraktionschef 1, KommunaleExekutive 1]>
+    <OrtGewaehlte Exekutive [KommunaleExekutive 2]>
     <OrtMitglieder Mitgliedschaften [Mitglied 50]>
     <OrtPraesidium Vorstand [Kassier 1, Mitglied 2, Praesident 1]>
     <OrtSekretariat Sekretariat [Mitarbeiter 1]>
@@ -356,7 +356,7 @@
     <OrtSekretariat Sekretariat [Mitarbeiter 2]>
    <Ort Rüschlikon>
     <OrtSympathisanten Sympathisanten [Sympathisant 4]>
-    <OrtGewaehlte Exekutive [Fraktionschef 1, KommunaleExekutive 1]>
+    <OrtGewaehlte Exekutive [KommunaleExekutive 2]>
     <OrtMitglieder Mitgliedschaften [Mitglied 18]>
     <OrtPraesidium Vorstand [Mitglied 2, Praesident 1]>
     <OrtSekretariat Sekretariat [Mitarbeiter 1]>
@@ -373,10 +373,10 @@
     <OrtPraesidium Praesidium [Mitglied 1]>
     <OrtGewaehlte Bildung>
      <OrtGewaehlte Schulpflege [Schulpflegekommission 3]>
-    <OrtGewaehlte Exekutive [Fraktionschef 1, KommunaleExekutive 3]>
+    <OrtGewaehlte Exekutive [KommunaleExekutive 4]>
     <OrtGewaehlte Legislative>
      <OrtGewaehlte Büro [KommunaleExekutive 1]>
-     <OrtGewaehlte Fraktion [Fraktionschef 1, KommunaleExekutive 7]>
+     <OrtGewaehlte Fraktion [KommunaleExekutive 8]>
      <OrtGewaehlte GRPK [KommunaleExekutive 1]>
      <OrtGewaehlte RPLK [KommunaleExekutive 1]>
     <OrtMitglieder Mitgliedschaften [Mitglied 80]>
@@ -466,7 +466,7 @@
     <OrtGewaehlte Exekutive [KommunaleExekutive 1]>
     <OrtGewaehlte Legislative>
      <OrtGewaehlte Büro [KommunaleExekutive 1]>
-     <OrtGewaehlte Fraktion [Fraktionschef 1, KommunaleExekutive 3]>
+     <OrtGewaehlte Fraktion [KommunaleExekutive 4]>
      <OrtGewaehlte RPK [KommunaleExekutive 1]>
     <OrtMitglieder Mitgliedschaften [Mitglied 43]>
     <OrtPraesidium Vorstand [Kassier 2, Mitglied 6, Praesident 2]>
@@ -491,7 +491,7 @@
      <OrtGewaehlte GPK [KommunaleExekutive 2]>
      <OrtGewaehlte KRL [KommunaleExekutive 2]>
      <OrtGewaehlte RPK [KommunaleExekutive 1]>
-    <OrtGewaehlte Schulpflege [Fraktionschef 1, Schulpflegekommission 8]>
+    <OrtGewaehlte Schulpflege [Schulpflegekommission 9]>
     <OrtMitglieder Mitgliedschaften [Mitglied 55]>
     <OrtPraesidium Vorstand [Kassier 2, Mitglied 10, Praesident 9]>
     <OrtSekretariat Sekretariat [Mitarbeiter 2]>
@@ -528,7 +528,7 @@
     <OrtSekretariat Sekretariat [Mitarbeiter 1]>
    <Ort Volketswil>
     <OrtSympathisanten Sympathisanten [Sympathisant 8]>
-    <OrtGewaehlte Exekutive [Fraktionschef 1, KommunaleExekutive 1]>
+    <OrtGewaehlte Exekutive [KommunaleExekutive 2]>
     <OrtMitglieder Mitgliedschaften [Mitglied 32]>
     <OrtPraesidium Vorstand [Kassier 2, Mitglied 1, Praesident 2]>
     <OrtSekretariat Sekretariat [Mitarbeiter 1]>
@@ -562,7 +562,7 @@
      <OrtGewaehlte Schulpflege [Schulpflegekommission 15]>
     <OrtGewaehlte Exekutive [KommunaleExekutive 1]>
     <OrtGewaehlte Legislative>
-     <OrtGewaehlte Fraktion [Fraktionschef 1, KommunaleExekutive 6]>
+     <OrtGewaehlte Fraktion [KommunaleExekutive 7]>
     <OrtMitglieder Mitgliedschaften [Mitglied 179]>
     <OrtSekretariat Sekretariat [Mitarbeiter 2]>
    <Ort Zell>

@@ -46,19 +46,19 @@
    <OrtSympathisanten Sympathisanten [Sympathisant 10]>
    <OrtGewaehlte Exekutive [KommunaleExekutive 2]>
    <OrtGewaehlte Finanzkommission [MitgliedWeitereGemeindeKommissionen 1]>
-   <OrtGewaehlte Schulpflege [Fraktionschef 1, Schulpflegekommission 4]>
+   <OrtGewaehlte Schulpflege [Schulpflegekommission 5]>
    <OrtMitglieder Mitgliedschaften [Mitglied 92]>
    <OrtPraesidium Partei [Adressverwalter 3, Mitglied 7, Praesident 3]>
   <Ort Buochs>
    <OrtSympathisanten Sympathisanten [Sympathisant 8]>
-   <OrtGewaehlte Exekutive [Fraktionschef 1, KommunaleExekutive 4]>
+   <OrtGewaehlte Exekutive [KommunaleExekutive 5]>
    <OrtGewaehlte Finanzkommission [MitgliedWeitereGemeindeKommissionen 2]>
    <OrtGewaehlte Schulpflege [Schulpflegekommission 1]>
    <OrtMitglieder Mitgliedschaften [Mitglied 131]>
    <OrtPraesidium Partei [Adressverwalter 8, Mitglied 3, Praesident 1]>
   <Ort Dallenwil>
    <OrtSympathisanten Sympathisanten [Sympathisant 8]>
-   <OrtGewaehlte Exekutive [Fraktionschef 1, KommunaleExekutive 4]>
+   <OrtGewaehlte Exekutive [KommunaleExekutive 5]>
    <OrtGewaehlte Schulpflege [Schulpflegekommission 1]>
    <OrtMitglieder Mitgliedschaften [Mitglied 68]>
    <OrtPraesidium Partei [Adressverwalter 3, Mitglied 3, Praesident 2]>
@@ -69,14 +69,14 @@
    <OrtPraesidium Partei [Adressverwalter 3, Kassier 1, Mitglied 2, Praesident 1]>
   <Ort Ennetbürgen>
    <OrtSympathisanten Sympathisanten [Sympathisant 136]>
-   <OrtGewaehlte Exekutive [Fraktionschef 1, KommunaleExekutive 6]>
+   <OrtGewaehlte Exekutive [KommunaleExekutive 7]>
    <OrtGewaehlte Finanzkommission [MitgliedWeitereGemeindeKommissionen 1]>
-   <OrtGewaehlte Schulpflege [Fraktionschef 1, Schulpflegekommission 4]>
+   <OrtGewaehlte Schulpflege [Schulpflegekommission 5]>
    <OrtMitglieder Mitgliedschaften [Mitglied 63]>
    <OrtPraesidium Partei [Adressverwalter 5, Mitglied 5, Praesident 2]>
   <Ort Ennetmoos>
    <OrtSympathisanten Sympathisanten [Sympathisant 25]>
-   <OrtGewaehlte Exekutive [Fraktionschef 4, KommunaleExekutive 8]>
+   <OrtGewaehlte Exekutive [KommunaleExekutive 12]>
    <OrtGewaehlte Schulpflege [Schulpflegekommission 1]>
    <OrtMitglieder Mitgliedschaften [Mitglied 91]>
    <OrtPraesidium Partei [Adressverwalter 2, Mitglied 4, Praesident 2]>
@@ -84,14 +84,14 @@
    <OrtSympathisanten Sympathisanten [Sympathisant 239]>
    <OrtGewaehlte Exekutive [KommunaleExekutive 2]>
    <OrtGewaehlte Finanzkommission [MitgliedWeitereGemeindeKommissionen 2]>
-   <OrtGewaehlte Schulpflege [Fraktionschef 1, Schulpflegekommission 2]>
+   <OrtGewaehlte Schulpflege [Schulpflegekommission 3]>
    <OrtMitglieder Mitgliedschaften [Mitglied 80]>
    <OrtPraesidium Partei [Adressverwalter 6, Mitglied 7, Praesident 2]>
   <Ort Oberdorf>
    <OrtSympathisanten Sympathisanten [Sympathisant 1]>
-   <OrtGewaehlte Exekutive [Fraktionschef 1, KommunaleExekutive 6]>
+   <OrtGewaehlte Exekutive [KommunaleExekutive 7]>
    <OrtGewaehlte Finanzkommission [MitgliedWeitereGemeindeKommissionen 2]>
-   <OrtGewaehlte Schulpflege [Fraktionschef 1, Schulpflegekommission 3]>
+   <OrtGewaehlte Schulpflege [Schulpflegekommission 4]>
    <OrtMitglieder Mitgliedschaften [Mitglied 52]>
    <OrtPraesidium Partei [Adressverwalter 2, Kassier 1, Mitglied 6, Praesident 2]>
   <Ort Stans>
@@ -102,13 +102,13 @@
   <Ort Stansstad>
    <OrtSympathisanten Sympathisanten [Sympathisant 119]>
    <OrtSekretariat Sekretariat [Leitung 1]>
-   <OrtGewaehlte Exekutive [Fraktionschef 2, KommunaleExekutive 6]>
-   <OrtGewaehlte Schulpflege [Fraktionschef 1, Schulpflegekommission 4]>
+   <OrtGewaehlte Exekutive [KommunaleExekutive 8]>
+   <OrtGewaehlte Schulpflege [Schulpflegekommission 5]>
    <OrtMitglieder Mitgliedschaften [Mitglied 67]>
    <OrtPraesidium Partei [Adressverwalter 7, Mitglied 6, Praesident 2]>
   <Ort Wolfenschiessen>
    <OrtSympathisanten Sympathisanten [Sympathisant 141]>
    <OrtGewaehlte Exekutive [KommunaleExekutive 3]>
-   <OrtGewaehlte Schulpflege [Fraktionschef 2, Schulpflegekommission 5]>
+   <OrtGewaehlte Schulpflege [Schulpflegekommission 7]>
    <OrtMitglieder Mitgliedschaften [Mitglied 136]>
    <OrtPraesidium Partei [Adressverwalter 3, Mitglied 10, Praesident 2]>

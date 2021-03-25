@@ -28,22 +28,22 @@
    <OrtMitglieder Mitgliedschaften [Mitglied 40]>
    <OrtPraesidium Partei [Adressverwalter 1, Kassier 1, Mitglied 7, Praesident 3]>
   <Ort Kerns [mit Melchtal]>
-   <OrtGewaehlte Exekutive [Fraktionschef 1, KommunaleExekutive 5]>
+   <OrtGewaehlte Exekutive [KommunaleExekutive 6]>
    <OrtMitglieder Mitgliedschaften [Mitglied 87]>
    <OrtPraesidium Partei [Adressverwalter 2, Mitglied 5, Praesident 2]>
   <Ort Lungern [mit Bürglen]>
-   <OrtGewaehlte Exekutive [Fraktionschef 1, KommunaleExekutive 4]>
+   <OrtGewaehlte Exekutive [KommunaleExekutive 5]>
    <OrtMitglieder Mitgliedschaften [Mitglied 45]>
    <OrtPraesidium Partei [Adressverwalter 1, Mitglied 2, Praesident 2]>
   <Ort Sachseln [mit Flüeli Ranft]>
    <OrtSympathisanten Sympathisanten [Sympathisant 1]>
-   <OrtGewaehlte Exekutive [Fraktionschef 1, KommunaleExekutive 1]>
+   <OrtGewaehlte Exekutive [KommunaleExekutive 2]>
    <OrtMitglieder Mitgliedschaften [Mitglied 123]>
    <OrtPraesidium Partei [Adressverwalter 1, Praesident 1]>
   <Ort Sarnen [mit Ramersberg, Wilen, Stalden & Kägiswil]>
    <OrtSympathisanten Sympathisanten [Sympathisant 4]>
    <OrtSekretariat Sekretariat [Leitung 1]>
    <OrtParteigremium Parteigremium [Mitglied 3]>
-   <OrtGewaehlte Exekutive [Fraktionschef 2, KommunaleExekutive 5]>
+   <OrtGewaehlte Exekutive [KommunaleExekutive 7]>
    <OrtMitglieder Mitgliedschaften [Mitglied 103]>
    <OrtPraesidium Partei [Adressverwalter 6, Kassier 1, Mitglied 13, Praesident 3]>

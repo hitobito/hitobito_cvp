@@ -36,7 +36,7 @@
     <OrtMitglieder Mitgliedschaften [Mitglied 16]>
     <OrtPraesidium Partei [Mitglied 4, Praesident 1]>
    <Ort Isone>
-    <OrtGewaehlte Exekutive [Fraktionschef 1, KommunaleExekutive 1]>
+    <OrtGewaehlte Exekutive [KommunaleExekutive 2]>
     <OrtGewaehlte Legislative [KommunaleLegislative 5]>
     <OrtMitglieder Mitgliedschaften [Mitglied 9]>
     <OrtPraesidium Partei [Praesident 1]>
@@ -79,7 +79,7 @@
    <Ort Bedretto>
     <OrtMitglieder Mitgliedschaften [Mitglied 1]>
    <Ort Bodio>
-    <OrtGewaehlte Exekutive [Fraktionschef 1, KommunaleExekutive 2]>
+    <OrtGewaehlte Exekutive [KommunaleExekutive 3]>
     <OrtGewaehlte Legislative [KommunaleLegislative 9]>
     <OrtMitglieder Mitgliedschaften [Mitglied 11]>
     <OrtPraesidium Partei [Mitglied 2, Praesident 1]>
@@ -136,7 +136,7 @@
     <OrtMitglieder Mitgliedschaften [Mitglied 1]>
    <Ort Cugnasco - Gerra>
     <OrtSekretariat Sekretariat [Leitung 3]>
-    <OrtGewaehlte Exekutive [Fraktionschef 1, KommunaleExekutive 2]>
+    <OrtGewaehlte Exekutive [KommunaleExekutive 3]>
     <OrtGewaehlte Legislative [KommunaleLegislative 8]>
     <OrtMitglieder Mitgliedschaften [Mitglied 33]>
     <OrtPraesidium Partei [Kassier 2, Mitglied 9, Praesident 2]>
@@ -152,7 +152,7 @@
     <OrtMitglieder Mitgliedschaften [Mitglied 1]>
    <Ort Lavertezzo>
     <OrtSekretariat Sekretariat [Leitung 2]>
-    <OrtGewaehlte Exekutive [Fraktionschef 1, KommunaleExekutive 1]>
+    <OrtGewaehlte Exekutive [KommunaleExekutive 2]>
     <OrtGewaehlte Legislative [KommunaleLegislative 9]>
     <OrtMitglieder Mitgliedschaften [Mitglied 9]>
     <OrtPraesidium Partei [Kassier 1, Mitglied 6, Praesident 1]>
@@ -211,12 +211,12 @@
     <OrtMitglieder Mitgliedschaften [Mitglied 19]>
     <OrtPraesidium Partei [Praesident 1]>
    <Ort Alto Malcantone>
-    <OrtGewaehlte Exekutive [Fraktionschef 1]>
+    <OrtGewaehlte Exekutive [KommunaleExekutive 1]>
     <OrtGewaehlte Legislative [KommunaleLegislative 5]>
     <OrtMitglieder Mitgliedschaften [Mitglied 15]>
     <OrtPraesidium Partei [Praesident 1]>
    <Ort Aranno>
-    <OrtGewaehlte Exekutive [Fraktionschef 1, KommunaleExekutive 1]>
+    <OrtGewaehlte Exekutive [KommunaleExekutive 2]>
     <OrtMitglieder Mitgliedschaften [Mitglied 2]>
     <OrtPraesidium Partei [Praesident 1]>
    <Ort Arogno>
@@ -241,7 +241,7 @@
     <OrtMitglieder Mitgliedschaften [Mitglied 6]>
     <OrtPraesidium Partei [Praesident 1]>
    <Ort Brusino Arsizio>
-    <OrtGewaehlte Exekutive [Fraktionschef 1, KommunaleExekutive 1]>
+    <OrtGewaehlte Exekutive [KommunaleExekutive 2]>
     <OrtGewaehlte Legislative [KommunaleLegislative 4]>
     <OrtMitglieder Mitgliedschaften [Mitglied 9]>
     <OrtPraesidium Partei [Praesident 1]>
@@ -251,19 +251,19 @@
     <OrtMitglieder Mitgliedschaften [Mitglied 11]>
     <OrtPraesidium Partei [Praesident 1]>
    <Ort Cadempino>
-    <OrtGewaehlte Exekutive [Fraktionschef 1, KommunaleExekutive 1]>
+    <OrtGewaehlte Exekutive [KommunaleExekutive 2]>
     <OrtGewaehlte Legislative [KommunaleLegislative 7]>
     <OrtMitglieder Mitgliedschaften [Mitglied 10]>
     <OrtPraesidium Partei [Praesident 1]>
    <Ort Canobbio>
     <OrtSekretariat Sekretariat [Leitung 1]>
-    <OrtGewaehlte Exekutive [Fraktionschef 1, KommunaleExekutive 3]>
+    <OrtGewaehlte Exekutive [KommunaleExekutive 4]>
     <OrtGewaehlte Legislative [KommunaleLegislative 15]>
     <OrtMitglieder Mitgliedschaften [Mitglied 47]>
     <OrtPraesidium Partei [Kassier 1, Mitglied 4, Praesident 3]>
    <Ort Capriasca>
     <OrtSekretariat Sekretariat [Leitung 2]>
-    <OrtGewaehlte Exekutive [Fraktionschef 1]>
+    <OrtGewaehlte Exekutive [KommunaleExekutive 1]>
     <OrtGewaehlte Legislative [KommunaleLegislative 9]>
     <OrtMitglieder Mitgliedschaften [Mitglied 75]>
     <OrtPraesidium Partei [Mitglied 5]>
@@ -271,7 +271,7 @@
     <OrtMitglieder Mitgliedschaften [Mitglied 1]>
     <OrtPraesidium Partei [Praesident 1]>
    <Ort Caslano>
-    <OrtGewaehlte Exekutive [Fraktionschef 1, KommunaleExekutive 2]>
+    <OrtGewaehlte Exekutive [KommunaleExekutive 3]>
     <OrtGewaehlte Legislative [KommunaleLegislative 9]>
    <Ort Collina d'Oro>
     <OrtGewaehlte Legislative [KommunaleLegislative 2]>
@@ -308,7 +308,7 @@
     <OrtGewaehlte Exekutive [KommunaleExekutive 2]>
    <Ort Manno>
     <OrtSekretariat Sekretariat [Leitung 1]>
-    <OrtGewaehlte Exekutive [Fraktionschef 1]>
+    <OrtGewaehlte Exekutive [KommunaleExekutive 1]>
     <OrtMitglieder Mitgliedschaften [Mitglied 18]>
     <OrtPraesidium Partei [Kassier 1, Mitglied 1, Praesident 1]>
    <Ort Maroggia>
@@ -370,7 +370,7 @@
     <OrtMitglieder Mitgliedschaften [Mitglied 2]>
    <Ort Savosa>
     <OrtSekretariat Sekretariat [Leitung 1]>
-    <OrtGewaehlte Exekutive [Fraktionschef 1]>
+    <OrtGewaehlte Exekutive [KommunaleExekutive 1]>
     <OrtMitglieder Mitgliedschaften [Mitglied 28]>
     <OrtPraesidium Partei [Kassier 2, Mitglied 10, Praesident 1]>
    <Ort Sessa>
@@ -387,7 +387,7 @@
     <OrtPraesidium Partei [Praesident 1]>
    <Ort Vezia>
     <OrtSekretariat Sekretariat [Leitung 1]>
-    <OrtGewaehlte Exekutive [Fraktionschef 1, KommunaleExekutive 1]>
+    <OrtGewaehlte Exekutive [KommunaleExekutive 2]>
     <OrtGewaehlte Legislative [KommunaleLegislative 4]>
     <OrtMitglieder Mitgliedschaften [Mitglied 9]>
     <OrtPraesidium Partei [Kassier 1, Mitglied 3, Praesident 2]>
@@ -400,7 +400,7 @@
    <Ort Balerna>
     <OrtSekretariat Sekretariat [Leitung 1]>
     <OrtPraesidium Praesidium [Kassier 1, Mitglied 1]>
-    <OrtGewaehlte Exekutive [Fraktionschef 1]>
+    <OrtGewaehlte Exekutive [KommunaleExekutive 1]>
      <OrtGewaehlte Ausschuss [KommunaleExekutive 3]>
     <OrtGewaehlte Legislative [KommunaleLegislative 2]>
     <OrtMitglieder Mitgliedschaften [Mitglied 21]>
@@ -481,7 +481,7 @@
    <RegionPraesidium Partei [Praesident 9]>
    <Ort Avegno - Gordevio>
     <OrtSekretariat Sekretariat [Leitung 1]>
-    <OrtGewaehlte Exekutive [Fraktionschef 1]>
+    <OrtGewaehlte Exekutive [KommunaleExekutive 1]>
     <OrtMitglieder Mitgliedschaften [Mitglied 23]>
     <OrtPraesidium Partei [Praesident 1]>
    <Ort Bosco Gurin>

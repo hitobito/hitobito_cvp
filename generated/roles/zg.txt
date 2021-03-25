@@ -32,7 +32,7 @@
    <OrtArbeitsgruppe Arbeitsgruppe [Mitglied 73]>
    <OrtGewaehlte Gewaehlte [KommunaleLegislative 1, MitgliedWeitereGemeindeKommissionen 78, Schulpflegekommission 2]>
    <OrtPraesidium Praesidium [Mitglied 12]>
-   <OrtGewaehlte Exekutive [Fraktionschef 4, KommunaleExekutive 2]>
+   <OrtGewaehlte Exekutive [KommunaleExekutive 6]>
    <OrtMitglieder Mitgliedschaften [Mitglied 246]>
    <OrtPraesidium Partei [Adressverwalter 5, Mitglied 24, Praesident 4]>
   <Ort Hünenberg>

@@ -72,7 +72,7 @@
    <Ort Grellingen>
     <OrtSympathisanten Sympathisanten [Sympathisant 19]>
     <OrtSekretariat Sekretariat [Mitarbeiter 1]>
-    <OrtGewaehlte Exekutive [Fraktionschef 1, KommunaleExekutive 6]>
+    <OrtGewaehlte Exekutive [KommunaleExekutive 7]>
     <OrtMitglieder Mitgliedschaften [Mitglied 40]>
     <OrtPraesidium Partei [Adressverwalter 1, Kassier 1, Mitglied 7, Praesident 3]>
    <Ort Laufen>
@@ -112,7 +112,7 @@
    <Ort Münchenstein>
     <OrtSympathisanten Sympathisanten [Sympathisant 31]>
     <OrtSekretariat Sekretariat [Leitung 1, Mitarbeiter 1]>
-    <OrtGewaehlte Exekutive [Fraktionschef 1, KommunaleExekutive 1]>
+    <OrtGewaehlte Exekutive [KommunaleExekutive 2]>
     <OrtGewaehlte Schulpflege [Schulpflegekommission 1]>
     <OrtMitglieder Mitgliedschaften [Mitglied 19]>
     <OrtPraesidium Partei [Adressverwalter 3, Mitglied 6, Praesident 3]>
@@ -120,7 +120,7 @@
    <Ort Ettingen>
     <OrtSympathisanten Sympathisanten [Sympathisant 2]>
     <OrtSekretariat Sekretariat [Mitarbeiter 1]>
-    <OrtGewaehlte Exekutive [Fraktionschef 1]>
+    <OrtGewaehlte Exekutive [KommunaleExekutive 1]>
     <OrtMitglieder Mitgliedschaften [Mitglied 26]>
     <OrtPraesidium Partei [Adressverwalter 2, Kassier 1, Mitglied 1, Praesident 1]>
    <Ort Oberwil>

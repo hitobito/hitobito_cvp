@@ -61,7 +61,7 @@
     <OrtGewaehlte Gewaehlte [MitgliedWeitereGemeindeKommissionen 15, Rechnungspruefungskommission 2, Schulpflegekommission 2]>
     <OrtExterneKontakte ExterneKontakte [Kontakt 153]>
     <OrtParteigremium Parteigremium [Mitglied 15]>
-    <OrtGewaehlte Exekutive [Fraktionschef 1, KommunaleExekutive 5]>
+    <OrtGewaehlte Exekutive [KommunaleExekutive 6]>
     <OrtMitglieder Mitgliedschaften [Mitglied 176]>
     <OrtPraesidium Partei [Adressverwalter 2, Kassier 2, Mitglied 17, Praesident 4]>
    <Ort Wollerau>
@@ -108,7 +108,7 @@
     <OrtMitglieder Mitgliedschaften [Mitglied 21]>
     <OrtPraesidium Partei [Adressverwalter 2, Mitglied 12, Praesident 1]>
    <Ort Tuggen>
-    <OrtGewaehlte Exekutive [Fraktionschef 1, KommunaleExekutive 1]>
+    <OrtGewaehlte Exekutive [KommunaleExekutive 2]>
     <OrtMitglieder Mitgliedschaften [Mitglied 18]>
     <OrtPraesidium Partei [Adressverwalter 2, Mitglied 6, Praesident 4]>
    <Ort Wangen>
@@ -121,21 +121,21 @@
    <RegionPraesidium Partei [Mitglied 1, Praesident 1]>
    <Ort Arth-Oberarth-Goldau>
     <OrtSympathisanten Sympathisanten [Sympathisant 120]>
-    <OrtGewaehlte Exekutive [Fraktionschef 2, KommunaleExekutive 5]>
+    <OrtGewaehlte Exekutive [KommunaleExekutive 7]>
     <OrtMitglieder Mitgliedschaften [Mitglied 555]>
     <OrtPraesidium Partei [Mitglied 3, Praesident 1]>
    <Ort Illgau>
-    <OrtGewaehlte Exekutive [Fraktionschef 1, KommunaleExekutive 1]>
+    <OrtGewaehlte Exekutive [KommunaleExekutive 2]>
     <OrtMitglieder Mitgliedschaften [Mitglied 13]>
     <OrtPraesidium Partei [Mitglied 4, Praesident 1]>
    <Ort Ingenbohl>
     <OrtSympathisanten Sympathisanten [Sympathisant 30]>
-    <OrtGewaehlte Exekutive [Fraktionschef 1, KommunaleExekutive 3]>
+    <OrtGewaehlte Exekutive [KommunaleExekutive 4]>
     <OrtMitglieder Mitgliedschaften [Mitglied 76]>
     <OrtPraesidium Partei [Adressverwalter 10, Mitglied 8, Praesident 4]>
    <Ort Lauerz>
     <OrtSympathisanten Sympathisanten [Sympathisant 7]>
-    <OrtGewaehlte Exekutive [Fraktionschef 2, KommunaleExekutive 3]>
+    <OrtGewaehlte Exekutive [KommunaleExekutive 5]>
     <OrtMitglieder Mitgliedschaften [Mitglied 30]>
     <OrtPraesidium Partei [Kassier 1, Mitglied 10, Praesident 3]>
    <Ort Muotathal>
@@ -154,12 +154,12 @@
     <OrtPraesidium Partei [Adressverwalter 1, Mitglied 4, Praesident 2]>
    <Ort Schwyz>
     <OrtSympathisanten Sympathisanten [Sympathisant 116]>
-    <OrtGewaehlte Exekutive [Fraktionschef 1, KommunaleExekutive 7]>
+    <OrtGewaehlte Exekutive [KommunaleExekutive 8]>
     <OrtMitglieder Mitgliedschaften [Mitglied 577]>
     <OrtPraesidium Partei [Adressverwalter 20, Mitglied 13, Praesident 3]>
    <Ort Steinen>
     <OrtSympathisanten Sympathisanten [Sympathisant 243]>
-    <OrtGewaehlte Exekutive [Fraktionschef 2, KommunaleExekutive 3]>
+    <OrtGewaehlte Exekutive [KommunaleExekutive 5]>
     <OrtMitglieder Mitgliedschaften [Mitglied 32]>
     <OrtPraesidium Partei [Kassier 2, Mitglied 6, Praesident 3]>
    <Ort Unteriberg>

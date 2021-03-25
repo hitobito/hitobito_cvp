@@ -141,14 +141,14 @@
     <OrtSympathisanten Sympathisanten [Sympathisant 21]>
     <OrtArbeitsgruppe Arbeitsgruppe [Mitglied 2]>
     <OrtGewaehlte Gewaehlte [MitgliedWeitereGemeindeKommissionen 4, Schulpflegekommission 5]>
-    <OrtGewaehlte Exekutive [Fraktionschef 1, KommunaleExekutive 7, MitgliedWeitereGemeindeKommissionen 3]>
+    <OrtGewaehlte Exekutive [KommunaleExekutive 8, MitgliedWeitereGemeindeKommissionen 3]>
     <OrtMitglieder Mitgliedschaften [Mitglied 20]>
     <OrtPraesidium Partei [Adressverwalter 2, Kassier 1, Mitglied 7, Praesident 3]>
    <Ort Entlebuch>
     <OrtSympathisanten Sympathisanten [Sympathisant 280]>
     <OrtArbeitsgruppe Arbeitsgruppe [Mitglied 3]>
     <OrtGewaehlte Gewaehlte [MitgliedWeitereGemeindeKommissionen 7, Schulpflegekommission 6]>
-    <OrtGewaehlte Exekutive [Fraktionschef 1, KommunaleExekutive 7, MitgliedWeitereGemeindeKommissionen 1]>
+    <OrtGewaehlte Exekutive [KommunaleExekutive 8, MitgliedWeitereGemeindeKommissionen 1]>
     <OrtMitglieder Mitgliedschaften [Mitglied 24]>
     <OrtPraesidium Partei [Adressverwalter 2, Kassier 2, Mitglied 17, Praesident 4]>
    <Ort Escholzmatt-Marbach>
@@ -156,21 +156,21 @@
     <OrtArbeitsgruppe Arbeitsgruppe [Mitglied 8]>
     <OrtGewaehlte Gewaehlte [MitgliedWeitereGemeindeKommissionen 2, Schulpflegekommission 6]>
     <OrtSekretariat Sekretariat [Webadministrator 1]>
-    <OrtGewaehlte Exekutive [Fraktionschef 3, KommunaleExekutive 7, MitgliedWeitereGemeindeKommissionen 3]>
+    <OrtGewaehlte Exekutive [KommunaleExekutive 10, MitgliedWeitereGemeindeKommissionen 3]>
     <OrtMitglieder Mitgliedschaften [Mitglied 26]>
     <OrtPraesidium Partei [Adressverwalter 3, Kassier 1, Mitglied 22, Praesident 3]>
    <Ort Flühli>
     <OrtSympathisanten Sympathisanten [Sympathisant 45]>
     <OrtArbeitsgruppe Arbeitsgruppe [Mitglied 1]>
     <OrtGewaehlte Gewaehlte [MitgliedWeitereGemeindeKommissionen 2, Schulpflegekommission 5]>
-    <OrtGewaehlte Exekutive [Fraktionschef 1, KommunaleExekutive 5, MitgliedWeitereGemeindeKommissionen 1]>
+    <OrtGewaehlte Exekutive [KommunaleExekutive 6, MitgliedWeitereGemeindeKommissionen 1]>
     <OrtMitglieder Mitgliedschaften [Mitglied 15]>
     <OrtPraesidium Partei [Kassier 2, Mitglied 8, Praesident 2]>
    <Ort Hasle>
     <OrtSympathisanten Sympathisanten [Sympathisant 39]>
     <OrtGewaehlte Gewaehlte [MitgliedWeitereGemeindeKommissionen 3, Schulpflegekommission 3]>
     <OrtSekretariat Sekretariat [Webadministrator 1]>
-    <OrtGewaehlte Exekutive [Fraktionschef 2, KommunaleExekutive 7, MitgliedWeitereGemeindeKommissionen 3]>
+    <OrtGewaehlte Exekutive [KommunaleExekutive 9, MitgliedWeitereGemeindeKommissionen 3]>
     <OrtMitglieder Mitgliedschaften [Mitglied 18]>
     <OrtPraesidium Partei [Adressverwalter 2, Kassier 1, Mitglied 12, Praesident 1]>
    <Ort Newsletter>
@@ -179,7 +179,7 @@
     <OrtSympathisanten Sympathisanten [Sympathisant 39]>
     <OrtArbeitsgruppe Arbeitsgruppe [Mitglied 1]>
     <OrtGewaehlte Gewaehlte [Schulpflegekommission 3]>
-    <OrtGewaehlte Exekutive [Fraktionschef 1, KommunaleExekutive 7, MitgliedWeitereGemeindeKommissionen 3]>
+    <OrtGewaehlte Exekutive [KommunaleExekutive 8, MitgliedWeitereGemeindeKommissionen 3]>
     <OrtMitglieder Mitgliedschaften [Mitglied 9]>
     <OrtPraesidium Partei [Kassier 2, Mitglied 11, Praesident 1]>
    <Ort Schüpfheim>
@@ -187,14 +187,14 @@
     <OrtArbeitsgruppe Arbeitsgruppe [Mitglied 5]>
     <OrtGewaehlte Gewaehlte [MitgliedWeitereGemeindeKommissionen 8, Schulpflegekommission 3]>
     <OrtSekretariat Sekretariat [Webadministrator 1]>
-    <OrtGewaehlte Exekutive [Fraktionschef 2, KommunaleExekutive 8, MitgliedWeitereGemeindeKommissionen 3]>
+    <OrtGewaehlte Exekutive [KommunaleExekutive 10, MitgliedWeitereGemeindeKommissionen 3]>
     <OrtMitglieder Mitgliedschaften [Mitglied 54]>
     <OrtPraesidium Partei [Adressverwalter 8, Kassier 2, Mitglied 19, Praesident 2]>
    <Ort Werthenstein>
     <OrtSympathisanten Sympathisanten [Sympathisant 71]>
     <OrtArbeitsgruppe Arbeitsgruppe [Mitglied 5]>
     <OrtGewaehlte Gewaehlte [MitgliedWeitereGemeindeKommissionen 3, Schulpflegekommission 3]>
-    <OrtGewaehlte Exekutive [Fraktionschef 1, KommunaleExekutive 4, MitgliedWeitereGemeindeKommissionen 2]>
+    <OrtGewaehlte Exekutive [KommunaleExekutive 5, MitgliedWeitereGemeindeKommissionen 2]>
     <OrtMitglieder Mitgliedschaften [Mitglied 15]>
     <OrtPraesidium Partei [Adressverwalter 1, Kassier 1, Mitglied 15, Praesident 2]>
    <Ort Wolhusen>
@@ -210,19 +210,19 @@
     <OrtSympathisanten Sympathisanten [Sympathisant 190]>
     <OrtArbeitsgruppe Arbeitsgruppe [Mitglied 1]>
     <OrtGewaehlte Gewaehlte [MitgliedWeitereGemeindeKommissionen 1]>
-    <OrtGewaehlte Exekutive [Fraktionschef 1, KommunaleExekutive 7, MitgliedWeitereGemeindeKommissionen 3]>
+    <OrtGewaehlte Exekutive [KommunaleExekutive 8, MitgliedWeitereGemeindeKommissionen 3]>
     <OrtMitglieder Mitgliedschaften [Mitglied 1]>
     <OrtPraesidium Partei [Kassier 3, Mitglied 7, Praesident 1]>
    <Ort Altwis>
     <OrtArbeitsgruppe Arbeitsgruppe [Mitglied 1]>
     <OrtGewaehlte Gewaehlte [Schulpflegekommission 1]>
-    <OrtGewaehlte Exekutive [Fraktionschef 1, KommunaleExekutive 4]>
+    <OrtGewaehlte Exekutive [KommunaleExekutive 5]>
     <OrtPraesidium Partei [Kassier 2, Mitglied 7, Praesident 1]>
    <Ort Ballwil>
     <OrtSympathisanten Sympathisanten [Sympathisant 470]>
     <OrtArbeitsgruppe Arbeitsgruppe [Mitglied 6]>
     <OrtGewaehlte Gewaehlte [MitgliedWeitereGemeindeKommissionen 4, Schulpflegekommission 3]>
-    <OrtGewaehlte Exekutive [Fraktionschef 2, KommunaleExekutive 7, MitgliedWeitereGemeindeKommissionen 2]>
+    <OrtGewaehlte Exekutive [KommunaleExekutive 9, MitgliedWeitereGemeindeKommissionen 2]>
     <OrtMitglieder Mitgliedschaften [Mitglied 1]>
     <OrtPraesidium Partei [Adressverwalter 7, Kassier 2, Mitglied 11, Praesident 5]>
    <Ort Emmen>
@@ -232,7 +232,7 @@
     <OrtExterneKontakte ExterneKontakte [Kontakt 345]>
     <OrtArbeitsgruppe Info-Mail [Mitglied 69]>
     <OrtExterneKontakte Newsletter [Kontakt 96]>
-    <OrtGewaehlte Exekutive [Fraktionschef 1, KommunaleExekutive 3]>
+    <OrtGewaehlte Exekutive [KommunaleExekutive 4]>
     <OrtGewaehlte Legislative [KommunaleLegislative 17]>
     <OrtMitglieder Mitgliedschaften [Mitglied 120]>
     <OrtPraesidium Partei [Adressverwalter 5, Kassier 2, Mitglied 18, Praesident 4]>
@@ -248,7 +248,7 @@
     <OrtSympathisanten Sympathisanten [Sympathisant 281]>
     <OrtArbeitsgruppe Arbeitsgruppe [Mitglied 4]>
     <OrtGewaehlte Gewaehlte [MitgliedWeitereGemeindeKommissionen 7, Schulpflegekommission 4]>
-    <OrtGewaehlte Exekutive [Fraktionschef 1, KommunaleExekutive 7, MitgliedWeitereGemeindeKommissionen 3]>
+    <OrtGewaehlte Exekutive [KommunaleExekutive 8, MitgliedWeitereGemeindeKommissionen 3]>
     <OrtMitglieder Mitgliedschaften [Mitglied 26]>
     <OrtPraesidium Partei [Adressverwalter 7, Kassier 1, Mitglied 24, Praesident 3]>
    <Ort Hitzkirch>
@@ -257,7 +257,7 @@
     <OrtGewaehlte Gewaehlte [MitgliedWeitereGemeindeKommissionen 14, Schulpflegekommission 5]>
     <OrtSekretariat Sekretariat [Webadministrator 1]>
     <OrtParteigremium Parteigremium [Mitglied 5]>
-    <OrtGewaehlte Exekutive [Fraktionschef 2, KommunaleExekutive 10, MitgliedWeitereGemeindeKommissionen 2]>
+    <OrtGewaehlte Exekutive [KommunaleExekutive 12, MitgliedWeitereGemeindeKommissionen 2]>
     <OrtMitglieder Mitgliedschaften [Mitglied 195]>
     <OrtPraesidium Partei [Adressverwalter 3, Kassier 3, Mitglied 24, Praesident 3]>
    <Ort Hochdorf>
@@ -266,14 +266,14 @@
     <OrtGewaehlte Gewaehlte [MitgliedWeitereGemeindeKommissionen 29, Schulpflegekommission 6]>
     <OrtSekretariat Sekretariat [Webadministrator 1]>
     <OrtParteigremium Parteigremium [Mitglied 4]>
-    <OrtGewaehlte Exekutive [Fraktionschef 1, KommunaleExekutive 7, MitgliedWeitereGemeindeKommissionen 2]>
+    <OrtGewaehlte Exekutive [KommunaleExekutive 8, MitgliedWeitereGemeindeKommissionen 2]>
     <OrtPraesidium Partei [Adressverwalter 17, Kassier 3, Mitglied 26, Praesident 3]>
    <Ort Hohenrain>
     <OrtSympathisanten Sympathisanten [Sympathisant 115]>
     <OrtArbeitsgruppe Arbeitsgruppe [Mitglied 3]>
     <OrtGewaehlte Gewaehlte [Rechnungspruefungskommission 3, Schulpflegekommission 6]>
     <OrtExterneKontakte ExterneKontakte [Kontakt 421]>
-    <OrtGewaehlte Exekutive [Fraktionschef 1, KommunaleExekutive 4, MitgliedWeitereGemeindeKommissionen 3]>
+    <OrtGewaehlte Exekutive [KommunaleExekutive 5, MitgliedWeitereGemeindeKommissionen 3]>
     <OrtMitglieder Mitgliedschaften [Mitglied 203]>
     <OrtPraesidium Partei [Adressverwalter 2, Kassier 1, Mitglied 5, Praesident 3]>
    <Ort Inwil>
@@ -289,7 +289,7 @@
     <OrtSympathisanten Sympathisanten [Sympathisant 4]>
     <OrtArbeitsgruppe Arbeitsgruppe [Mitglied 2]>
     <OrtGewaehlte Gewaehlte [Schulpflegekommission 2]>
-    <OrtGewaehlte Exekutive [Fraktionschef 1, KommunaleExekutive 7, MitgliedWeitereGemeindeKommissionen 1]>
+    <OrtGewaehlte Exekutive [KommunaleExekutive 8, MitgliedWeitereGemeindeKommissionen 1]>
     <OrtMitglieder Mitgliedschaften [Mitglied 178]>
     <OrtPraesidium Partei [Adressverwalter 7, Kassier 2, Mitglied 9, Praesident 1]>
    <Ort Rothenburg>
@@ -297,14 +297,14 @@
     <OrtArbeitsgruppe Arbeitsgruppe [Mitglied 7]>
     <OrtGewaehlte Gewaehlte [MitgliedWeitereGemeindeKommissionen 5, Schulpflegekommission 5]>
     <OrtSekretariat Sekretariat [Webadministrator 1]>
-    <OrtGewaehlte Exekutive [Fraktionschef 2, KommunaleExekutive 4, MitgliedWeitereGemeindeKommissionen 2]>
+    <OrtGewaehlte Exekutive [KommunaleExekutive 6, MitgliedWeitereGemeindeKommissionen 2]>
     <OrtMitglieder Mitgliedschaften [Mitglied 119]>
     <OrtPraesidium Partei [Adressverwalter 4, Kassier 2, Mitglied 12, Praesident 5]>
    <Ort Römerswil>
     <OrtSympathisanten Sympathisanten [Sympathisant 99]>
     <OrtArbeitsgruppe Arbeitsgruppe [Mitglied 5]>
     <OrtGewaehlte Gewaehlte [MitgliedWeitereGemeindeKommissionen 6, Schulpflegekommission 5]>
-    <OrtGewaehlte Exekutive [Fraktionschef 2, KommunaleExekutive 5, MitgliedWeitereGemeindeKommissionen 1]>
+    <OrtGewaehlte Exekutive [KommunaleExekutive 7, MitgliedWeitereGemeindeKommissionen 1]>
     <OrtMitglieder Mitgliedschaften [Mitglied 24]>
     <OrtPraesidium Partei [Adressverwalter 4, Kassier 1, Mitglied 14, Praesident 3]>
    <Ort Schongau>
@@ -320,21 +320,21 @@
     <OrtArbeitsgruppe Arbeitsgruppe [Mitglied 7]>
     <OrtGewaehlte Gewaehlte [MitgliedWeitereGemeindeKommissionen 3, Schulpflegekommission 5]>
     <OrtExterneKontakte ExterneKontakte [Kontakt 565, Spender 17]>
-    <OrtGewaehlte Exekutive [Fraktionschef 1, KommunaleExekutive 4, MitgliedWeitereGemeindeKommissionen 2]>
+    <OrtGewaehlte Exekutive [KommunaleExekutive 5, MitgliedWeitereGemeindeKommissionen 2]>
     <OrtMitglieder Mitgliedschaften [Mitglied 73]>
     <OrtPraesidium Partei [Adressverwalter 7, Kassier 2, Mitglied 17, Praesident 3]>
    <Ort Buchrain>
     <OrtSympathisanten Sympathisanten [Sympathisant 35]>
     <OrtArbeitsgruppe Arbeitsgruppe [Mitglied 8]>
     <OrtGewaehlte Gewaehlte [MitgliedWeitereGemeindeKommissionen 11, Schulpflegekommission 2]>
-    <OrtGewaehlte Exekutive [Fraktionschef 1, KommunaleExekutive 4, MitgliedWeitereGemeindeKommissionen 1]>
+    <OrtGewaehlte Exekutive [KommunaleExekutive 5, MitgliedWeitereGemeindeKommissionen 1]>
     <OrtMitglieder Mitgliedschaften [Mitglied 52]>
     <OrtPraesidium Partei [Adressverwalter 2, Kassier 1, Mitglied 13, Praesident 1]>
    <Ort Dierikon>
     <OrtSympathisanten Sympathisanten [Sympathisant 13]>
     <OrtArbeitsgruppe Arbeitsgruppe [Mitglied 2]>
     <OrtGewaehlte Gewaehlte [MitgliedWeitereGemeindeKommissionen 7, Schulpflegekommission 2]>
-    <OrtGewaehlte Exekutive [Fraktionschef 2, KommunaleExekutive 10, MitgliedWeitereGemeindeKommissionen 3]>
+    <OrtGewaehlte Exekutive [KommunaleExekutive 12, MitgliedWeitereGemeindeKommissionen 3]>
     <OrtMitglieder Mitgliedschaften [Mitglied 17]>
     <OrtPraesidium Partei [Kassier 1, Mitglied 11, Praesident 5]>
    <Ort Ebikon>
@@ -343,7 +343,7 @@
     <OrtGewaehlte Gewaehlte [MitgliedWeitereGemeindeKommissionen 14, Schulpflegekommission 7]>
     <OrtSekretariat Sekretariat [Webadministrator 1]>
     <OrtExterneKontakte ExterneKontakte [Spender 11]>
-    <OrtGewaehlte Exekutive [Fraktionschef 2, KommunaleExekutive 5, MitgliedWeitereGemeindeKommissionen 2]>
+    <OrtGewaehlte Exekutive [KommunaleExekutive 7, MitgliedWeitereGemeindeKommissionen 2]>
     <OrtMitglieder Mitgliedschaften [Mitglied 156]>
     <OrtPraesidium Partei [Adressverwalter 10, Kassier 2, Mitglied 125, Praesident 3]>
    <Ort Gisikon>
@@ -356,7 +356,7 @@
     <OrtSympathisanten Sympathisanten [Sympathisant 12]>
     <OrtArbeitsgruppe Arbeitsgruppe [Mitglied 4]>
     <OrtGewaehlte Gewaehlte [Schulpflegekommission 1]>
-    <OrtGewaehlte Exekutive [Fraktionschef 2, KommunaleExekutive 6, MitgliedWeitereGemeindeKommissionen 3]>
+    <OrtGewaehlte Exekutive [KommunaleExekutive 8, MitgliedWeitereGemeindeKommissionen 3]>
     <OrtMitglieder Mitgliedschaften [Mitglied 11]>
     <OrtPraesidium Partei [Adressverwalter 2, Kassier 1, Mitglied 8, Praesident 1]>
    <Ort Honau>
@@ -364,7 +364,7 @@
     <OrtArbeitsgruppe Arbeitsgruppe [Mitglied 1]>
     <OrtGewaehlte Gewaehlte [Schulpflegekommission 1]>
     <OrtParteigremium Parteigremium [Mitglied 1]>
-    <OrtGewaehlte Exekutive [Fraktionschef 1, KommunaleExekutive 4, MitgliedWeitereGemeindeKommissionen 1]>
+    <OrtGewaehlte Exekutive [KommunaleExekutive 5, MitgliedWeitereGemeindeKommissionen 1]>
     <OrtMitglieder Mitgliedschaften [Mitglied 5]>
     <OrtPraesidium Partei [Kassier 1, Mitglied 5, Praesident 1]>
    <Ort Horw>
@@ -372,7 +372,7 @@
     <OrtArbeitsgruppe Arbeitsgruppe [Mitglied 1]>
     <OrtGewaehlte Gewaehlte [MitgliedWeitereGemeindeKommissionen 2, Schulpflegekommission 7]>
     <OrtExterneKontakte Newsletter [Kontakt 108]>
-    <OrtGewaehlte Exekutive [Fraktionschef 1, KommunaleExekutive 7, MitgliedWeitereGemeindeKommissionen 1]>
+    <OrtGewaehlte Exekutive [KommunaleExekutive 8, MitgliedWeitereGemeindeKommissionen 1]>
     <OrtGewaehlte Legislative [KommunaleLegislative 20]>
     <OrtMitglieder Mitgliedschaften [Mitglied 98]>
     <OrtPraesidium Partei [Adressverwalter 3, Kassier 1, Mitglied 13, Praesident 1]>
@@ -433,14 +433,14 @@
    <Ort Vitznau>
     <OrtSympathisanten Sympathisanten [Sympathisant 13]>
     <OrtArbeitsgruppe Arbeitsgruppe [Mitglied 1]>
-    <OrtGewaehlte Exekutive [Fraktionschef 1, KommunaleExekutive 2, MitgliedWeitereGemeindeKommissionen 1]>
+    <OrtGewaehlte Exekutive [KommunaleExekutive 3, MitgliedWeitereGemeindeKommissionen 1]>
     <OrtMitglieder Mitgliedschaften [Mitglied 2]>
     <OrtPraesidium Partei [Adressverwalter 2, Kassier 1, Mitglied 5, Praesident 1]>
    <Ort Weggis>
     <OrtSympathisanten Sympathisanten [Sympathisant 48]>
     <OrtArbeitsgruppe Arbeitsgruppe [Mitglied 5]>
     <OrtGewaehlte Gewaehlte [MitgliedWeitereGemeindeKommissionen 4, Schulpflegekommission 3]>
-    <OrtGewaehlte Exekutive [Fraktionschef 1, KommunaleExekutive 6, MitgliedWeitereGemeindeKommissionen 2]>
+    <OrtGewaehlte Exekutive [KommunaleExekutive 7, MitgliedWeitereGemeindeKommissionen 2]>
     <OrtMitglieder Mitgliedschaften [Mitglied 8]>
     <OrtPraesidium Partei [Kassier 1, Mitglied 8, Praesident 1]>
   <Region Wahlkreis Luzern-Stadt>
@@ -455,7 +455,7 @@
     <OrtArbeitsgruppe Urnenbürofunktionäre 2021 [Mitglied 8]>
     <OrtExterneKontakte Firmen [Kontakt 526]>
     <OrtExterneKontakte Newsletter [Kontakt 851]>
-    <OrtGewaehlte Exekutive [Fraktionschef 2, KommunaleExekutive 3, MitgliedWeitereGemeindeKommissionen 3]>
+    <OrtGewaehlte Exekutive [KommunaleExekutive 5, MitgliedWeitereGemeindeKommissionen 3]>
     <OrtGewaehlte Legislative [KommunaleLegislative 14]>
     <OrtMitglieder Mitgliedschaften [Mitglied 286]>
     <OrtPraesidium Parteileitung [Adressverwalter 1, Kassier 2, Mitglied 14, Praesident 2]>
@@ -466,7 +466,7 @@
     <OrtSympathisanten Sympathisanten [Sympathisant 476]>
     <OrtArbeitsgruppe Arbeitsgruppe [Mitglied 10]>
     <OrtGewaehlte Gewaehlte [MitgliedWeitereGemeindeKommissionen 10, Schulpflegekommission 8]>
-    <OrtGewaehlte Exekutive [Fraktionschef 1, KommunaleExekutive 8, MitgliedWeitereGemeindeKommissionen 2]>
+    <OrtGewaehlte Exekutive [KommunaleExekutive 9, MitgliedWeitereGemeindeKommissionen 2]>
     <OrtMitglieder Mitgliedschaften [Mitglied 45]>
     <OrtPraesidium Partei [Adressverwalter 8, Kassier 4, Mitglied 20, Praesident 2]>
    <Ort Buttisholz>
@@ -474,26 +474,26 @@
     <OrtArbeitsgruppe Arbeitsgruppe [Mitglied 9]>
     <OrtGewaehlte Gewaehlte [MitgliedWeitereGemeindeKommissionen 4, Schulpflegekommission 5]>
     <OrtSekretariat Sekretariat [Webadministrator 1]>
-    <OrtGewaehlte Exekutive [Fraktionschef 1, KommunaleExekutive 8, MitgliedWeitereGemeindeKommissionen 3]>
+    <OrtGewaehlte Exekutive [KommunaleExekutive 9, MitgliedWeitereGemeindeKommissionen 3]>
     <OrtMitglieder Mitgliedschaften [Mitglied 49]>
     <OrtPraesidium Partei [Adressverwalter 1, Kassier 2, Mitglied 29, Praesident 3]>
    <Ort Büron>
     <OrtSympathisanten Sympathisanten [Sympathisant 100]>
     <OrtArbeitsgruppe Arbeitsgruppe [Mitglied 3]>
     <OrtGewaehlte Gewaehlte [MitgliedWeitereGemeindeKommissionen 1, Schulpflegekommission 4]>
-    <OrtGewaehlte Exekutive [Fraktionschef 2, KommunaleExekutive 6]>
+    <OrtGewaehlte Exekutive [KommunaleExekutive 8]>
     <OrtMitglieder Mitgliedschaften [Mitglied 12]>
     <OrtPraesidium Partei [Adressverwalter 3, Kassier 3, Mitglied 12, Praesident 1]>
    <Ort Eich>
     <OrtSympathisanten Sympathisanten [Sympathisant 76]>
     <OrtArbeitsgruppe Arbeitsgruppe [Mitglied 1]>
     <OrtGewaehlte Gewaehlte [MitgliedWeitereGemeindeKommissionen 1, Schulpflegekommission 3]>
-    <OrtGewaehlte Exekutive [Fraktionschef 2, KommunaleExekutive 5, MitgliedWeitereGemeindeKommissionen 3]>
+    <OrtGewaehlte Exekutive [KommunaleExekutive 7, MitgliedWeitereGemeindeKommissionen 3]>
     <OrtMitglieder Mitgliedschaften [Mitglied 15]>
     <OrtPraesidium Partei [Adressverwalter 3, Kassier 1, Mitglied 12, Praesident 5]>
    <Ort Geuensee>
     <OrtSympathisanten Sympathisanten [Sympathisant 27]>
-    <OrtGewaehlte Exekutive [Fraktionschef 2, KommunaleExekutive 5, MitgliedWeitereGemeindeKommissionen 1]>
+    <OrtGewaehlte Exekutive [KommunaleExekutive 7, MitgliedWeitereGemeindeKommissionen 1]>
     <OrtMitglieder Mitgliedschaften [Mitglied 4]>
     <OrtPraesidium Partei [Adressverwalter 2, Kassier 1, Mitglied 1, Praesident 1]>
    <Ort Grosswangen>
@@ -502,7 +502,7 @@
     <OrtGewaehlte Gewaehlte [MitgliedWeitereGemeindeKommissionen 7, Schulpflegekommission 5]>
     <OrtSekretariat Sekretariat [Webadministrator 1]>
     <OrtArbeitsgruppe 60+ [Mitglied 1]>
-    <OrtGewaehlte Exekutive [Fraktionschef 2, KommunaleExekutive 4, MitgliedWeitereGemeindeKommissionen 1]>
+    <OrtGewaehlte Exekutive [KommunaleExekutive 6, MitgliedWeitereGemeindeKommissionen 1]>
     <OrtMitglieder Mitgliedschaften [Mitglied 120]>
     <OrtPraesidium Partei [Adressverwalter 8, Kassier 2, Mitglied 23, Praesident 3]>
    <Ort Hildisrieden>
@@ -511,27 +511,27 @@
     <OrtGewaehlte Gewaehlte [MitgliedWeitereGemeindeKommissionen 3, Schulpflegekommission 2]>
     <OrtExterneKontakte ExterneKontakte [Kontakt 21]>
     <OrtParteigremium Parteigremium [Mitglied 1]>
-    <OrtGewaehlte Exekutive [Fraktionschef 2, KommunaleExekutive 6, MitgliedWeitereGemeindeKommissionen 2]>
+    <OrtGewaehlte Exekutive [KommunaleExekutive 8, MitgliedWeitereGemeindeKommissionen 2]>
     <OrtMitglieder Mitgliedschaften [Mitglied 74]>
     <OrtPraesidium Partei [Adressverwalter 9, Kassier 2, Mitglied 19, Praesident 3]>
    <Ort Knutwil>
     <OrtSympathisanten Sympathisanten [Sympathisant 196]>
     <OrtArbeitsgruppe Arbeitsgruppe [Mitglied 5]>
     <OrtGewaehlte Gewaehlte [MitgliedWeitereGemeindeKommissionen 5]>
-    <OrtGewaehlte Exekutive [Fraktionschef 1, KommunaleExekutive 5, MitgliedWeitereGemeindeKommissionen 3]>
+    <OrtGewaehlte Exekutive [KommunaleExekutive 6, MitgliedWeitereGemeindeKommissionen 3]>
     <OrtPraesidium Partei [Adressverwalter 6, Kassier 1, Mitglied 7, Praesident 4]>
    <Ort Mauensee>
     <OrtSympathisanten Sympathisanten [Sympathisant 19]>
     <OrtArbeitsgruppe Arbeitsgruppe [Mitglied 2]>
     <OrtGewaehlte Gewaehlte [Schulpflegekommission 4]>
-    <OrtGewaehlte Exekutive [Fraktionschef 2, KommunaleExekutive 3, MitgliedWeitereGemeindeKommissionen 1]>
+    <OrtGewaehlte Exekutive [KommunaleExekutive 5, MitgliedWeitereGemeindeKommissionen 1]>
     <OrtMitglieder Mitgliedschaften [Mitglied 13]>
     <OrtPraesidium Partei [Adressverwalter 1, Kassier 2, Mitglied 16, Praesident 4]>
    <Ort Neuenkirch>
     <OrtSympathisanten Sympathisanten [Sympathisant 219]>
     <OrtArbeitsgruppe Arbeitsgruppe [Mitglied 11]>
     <OrtGewaehlte Gewaehlte [MitgliedWeitereGemeindeKommissionen 1, Schulpflegekommission 2]>
-    <OrtGewaehlte Exekutive [Fraktionschef 2, KommunaleExekutive 6, MitgliedWeitereGemeindeKommissionen 2]>
+    <OrtGewaehlte Exekutive [KommunaleExekutive 8, MitgliedWeitereGemeindeKommissionen 2]>
     <OrtMitglieder Mitgliedschaften [Mitglied 21]>
     <OrtPraesidium Partei [Adressverwalter 4, Kassier 1, Mitglied 20, Praesident 3]>
    <Ort Newsletter>
@@ -547,7 +547,7 @@
     <OrtSympathisanten Sympathisanten [Sympathisant 195]>
     <OrtArbeitsgruppe Arbeitsgruppe [Mitglied 2]>
     <OrtGewaehlte Gewaehlte [MitgliedWeitereGemeindeKommissionen 1, Schulpflegekommission 3]>
-    <OrtGewaehlte Exekutive [Fraktionschef 2, KommunaleExekutive 7, MitgliedWeitereGemeindeKommissionen 1]>
+    <OrtGewaehlte Exekutive [KommunaleExekutive 9, MitgliedWeitereGemeindeKommissionen 1]>
     <OrtMitglieder Mitgliedschaften [Mitglied 18]>
     <OrtPraesidium Partei [Adressverwalter 11, Kassier 1, Mitglied 16, Praesident 2]>
    <Ort Rickenbach>
@@ -563,7 +563,7 @@
     <OrtGewaehlte Gewaehlte [MitgliedWeitereGemeindeKommissionen 27, Schulpflegekommission 5]>
     <OrtExterneKontakte ExterneKontakte [Kontakt 1]>
     <OrtExterneKontakte Firmen [Kontakt 158]>
-    <OrtGewaehlte Exekutive [Fraktionschef 2, KommunaleExekutive 6, MitgliedWeitereGemeindeKommissionen 1]>
+    <OrtGewaehlte Exekutive [KommunaleExekutive 8, MitgliedWeitereGemeindeKommissionen 1]>
     <OrtMitglieder Mitgliedschaften [Mitglied 82]>
     <OrtPraesidium Partei [Adressverwalter 4, Kassier 1, Mitglied 17, Praesident 4]>
    <Ort Schenkon>
@@ -571,7 +571,7 @@
     <OrtArbeitsgruppe Arbeitsgruppe [Mitglied 5]>
     <OrtGewaehlte Gewaehlte [MitgliedWeitereGemeindeKommissionen 5, Schulpflegekommission 5]>
     <OrtSekretariat Sekretariat [Webadministrator 1]>
-    <OrtGewaehlte Exekutive [Fraktionschef 1, KommunaleExekutive 4, MitgliedWeitereGemeindeKommissionen 1]>
+    <OrtGewaehlte Exekutive [KommunaleExekutive 5, MitgliedWeitereGemeindeKommissionen 1]>
     <OrtMitglieder Mitgliedschaften [Mitglied 107]>
     <OrtPraesidium Partei [Adressverwalter 8, Kassier 3, Mitglied 22, Praesident 2]>
    <Ort Schlierbach>
@@ -586,14 +586,14 @@
     <OrtArbeitsgruppe Arbeitsgruppe [Mitglied 3]>
     <OrtGewaehlte Gewaehlte [MitgliedWeitereGemeindeKommissionen 3, Schulpflegekommission 9]>
     <OrtSekretariat Sekretariat [Webadministrator 1]>
-    <OrtGewaehlte Exekutive [Fraktionschef 2, KommunaleExekutive 7, MitgliedWeitereGemeindeKommissionen 1]>
+    <OrtGewaehlte Exekutive [KommunaleExekutive 9, MitgliedWeitereGemeindeKommissionen 1]>
     <OrtMitglieder Mitgliedschaften [Mitglied 21]>
     <OrtPraesidium Partei [Adressverwalter 3, Kassier 2, Mitglied 16, Praesident 3]>
    <Ort Sursee>
     <OrtSympathisanten Sympathisanten [Sympathisant 677]>
     <OrtArbeitsgruppe Arbeitsgruppe [Mitglied 2]>
     <OrtGewaehlte Gewaehlte [MitgliedWeitereGemeindeKommissionen 8, Schulpflegekommission 9]>
-    <OrtGewaehlte Exekutive [Fraktionschef 3, KommunaleExekutive 7]>
+    <OrtGewaehlte Exekutive [KommunaleExekutive 10]>
     <OrtMitglieder Mitgliedschaften [Mitglied 15]>
     <OrtPraesidium Partei [Adressverwalter 25, Kassier 3, Mitglied 17, Praesident 2]>
    <Ort Triengen>
@@ -612,20 +612,20 @@
     <OrtGewaehlte Gewaehlte [MitgliedWeitereGemeindeKommissionen 6, Schulpflegekommission 5]>
     <OrtSekretariat Sekretariat [Webadministrator 1]>
     <OrtParteigremium Parteigremium [Mitglied 1]>
-    <OrtGewaehlte Exekutive [Fraktionschef 3, KommunaleExekutive 5]>
+    <OrtGewaehlte Exekutive [KommunaleExekutive 8]>
     <OrtMitglieder Mitgliedschaften [Mitglied 18]>
     <OrtPraesidium Partei [Adressverwalter 2, Kassier 2, Mitglied 20, Praesident 2]>
    <Ort Altbüron>
     <OrtSympathisanten Sympathisanten [Sympathisant 30]>
     <OrtGewaehlte Gewaehlte [MitgliedWeitereGemeindeKommissionen 1, Schulpflegekommission 6]>
-    <OrtGewaehlte Exekutive [Fraktionschef 2, KommunaleExekutive 5, MitgliedWeitereGemeindeKommissionen 2]>
+    <OrtGewaehlte Exekutive [KommunaleExekutive 7, MitgliedWeitereGemeindeKommissionen 2]>
     <OrtMitglieder Mitgliedschaften [Mitglied 15]>
     <OrtPraesidium Partei [Adressverwalter 2, Kassier 2, Mitglied 3, Praesident 1]>
    <Ort Altishofen Ebersecken>
     <OrtSympathisanten Sympathisanten [Sympathisant 75]>
     <OrtArbeitsgruppe Arbeitsgruppe [Mitglied 3]>
     <OrtGewaehlte Gewaehlte [MitgliedWeitereGemeindeKommissionen 2, Schulpflegekommission 3]>
-    <OrtGewaehlte Exekutive [Fraktionschef 2, KommunaleExekutive 8]>
+    <OrtGewaehlte Exekutive [KommunaleExekutive 10]>
     <OrtMitglieder Mitgliedschaften [Mitglied 63]>
     <OrtPraesidium Partei [Adressverwalter 2, Kassier 2, Mitglied 16, Praesident 2]>
    <Ort Dagmersellen>
@@ -633,18 +633,18 @@
     <OrtArbeitsgruppe Arbeitsgruppe [Mitglied 3]>
     <OrtGewaehlte Gewaehlte [MitgliedWeitereGemeindeKommissionen 13, Schulpflegekommission 10]>
     <OrtSekretariat Sekretariat [Webadministrator 1]>
-    <OrtGewaehlte Exekutive [Fraktionschef 1, KommunaleExekutive 9, MitgliedWeitereGemeindeKommissionen 2]>
+    <OrtGewaehlte Exekutive [KommunaleExekutive 10, MitgliedWeitereGemeindeKommissionen 2]>
     <OrtMitglieder Mitgliedschaften [Mitglied 26]>
     <OrtPraesidium Partei [Adressverwalter 16, Kassier 2, Mitglied 19, Praesident 3]>
    <Ort Ebersecken>
-    <OrtGewaehlte Exekutive [Fraktionschef 2, KommunaleExekutive 4]>
+    <OrtGewaehlte Exekutive [KommunaleExekutive 6]>
    <Ort Egolzwil>
     <OrtSympathisanten Sympathisanten [Sympathisant 137]>
     <OrtArbeitsgruppe Arbeitsgruppe [Mitglied 4]>
     <OrtGewaehlte Gewaehlte [MitgliedWeitereGemeindeKommissionen 10, Schulpflegekommission 4]>
     <OrtSekretariat Sekretariat [Webadministrator 1]>
     <OrtExterneKontakte ExterneKontakte [Kontakt 365]>
-    <OrtGewaehlte Exekutive [Fraktionschef 2, KommunaleExekutive 8, MitgliedWeitereGemeindeKommissionen 2]>
+    <OrtGewaehlte Exekutive [KommunaleExekutive 10, MitgliedWeitereGemeindeKommissionen 2]>
     <OrtMitglieder Mitgliedschaften [Mitglied 43]>
     <OrtPraesidium Partei [Adressverwalter 2, Kassier 1, Mitglied 12, Praesident 3]>
    <Ort Ettiswil>
@@ -652,18 +652,18 @@
     <OrtArbeitsgruppe Arbeitsgruppe [Mitglied 2]>
     <OrtGewaehlte Gewaehlte [MitgliedWeitereGemeindeKommissionen 2, Schulpflegekommission 3]>
     <OrtExterneKontakte ExterneKontakte [Kontakt 57]>
-    <OrtGewaehlte Exekutive [Fraktionschef 1, KommunaleExekutive 5, MitgliedWeitereGemeindeKommissionen 3]>
+    <OrtGewaehlte Exekutive [KommunaleExekutive 6, MitgliedWeitereGemeindeKommissionen 3]>
     <OrtPraesidium Partei [Adressverwalter 16, Kassier 2, Mitglied 14, Praesident 2]>
    <Ort Fischbach>
     <OrtSympathisanten Sympathisanten [Sympathisant 32]>
     <OrtGewaehlte Gewaehlte [Schulpflegekommission 2]>
-    <OrtGewaehlte Exekutive [Fraktionschef 2, KommunaleExekutive 6, MitgliedWeitereGemeindeKommissionen 1]>
+    <OrtGewaehlte Exekutive [KommunaleExekutive 8, MitgliedWeitereGemeindeKommissionen 1]>
     <OrtPraesidium Partei [Kassier 1, Mitglied 1, Praesident 3]>
    <Ort Gettnau>
     <OrtSympathisanten Sympathisanten [Sympathisant 48]>
     <OrtArbeitsgruppe Arbeitsgruppe [Mitglied 7]>
     <OrtGewaehlte Gewaehlte [MitgliedWeitereGemeindeKommissionen 2, Schulpflegekommission 3]>
-    <OrtGewaehlte Exekutive [Fraktionschef 1, KommunaleExekutive 6, MitgliedWeitereGemeindeKommissionen 5]>
+    <OrtGewaehlte Exekutive [KommunaleExekutive 7, MitgliedWeitereGemeindeKommissionen 5]>
     <OrtMitglieder Mitgliedschaften [Mitglied 13]>
     <OrtPraesidium Partei [Kassier 5, Mitglied 15, Praesident 2]>
    <Ort Grossdietwil>
@@ -677,7 +677,7 @@
     <OrtSympathisanten Sympathisanten [Sympathisant 39]>
     <OrtArbeitsgruppe Arbeitsgruppe [Mitglied 5]>
     <OrtGewaehlte Gewaehlte [MitgliedWeitereGemeindeKommissionen 2, Schulpflegekommission 5]>
-    <OrtGewaehlte Exekutive [Fraktionschef 1, KommunaleExekutive 8, MitgliedWeitereGemeindeKommissionen 3]>
+    <OrtGewaehlte Exekutive [KommunaleExekutive 9, MitgliedWeitereGemeindeKommissionen 3]>
     <OrtMitglieder Mitgliedschaften [Mitglied 11]>
     <OrtPraesidium Partei [Adressverwalter 5, Kassier 1, Mitglied 5, Praesident 2]>
    <Ort Infomail>
@@ -685,14 +685,14 @@
    <Ort Luthern>
     <OrtSympathisanten Sympathisanten [Sympathisant 49]>
     <OrtGewaehlte Gewaehlte [Schulpflegekommission 2]>
-    <OrtGewaehlte Exekutive [Fraktionschef 2, KommunaleExekutive 8, MitgliedWeitereGemeindeKommissionen 2]>
+    <OrtGewaehlte Exekutive [KommunaleExekutive 10, MitgliedWeitereGemeindeKommissionen 2]>
     <OrtMitglieder Mitgliedschaften [Mitglied 11]>
     <OrtPraesidium Partei [Adressverwalter 1, Kassier 1, Mitglied 6, Praesident 1]>
    <Ort Menznau>
     <OrtSympathisanten Sympathisanten [Sympathisant 201]>
     <OrtArbeitsgruppe Arbeitsgruppe [Mitglied 7]>
     <OrtGewaehlte Gewaehlte [MitgliedWeitereGemeindeKommissionen 6, Schulpflegekommission 5]>
-    <OrtGewaehlte Exekutive [Fraktionschef 2, KommunaleExekutive 4]>
+    <OrtGewaehlte Exekutive [KommunaleExekutive 6]>
     <OrtPraesidium Partei [Adressverwalter 2, Kassier 1, Mitglied 4, Praesident 1]>
    <Ort Nebikon>
     <OrtSympathisanten Sympathisanten [Sympathisant 40]>
@@ -707,7 +707,7 @@
     <OrtSympathisanten Sympathisanten [Sympathisant 54]>
     <OrtArbeitsgruppe Arbeitsgruppe [Mitglied 1]>
     <OrtGewaehlte Gewaehlte [MitgliedWeitereGemeindeKommissionen 2, Schulpflegekommission 5]>
-    <OrtGewaehlte Exekutive [Fraktionschef 1, KommunaleExekutive 6, MitgliedWeitereGemeindeKommissionen 3]>
+    <OrtGewaehlte Exekutive [KommunaleExekutive 7, MitgliedWeitereGemeindeKommissionen 3]>
     <OrtMitglieder Mitgliedschaften [Mitglied 14]>
     <OrtPraesidium Partei [Adressverwalter 1, Kassier 3, Mitglied 12, Praesident 1]>
    <Ort Reiden>
@@ -715,7 +715,7 @@
     <OrtArbeitsgruppe Arbeitsgruppe [Mitglied 6]>
     <OrtGewaehlte Gewaehlte [MitgliedWeitereGemeindeKommissionen 4, Schulpflegekommission 4]>
     <OrtSekretariat Sekretariat [Webadministrator 1]>
-    <OrtGewaehlte Exekutive [Fraktionschef 1, KommunaleExekutive 3]>
+    <OrtGewaehlte Exekutive [KommunaleExekutive 4]>
     <OrtGewaehlte Ressort Bildung/Jugend/Familie/Freizeit [KommunaleExekutive 4]>
     <OrtMitglieder Mitgliedschaften [Mitglied 23]>
     <OrtPraesidium Delegierter Ortspartei von Amtes wegen [Mitglied 2]>
@@ -723,14 +723,14 @@
    <Ort Roggliswil>
     <OrtSympathisanten Sympathisanten [Sympathisant 11]>
     <OrtGewaehlte Gewaehlte [Schulpflegekommission 3]>
-    <OrtGewaehlte Exekutive [Fraktionschef 1, KommunaleExekutive 2]>
+    <OrtGewaehlte Exekutive [KommunaleExekutive 3]>
     <OrtMitglieder Mitgliedschaften [Mitglied 4]>
     <OrtPraesidium Partei [Kassier 1, Mitglied 4, Praesident 2]>
    <Ort Schötz>
     <OrtSympathisanten Sympathisanten [Sympathisant 360]>
     <OrtArbeitsgruppe Arbeitsgruppe [Mitglied 8]>
     <OrtGewaehlte Gewaehlte [MitgliedWeitereGemeindeKommissionen 5, Schulpflegekommission 8]>
-    <OrtGewaehlte Exekutive [Fraktionschef 3, KommunaleExekutive 6, MitgliedWeitereGemeindeKommissionen 2]>
+    <OrtGewaehlte Exekutive [KommunaleExekutive 9, MitgliedWeitereGemeindeKommissionen 2]>
     <OrtMitglieder Mitgliedschaften [Mitglied 44]>
     <OrtPraesidium Partei [Adressverwalter 3, Kassier 1, Mitglied 13, Praesident 1]>
    <Ort Ufhusen>
@@ -738,19 +738,19 @@
     <OrtArbeitsgruppe Arbeitsgruppe [Mitglied 4]>
     <OrtGewaehlte Gewaehlte [MitgliedWeitereGemeindeKommissionen 3, Schulpflegekommission 3]>
     <OrtSekretariat Sekretariat [Webadministrator 1]>
-    <OrtGewaehlte Exekutive [Fraktionschef 1, KommunaleExekutive 4, MitgliedWeitereGemeindeKommissionen 1]>
+    <OrtGewaehlte Exekutive [KommunaleExekutive 5, MitgliedWeitereGemeindeKommissionen 1]>
     <OrtMitglieder Mitgliedschaften [Mitglied 11]>
     <OrtPraesidium Partei [Kassier 2, Mitglied 7, Praesident 3]>
    <Ort Wauwil>
     <OrtSympathisanten Sympathisanten [Sympathisant 101]>
     <OrtArbeitsgruppe Arbeitsgruppe [Mitglied 6]>
     <OrtGewaehlte Gewaehlte [MitgliedWeitereGemeindeKommissionen 7, Schulpflegekommission 5]>
-    <OrtGewaehlte Exekutive [Fraktionschef 4, KommunaleExekutive 5, MitgliedWeitereGemeindeKommissionen 1]>
+    <OrtGewaehlte Exekutive [KommunaleExekutive 9, MitgliedWeitereGemeindeKommissionen 1]>
     <OrtMitglieder Mitgliedschaften [Mitglied 51]>
     <OrtPraesidium Partei [Adressverwalter 15, Kassier 1, Mitglied 18, Praesident 4]>
    <Ort Wikon>
     <OrtSympathisanten Sympathisanten [Sympathisant 61]>
-    <OrtGewaehlte Exekutive [Fraktionschef 1, KommunaleExekutive 4, MitgliedWeitereGemeindeKommissionen 3]>
+    <OrtGewaehlte Exekutive [KommunaleExekutive 5, MitgliedWeitereGemeindeKommissionen 3]>
     <OrtMitglieder Mitgliedschaften [Mitglied 8]>
     <OrtPraesidium Partei [Kassier 1, Mitglied 9, Praesident 2]>
    <Ort Willisau>
@@ -764,6 +764,6 @@
     <OrtSympathisanten Sympathisanten [Sympathisant 49]>
     <OrtArbeitsgruppe Arbeitsgruppe [Mitglied 3]>
     <OrtGewaehlte Gewaehlte [MitgliedWeitereGemeindeKommissionen 5, Schulpflegekommission 7]>
-    <OrtGewaehlte Exekutive [Fraktionschef 1, KommunaleExekutive 6, MitgliedWeitereGemeindeKommissionen 1]>
+    <OrtGewaehlte Exekutive [KommunaleExekutive 7, MitgliedWeitereGemeindeKommissionen 1]>
     <OrtMitglieder Mitgliedschaften [Mitglied 48]>
     <OrtPraesidium Partei [Adressverwalter 1, Kassier 1, Mitglied 13, Praesident 3]>
