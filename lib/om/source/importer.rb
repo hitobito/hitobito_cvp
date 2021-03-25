@@ -3,7 +3,7 @@ class Source::Importer
   include Rake::DSL
 
   def initialize(files = nil)
-    @zip = "~/Documents/hitobito/CVP/Migration/DatenExport_2.zip"
+    @zip = "~/Documents/hitobito/CVP/Migration/DatenExport_3.zip"
     @config = YAML.load_file(File.expand_path('config.yml', __dir__))
     @files = files ? Array(files) : config['files']
   end
@@ -22,7 +22,7 @@ class Source::Importer
 
   def convert # rubocop:disable Metrics/MethodLength
     each_migration_file do |file, _details, table|
-      sh "csvclean -e latin1 -u 1 -d '|' #{file}.csv"
+      # sh "csvclean -e latin1 -u 1 -d '|' #{file}.csv"
       line = File.open("#{file}_out.csv") { |f| f.readline }
       File.write("#{file}-copy.csv", line.split('|').collect(&:underscore).join('|'))
       cmd = "tail -n +2 #{file}_out.csv"

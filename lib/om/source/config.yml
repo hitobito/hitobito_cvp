@@ -6,7 +6,6 @@ files:
   - 08_MitgliedschaftMerkmal
   - 07_Mitgliedschaft
   - 09_MerkmalStamm
-  - 11_Notizen
   - 13_Verbindungen
 
 migrate:
