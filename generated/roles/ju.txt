@@ -8,38 +8,38 @@
   <KantonDelegierte Delegierte [Delegierte 1]>
   <KantonGewaehlte Gewaehlte [WeitereMandate 1]>
   <KantonSekretariat Sekretariat [Leitung 2, Mitarbeiter 2]>
-  <KantonArbeitsgruppe Arbeitsgruppe [Mitglied 32, Praesident 1]>
-  <KantonExterneKontakte Newsletter [Kontakt 603]>
+  <KantonArbeitsgruppe Arbeitsgruppe [Mitglied 37, Praesident 1]>
+  <KantonExterneKontakte Newsletter [Kontakt 598]>
   <KantonGewaehlte Regierungsrat [KantonaleExekutive 2, MitgliedKantonalesGerichtErsteInstanz 3, Staatsanwaltschaft 2]>
   <KantonGewaehlte Judikative [MitgliedKantonalesGerichtErsteInstanz 4]>
-  <KantonGewaehlte Legislative [KantonaleLegislative 47]>
+  <KantonGewaehlte Legislative [KantonaleLegislative 55, WeitereMandate 6]>
   <KantonKommission Politikkommission [Mitglied 23, Praesident 4]>
-  <KantonMitglieder Mitgliedschaften [Mitglied 28]>
-  <KantonPraesidium Partei [Kassier 3, Mitglied 19, Praesident 11]>
+  <KantonMitglieder Mitgliedschaften [Mitglied 32]>
+  <KantonPraesidium Partei [Kassier 3, Mitglied 23, Praesident 11]>
   <Region Ajoie>
    <RegionSekretariat Sekretariat [Leitung 3]>
    <RegionPraesidium Partei [Mitglied 7, Praesident 3]>
    <Ort Alle>
-    <OrtGewaehlte Exekutive [KommunaleExekutive 10]>
-    <OrtMitglieder Mitgliedschaften [Mitglied 65]>
+    <OrtGewaehlte Exekutive [KommunaleExekutive 12]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 68]>
     <OrtPraesidium Partei [Adressverwalter 2, Praesident 2]>
    <Ort Asuel>
     <OrtMitglieder Mitgliedschaften [Mitglied 2]>
     <OrtPraesidium Partei [Praesident 1]>
    <Ort Baroche>
-    <OrtGewaehlte Exekutive [KommunaleExekutive 5]>
+    <OrtGewaehlte Exekutive [KommunaleExekutive 4]>
     <OrtMitglieder Mitgliedschaften [Mitglied 40]>
     <OrtPraesidium Partei [Adressverwalter 1]>
    <Ort Basse Allaine>
     <OrtGewaehlte Exekutive [KommunaleExekutive 4]>
-    <OrtMitglieder Mitgliedschaften [Mitglied 105]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 103]>
     <OrtPraesidium Partei [Praesident 1]>
    <Ort Beurnevésin>
     <OrtGewaehlte Exekutive [KommunaleExekutive 1]>
     <OrtMitglieder Mitgliedschaften [Mitglied 6]>
    <Ort Boncourt>
     <OrtGewaehlte Exekutive [KommunaleExekutive 7]>
-    <OrtMitglieder Mitgliedschaften [Mitglied 99]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 98]>
     <OrtPraesidium Partei [Adressverwalter 3, Praesident 1]>
    <Ort Bonfol>
     <OrtSympathisanten Sympathisanten [Sympathisant 5]>
@@ -53,11 +53,11 @@
    <Ort Clos du Doubs>
     <OrtSekretariat Sekretariat [Leitung 1]>
     <OrtGewaehlte Exekutive [KommunaleExekutive 6]>
-    <OrtMitglieder Mitgliedschaften [Mitglied 160]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 153]>
     <OrtPraesidium Partei [Mitglied 8, Praesident 3]>
    <Ort Coeuve>
     <OrtGewaehlte Exekutive [KommunaleExekutive 3]>
-    <OrtMitglieder Mitgliedschaften [Mitglied 62]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 61]>
     <OrtPraesidium Partei [Adressverwalter 3, Praesident 1]>
    <Ort Cornol>
     <OrtGewaehlte Exekutive [KommunaleExekutive 3]>
@@ -65,7 +65,7 @@
     <OrtPraesidium Partei [Adressverwalter 1, Mitglied 1, Praesident 2]>
    <Ort Courchavon>
     <OrtGewaehlte Exekutive [KommunaleExekutive 5]>
-    <OrtMitglieder Mitgliedschaften [Mitglied 70]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 69]>
     <OrtPraesidium Partei [Adressverwalter 1, Mitglied 7, Praesident 1]>
    <Ort Courgenay>
     <OrtGewaehlte Exekutive [KommunaleExekutive 4]>
@@ -73,7 +73,7 @@
     <OrtPraesidium Partei [Adressverwalter 5, Praesident 2]>
    <Ort Courtedoux>
     <OrtSympathisanten Sympathisanten [Sympathisant 1]>
-    <OrtMitglieder Mitgliedschaften [Mitglied 14]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 13]>
     <OrtPraesidium Partei [Adressverwalter 1]>
    <Ort Courtemaîche>
     <OrtMitglieder Mitgliedschaften [Mitglied 17]>
@@ -91,11 +91,11 @@
     <OrtPraesidium Partei [Adressverwalter 4, Mitglied 3, Praesident 2]>
    <Ort Grandfontaine>
     <OrtGewaehlte Exekutive [KommunaleExekutive 4]>
-    <OrtMitglieder Mitgliedschaften [Mitglied 51]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 50]>
     <OrtPraesidium Partei [Adressverwalter 3, Praesident 1]>
    <Ort Haute-Ajoie>
     <OrtGewaehlte Exekutive [KommunaleExekutive 3]>
-    <OrtMitglieder Mitgliedschaften [Mitglied 124]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 123]>
     <OrtPraesidium Partei [Adressverwalter 1, Praesident 1]>
    <Ort Lugnez>
     <OrtMitglieder Mitgliedschaften [Mitglied 15]>
@@ -106,19 +106,19 @@
     <OrtSympathisanten Sympathisanten [Sympathisant 3]>
     <OrtSekretariat Sekretariat [Leitung 2]>
     <OrtGewaehlte Exekutive [KommunaleExekutive 4]>
-    <OrtMitglieder Mitgliedschaften [Mitglied 373]>
-    <OrtPraesidium Partei [Adressverwalter 22, Mitglied 7, Praesident 2]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 370]>
+    <OrtPraesidium Partei [Adressverwalter 23, Mitglied 7, Praesident 2]>
    <Ort Rocourt (commune)>
     <OrtGewaehlte Exekutive [KommunaleExekutive 2]>
    <Ort Vendlincourt>
     <OrtGewaehlte Exekutive [KommunaleExekutive 4]>
-    <OrtMitglieder Mitgliedschaften [Mitglied 23]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 22]>
     <OrtPraesidium Partei [Praesident 1]>
   <Region Delémont>
    <RegionSympathisanten Sympathisanten [Sympathisant 1]>
    <RegionSekretariat Sekretariat [Leitung 1]>
    <RegionMitglieder Mitgliedschaften [Mitglied 1]>
-   <RegionPraesidium Partei [Mitglied 1, Praesident 1]>
+   <RegionPraesidium Partei [Mitglied 1, Praesident 2]>
    <Ort Bassecourt>
     <OrtPraesidium Partei [Praesident 2]>
    <Ort Bourrignon>
@@ -145,17 +145,17 @@
     <OrtPraesidium Partei [Adressverwalter 8, Praesident 1]>
    <Ort Courroux>
     <OrtSympathisanten Sympathisanten [Sympathisant 9]>
-    <OrtGewaehlte Exekutive [KommunaleExekutive 1]>
-    <OrtMitglieder Mitgliedschaften [Mitglied 66]>
-    <OrtPraesidium Partei [Adressverwalter 8, Praesident 1]>
+    <OrtGewaehlte Exekutive [KommunaleExekutive 2]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 65]>
+    <OrtPraesidium Partei [Adressverwalter 8, Praesident 2]>
    <Ort Courtételle>
     <OrtGewaehlte Exekutive [KommunaleExekutive 6]>
-    <OrtMitglieder Mitgliedschaften [Mitglied 73]>
-    <OrtPraesidium Partei [Adressverwalter 4, Praesident 1]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 72]>
+    <OrtPraesidium Partei [Adressverwalter 7, Praesident 1]>
    <Ort Delémont>
     <OrtSekretariat Sekretariat [Leitung 1]>
     <OrtGewaehlte Exekutive [KommunaleExekutive 2]>
-    <OrtMitglieder Mitgliedschaften [Mitglied 254]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 250]>
     <OrtPraesidium Partei [Adressverwalter 24, Mitglied 4, Praesident 2]>
    <Ort Develier>
     <OrtGewaehlte Exekutive [KommunaleExekutive 3]>
@@ -169,13 +169,13 @@
     <OrtPraesidium Partei [Praesident 1]>
    <Ort Haute-Sorne>
     <OrtGewaehlte Exekutive [KommunaleExekutive 7]>
-    <OrtMitglieder Mitgliedschaften [Mitglied 334]>
-    <OrtPraesidium Partei [Adressverwalter 9, Kassier 1, Praesident 1]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 333]>
+    <OrtPraesidium Partei [Adressverwalter 11, Kassier 1, Praesident 1]>
    <Ort Mervelier>
     <OrtMitglieder Mitgliedschaften [Mitglied 18]>
     <OrtPraesidium Partei [Adressverwalter 1, Praesident 1]>
    <Ort Mettembert>
-    <OrtMitglieder Mitgliedschaften [Mitglied 6]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 5]>
    <Ort Movelier>
     <OrtGewaehlte Exekutive [KommunaleExekutive 4]>
     <OrtMitglieder Mitgliedschaften [Mitglied 12]>
@@ -189,7 +189,7 @@
     <OrtMitglieder Mitgliedschaften [Mitglied 1]>
    <Ort Rossemaison>
     <OrtGewaehlte Exekutive [KommunaleExekutive 2]>
-    <OrtMitglieder Mitgliedschaften [Mitglied 3]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 2]>
    <Ort Saulcy>
     <OrtPraesidium Partei [Praesident 1]>
    <Ort Soulce>
@@ -200,7 +200,7 @@
     <OrtPraesidium Partei [Praesident 1]>
    <Ort Val-Terbi>
     <OrtGewaehlte Exekutive [KommunaleExekutive 6]>
-    <OrtMitglieder Mitgliedschaften [Mitglied 226]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 222]>
     <OrtPraesidium Partei [Adressverwalter 2, Praesident 1]>
    <Ort Vellerat>
     <OrtGewaehlte Exekutive [KommunaleExekutive 1]>
@@ -210,24 +210,24 @@
    <RegionMitglieder Mitgliedschaften [Mitglied 2]>
    <RegionPraesidium Partei [Mitglied 1, Praesident 4]>
    <Ort La Chaux-des-Breuleux>
-    <OrtMitglieder Mitgliedschaften [Mitglied 6]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 5]>
     <OrtPraesidium Partei [Praesident 1]>
    <Ort Lajoux>
     <OrtMitglieder Mitgliedschaften [Mitglied 5]>
-    <OrtPraesidium Partei [Adressverwalter 1, Praesident 1]>
+    <OrtPraesidium Partei [Adressverwalter 2, Praesident 1]>
    <Ort Le Bémont>
     <OrtMitglieder Mitgliedschaften [Mitglied 4]>
     <OrtPraesidium Partei [Praesident 1]>
    <Ort Le Noirmont>
     <OrtMitglieder Mitgliedschaften [Mitglied 43]>
-    <OrtPraesidium Partei [Adressverwalter 5, Praesident 1]>
+    <OrtPraesidium Partei [Adressverwalter 6, Praesident 1]>
    <Ort Les Bois>
     <OrtGewaehlte Exekutive [KommunaleExekutive 3]>
     <OrtMitglieder Mitgliedschaften [Mitglied 71]>
     <OrtPraesidium Partei [Adressverwalter 3, Praesident 2]>
    <Ort Les Breuleux>
     <OrtGewaehlte Exekutive [KommunaleExekutive 4]>
-    <OrtMitglieder Mitgliedschaften [Mitglied 76]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 74]>
     <OrtPraesidium Partei [Adressverwalter 8, Praesident 2]>
    <Ort Les Enfers>
     <OrtMitglieder Mitgliedschaften [Mitglied 9]>
@@ -240,7 +240,7 @@
    <Ort Saignelégier>
     <OrtSekretariat Sekretariat [Leitung 2]>
     <OrtGewaehlte Exekutive [KommunaleExekutive 6]>
-    <OrtMitglieder Mitgliedschaften [Mitglied 149]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 146]>
     <OrtPraesidium Partei [Adressverwalter 11, Kassier 1, Mitglied 10, Praesident 3]>
    <Ort Soubey>
     <OrtMitglieder Mitgliedschaften [Mitglied 17]>
@@ -250,5 +250,5 @@
     <OrtPraesidium Partei [Praesident 1]>
   <Region Moutier>
    <RegionSekretariat Sekretariat [Leitung 1]>
-   <RegionMitglieder Mitgliedschaften [Mitglied 82]>
-   <RegionPraesidium Partei [Mitglied 9, Praesident 1]>
+   <RegionMitglieder Mitgliedschaften [Mitglied 80]>
+   <RegionPraesidium Partei [Mitglied 10, Praesident 1]>

@@ -1,16 +1,16 @@
 <Bund id=1, label=CVP Schweiz, parent_id=>
- <BundArbeitsgruppe id=40426, label=Arbeitsgruppe, parent_id=1>
+ <BundArbeitsgruppe id=40428, label=Arbeitsgruppe, parent_id=1>
  <BundGewaehlte id=14763, label=Departement Bundesrat Nr. 1, parent_id=1>
  <BundGewaehlte id=14860, label=Nationalrat, parent_id=1>
  <BundGewaehlte id=14861, label=Ständerat, parent_id=1>
  <Kanton id=176, label=CVP VS. Romand, parent_id=1>
-  <KantonSympathisanten id=40431, label=Sympathisanten, parent_id=176>
-  <KantonParteigremium id=40432, label=Parteigremium, parent_id=176>
-  <KantonPraesidium id=40433, label=Praesidium, parent_id=176>
-  <KantonDelegierte id=40434, label=Delegierte, parent_id=176>
-  <KantonGewaehlte id=40435, label=Gewaehlte, parent_id=176>
-  <KantonSekretariat id=40436, label=Sekretariat, parent_id=176>
-  <KantonArbeitsgruppe id=40439, label=Arbeitsgruppe, parent_id=176>
+  <KantonSympathisanten id=40433, label=Sympathisanten, parent_id=176>
+  <KantonParteigremium id=40434, label=Parteigremium, parent_id=176>
+  <KantonPraesidium id=40435, label=Praesidium, parent_id=176>
+  <KantonDelegierte id=40436, label=Delegierte, parent_id=176>
+  <KantonGewaehlte id=40437, label=Gewaehlte, parent_id=176>
+  <KantonSekretariat id=40438, label=Sekretariat, parent_id=176>
+  <KantonArbeitsgruppe id=40441, label=Arbeitsgruppe, parent_id=176>
   <KantonArbeitsgruppe id=33488, label=Bureau, parent_id=176>
   <KantonArbeitsgruppe id=39902, label=Candidats à la constituante, parent_id=176>
   <KantonArbeitsgruppe id=38880, label=Candidats élections communales 2016, parent_id=176>
@@ -61,6 +61,7 @@
     <OrtMitglieder id=4184, label=Mitgliedschaften, parent_id=2162>
     <OrtPraesidium id=4185, label=Partei, parent_id=2162>
    <Ort id=2163, label=Conthey, parent_id=640>
+    <OrtGewaehlte id=37048, label=Exekutive, parent_id=2163>
     <OrtMitglieder id=4186, label=Mitgliedschaften, parent_id=2163>
     <OrtPraesidium id=4187, label=Partei, parent_id=2163>
    <Ort id=2165, label=Nendaz, parent_id=640>
@@ -85,12 +86,12 @@
     <OrtMitglieder id=33462, label=Mitgliedschaften, parent_id=2168>
     <OrtPraesidium id=4191, label=Partei, parent_id=2168>
    <Ort id=2170, label=Sembrancher, parent_id=641>
-    <OrtSympathisanten id=40532, label=Sympathisanten, parent_id=2170>
+    <OrtSympathisanten id=40534, label=Sympathisanten, parent_id=2170>
     <OrtGewaehlte id=37050, label=Exekutive, parent_id=2170>
     <OrtMitglieder id=33463, label=Mitgliedschaften, parent_id=2170>
     <OrtPraesidium id=4192, label=Partei, parent_id=2170>
    <Ort id=40308, label=Val de Bagnes, parent_id=641>
-    <OrtPraesidium id=40549, label=Praesidium, parent_id=40308>
+    <OrtPraesidium id=40551, label=Praesidium, parent_id=40308>
     <OrtArbeitsgruppe id=40310, label=Exekutiv, parent_id=40308>
     <OrtMitglieder id=40313, label=Mitgliedschaften, parent_id=40308>
     <OrtPraesidium id=40309, label=Partei, parent_id=40308>
@@ -98,6 +99,7 @@
    <RegionMitglieder id=33465, label=Mitgliedschaften, parent_id=642>
    <RegionPraesidium id=2175, label=Partei, parent_id=642>
    <Ort id=33175, label=Ayent, parent_id=642>
+    <OrtGewaehlte id=37097, label=Exekutive, parent_id=33175>
     <OrtMitglieder id=33466, label=Mitgliedschaften, parent_id=33175>
     <OrtPraesidium id=33176, label=Partei, parent_id=33175>
    <Ort id=2172, label=Evolene, parent_id=642>
@@ -151,6 +153,7 @@
     <OrtMitglieder id=33441, label=Mitgliedschaften, parent_id=2184>
     <OrtPraesidium id=4208, label=Partei, parent_id=2184>
    <Ort id=2186, label=Riddes, parent_id=644>
+    <OrtGewaehlte id=37093, label=Exekutive, parent_id=2186>
     <OrtMitglieder id=33442, label=Mitgliedschaften, parent_id=2186>
     <OrtPraesidium id=4209, label=Partei, parent_id=2186>
    <Ort id=2187, label=Saillon, parent_id=644>
@@ -206,7 +209,7 @@
     <OrtMitglieder id=4226, label=Mitgliedschaften, parent_id=2201>
     <OrtPraesidium id=33206, label=Partei, parent_id=2201>
    <Ort id=2198, label=Chalais, parent_id=648>
-    <OrtSympathisanten id=40821, label=Sympathisanten, parent_id=2198>
+    <OrtSympathisanten id=40823, label=Sympathisanten, parent_id=2198>
     <OrtMitglieder id=33456, label=Mitgliedschaften, parent_id=2198>
     <OrtPraesidium id=4223, label=Partei, parent_id=2198>
    <Ort id=2200, label=Chippis, parent_id=648>
@@ -214,6 +217,7 @@
     <OrtMitglieder id=33454, label=Mitgliedschaften, parent_id=2200>
     <OrtPraesidium id=4225, label=Partei, parent_id=2200>
    <Ort id=38586, label=Crans-Montana, parent_id=648>
+    <OrtGewaehlte id=38590, label=Exekutive, parent_id=38586>
     <OrtMitglieder id=38588, label=Mitgliedschaften, parent_id=38586>
     <OrtPraesidium id=38587, label=Partei, parent_id=38586>
    <Ort id=2202, label=Grone, parent_id=648>
@@ -225,7 +229,6 @@
     <OrtMitglieder id=33453, label=Mitgliedschaften, parent_id=2203>
     <OrtPraesidium id=4229, label=Partei, parent_id=2203>
    <Ort id=33193, label=Miège, parent_id=648>
-    <OrtGewaehlte id=37106, label=Exekutive, parent_id=33193>
     <OrtMitglieder id=33452, label=Mitgliedschaften, parent_id=33193>
     <OrtPraesidium id=33194, label=Partei, parent_id=33193>
    <Ort id=2206, label=Sierre, parent_id=648>
@@ -238,13 +241,11 @@
     <OrtMitglieder id=33507, label=Mitgliedschaften, parent_id=33475>
     <OrtPraesidium id=33476, label=Partei, parent_id=33475>
    <Ort id=2207, label=Venthone, parent_id=648>
-    <OrtSympathisanten id=40893, label=Sympathisanten, parent_id=2207>
-    <OrtGewaehlte id=37090, label=Exekutive, parent_id=2207>
+    <OrtSympathisanten id=40904, label=Sympathisanten, parent_id=2207>
     <OrtMitglieder id=4234, label=Mitgliedschaften, parent_id=2207>
     <OrtPraesidium id=4235, label=Partei, parent_id=2207>
    <Ort id=2208, label=Veyras, parent_id=648>
-    <OrtSympathisanten id=40902, label=Sympathisanten, parent_id=2208>
-    <OrtGewaehlte id=37076, label=Exekutive, parent_id=2208>
+    <OrtSympathisanten id=40913, label=Sympathisanten, parent_id=2208>
     <OrtMitglieder id=4236, label=Mitgliedschaften, parent_id=2208>
     <OrtPraesidium id=4237, label=Partei, parent_id=2208>
   <Region id=649, label=Sion, parent_id=176>
@@ -259,12 +260,11 @@
     <OrtMitglieder id=33430, label=Mitgliedschaften, parent_id=33170>
     <OrtPraesidium id=33171, label=Partei, parent_id=33170>
    <Ort id=2210, label=Saviese, parent_id=649>
-    <OrtSympathisanten id=40936, label=Sympathisanten, parent_id=2210>
     <OrtGewaehlte id=37078, label=Exekutive, parent_id=2210>
     <OrtMitglieder id=33428, label=Mitgliedschaften, parent_id=2210>
     <OrtPraesidium id=4239, label=Partei, parent_id=2210>
    <Ort id=2211, label=Sion, parent_id=649>
-    <OrtSympathisanten id=40945, label=Sympathisanten, parent_id=2211>
+    <OrtSympathisanten id=40956, label=Sympathisanten, parent_id=2211>
     <OrtGewaehlte id=37079, label=Exekutive, parent_id=2211>
     <OrtGewaehlte id=36805, label=Legislative, parent_id=2211>
     <OrtMitglieder id=4240, label=Mitgliedschaften, parent_id=2211>
@@ -288,11 +288,10 @@
     <OrtMitglieder id=33434, label=Mitgliedschaften, parent_id=2215>
     <OrtPraesidium id=4245, label=Partei, parent_id=2215>
    <Ort id=33187, label=Finhaut, parent_id=650>
-    <OrtGewaehlte id=37103, label=Exekutive, parent_id=33187>
     <OrtMitglieder id=33435, label=Mitgliedschaften, parent_id=33187>
     <OrtPraesidium id=33188, label=Partei, parent_id=33187>
    <Ort id=33185, label=Massongex, parent_id=650>
-    <OrtSympathisanten id=41006, label=Sympathisanten, parent_id=33185>
+    <OrtSympathisanten id=41017, label=Sympathisanten, parent_id=33185>
     <OrtGewaehlte id=37102, label=Exekutive, parent_id=33185>
     <OrtMitglieder id=33436, label=Mitgliedschaften, parent_id=33185>
     <OrtPraesidium id=33186, label=Partei, parent_id=33185>
@@ -309,7 +308,7 @@
     <OrtMitglieder id=4248, label=Mitgliedschaften, parent_id=2220>
     <OrtPraesidium id=4249, label=Partei, parent_id=2220>
    <Ort id=2221, label=Verossaz, parent_id=650>
-    <OrtSympathisanten id=41042, label=Sympathisanten, parent_id=2221>
+    <OrtSympathisanten id=41053, label=Sympathisanten, parent_id=2221>
     <OrtGewaehlte id=37092, label=Exekutive, parent_id=2221>
     <OrtMitglieder id=33508, label=Mitgliedschaften, parent_id=2221>
     <OrtPraesidium id=4250, label=Partei, parent_id=2221>

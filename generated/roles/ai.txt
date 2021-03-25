@@ -10,5 +10,5 @@
   <KantonGewaehlte Regierungsrat [KantonaleExekutive 1]>
   <KantonGewaehlte Judikative [MitgliedKantonalesGerichtErsteInstanz 8]>
   <KantonGewaehlte Legislative [KantonaleLegislative 20]>
-  <KantonMitglieder Mitgliedschaften [Mitglied 113]>
+  <KantonMitglieder Mitgliedschaften [Mitglied 112]>
   <KantonPraesidium Partei [Mitglied 14, Praesident 4]>

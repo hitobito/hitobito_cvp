@@ -4,19 +4,19 @@
  <BundGewaehlte Nationalrat [Nationalrat 140]>
  <BundGewaehlte Ständerat [Staenderat 48]>
  <Kanton CVP TI>
-  <KantonDelegierte Delegierte [Delegierte 6473]>
+  <KantonDelegierte Delegierte [Delegierte 6457]>
   <KantonSekretariat Sekretariat [Leitung 1]>
   <KantonArbeitsgruppe Arbeitsgruppe [Mitglied 3, Praesident 1]>
   <KantonArbeitsgruppe Adressen ohne Merkmale (aus Liste PPD) [Mitglied 682]>
   <KantonArbeitsgruppe Altri contributi secondo direttive [Mitglied 11]>
   <KantonArbeitsgruppe Aziende e liberi professionisti [Mitglied 26]>
-  <KantonArbeitsgruppe Comitato cantonale [Mitglied 444]>
+  <KantonArbeitsgruppe Comitato cantonale [Mitglied 442]>
   <KantonArbeitsgruppe Direttiva [Mitglied 25]>
   <KantonArbeitsgruppe Ufficio presidenziale [Mitglied 16]>
   <KantonGewaehlte Regierungsrat [KantonaleExekutive 1]>
   <KantonGewaehlte Legislative [KantonaleLegislative 24]>
-  <KantonMitglieder Mitgliedschaften [Mitglied 9083]>
-  <KantonPraesidium Partei [Kassier 2, Mitglied 150, Praesident 7]>
+  <KantonMitglieder Mitgliedschaften [Mitglied 9042]>
+  <KantonPraesidium Partei [Kassier 2, Mitglied 154, Praesident 7]>
   <Region Bellinzona>
    <RegionDelegierte Delegierte [Delegierte 86]>
    <RegionPraesidium Partei [Praesident 4]>
@@ -29,7 +29,7 @@
    <Ort Bellinzona>
     <OrtGewaehlte Exekutive [KommunaleExekutive 1]>
     <OrtGewaehlte Legislative [KommunaleLegislative 8]>
-    <OrtMitglieder Mitgliedschaften [Mitglied 276]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 274]>
     <OrtPraesidium Partei [Mitglied 2, Praesident 1]>
    <Ort Cadenazzo>
     <OrtGewaehlte Exekutive [KommunaleExekutive 2]>
@@ -65,7 +65,7 @@
    <Ort Serravalle>
     <OrtGewaehlte Exekutive [KommunaleExekutive 2]>
     <OrtGewaehlte Legislative [KommunaleLegislative 7]>
-    <OrtMitglieder Mitgliedschaften [Mitglied 24]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 23]>
     <OrtPraesidium Partei [Mitglied 6, Praesident 1]>
   <Region Leventina>
    <RegionDelegierte Delegierte [Delegierte 24]>
@@ -84,11 +84,11 @@
     <OrtMitglieder Mitgliedschaften [Mitglied 11]>
     <OrtPraesidium Partei [Mitglied 2, Praesident 1]>
    <Ort Dalpe>
-    <OrtMitglieder Mitgliedschaften [Mitglied 3]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 2]>
     <OrtPraesidium Partei [Praesident 1]>
    <Ort Faido>
     <OrtSekretariat Sekretariat [Leitung 2]>
-    <OrtMitglieder Mitgliedschaften [Mitglied 65]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 64]>
     <OrtPraesidium Partei [Mitglied 3]>
    <Ort Giornico>
     <OrtGewaehlte Legislative [KommunaleLegislative 1]>
@@ -116,7 +116,7 @@
   <Region Locarno>
    <RegionDelegierte Delegierte [Delegierte 73]>
    <RegionParteigremium Parteigremium [Mitglied 74]>
-   <RegionPraesidium Partei [Praesident 16]>
+   <RegionPraesidium Partei [Praesident 15]>
    <Ort Ascona>
     <OrtSekretariat Sekretariat [Leitung 1]>
     <OrtGewaehlte Exekutive [KommunaleExekutive 1]>
@@ -168,7 +168,7 @@
    <Ort Minusio>
     <OrtSekretariat Sekretariat [Leitung 1]>
     <OrtGewaehlte Legislative [KommunaleLegislative 1]>
-    <OrtMitglieder Mitgliedschaften [Mitglied 43]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 42]>
     <OrtPraesidium Partei [Praesident 1]>
    <Ort Mosogno>
     <OrtMitglieder Mitgliedschaften [Mitglied 1]>
@@ -198,12 +198,12 @@
     <OrtMitglieder Mitgliedschaften [Mitglied 32]>
     <OrtPraesidium Partei [Praesident 2]>
    <Ort Vergeletto>
-    <OrtMitglieder Mitgliedschaften [Mitglied 2]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 1]>
    <Ort Vogorno>
     <OrtMitglieder Mitgliedschaften [Mitglied 2]>
   <Region Lugano>
-   <RegionDelegierte Delegierte [Delegierte 196]>
-   <RegionParteigremium Parteigremium [Mitglied 204]>
+   <RegionDelegierte Delegierte [Delegierte 195]>
+   <RegionParteigremium Parteigremium [Mitglied 203]>
    <RegionPraesidium Partei [Praesident 26]>
    <Ort Agno>
     <OrtGewaehlte Exekutive [KommunaleExekutive 2]>
@@ -248,8 +248,7 @@
    <Ort Cademario>
     <OrtGewaehlte Exekutive [KommunaleExekutive 1]>
     <OrtGewaehlte Legislative [KommunaleLegislative 2]>
-    <OrtMitglieder Mitgliedschaften [Mitglied 11]>
-    <OrtPraesidium Partei [Praesident 1]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 10]>
    <Ort Cadempino>
     <OrtGewaehlte Exekutive [KommunaleExekutive 2]>
     <OrtGewaehlte Legislative [KommunaleLegislative 7]>
@@ -276,7 +275,7 @@
    <Ort Collina d'Oro>
     <OrtGewaehlte Legislative [KommunaleLegislative 2]>
     <OrtMitglieder Mitgliedschaften [Mitglied 23]>
-    <OrtPraesidium Partei [Mitglied 5, Praesident 1]>
+    <OrtPraesidium Partei [Mitglied 5, Praesident 2]>
    <Ort Comano>
     <OrtGewaehlte Legislative [KommunaleLegislative 1]>
     <OrtMitglieder Mitgliedschaften [Mitglied 13]>
@@ -316,7 +315,7 @@
     <OrtPraesidium Partei [Praesident 1]>
    <Ort Massagno>
     <OrtGewaehlte Legislative [KommunaleLegislative 1]>
-    <OrtMitglieder Mitgliedschaften [Mitglied 37]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 36]>
     <OrtPraesidium Partei [Praesident 1]>
    <Ort Melano>
     <OrtMitglieder Mitgliedschaften [Mitglied 15]>
@@ -371,8 +370,8 @@
    <Ort Savosa>
     <OrtSekretariat Sekretariat [Leitung 1]>
     <OrtGewaehlte Exekutive [KommunaleExekutive 1]>
-    <OrtMitglieder Mitgliedschaften [Mitglied 28]>
-    <OrtPraesidium Partei [Kassier 2, Mitglied 10, Praesident 1]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 26]>
+    <OrtPraesidium Partei [Kassier 2, Mitglied 9, Praesident 1]>
    <Ort Sessa>
     <OrtMitglieder Mitgliedschaften [Mitglied 10]>
     <OrtPraesidium Partei [Mitglied 2]>
@@ -383,7 +382,7 @@
     <OrtPraesidium Partei [Mitglied 1, Praesident 2]>
    <Ort Torricella - Taverne>
     <OrtSekretariat Sekretariat [Leitung 1]>
-    <OrtMitglieder Mitgliedschaften [Mitglied 14]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 13]>
     <OrtPraesidium Partei [Praesident 1]>
    <Ort Vezia>
     <OrtSekretariat Sekretariat [Leitung 1]>
@@ -416,7 +415,7 @@
    <Ort Castel S. Pietro>
     <OrtSekretariat Sekretariat [Leitung 1]>
     <OrtGewaehlte Legislative [KommunaleLegislative 2]>
-    <OrtMitglieder Mitgliedschaften [Mitglied 42]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 41]>
     <OrtPraesidium Partei [Kassier 1, Praesident 2]>
    <Ort Chiasso>
     <OrtGewaehlte Legislative [KommunaleLegislative 2]>

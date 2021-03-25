@@ -1,7 +1,7 @@
 <Bund CVP Schweiz>
  <BundArbeitsgruppe Arbeitsgruppe [Mitglied 5]>
  <BundArbeitsgruppe Kantonaler Fraktionspräsident [Mitglied 50]>
- <BundArbeitsgruppe Anlässe [Mitglied 888]>
+ <BundArbeitsgruppe Anlässe [Mitglied 882]>
  <BundGewaehlte Bundeskanzlei [Bundeskanzler 2]>
  <BundGewaehlte Departement Bundesrat Nr. 1 [Bundesrat 5]>
  <BundGewaehlte Nationalrat [Nationalrat 138]>

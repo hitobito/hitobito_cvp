@@ -29,18 +29,18 @@
    <BundExterneKontakte Verkehr (IC) [Kontakt 2]>
    <BundExterneKontakte Wirtschaft (JG) [Kontakt 5]>
   <BundExterneKontakte Firmen>
-   <BundExterneKontakte Grossfirmen Mai 2017 (ab 800 MA) [Kontakt 154]>
+   <BundExterneKontakte Grossfirmen Mai 2017 (ab 800 MA) [Kontakt 153]>
    <BundExterneKontakte KMU Mai 2017 (bis 799 MA) [Kontakt 127]>
-  <BundExterneKontakte Medien (MA) [Kontakt 154]>
+  <BundExterneKontakte Medien (MA) [Kontakt 153]>
    <BundExterneKontakte Fachzeitschriften>
     <BundExterneKontakte Fachmedien [Medien 638]>
    <BundExterneKontakte Print>
     <BundExterneKontakte Tagesmedien [Medien 4]>
     <BundExterneKontakte Zu versorgen [Kontakt 255]>
    <BundExterneKontakte Radio>
-    <BundExterneKontakte Zu versorgen [Kontakt 52]>
+    <BundExterneKontakte Zu versorgen [Kontakt 51]>
    <BundExterneKontakte TV>
-    <BundExterneKontakte Zu versorgen [Kontakt 44]>
+    <BundExterneKontakte Zu versorgen [Kontakt 43]>
    <BundExterneKontakte online>
     <BundExterneKontakte Verteiler [Kontakt 18]>
   <BundExterneKontakte Parteien (MS) [Kontakt 4]>

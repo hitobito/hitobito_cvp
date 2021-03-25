@@ -10,18 +10,18 @@
   <KantonArbeitsgruppe Rechnung Sektionen [Mitglied 2]>
   <KantonGewaehlte Regierungsrat [KantonaleExekutive 1]>
   <KantonGewaehlte Judikative [MitgliedKantonalesGerichtErsteInstanz 6, Staatsanwaltschaft 1]>
-  <KantonGewaehlte Legislative [KantonaleLegislative 41]>
+  <KantonGewaehlte Legislative [KantonaleLegislative 40]>
   <KantonMitglieder Mitgliedschaften [Mitglied 3]>
   <KantonPraesidium Partei [Kassier 2, Mitglied 2, Praesident 2]>
   <Ort Glarus Mitte>
-   <OrtSympathisanten Sympathisanten [Sympathisant 36]>
-   <OrtMitglieder Mitgliedschaften [Mitglied 42]>
+   <OrtSympathisanten Sympathisanten [Sympathisant 33]>
+   <OrtMitglieder Mitgliedschaften [Mitglied 43]>
    <OrtPraesidium Partei [Adressverwalter 3]>
   <Ort Glarus Nord>
-   <OrtSympathisanten Sympathisanten [Sympathisant 119]>
+   <OrtSympathisanten Sympathisanten [Sympathisant 121]>
    <OrtGewaehlte Legislative [KommunaleLegislative 1]>
    <OrtMitglieder Mitgliedschaften [Mitglied 114]>
-   <OrtPraesidium Partei [Adressverwalter 3, Mitglied 1]>
+   <OrtPraesidium Partei [Adressverwalter 3]>
   <Ort Glarus Süd>
-   <OrtMitglieder Mitgliedschaften [Mitglied 44]>
+   <OrtMitglieder Mitgliedschaften [Mitglied 45]>
    <OrtPraesidium Partei [Adressverwalter 1]>

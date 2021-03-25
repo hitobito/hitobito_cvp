@@ -1,12 +1,12 @@
 <Bund id=1, label=CVP Schweiz, parent_id=>
- <BundGewaehlte id=40419, label=Bundesrichter, parent_id=1>
- <BundGewaehlte id=40420, label=Bundesricher Ersatz, parent_id=1>
- <BundGewaehlte id=40421, label=Bundesverwaltungsrichter, parent_id=1>
- <BundGewaehlte id=40422, label=Bundesgericht nebenamtlicher Richter, parent_id=1>
- <BundGewaehlte id=40423, label=Richter Bundesstrafgericht, parent_id=1>
- <BundGewaehlte id=40425, label=Bundesstrafgericht nebenamtlicher Richter, parent_id=1>
- <BundArbeitsgruppe id=40426, label=Arbeitsgruppe, parent_id=1>
- <BundArbeitsgruppe id=40428, label=Regierungsrat, parent_id=1>
+ <BundGewaehlte id=40421, label=Bundesrichter, parent_id=1>
+ <BundGewaehlte id=40422, label=Bundesricher Ersatz, parent_id=1>
+ <BundGewaehlte id=40423, label=Bundesverwaltungsrichter, parent_id=1>
+ <BundGewaehlte id=40424, label=Bundesgericht nebenamtlicher Richter, parent_id=1>
+ <BundGewaehlte id=40425, label=Richter Bundesstrafgericht, parent_id=1>
+ <BundGewaehlte id=40427, label=Bundesstrafgericht nebenamtlicher Richter, parent_id=1>
+ <BundArbeitsgruppe id=40428, label=Arbeitsgruppe, parent_id=1>
+ <BundArbeitsgruppe id=40430, label=Regierungsrat, parent_id=1>
  <BundArbeitsgruppe id=37839, label=Arbeitsgruppen (PN/WiMi), parent_id=1>
   <BundArbeitsgruppe id=37854, label=AG LGBT(JYM), parent_id=37839>
   <BundArbeitsgruppe id=37853, label=Ausländerpolitik und Migration (SE), parent_id=37839>
@@ -123,6 +123,7 @@
  <BundArbeitsgruppe id=38974, label=Sekretäre (Administration Kantonalparteien), parent_id=1>
   <BundArbeitsgruppe id=38976, label=AG, parent_id=38974>
   <BundArbeitsgruppe id=38980, label=BE, parent_id=38974>
+  <BundArbeitsgruppe id=38981, label=BL, parent_id=38974>
   <BundArbeitsgruppe id=38989, label=BS, parent_id=38974>
   <BundArbeitsgruppe id=38985, label=FR-französisch, parent_id=38974>
   <BundArbeitsgruppe id=38992, label=JU, parent_id=38974>

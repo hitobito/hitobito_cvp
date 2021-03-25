@@ -4,13 +4,13 @@
  <BundGewaehlte Nationalrat [Nationalrat 139]>
  <BundGewaehlte Ständerat [Staenderat 47]>
  <Kanton CSP Oberwallis>
-  <KantonSympathisanten Sympathisanten [Sympathisant 1311]>
+  <KantonSympathisanten Sympathisanten [Sympathisant 1310]>
   <KantonGewaehlte Gewaehlte [WeitereMandate 7]>
   <KantonSekretariat Sekretariat [Leitung 1]>
   <KantonArbeitsgruppe Arbeitsgruppe [Mitglied 111]>
   <KantonArbeitsgruppe 60+ CSPO>
    <KantonArbeitsgruppe Kernteam [Gast 2, Praesident 3]>
-  <KantonArbeitsgruppe CSPO Frauen [Mitglied 67]>
+  <KantonArbeitsgruppe CSPO Frauen [Mitglied 68]>
   <KantonArbeitsgruppe Mitglied 300er [Mitglied 39]>
   <KantonGewaehlte Regierungsrat [KantonaleExekutive 3]>
   <KantonGewaehlte Judikative [MitgliedKantonalesGerichtErsteInstanz 3, Staatsanwaltschaft 2]>

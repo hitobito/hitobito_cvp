@@ -15,7 +15,7 @@
    <KantonDelegierte Beckenried [Delegierte 12, Ersatzdelegierte 4]>
    <KantonDelegierte Buochs [Delegierte 11, Ersatzdelegierte 1]>
    <KantonDelegierte Dallenwil [Delegierte 11, Ersatzdelegierte 2]>
-   <KantonDelegierte Delegierte von Amtes wegen [DelegierteVonAmtesWegen 83]>
+   <KantonDelegierte Delegierte von Amtes wegen [DelegierteVonAmtesWegen 82]>
    <KantonDelegierte Emmetten [Delegierte 7]>
    <KantonDelegierte Ennetbürgen [Delegierte 8]>
    <KantonDelegierte Ennetmoos [Delegierte 9, Ersatzdelegierte 7]>
@@ -26,7 +26,7 @@
    <KantonDelegierte Stansstad [Delegierte 9, Ersatzdelegierte 1]>
    <KantonDelegierte Wolfenschiessen [Delegierte 9, Ersatzdelegierte 3]>
   <KantonExterneKontakte Medienverteiler [Kontakt 6]>
-  <KantonExterneKontakte Newsletter [Kontakt 489]>
+  <KantonExterneKontakte Newsletter [Kontakt 485]>
   <KantonGewaehlte Regierungsrat [KantonaleExekutive 6]>
   <KantonGewaehlte Judikative>
    <KantonGewaehlte Kantonsgericht [MitgliedKantonalesGerichtErsteInstanz 1]>
@@ -47,26 +47,26 @@
    <OrtGewaehlte Exekutive [KommunaleExekutive 2]>
    <OrtGewaehlte Finanzkommission [MitgliedWeitereGemeindeKommissionen 1]>
    <OrtGewaehlte Schulpflege [Schulpflegekommission 5]>
-   <OrtMitglieder Mitgliedschaften [Mitglied 92]>
+   <OrtMitglieder Mitgliedschaften [Mitglied 90]>
    <OrtPraesidium Partei [Adressverwalter 3, Mitglied 7, Praesident 3]>
   <Ort Buochs>
-   <OrtSympathisanten Sympathisanten [Sympathisant 8]>
+   <OrtSympathisanten Sympathisanten [Sympathisant 5]>
    <OrtGewaehlte Exekutive [KommunaleExekutive 5]>
    <OrtGewaehlte Finanzkommission [MitgliedWeitereGemeindeKommissionen 2]>
    <OrtGewaehlte Schulpflege [Schulpflegekommission 1]>
-   <OrtMitglieder Mitgliedschaften [Mitglied 131]>
+   <OrtMitglieder Mitgliedschaften [Mitglied 120]>
    <OrtPraesidium Partei [Adressverwalter 8, Mitglied 3, Praesident 1]>
   <Ort Dallenwil>
    <OrtSympathisanten Sympathisanten [Sympathisant 8]>
    <OrtGewaehlte Exekutive [KommunaleExekutive 5]>
    <OrtGewaehlte Schulpflege [Schulpflegekommission 1]>
-   <OrtMitglieder Mitgliedschaften [Mitglied 68]>
+   <OrtMitglieder Mitgliedschaften [Mitglied 67]>
    <OrtPraesidium Partei [Adressverwalter 3, Mitglied 3, Praesident 2]>
   <Ort Emmetten>
    <OrtSympathisanten Sympathisanten [Sympathisant 7]>
    <OrtGewaehlte Exekutive [KommunaleExekutive 2]>
    <OrtMitglieder Mitgliedschaften [Mitglied 12]>
-   <OrtPraesidium Partei [Adressverwalter 3, Kassier 1, Mitglied 2, Praesident 1]>
+   <OrtPraesidium Partei [Adressverwalter 5, Kassier 1, Mitglied 2, Praesident 1]>
   <Ort Ennetbürgen>
    <OrtSympathisanten Sympathisanten [Sympathisant 136]>
    <OrtGewaehlte Exekutive [KommunaleExekutive 7]>
@@ -78,14 +78,14 @@
    <OrtSympathisanten Sympathisanten [Sympathisant 25]>
    <OrtGewaehlte Exekutive [KommunaleExekutive 12]>
    <OrtGewaehlte Schulpflege [Schulpflegekommission 1]>
-   <OrtMitglieder Mitgliedschaften [Mitglied 91]>
+   <OrtMitglieder Mitgliedschaften [Mitglied 89]>
    <OrtPraesidium Partei [Adressverwalter 2, Mitglied 4, Praesident 2]>
   <Ort Hergiswil>
-   <OrtSympathisanten Sympathisanten [Sympathisant 239]>
+   <OrtSympathisanten Sympathisanten [Sympathisant 237]>
    <OrtGewaehlte Exekutive [KommunaleExekutive 2]>
    <OrtGewaehlte Finanzkommission [MitgliedWeitereGemeindeKommissionen 2]>
    <OrtGewaehlte Schulpflege [Schulpflegekommission 3]>
-   <OrtMitglieder Mitgliedschaften [Mitglied 80]>
+   <OrtMitglieder Mitgliedschaften [Mitglied 81]>
    <OrtPraesidium Partei [Adressverwalter 6, Mitglied 7, Praesident 2]>
   <Ort Oberdorf>
    <OrtSympathisanten Sympathisanten [Sympathisant 1]>
@@ -95,9 +95,10 @@
    <OrtMitglieder Mitgliedschaften [Mitglied 52]>
    <OrtPraesidium Partei [Adressverwalter 2, Kassier 1, Mitglied 6, Praesident 2]>
   <Ort Stans>
+   <OrtSympathisanten Sympathisanten [Sympathisant 119]>
    <OrtGewaehlte Exekutive [KommunaleExekutive 3]>
    <OrtGewaehlte Finanzkommission [MitgliedWeitereGemeindeKommissionen 1]>
-   <OrtMitglieder Mitgliedschaften [Mitglied 216]>
+   <OrtMitglieder Mitgliedschaften [Mitglied 95]>
    <OrtPraesidium Partei [Adressverwalter 6, Kassier 2, Mitglied 5, Praesident 3]>
   <Ort Stansstad>
    <OrtSympathisanten Sympathisanten [Sympathisant 119]>
@@ -105,10 +106,10 @@
    <OrtGewaehlte Exekutive [KommunaleExekutive 8]>
    <OrtGewaehlte Schulpflege [Schulpflegekommission 5]>
    <OrtMitglieder Mitgliedschaften [Mitglied 67]>
-   <OrtPraesidium Partei [Adressverwalter 7, Mitglied 6, Praesident 2]>
+   <OrtPraesidium Partei [Adressverwalter 9, Mitglied 6, Praesident 2]>
   <Ort Wolfenschiessen>
    <OrtSympathisanten Sympathisanten [Sympathisant 141]>
    <OrtGewaehlte Exekutive [KommunaleExekutive 3]>
    <OrtGewaehlte Schulpflege [Schulpflegekommission 7]>
-   <OrtMitglieder Mitgliedschaften [Mitglied 136]>
+   <OrtMitglieder Mitgliedschaften [Mitglied 132]>
    <OrtPraesidium Partei [Adressverwalter 3, Mitglied 10, Praesident 2]>

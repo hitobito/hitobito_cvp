@@ -20,16 +20,16 @@
   <Ort Engelberg [mit Grafenort]>
    <OrtSympathisanten Sympathisanten [Sympathisant 1]>
    <OrtGewaehlte Exekutive [KommunaleExekutive 1]>
-   <OrtMitglieder Mitgliedschaften [Mitglied 56]>
+   <OrtMitglieder Mitgliedschaften [Mitglied 55]>
    <OrtPraesidium Partei [Adressverwalter 1, Praesident 3]>
   <Ort Giswil>
-   <OrtSympathisanten Sympathisanten [Sympathisant 2]>
+   <OrtSympathisanten Sympathisanten [Sympathisant 1]>
    <OrtGewaehlte Exekutive [KommunaleExekutive 2]>
-   <OrtMitglieder Mitgliedschaften [Mitglied 40]>
+   <OrtMitglieder Mitgliedschaften [Mitglied 39]>
    <OrtPraesidium Partei [Adressverwalter 1, Kassier 1, Mitglied 7, Praesident 3]>
   <Ort Kerns [mit Melchtal]>
    <OrtGewaehlte Exekutive [KommunaleExekutive 6]>
-   <OrtMitglieder Mitgliedschaften [Mitglied 87]>
+   <OrtMitglieder Mitgliedschaften [Mitglied 85]>
    <OrtPraesidium Partei [Adressverwalter 2, Mitglied 5, Praesident 2]>
   <Ort Lungern [mit Bürglen]>
    <OrtGewaehlte Exekutive [KommunaleExekutive 5]>
@@ -38,12 +38,12 @@
   <Ort Sachseln [mit Flüeli Ranft]>
    <OrtSympathisanten Sympathisanten [Sympathisant 1]>
    <OrtGewaehlte Exekutive [KommunaleExekutive 2]>
-   <OrtMitglieder Mitgliedschaften [Mitglied 123]>
+   <OrtMitglieder Mitgliedschaften [Mitglied 115]>
    <OrtPraesidium Partei [Adressverwalter 1, Praesident 1]>
   <Ort Sarnen [mit Ramersberg, Wilen, Stalden & Kägiswil]>
-   <OrtSympathisanten Sympathisanten [Sympathisant 4]>
+   <OrtSympathisanten Sympathisanten [Sympathisant 5]>
    <OrtSekretariat Sekretariat [Leitung 1]>
    <OrtParteigremium Parteigremium [Mitglied 3]>
    <OrtGewaehlte Exekutive [KommunaleExekutive 7]>
-   <OrtMitglieder Mitgliedschaften [Mitglied 103]>
-   <OrtPraesidium Partei [Adressverwalter 6, Kassier 1, Mitglied 13, Praesident 3]>
+   <OrtMitglieder Mitgliedschaften [Mitglied 99]>
+   <OrtPraesidium Partei [Adressverwalter 7, Kassier 1, Mitglied 13, Praesident 3]>

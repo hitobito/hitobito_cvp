@@ -2,13 +2,13 @@
  <Vereinigung AWG>
   <VereinigungPraesidium AWG Schweiz [Praesident 4]>
   <Kanton AWG LU>
-   <KantonExterneKontakte Newsletter [Kontakt 135]>
+   <KantonExterneKontakte Newsletter [Kontakt 134]>
    <KantonMitglieder Mitgliedschaften [Mitglied 18]>
   <Kanton GR>
    <KantonSympathisanten Sympathisanten [Sympathisant 1]>
    <KantonMitglieder Mitgliedschaften [Mitglied 1]>
   <Kanton SG>
-   <KantonMitglieder Mitgliedschaften [Mitglied 124]>
+   <KantonMitglieder Mitgliedschaften [Mitglied 122]>
   <Kanton TG>
    <KantonPraesidium Praesidium [Mitglied 1, Praesident 1]>
    <KantonMitglieder Mitglieder [Mitglied 1]>
@@ -19,5 +19,5 @@
   <Kanton ZG>
    <KantonMitglieder Mitglieder [Mitglied 1]>
   <Kanton ZH>
-   <KantonSympathisanten Sympathisanten [Sympathisant 75]>
-   <KantonMitglieder Mitgliedschaften [Mitglied 95]>
+   <KantonSympathisanten Sympathisanten [Sympathisant 72]>
+   <KantonMitglieder Mitgliedschaften [Mitglied 92]>

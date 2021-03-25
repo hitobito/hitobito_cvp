@@ -7,5 +7,5 @@
   <KantonSympathisanten Sympathisanten [Sympathisant 6]>
   <KantonSekretariat Sekretariat [Leitung 1]>
   <KantonArbeitsgruppe Arbeitsgruppe [Mitglied 2]>
-  <KantonMitglieder Mitgliedschaften [Mitglied 20]>
+  <KantonMitglieder Mitgliedschaften [Mitglied 19]>
   <KantonPraesidium Partei [Kassier 2, Mitglied 7, Praesident 3]>

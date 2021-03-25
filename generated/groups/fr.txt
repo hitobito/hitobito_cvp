@@ -1,16 +1,16 @@
 <Bund id=1, label=CVP Schweiz, parent_id=>
- <BundGewaehlte id=40419, label=Bundesrichter, parent_id=1>
- <BundGewaehlte id=40421, label=Bundesverwaltungsrichter, parent_id=1>
- <BundArbeitsgruppe id=40426, label=Arbeitsgruppe, parent_id=1>
+ <BundGewaehlte id=40421, label=Bundesrichter, parent_id=1>
+ <BundGewaehlte id=40423, label=Bundesverwaltungsrichter, parent_id=1>
+ <BundArbeitsgruppe id=40428, label=Arbeitsgruppe, parent_id=1>
  <BundGewaehlte id=14763, label=Departement Bundesrat Nr. 1, parent_id=1>
  <BundGewaehlte id=14860, label=Nationalrat, parent_id=1>
  <BundGewaehlte id=14861, label=Ständerat, parent_id=1>
  <Kanton id=158, label=CVP FR, parent_id=1>
-  <KantonSympathisanten id=40431, label=Sympathisanten, parent_id=158>
-  <KantonPraesidium id=40433, label=Praesidium, parent_id=158>
-  <KantonDelegierte id=40434, label=Delegierte, parent_id=158>
-  <KantonSekretariat id=40436, label=Sekretariat, parent_id=158>
-  <KantonArbeitsgruppe id=40439, label=Arbeitsgruppe, parent_id=158>
+  <KantonSympathisanten id=40433, label=Sympathisanten, parent_id=158>
+  <KantonPraesidium id=40435, label=Praesidium, parent_id=158>
+  <KantonDelegierte id=40436, label=Delegierte, parent_id=158>
+  <KantonSekretariat id=40438, label=Sekretariat, parent_id=158>
+  <KantonArbeitsgruppe id=40441, label=Arbeitsgruppe, parent_id=158>
   <KantonArbeitsgruppe id=14852, label=Arbeitskommissionen, parent_id=158>
    <KantonArbeitsgruppe id=14854, label=Politische Kommission, parent_id=14852>
    <KantonArbeitsgruppe id=14853, label=Wahlkommission, parent_id=14852>
@@ -47,9 +47,9 @@
   <KantonPraesidium id=427, label=Partei, parent_id=158>
   <KantonPraesidium id=36225, label=Präsidium, parent_id=158>
   <Region id=421, label=Broye, parent_id=158>
-   <RegionSympathisanten id=40446, label=Sympathisanten, parent_id=421>
-   <RegionDelegierte id=40449, label=Delegierte, parent_id=421>
-   <RegionSekretariat id=40450, label=Sekretariat, parent_id=421>
+   <RegionSympathisanten id=40448, label=Sympathisanten, parent_id=421>
+   <RegionDelegierte id=40451, label=Delegierte, parent_id=421>
+   <RegionSekretariat id=40452, label=Sekretariat, parent_id=421>
    <RegionMitglieder id=1063, label=Mitgliedschaften, parent_id=421>
    <RegionPraesidium id=1066, label=Partei, parent_id=421>
    <Ort id=14707, label=Bussy, parent_id=421>
@@ -59,54 +59,54 @@
    <Ort id=14712, label=Domdidier, parent_id=421>
     <OrtMitglieder id=14722, label=Mitgliedschaften, parent_id=14712>
    <Ort id=40404, label=Estavayer-le-Lac, parent_id=421>
-    <OrtSympathisanten id=40480, label=Sympathisanten, parent_id=40404>
+    <OrtSympathisanten id=40482, label=Sympathisanten, parent_id=40404>
     <OrtMitglieder id=40409, label=Mitgliedschaften, parent_id=40404>
    <Ort id=14709, label=Les Montets, parent_id=421>
     <OrtMitglieder id=14723, label=Mitgliedschaften, parent_id=14709>
   <Region id=423, label=Glâne, parent_id=158>
    <Ort id=14647, label=PDC Glane, parent_id=423>
-    <OrtSympathisanten id=40514, label=Sympathisanten, parent_id=14647>
-    <OrtSekretariat id=40518, label=Sekretariat, parent_id=14647>
+    <OrtSympathisanten id=40516, label=Sympathisanten, parent_id=14647>
+    <OrtSekretariat id=40520, label=Sekretariat, parent_id=14647>
     <OrtMitglieder id=14649, label=Mitgliedschaften, parent_id=14647>
     <OrtPraesidium id=14648, label=Partei, parent_id=14647>
    <Ort id=1094, label=PDC Romont, parent_id=423>
-    <OrtSympathisanten id=40523, label=Sympathisanten, parent_id=1094>
+    <OrtSympathisanten id=40525, label=Sympathisanten, parent_id=1094>
     <OrtMitglieder id=2715, label=Mitgliedschaften, parent_id=1094>
     <OrtPraesidium id=14650, label=Partei, parent_id=1094>
    <Ort id=36237, label=Syndics, parent_id=423>
-    <OrtMitglieder id=40537, label=Mitglieder, parent_id=36237>
+    <OrtMitglieder id=40539, label=Mitglieder, parent_id=36237>
   <Region id=424, label=Greyerz, parent_id=158>
-   <RegionSympathisanten id=40541, label=Sympathisanten, parent_id=424>
-   <RegionSekretariat id=40545, label=Sekretariat, parent_id=424>
+   <RegionSympathisanten id=40543, label=Sympathisanten, parent_id=424>
+   <RegionSekretariat id=40547, label=Sekretariat, parent_id=424>
    <RegionMitglieder id=1125, label=Mitgliedschaften, parent_id=424>
    <RegionPraesidium id=1127, label=Partei, parent_id=424>
    <Ort id=1107, label=BGI, parent_id=424>
-    <OrtSympathisanten id=40548, label=Sympathisanten, parent_id=1107>
+    <OrtSympathisanten id=40550, label=Sympathisanten, parent_id=1107>
     <OrtMitglieder id=2728, label=Mitgliedschaften, parent_id=1107>
     <OrtPraesidium id=14786, label=Partei, parent_id=1107>
    <Ort id=1110, label=Bulle, parent_id=424>
-    <OrtSympathisanten id=40557, label=Sympathisanten, parent_id=1110>
+    <OrtSympathisanten id=40559, label=Sympathisanten, parent_id=1110>
     <OrtMitglieder id=2731, label=Mitgliedschaften, parent_id=1110>
     <OrtPraesidium id=14785, label=Partei, parent_id=1110>
    <Ort id=1111, label=La Jogne, parent_id=424>
     <OrtMitglieder id=2732, label=Mitgliedschaften, parent_id=1111>
     <OrtPraesidium id=14787, label=Partei, parent_id=1111>
    <Ort id=1131, label=La Sionge, parent_id=424>
-    <OrtSympathisanten id=40575, label=Sympathisanten, parent_id=1131>
+    <OrtSympathisanten id=40577, label=Sympathisanten, parent_id=1131>
     <OrtMitglieder id=2750, label=Mitgliedschaften, parent_id=1131>
     <OrtPraesidium id=14788, label=Partei, parent_id=1131>
    <Ort id=1108, label=Rive droite, parent_id=424>
-    <OrtSympathisanten id=40584, label=Sympathisanten, parent_id=1108>
+    <OrtSympathisanten id=40586, label=Sympathisanten, parent_id=1108>
     <OrtMitglieder id=2729, label=Mitgliedschaften, parent_id=1108>
     <OrtPraesidium id=14790, label=Partei, parent_id=1108>
    <Ort id=1116, label=Rive gauche, parent_id=424>
-    <OrtSympathisanten id=40593, label=Sympathisanten, parent_id=1116>
+    <OrtSympathisanten id=40595, label=Sympathisanten, parent_id=1116>
     <OrtMitglieder id=2737, label=Mitgliedschaften, parent_id=1116>
     <OrtPraesidium id=14791, label=Partei, parent_id=1116>
   <Region id=428, label=Sarine-Campagne, parent_id=158>
-   <RegionSympathisanten id=40602, label=Sympathisanten, parent_id=428>
-   <RegionDelegierte id=40605, label=Delegierte, parent_id=428>
-   <RegionSekretariat id=40606, label=Sekretariat, parent_id=428>
+   <RegionSympathisanten id=40604, label=Sympathisanten, parent_id=428>
+   <RegionDelegierte id=40607, label=Delegierte, parent_id=428>
+   <RegionSekretariat id=40608, label=Sekretariat, parent_id=428>
    <RegionMitglieder id=1154, label=Mitgliedschaften, parent_id=428>
    <RegionPraesidium id=14851, label=Partei, parent_id=428>
    <Ort id=1140, label=Belfaux, parent_id=428>
@@ -122,49 +122,49 @@
     <OrtMitglieder id=36313, label=Mitgliedschaften, parent_id=36311>
     <OrtPraesidium id=36312, label=Partei, parent_id=36311>
    <Ort id=1152, label=Marly, parent_id=428>
-    <OrtSympathisanten id=40645, label=Sympathisanten, parent_id=1152>
+    <OrtSympathisanten id=40647, label=Sympathisanten, parent_id=1152>
     <OrtMitglieder id=2772, label=Mitgliedschaften, parent_id=1152>
     <OrtPraesidium id=14795, label=Partei, parent_id=1152>
    <Ort id=39038, label=Sarine Nord, parent_id=428>
     <OrtMitglieder id=39042, label=Mitgliedschaften, parent_id=39038>
    <Ort id=1163, label=Treyvaux, parent_id=428>
-    <OrtSympathisanten id=40663, label=Sympathisanten, parent_id=1163>
+    <OrtSympathisanten id=40665, label=Sympathisanten, parent_id=1163>
     <OrtMitglieder id=2781, label=Mitgliedschaften, parent_id=1163>
     <OrtPraesidium id=14796, label=Partei, parent_id=1163>
    <Ort id=1165, label=Villars-sur-Glâne, parent_id=428>
-    <OrtSympathisanten id=40672, label=Sympathisanten, parent_id=1165>
+    <OrtSympathisanten id=40674, label=Sympathisanten, parent_id=1165>
     <OrtGewaehlte id=39061, label=Exécutif, parent_id=1165>
     <OrtGewaehlte id=39060, label=Législatif, parent_id=1165>
     <OrtMitglieder id=2783, label=Mitgliedschaften, parent_id=1165>
     <OrtPraesidium id=14797, label=Partei, parent_id=1165>
   <Region id=429, label=See, parent_id=158>
-   <RegionDelegierte id=40684, label=Delegierte, parent_id=429>
-   <RegionSekretariat id=40685, label=Sekretariat, parent_id=429>
+   <RegionDelegierte id=40686, label=Delegierte, parent_id=429>
+   <RegionSekretariat id=40687, label=Sekretariat, parent_id=429>
    <RegionMitglieder id=1178, label=Mitgliedschaften, parent_id=429>
    <RegionPraesidium id=1181, label=Partei, parent_id=429>
    <Ort id=1170, label=Gurmels, parent_id=429>
     <OrtMitglieder id=2788, label=Mitgliedschaften, parent_id=1170>
     <OrtPraesidium id=2789, label=Partei, parent_id=1170>
    <Ort id=1168, label=Haut Lac, parent_id=429>
-    <OrtSekretariat id=40701, label=Sekretariat, parent_id=1168>
+    <OrtSekretariat id=40703, label=Sekretariat, parent_id=1168>
     <OrtMitglieder id=2786, label=Mitgliedschaften, parent_id=1168>
     <OrtPraesidium id=14798, label=Partei, parent_id=1168>
    <Ort id=1173, label=Kerzers, parent_id=429>
     <OrtMitglieder id=2792, label=Mitgliedschaften, parent_id=1173>
     <OrtPraesidium id=2793, label=Partei, parent_id=1173>
    <Ort id=1180, label=Murten, parent_id=429>
-    <OrtSympathisanten id=40715, label=Sympathisanten, parent_id=1180>
+    <OrtSympathisanten id=40717, label=Sympathisanten, parent_id=1180>
     <OrtMitglieder id=2799, label=Mitgliedschaften, parent_id=1180>
     <OrtPraesidium id=14799, label=Partei, parent_id=1180>
    <Ort id=1182, label=Vully, parent_id=429>
-    <OrtSympathisanten id=40724, label=Sympathisanten, parent_id=1182>
+    <OrtSympathisanten id=40726, label=Sympathisanten, parent_id=1182>
     <OrtMitglieder id=2800, label=Mitgliedschaften, parent_id=1182>
     <OrtPraesidium id=2801, label=Partei, parent_id=1182>
   <Region id=430, label=Sense, parent_id=158>
-   <RegionSympathisanten id=40733, label=Sympathisanten, parent_id=430>
-   <RegionArbeitsgruppe id=40735, label=Arbeitsgruppe, parent_id=430>
-   <RegionDelegierte id=40736, label=Delegierte, parent_id=430>
-   <RegionSekretariat id=40737, label=Sekretariat, parent_id=430>
+   <RegionSympathisanten id=40735, label=Sympathisanten, parent_id=430>
+   <RegionArbeitsgruppe id=40737, label=Arbeitsgruppe, parent_id=430>
+   <RegionDelegierte id=40738, label=Delegierte, parent_id=430>
+   <RegionSekretariat id=40739, label=Sekretariat, parent_id=430>
    <RegionArbeitsgruppe id=1189, label=Legislative, parent_id=430>
    <RegionDelegierte id=14808, label=Delegiertenversammlung, parent_id=430>
     <RegionDelegierte id=14809, label=Alterswil, parent_id=14808>
@@ -183,10 +183,6 @@
     <RegionDelegierte id=14825, label=Wünnewil-Flamatt, parent_id=14808>
    <RegionMitglieder id=1190, label=Mitgliedschaften, parent_id=430>
    <RegionPraesidium id=1192, label=Partei, parent_id=430>
-   <Ort id=1183, label=Alterswil, parent_id=430>
-    <OrtSympathisanten id=40740, label=Sympathisanten, parent_id=1183>
-    <OrtMitglieder id=2802, label=Mitgliedschaften, parent_id=1183>
-    <OrtPraesidium id=14800, label=Partei, parent_id=1183>
    <Ort id=1184, label=Bösingen, parent_id=430>
     <OrtMitglieder id=2803, label=Mitgliedschaften, parent_id=1184>
     <OrtPraesidium id=2804, label=Partei, parent_id=1184>
@@ -208,9 +204,6 @@
    <Ort id=1196, label=Schmitten, parent_id=430>
     <OrtMitglieder id=2819, label=Mitgliedschaften, parent_id=1196>
     <OrtPraesidium id=2820, label=Partei, parent_id=1196>
-   <Ort id=1197, label=St. Antoni, parent_id=430>
-    <OrtMitglieder id=2821, label=Mitgliedschaften, parent_id=1197>
-    <OrtPraesidium id=2822, label=Partei, parent_id=1197>
    <Ort id=1198, label=St. Silvester, parent_id=430>
     <OrtMitglieder id=2823, label=Mitgliedschaften, parent_id=1198>
     <OrtPraesidium id=2824, label=Partei, parent_id=1198>
@@ -218,7 +211,7 @@
     <OrtMitglieder id=2825, label=Mitgliedschaften, parent_id=1199>
     <OrtPraesidium id=2826, label=Partei, parent_id=1199>
    <Ort id=1200, label=Tafers, parent_id=430>
-    <OrtSympathisanten id=40848, label=Sympathisanten, parent_id=1200>
+    <OrtSympathisanten id=40850, label=Sympathisanten, parent_id=1200>
     <OrtMitglieder id=2827, label=Mitgliedschaften, parent_id=1200>
     <OrtPraesidium id=14803, label=Partei, parent_id=1200>
    <Ort id=1202, label=Ueberstorf, parent_id=430>
@@ -228,19 +221,18 @@
     <OrtMitglieder id=2832, label=Mitgliedschaften, parent_id=1203>
     <OrtPraesidium id=2833, label=Partei, parent_id=1203>
   <Region id=422, label=Ville de Fribourg, parent_id=158>
-   <RegionSympathisanten id=40875, label=Sympathisanten, parent_id=422>
-   <RegionSekretariat id=40879, label=Sekretariat, parent_id=422>
+   <RegionSympathisanten id=40877, label=Sympathisanten, parent_id=422>
+   <RegionSekretariat id=40881, label=Sekretariat, parent_id=422>
    <RegionMitglieder id=1073, label=Mitgliedschaften, parent_id=422>
    <RegionPraesidium id=1074, label=Partei, parent_id=422>
    <Ort id=39413, label=Conseil politique, parent_id=422>
-    <OrtMitglieder id=40887, label=Mitglieder, parent_id=39413>
+    <OrtMitglieder id=40889, label=Mitglieder, parent_id=39413>
   <Region id=431, label=Vivisbach, parent_id=158>
-   <RegionSekretariat id=40895, label=Sekretariat, parent_id=431>
+   <RegionSekretariat id=40897, label=Sekretariat, parent_id=431>
    <RegionMitglieder id=1210, label=Mitgliedschaften, parent_id=431>
    <RegionPraesidium id=1211, label=Partei, parent_id=431>
    <Ort id=1205, label=Attalens, parent_id=431>
     <OrtMitglieder id=2836, label=Mitgliedschaften, parent_id=1205>
-    <OrtPraesidium id=2837, label=Partei, parent_id=1205>
    <Ort id=1206, label=Bossonnens, parent_id=431>
     <OrtMitglieder id=2838, label=Mitgliedschaften, parent_id=1206>
    <Ort id=1207, label=Châtel-Saint-Denis, parent_id=431>

@@ -2,17 +2,17 @@
  <Vereinigung CSV>
   <VereinigungSekretariat Sekretariat [Leitung 4]>
   <VereinigungDelegierte Delegierte [Delegierte 7]>
-  <VereinigungPraesidium CSV Schweiz [Kassier 1, Mitglied 334, Praesident 8]>
+  <VereinigungPraesidium CSV Schweiz [Kassier 1, Mitglied 333, Praesident 8]>
   <Kanton AG>
-   <KantonSympathisanten Sympathisanten [Sympathisant 219]>
-   <KantonMitglieder Mitgliedschaften [Mitglied 57]>
+   <KantonSympathisanten Sympathisanten [Sympathisant 218]>
+   <KantonMitglieder Mitgliedschaften [Mitglied 58]>
   <Kanton FR CSU>
    <KantonArbeitsgruppe Funktion [Praesident 1]>
    <KantonMitglieder Mitgliedschaften [Mitglied 25]>
   <Kanton LU>
    <KantonMitglieder Mitgliedschaften [Mitglied 63]>
   <Kanton SG>
-   <KantonMitglieder Mitgliedschaften [Mitglied 327]>
+   <KantonMitglieder Mitgliedschaften [Mitglied 321]>
   <Kanton ZH>
    <KantonSympathisanten Sympathisanten [Sympathisant 6]>
    <KantonMitglieder Mitgliedschaften [Mitglied 55]>

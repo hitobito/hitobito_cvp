@@ -6,70 +6,71 @@
  <Kanton CVP VS. Romand>
   <KantonSympathisanten Sympathisanten [Sympathisant 2]>
   <KantonParteigremium Parteigremium [Mitglied 14]>
-  <KantonPraesidium Praesidium [Kassier 2, Mitglied 121, Vizepraesident 12]>
-  <KantonDelegierte Delegierte [Delegierte 4, Ersatzdelegierte 49]>
+  <KantonPraesidium Praesidium [Kassier 2, Mitglied 118, Vizepraesident 10]>
+  <KantonDelegierte Delegierte [Delegierte 5, Ersatzdelegierte 73]>
   <KantonGewaehlte Gewaehlte [Staatsanwaltschaft 5, WeitereMandate 49]>
   <KantonSekretariat Sekretariat [Mitarbeiter 3]>
   <KantonArbeitsgruppe Arbeitsgruppe [Praesident 5]>
   <KantonArbeitsgruppe Bureau [Mitglied 13]>
   <KantonArbeitsgruppe Candidats à la constituante [Mitglied 60]>
-  <KantonArbeitsgruppe Candidats élections communales 2016 [Mitglied 220]>
+  <KantonArbeitsgruppe Candidats élections communales 2016 [Mitglied 217]>
    <KantonArbeitsgruppe Candidature Présidence [Mitglied 10]>
-   <KantonArbeitsgruppe Candidature Vice-Présidence [Mitglied 12]>
-   <KantonArbeitsgruppe Candidature conseiller général [Mitglied 206]>
-  <KantonArbeitsgruppe Candidats élections communales 2020 [Mitglied 195]>
+   <KantonArbeitsgruppe Candidature Vice-Présidence [Mitglied 11]>
+   <KantonArbeitsgruppe Candidature conseiller général [Mitglied 205]>
+  <KantonArbeitsgruppe Candidats élections communales 2020 [Mitglied 194]>
    <KantonArbeitsgruppe Candidature Vice-Présidence [Mitglied 2]>
    <KantonArbeitsgruppe Candidature conseil bourgeoisial [Mitglied 15]>
    <KantonArbeitsgruppe Candidature conseiller général [Mitglied 65]>
    <KantonArbeitsgruppe Candidature juge [Mitglied 29]>
-   <KantonArbeitsgruppe Candidature vice-juge [Mitglied 23]>
+   <KantonArbeitsgruppe Candidature vice-juge [Mitglied 22]>
    <KantonArbeitsgruppe Cantidature Présidence [Mitglied 7]>
   <KantonArbeitsgruppe CoPoVr [Mitglied 19]>
   <KantonArbeitsgruppe Commission Energie [Mitglied 15, Praesident 2]>
-  <KantonArbeitsgruppe Commission Famille [Mitglied 9, Praesident 2]>
+  <KantonArbeitsgruppe Commission Famille [Mitglied 8, Praesident 2]>
   <KantonArbeitsgruppe Commission électorale [Mitglied 9, Praesident 1]>
   <KantonArbeitsgruppe Communiqué [Mitglied 26]>
   <KantonArbeitsgruppe Conférence élargie des groupes (CEG) [Mitglied 6]>
   <KantonArbeitsgruppe Conseil de parti>
-   <KantonArbeitsgruppe Autorités [Mitglied 23]>
+   <KantonArbeitsgruppe Autorités [Mitglied 22]>
    <KantonArbeitsgruppe Comité Exécutif [Mitglied 42]>
    <KantonArbeitsgruppe Conthey [Mitglied 16]>
-   <KantonArbeitsgruppe Entremont [Mitglied 16]>
-   <KantonArbeitsgruppe Hérens [Mitglied 10]>
+   <KantonArbeitsgruppe Entremont [Mitglied 15]>
+   <KantonArbeitsgruppe Hérens [Mitglied 15]>
    <KantonArbeitsgruppe JDC [Mitglied 13]>
    <KantonArbeitsgruppe Martigny [Mitglied 26]>
    <KantonArbeitsgruppe Monthey [Mitglied 17]>
    <KantonArbeitsgruppe Sierre [Mitglied 27]>
-   <KantonArbeitsgruppe Sion [Mitglied 29]>
+   <KantonArbeitsgruppe Sion [Mitglied 31]>
    <KantonArbeitsgruppe St. Maurice [Mitglied 11]>
   <KantonArbeitsgruppe Ehemalige Beamte [Mitglied 8]>
-  <KantonArbeitsgruppe Übrige Funktionen [Mitglied 550, Praesident 10]>
-  <KantonExterneKontakte Newsletter [Kontakt 2206]>
+  <KantonArbeitsgruppe Übrige Funktionen [Mitglied 542, Praesident 9]>
+  <KantonExterneKontakte Newsletter [Kontakt 2235]>
   <KantonGewaehlte Regierungsrat [KantonaleExekutive 13]>
-  <KantonGewaehlte Judikative [MitgliedKantonalesGerichtErsteInstanz 4]>
-  <KantonGewaehlte Legislative [KantonaleLegislative 147, WeitereMandate 30]>
-  <KantonMitglieder Mitgliedschaften [Mitglied 3621]>
-  <KantonPraesidium Partei [Mitglied 29]>
+  <KantonGewaehlte Judikative [MitgliedKantonalesGerichtErsteInstanz 7]>
+  <KantonGewaehlte Legislative [KantonaleLegislative 159, WeitereMandate 29]>
+  <KantonMitglieder Mitgliedschaften [Mitglied 3604]>
+  <KantonPraesidium Partei [Mitglied 31]>
   <Region Conthey>
    <RegionPraesidium Partei [Praesident 1]>
    <Ort Ardon>
     <OrtGewaehlte Exekutive [KommunaleExekutive 2]>
-    <OrtMitglieder Mitgliedschaften [Mitglied 51]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 49]>
     <OrtPraesidium Partei [Adressverwalter 2, Praesident 2]>
    <Ort Chamoson>
     <OrtGewaehlte Exekutive [KommunaleExekutive 1]>
     <OrtMitglieder Mitgliedschaften [Mitglied 51]>
-    <OrtPraesidium Partei [Adressverwalter 2, Praesident 2]>
+    <OrtPraesidium Partei [Adressverwalter 2, Praesident 3]>
    <Ort Conthey>
-    <OrtMitglieder Mitgliedschaften [Mitglied 89]>
+    <OrtGewaehlte Exekutive [KommunaleExekutive 1]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 88]>
     <OrtPraesidium Partei [Adressverwalter 1, Praesident 2]>
    <Ort Nendaz>
     <OrtGewaehlte Exekutive [KommunaleExekutive 2]>
-    <OrtMitglieder Mitgliedschaften [Mitglied 126]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 127]>
     <OrtPraesidium Partei [Adressverwalter 2, Praesident 1]>
    <Ort Vetroz>
     <OrtGewaehlte Exekutive [KommunaleExekutive 1]>
-    <OrtMitglieder Mitgliedschaften [Mitglied 94]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 90]>
     <OrtPraesidium Partei [Praesident 2]>
   <Region Entremont>
    <RegionMitglieder Mitgliedschaften [Mitglied 5]>
@@ -78,31 +79,32 @@
     <OrtMitglieder Mitgliedschaften [Mitglied 1]>
    <Ort Liddes>
     <OrtGewaehlte Exekutive [KommunaleExekutive 2]>
-    <OrtMitglieder Mitgliedschaften [Mitglied 25]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 26]>
     <OrtPraesidium Partei [Adressverwalter 1, Praesident 1]>
    <Ort Orsieres>
     <OrtGewaehlte Exekutive [KommunaleExekutive 1]>
-    <OrtMitglieder Mitgliedschaften [Mitglied 158]>
-    <OrtPraesidium Partei [Adressverwalter 1, Praesident 1]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 156]>
+    <OrtPraesidium Partei [Adressverwalter 1, Praesident 2]>
    <Ort Sembrancher>
     <OrtSympathisanten Sympathisanten [Sympathisant 13]>
     <OrtGewaehlte Exekutive [KommunaleExekutive 2]>
-    <OrtMitglieder Mitgliedschaften [Mitglied 24]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 26]>
     <OrtPraesidium Partei [Adressverwalter 5, Praesident 4]>
    <Ort Val de Bagnes>
     <OrtPraesidium Praesidium [Vizepraesident 4]>
     <OrtArbeitsgruppe Exekutiv [Praesident 2]>
-    <OrtMitglieder Mitgliedschaften [Mitglied 477]>
-    <OrtPraesidium Partei [Adressverwalter 5, Praesident 10]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 471]>
+    <OrtPraesidium Partei [Adressverwalter 4, Praesident 11]>
   <Region Hérens>
    <RegionMitglieder Mitgliedschaften [Mitglied 4]>
-   <RegionPraesidium Partei [Praesident 3]>
+   <RegionPraesidium Partei [Praesident 2]>
    <Ort Ayent>
-    <OrtMitglieder Mitgliedschaften [Mitglied 52]>
+    <OrtGewaehlte Exekutive [KommunaleExekutive 4]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 51]>
     <OrtPraesidium Partei [Adressverwalter 2, Praesident 3]>
    <Ort Evolene>
     <OrtGewaehlte Exekutive [KommunaleExekutive 1]>
-    <OrtMitglieder Mitgliedschaften [Mitglied 104]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 105]>
     <OrtPraesidium Partei [Adressverwalter 2, Praesident 1]>
    <Ort Hérémence>
     <OrtGewaehlte Exekutive [KommunaleExekutive 2]>
@@ -111,14 +113,14 @@
    <Ort Mont-Noble>
     <OrtGewaehlte Exekutive [KommunaleExekutive 1]>
     <OrtMitglieder Mitgliedschaften [Mitglied 20]>
-    <OrtPraesidium Partei [Adressverwalter 1, Praesident 1]>
+    <OrtPraesidium Partei [Adressverwalter 1, Praesident 2]>
    <Ort St. Martin>
     <OrtGewaehlte Exekutive [KommunaleExekutive 2]>
     <OrtMitglieder Mitgliedschaften [Mitglied 32]>
     <OrtPraesidium Partei [Adressverwalter 2, Praesident 3]>
    <Ort Vex>
     <OrtGewaehlte Exekutive [KommunaleExekutive 1]>
-    <OrtMitglieder Mitgliedschaften [Mitglied 36]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 35]>
     <OrtPraesidium Partei [Adressverwalter 1, Praesident 2]>
   <Region Martigny>
    <RegionMitglieder Mitgliedschaften [Mitglied 4]>
@@ -129,67 +131,68 @@
     <OrtPraesidium Partei [Adressverwalter 2, Praesident 3]>
    <Ort Charrat>
     <OrtGewaehlte Exekutive [KommunaleExekutive 1]>
-    <OrtMitglieder Mitgliedschaften [Mitglied 35]>
-    <OrtPraesidium Partei [Adressverwalter 2, Praesident 2]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 33]>
+    <OrtPraesidium Partei [Praesident 1]>
    <Ort Fully>
-    <OrtGewaehlte Exekutive [KommunaleExekutive 1]>
-    <OrtMitglieder Mitgliedschaften [Mitglied 171]>
+    <OrtGewaehlte Exekutive [KommunaleExekutive 2]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 170]>
     <OrtPraesidium Partei [Adressverwalter 8, Praesident 2]>
    <Ort Iserables>
     <OrtMitglieder Mitgliedschaften [Mitglied 19]>
     <OrtPraesidium Partei [Adressverwalter 1, Praesident 1]>
    <Ort Leytron>
     <OrtGewaehlte Exekutive [KommunaleExekutive 3]>
-    <OrtMitglieder Mitgliedschaften [Mitglied 69]>
-    <OrtPraesidium Partei [Adressverwalter 2, Praesident 2]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 68]>
+    <OrtPraesidium Partei [Adressverwalter 2, Praesident 3]>
    <Ort Martigny>
-    <OrtGewaehlte Exekutive [KommunaleExekutive 1]>
-    <OrtMitglieder Mitgliedschaften [Mitglied 133]>
-    <OrtPraesidium Partei [Adressverwalter 1, Praesident 2]>
+    <OrtGewaehlte Exekutive [KommunaleExekutive 2]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 130]>
+    <OrtPraesidium Partei [Adressverwalter 1, Praesident 3]>
    <Ort Martigny-Combe>
-    <OrtGewaehlte Exekutive [KommunaleExekutive 1]>
-    <OrtMitglieder Mitgliedschaften [Mitglied 45]>
-    <OrtPraesidium Partei [Adressverwalter 1, Praesident 1]>
+    <OrtGewaehlte Exekutive [KommunaleExekutive 2]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 46]>
+    <OrtPraesidium Partei [Adressverwalter 1, Praesident 2]>
    <Ort Riddes>
+    <OrtGewaehlte Exekutive [KommunaleExekutive 1]>
     <OrtMitglieder Mitgliedschaften [Mitglied 21]>
     <OrtPraesidium Partei [Adressverwalter 1, Praesident 1]>
    <Ort Saillon>
     <OrtGewaehlte Exekutive [KommunaleExekutive 2]>
     <OrtMitglieder Mitgliedschaften [Mitglied 43]>
-    <OrtPraesidium Partei [Adressverwalter 3, Praesident 2]>
+    <OrtPraesidium Partei [Adressverwalter 3, Praesident 3]>
    <Ort Saxon>
-    <OrtMitglieder Mitgliedschaften [Mitglied 38]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 37]>
     <OrtPraesidium Partei [Adressverwalter 1, Praesident 3]>
    <Ort Trient>
     <OrtMitglieder Mitgliedschaften [Mitglied 2]>
   <Region Monthey>
-   <RegionPraesidium Partei [Praesident 1]>
+   <RegionPraesidium Partei [Praesident 2]>
    <Ort Champery>
-    <OrtGewaehlte Exekutive [KommunaleExekutive 1]>
+    <OrtGewaehlte Exekutive [KommunaleExekutive 2]>
     <OrtMitglieder Mitgliedschaften [Mitglied 15]>
-    <OrtPraesidium Partei [Adressverwalter 2, Praesident 1]>
+    <OrtPraesidium Partei [Adressverwalter 2, Praesident 2]>
    <Ort Collombey-Muraz>
-    <OrtGewaehlte Exekutive [KommunaleExekutive 1]>
-    <OrtMitglieder Mitgliedschaften [Mitglied 51]>
+    <OrtGewaehlte Exekutive [KommunaleExekutive 3]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 49]>
     <OrtPraesidium Partei [Praesident 2]>
    <Ort Monthey>
-    <OrtGewaehlte Exekutive [KommunaleExekutive 1]>
-    <OrtMitglieder Mitgliedschaften [Mitglied 100]>
-    <OrtPraesidium Partei [Adressverwalter 3, Praesident 2]>
+    <OrtGewaehlte Exekutive [KommunaleExekutive 3]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 91]>
+    <OrtPraesidium Partei [Adressverwalter 1, Praesident 1]>
    <Ort Port-Valais>
     <OrtGewaehlte Exekutive [KommunaleExekutive 1]>
-    <OrtMitglieder Mitgliedschaften [Mitglied 93]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 92]>
     <OrtPraesidium Partei [Adressverwalter 5, Praesident 1]>
    <Ort St-Gingolph>
     <OrtMitglieder Mitgliedschaften [Mitglied 4]>
     <OrtPraesidium Partei [Praesident 3]>
    <Ort Troistorrents>
     <OrtGewaehlte Exekutive [KommunaleExekutive 2]>
-    <OrtMitglieder Mitgliedschaften [Mitglied 54]>
-    <OrtPraesidium Partei [Adressverwalter 2, Praesident 2]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 55]>
+    <OrtPraesidium Partei [Adressverwalter 2, Praesident 3]>
    <Ort Val d`Illiez>
     <OrtGewaehlte Exekutive [KommunaleExekutive 1]>
-    <OrtMitglieder Mitgliedschaften [Mitglied 12]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 11]>
     <OrtPraesidium Partei [Praesident 1]>
    <Ort Vionnaz>
     <OrtGewaehlte Exekutive [KommunaleExekutive 2]>
@@ -198,24 +201,25 @@
    <Ort Vouvry>
     <OrtGewaehlte Exekutive [KommunaleExekutive 1]>
     <OrtMitglieder Mitgliedschaften [Mitglied 10]>
-    <OrtPraesidium Partei [Praesident 1]>
+    <OrtPraesidium Partei [Praesident 2]>
   <Region Sierre>
    <RegionPraesidium Partei [Mitglied 1, Praesident 4]>
    <Ort Anniviers>
-    <OrtGewaehlte Exekutive [KommunaleExekutive 1]>
-    <OrtMitglieder Mitgliedschaften [Mitglied 142]>
+    <OrtGewaehlte Exekutive [KommunaleExekutive 2]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 139]>
     <OrtPraesidium Partei [Adressverwalter 2, Praesident 2]>
    <Ort Chalais>
     <OrtSympathisanten Sympathisanten [Sympathisant 1]>
-    <OrtMitglieder Mitgliedschaften [Mitglied 99]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 104]>
     <OrtPraesidium Partei [Adressverwalter 2, Praesident 3]>
    <Ort Chippis>
     <OrtGewaehlte Exekutive [KommunaleExekutive 1]>
-    <OrtMitglieder Mitgliedschaften [Mitglied 23]>
-    <OrtPraesidium Partei [Adressverwalter 2, Praesident 1]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 24]>
+    <OrtPraesidium Partei [Adressverwalter 2, Praesident 2]>
    <Ort Crans-Montana>
-    <OrtMitglieder Mitgliedschaften [Mitglied 111]>
-    <OrtPraesidium Partei [Adressverwalter 1, Praesident 1]>
+    <OrtGewaehlte Exekutive [KommunaleExekutive 1]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 110]>
+    <OrtPraesidium Partei [Adressverwalter 1, Praesident 2]>
    <Ort Grone>
     <OrtGewaehlte Exekutive [KommunaleExekutive 1]>
     <OrtMitglieder Mitgliedschaften [Mitglied 33]>
@@ -225,52 +229,48 @@
     <OrtMitglieder Mitgliedschaften [Mitglied 41]>
     <OrtPraesidium Partei [Praesident 2]>
    <Ort Miège>
-    <OrtGewaehlte Exekutive [KommunaleExekutive 1]>
     <OrtMitglieder Mitgliedschaften [Mitglied 13]>
-    <OrtPraesidium Partei [Praesident 1]>
+    <OrtPraesidium Partei [Praesident 2]>
    <Ort Sierre>
-    <OrtGewaehlte Exekutive [KommunaleExekutive 1]>
-    <OrtMitglieder Mitgliedschaften [Mitglied 181]>
-    <OrtPraesidium Partei [Adressverwalter 1, Praesident 2]>
+    <OrtGewaehlte Exekutive [KommunaleExekutive 4]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 179]>
+    <OrtPraesidium Partei [Adressverwalter 1, Praesident 3]>
    <Ort St-Léonard>
     <OrtGewaehlte Elus [KommunaleExekutive 4]>
     <OrtGewaehlte Exekutive [KommunaleExekutive 1]>
-    <OrtMitglieder Mitgliedschaften [Mitglied 152]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 148]>
     <OrtPraesidium Partei [Adressverwalter 2, Praesident 4]>
    <Ort Venthone>
     <OrtSympathisanten Sympathisanten [Sympathisant 1]>
-    <OrtGewaehlte Exekutive [KommunaleExekutive 1]>
-    <OrtMitglieder Mitgliedschaften [Mitglied 12]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 11]>
     <OrtPraesidium Partei [Praesident 1]>
    <Ort Veyras>
     <OrtSympathisanten Sympathisanten [Sympathisant 1]>
-    <OrtGewaehlte Exekutive [KommunaleExekutive 1]>
     <OrtMitglieder Mitgliedschaften [Mitglied 21]>
-    <OrtPraesidium Partei [Praesident 4]>
+    <OrtPraesidium Partei [Praesident 3]>
   <Region Sion>
    <RegionMitglieder Mitgliedschaften [Mitglied 9]>
    <RegionPraesidium Partei [Praesident 4]>
    <Ort Arbaz>
     <OrtGewaehlte Exekutive [KommunaleExekutive 1]>
     <OrtMitglieder Mitgliedschaften [Mitglied 13]>
-    <OrtPraesidium Partei [Adressverwalter 2, Praesident 1]>
+    <OrtPraesidium Partei [Adressverwalter 2, Praesident 2]>
    <Ort Grimisuat>
     <OrtGewaehlte Exekutive [KommunaleExekutive 4]>
-    <OrtMitglieder Mitgliedschaften [Mitglied 109]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 106]>
     <OrtPraesidium Partei [Adressverwalter 3, Praesident 4]>
    <Ort Saviese>
-    <OrtSympathisanten Sympathisanten [Sympathisant 1]>
     <OrtGewaehlte Exekutive [KommunaleExekutive 1]>
     <OrtMitglieder Mitgliedschaften [Mitglied 118]>
     <OrtPraesidium Partei [Adressverwalter 1, Praesident 5]>
    <Ort Sion>
-    <OrtSympathisanten Sympathisanten [Sympathisant 351]>
+    <OrtSympathisanten Sympathisanten [Sympathisant 345]>
     <OrtGewaehlte Exekutive [KommunaleExekutive 1]>
     <OrtGewaehlte Legislative [KommunaleLegislative 1]>
-    <OrtMitglieder Mitgliedschaften [Mitglied 544]>
-    <OrtPraesidium Partei [Adressverwalter 31, Praesident 1]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 536]>
+    <OrtPraesidium Partei [Adressverwalter 30, Praesident 2]>
    <Ort Veysonnaz>
-    <OrtGewaehlte Exekutive [KommunaleExekutive 2]>
+    <OrtGewaehlte Exekutive [KommunaleExekutive 3]>
     <OrtMitglieder Mitgliedschaften [Mitglied 32]>
     <OrtPraesidium Partei [Praesident 1]>
   <Region St. Maurice>
@@ -285,25 +285,24 @@
     <OrtPraesidium Partei [Adressverwalter 2, Praesident 1]>
    <Ort Evionnaz>
     <OrtGewaehlte Exekutive [KommunaleExekutive 1]>
-    <OrtMitglieder Mitgliedschaften [Mitglied 12]>
-    <OrtPraesidium Partei [Adressverwalter 2, Praesident 1]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 10]>
+    <OrtPraesidium Partei [Adressverwalter 2, Praesident 2]>
    <Ort Finhaut>
-    <OrtGewaehlte Exekutive [KommunaleExekutive 1]>
     <OrtMitglieder Mitgliedschaften [Mitglied 10]>
     <OrtPraesidium Partei [Adressverwalter 2, Praesident 1]>
    <Ort Massongex>
     <OrtSympathisanten Sympathisanten [Sympathisant 1]>
-    <OrtGewaehlte Exekutive [KommunaleExekutive 2]>
+    <OrtGewaehlte Exekutive [KommunaleExekutive 3]>
     <OrtMitglieder Mitgliedschaften [Mitglied 16]>
-    <OrtPraesidium Partei [Adressverwalter 1, Praesident 1]>
+    <OrtPraesidium Partei [Adressverwalter 1, Praesident 2]>
    <Ort Salvan>
     <OrtGewaehlte Exekutive [KommunaleExekutive 1]>
     <OrtMitglieder Mitgliedschaften [Mitglied 23]>
-    <OrtPraesidium Partei [Adressverwalter 1, Praesident 1]>
+    <OrtPraesidium Partei [Adressverwalter 1, Praesident 2]>
    <Ort St. Maurice>
-    <OrtGewaehlte Exekutive [KommunaleExekutive 1]>
-    <OrtMitglieder Mitgliedschaften [Mitglied 57]>
-    <OrtPraesidium Partei [Adressverwalter 2, Praesident 3]>
+    <OrtGewaehlte Exekutive [KommunaleExekutive 3]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 56]>
+    <OrtPraesidium Partei [Adressverwalter 2, Praesident 4]>
    <Ort Vernayaz>
     <OrtGewaehlte Exekutive [KommunaleExekutive 2]>
     <OrtMitglieder Mitgliedschaften [Mitglied 33]>

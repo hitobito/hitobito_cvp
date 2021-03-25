@@ -19,17 +19,17 @@
    <KantonDelegierte AWG [Delegierte 7]>
    <KantonDelegierte Broye [Delegierte 51, DelegierteVonAmtesWegen 7]>
    <KantonDelegierte Delegierte von Amtes wegen [Delegierte 84]>
-   <KantonDelegierte Glâne [Delegierte 86, DelegierteVonAmtesWegen 8]>
-   <KantonDelegierte Greyerz [Delegierte 145, DelegierteVonAmtesWegen 17]>
+   <KantonDelegierte Glâne [Delegierte 87, DelegierteVonAmtesWegen 8]>
+   <KantonDelegierte Greyerz [Delegierte 143, DelegierteVonAmtesWegen 17]>
    <KantonDelegierte JDC [Delegierte 13, DelegierteVonAmtesWegen 1]>
-   <KantonDelegierte Sarine [Delegierte 146, DelegierteVonAmtesWegen 18]>
-   <KantonDelegierte See [Delegierte 66, DelegierteVonAmtesWegen 9]>
-   <KantonDelegierte Sense [Delegierte 144, DelegierteVonAmtesWegen 13]>
+   <KantonDelegierte Sarine [Delegierte 145, DelegierteVonAmtesWegen 19]>
+   <KantonDelegierte See [Delegierte 65, DelegierteVonAmtesWegen 9]>
+   <KantonDelegierte Sense [Delegierte 143, DelegierteVonAmtesWegen 15]>
    <KantonDelegierte UCS [Delegierte 7]>
-   <KantonDelegierte Ville de Fribourg [Delegierte 127, DelegierteVonAmtesWegen 20]>
-   <KantonDelegierte Vivisbach [Delegierte 47, DelegierteVonAmtesWegen 7]>
+   <KantonDelegierte Ville de Fribourg [Delegierte 126, DelegierteVonAmtesWegen 20]>
+   <KantonDelegierte Vivisbach [Delegierte 46, DelegierteVonAmtesWegen 7]>
   <KantonExterneKontakte Newsletter Forum F [Kontakt 2]>
-  <KantonExterneKontakte Newsletter f [Kontakt 7]>
+  <KantonExterneKontakte Newsletter f [Kontakt 11]>
   <KantonGewaehlte Regierungsrat [KantonaleExekutive 5]>
   <KantonGewaehlte Legislative [KantonaleLegislative 83]>
   <KantonGewaehlte Magistrats [KantonaleExekutive 4, MitgliedKantonalesGerichtErsteInstanz 13, Staatsanwaltschaft 3, WeitereMandate 17]>
@@ -42,7 +42,7 @@
    <KantonKommission Institutions fonctions publiques Personnel [Mitglied 13, Praesident 2]>
    <KantonKommission Justice [Mitglied 28, Praesident 3]>
    <KantonKommission Santé publique [Mitglied 21, Praesident 2]>
-  <KantonMitglieder Mitgliedschaften [Mitglied 174]>
+  <KantonMitglieder Mitgliedschaften [Mitglied 176]>
   <KantonParteigremium Comité Directeur [Mitglied 62]>
   <KantonPraesidium Partei [Kassier 3, Mitglied 1, Praesident 7]>
   <KantonPraesidium Präsidium [Gast 8, Praesident 17]>
@@ -50,8 +50,8 @@
    <RegionSympathisanten Sympathisanten [Sympathisant 1]>
    <RegionDelegierte Delegierte [Delegierte 4]>
    <RegionSekretariat Sekretariat [Leitung 1]>
-   <RegionMitglieder Mitgliedschaften [Mitglied 361]>
-   <RegionPraesidium Partei [Mitglied 9, Praesident 1]>
+   <RegionMitglieder Mitgliedschaften [Mitglied 356]>
+   <RegionPraesidium Partei [Mitglied 10, Praesident 1]>
    <Ort Bussy>
     <OrtMitglieder Mitgliedschaften [Mitglied 28]>
    <Ort Delley-Portalban>
@@ -67,38 +67,38 @@
    <Ort PDC Glane>
     <OrtSympathisanten Sympathisanten [Sympathisant 1]>
     <OrtSekretariat Sekretariat [Leitung 1]>
-    <OrtMitglieder Mitgliedschaften [Mitglied 148]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 146]>
     <OrtPraesidium Partei [Adressverwalter 1, Kassier 2, Mitglied 16, Praesident 5]>
    <Ort PDC Romont>
     <OrtSympathisanten Sympathisanten [Sympathisant 1]>
-    <OrtMitglieder Mitgliedschaften [Mitglied 68]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 67]>
     <OrtPraesidium Partei [Adressverwalter 4, Mitglied 7, Praesident 2]>
    <Ort Syndics>
-    <OrtMitglieder Mitglieder [Mitglied 8]>
+    <OrtMitglieder Mitglieder [Mitglied 7]>
   <Region Greyerz>
    <RegionSympathisanten Sympathisanten [Sympathisant 3]>
    <RegionSekretariat Sekretariat [Leitung 1]>
-   <RegionMitglieder Mitgliedschaften [Mitglied 27]>
+   <RegionMitglieder Mitgliedschaften [Mitglied 28]>
    <RegionPraesidium Partei [Mitglied 23, Praesident 7]>
    <Ort BGI>
-    <OrtSympathisanten Sympathisanten [Sympathisant 87]>
-    <OrtMitglieder Mitgliedschaften [Mitglied 304]>
+    <OrtSympathisanten Sympathisanten [Sympathisant 86]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 302]>
     <OrtPraesidium Partei [Adressverwalter 1, Mitglied 2, Praesident 1]>
    <Ort Bulle>
     <OrtSympathisanten Sympathisanten [Sympathisant 7]>
-    <OrtMitglieder Mitgliedschaften [Mitglied 120]>
-    <OrtPraesidium Partei [Adressverwalter 13, Praesident 1]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 129]>
+    <OrtPraesidium Partei [Adressverwalter 14, Praesident 1]>
    <Ort La Jogne>
-    <OrtMitglieder Mitgliedschaften [Mitglied 89]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 88]>
     <OrtPraesidium Partei [Adressverwalter 1, Praesident 2]>
    <Ort La Sionge>
     <OrtSympathisanten Sympathisanten [Sympathisant 1]>
-    <OrtMitglieder Mitgliedschaften [Mitglied 224]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 226]>
     <OrtPraesidium Partei [Adressverwalter 4, Praesident 3]>
    <Ort Rive droite>
     <OrtSympathisanten Sympathisanten [Sympathisant 1]>
-    <OrtMitglieder Mitgliedschaften [Mitglied 180]>
-    <OrtPraesidium Partei [Adressverwalter 2, Praesident 1]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 199]>
+    <OrtPraesidium Partei [Adressverwalter 3, Mitglied 1, Praesident 1]>
    <Ort Rive gauche>
     <OrtSympathisanten Sympathisanten [Sympathisant 1]>
     <OrtMitglieder Mitgliedschaften [Mitglied 94]>
@@ -107,58 +107,58 @@
    <RegionSympathisanten Sympathisanten [Sympathisant 18]>
    <RegionDelegierte Delegierte [Delegierte 2]>
    <RegionSekretariat Sekretariat [Leitung 2]>
-   <RegionMitglieder Mitgliedschaften [Mitglied 280]>
+   <RegionMitglieder Mitgliedschaften [Mitglied 284]>
    <RegionPraesidium Partei [Mitglied 52, Praesident 3]>
    <Ort Belfaux>
     <OrtGewaehlte Exécutif [KommunaleExekutive 1]>
-    <OrtMitglieder Mitgliedschaften [Mitglied 15]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 16]>
     <OrtPraesidium Partei [Mitglied 1, Praesident 2]>
    <Ort Corminboeuf>
-    <OrtMitglieder Mitgliedschaften [Mitglied 8]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 14]>
     <OrtPraesidium Partei [Mitglied 1, Praesident 1]>
    <Ort Gibloux>
-    <OrtMitglieder Mitgliedschaften [Mitglied 3]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 5]>
    <Ort Grolley>
     <OrtMitglieder Mitgliedschaften [Mitglied 4]>
     <OrtPraesidium Partei [Mitglied 1, Praesident 1]>
    <Ort Marly>
     <OrtSympathisanten Sympathisanten [Sympathisant 1]>
-    <OrtMitglieder Mitgliedschaften [Mitglied 26]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 44]>
     <OrtPraesidium Partei [Mitglied 1, Praesident 1]>
    <Ort Sarine Nord>
     <OrtMitglieder Mitgliedschaften [Mitglied 2]>
    <Ort Treyvaux>
     <OrtSympathisanten Sympathisanten [Sympathisant 1]>
-    <OrtMitglieder Mitgliedschaften [Mitglied 6]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 9]>
     <OrtPraesidium Partei [Mitglied 1, Praesident 1]>
    <Ort Villars-sur-Glâne>
     <OrtSympathisanten Sympathisanten [Sympathisant 8]>
     <OrtGewaehlte Exécutif [KommunaleExekutive 1]>
     <OrtGewaehlte Législatif [KommunaleExekutive 3]>
-    <OrtMitglieder Mitgliedschaften [Mitglied 98]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 99]>
     <OrtPraesidium Partei [Adressverwalter 7, Praesident 1]>
   <Region See>
    <RegionDelegierte Delegierte [Delegierte 2]>
    <RegionSekretariat Sekretariat [Leitung 1]>
-   <RegionMitglieder Mitgliedschaften [Mitglied 177]>
+   <RegionMitglieder Mitgliedschaften [Mitglied 175]>
    <RegionPraesidium Partei [Mitglied 10, Praesident 2]>
    <Ort Gurmels>
-    <OrtMitglieder Mitgliedschaften [Mitglied 71]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 70]>
     <OrtPraesidium Partei [Praesident 1]>
    <Ort Haut Lac>
     <OrtSekretariat Sekretariat [Leitung 1]>
-    <OrtMitglieder Mitgliedschaften [Mitglied 42]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 40]>
     <OrtPraesidium Partei [Praesident 1]>
    <Ort Kerzers>
-    <OrtMitglieder Mitgliedschaften [Mitglied 31]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 30]>
     <OrtPraesidium Partei [Adressverwalter 1, Praesident 1]>
    <Ort Murten>
-    <OrtSympathisanten Sympathisanten [Sympathisant 35]>
-    <OrtMitglieder Mitgliedschaften [Mitglied 44]>
-    <OrtPraesidium Partei [Adressverwalter 4, Kassier 1, Mitglied 2, Praesident 1]>
+    <OrtSympathisanten Sympathisanten [Sympathisant 34]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 45]>
+    <OrtPraesidium Partei [Adressverwalter 5, Kassier 1, Mitglied 2, Praesident 1]>
    <Ort Vully>
     <OrtSympathisanten Sympathisanten [Sympathisant 4]>
-    <OrtMitglieder Mitgliedschaften [Mitglied 20]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 19]>
     <OrtPraesidium Partei [Adressverwalter 2]>
   <Region Sense>
    <RegionSympathisanten Sympathisanten [Sympathisant 28]>
@@ -174,30 +174,26 @@
     <RegionDelegierte Heitenried [Delegierte 4]>
     <RegionDelegierte Oberland [Delegierte 10]>
     <RegionDelegierte Rechthalten [Delegierte 3]>
-    <RegionDelegierte Schmitten [Delegierte 6]>
+    <RegionDelegierte Schmitten [Delegierte 5]>
     <RegionDelegierte St. Antoni [Delegierte 5]>
     <RegionDelegierte St. Sivester [Delegierte 3]>
     <RegionDelegierte St. Ursen [Delegierte 2]>
     <RegionDelegierte Tafers [Delegierte 6]>
     <RegionDelegierte Ueberstorf [Delegierte 5]>
     <RegionDelegierte Wünnewil-Flamatt [Delegierte 6]>
-   <RegionMitglieder Mitgliedschaften [Mitglied 141]>
+   <RegionMitglieder Mitgliedschaften [Mitglied 142]>
    <RegionPraesidium Partei [Mitglied 24, Praesident 4]>
-   <Ort Alterswil>
-    <OrtSympathisanten Sympathisanten [Sympathisant 23]>
-    <OrtMitglieder Mitgliedschaften [Mitglied 95]>
-    <OrtPraesidium Partei [Adressverwalter 1, Mitglied 3, Praesident 2]>
    <Ort Bösingen>
     <OrtMitglieder Mitgliedschaften [Mitglied 59]>
     <OrtPraesidium Partei [Adressverwalter 2, Kassier 1, Mitglied 6, Praesident 2]>
    <Ort Düdingen>
-    <OrtMitglieder Mitgliedschaften [Mitglied 146]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 143]>
     <OrtPraesidium Partei [Adressverwalter 5, Kassier 2, Mitglied 10, Praesident 4]>
    <Ort Giffers-Tentlingen>
     <OrtMitglieder Mitgliedschaften [Mitglied 27]>
     <OrtPraesidium Partei [Mitglied 1, Praesident 2]>
    <Ort Heitenried>
-    <OrtMitglieder Mitgliedschaften [Mitglied 46]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 45]>
     <OrtPraesidium Partei [Mitglied 1, Praesident 1]>
    <Ort Oberland>
     <OrtMitglieder Mitgliedschaften [Mitglied 34]>
@@ -206,45 +202,41 @@
     <OrtMitglieder Mitgliedschaften [Mitglied 8]>
     <OrtPraesidium Partei [Mitglied 1, Praesident 1]>
    <Ort Schmitten>
-    <OrtMitglieder Mitgliedschaften [Mitglied 82]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 81]>
     <OrtPraesidium Partei [Adressverwalter 1, Kassier 1, Mitglied 6, Praesident 2]>
-   <Ort St. Antoni>
-    <OrtMitglieder Mitgliedschaften [Mitglied 31]>
-    <OrtPraesidium Partei [Mitglied 1, Praesident 1]>
    <Ort St. Silvester>
     <OrtMitglieder Mitgliedschaften [Mitglied 9]>
     <OrtPraesidium Partei [Adressverwalter 1, Mitglied 4, Praesident 1]>
    <Ort St. Ursen>
-    <OrtMitglieder Mitgliedschaften [Mitglied 54]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 55]>
     <OrtPraesidium Partei [Adressverwalter 1, Mitglied 1, Praesident 1]>
    <Ort Tafers>
-    <OrtSympathisanten Sympathisanten [Sympathisant 157]>
-    <OrtMitglieder Mitgliedschaften [Mitglied 21]>
-    <OrtPraesidium Partei [Adressverwalter 2, Kassier 1, Mitglied 4, Praesident 2]>
+    <OrtSympathisanten Sympathisanten [Sympathisant 190]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 139]>
+    <OrtPraesidium Partei [Adressverwalter 2, Kassier 1, Mitglied 6, Praesident 2]>
    <Ort Ueberstorf>
-    <OrtMitglieder Mitgliedschaften [Mitglied 52]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 51]>
     <OrtPraesidium Partei [Kassier 2, Mitglied 4, Praesident 3]>
    <Ort Wünnewil-Flamatt>
-    <OrtMitglieder Mitgliedschaften [Mitglied 101]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 99]>
     <OrtPraesidium Partei [Adressverwalter 5, Mitglied 7, Praesident 3]>
   <Region Ville de Fribourg>
-   <RegionSympathisanten Sympathisanten [Sympathisant 19]>
+   <RegionSympathisanten Sympathisanten [Sympathisant 18]>
    <RegionSekretariat Sekretariat [Leitung 2]>
-   <RegionMitglieder Mitgliedschaften [Mitglied 227]>
-   <RegionPraesidium Partei [Mitglied 33, Praesident 5]>
+   <RegionMitglieder Mitgliedschaften [Mitglied 226]>
+   <RegionPraesidium Partei [Mitglied 35, Praesident 5]>
    <Ort Conseil politique>
     <OrtMitglieder Mitglieder [Mitglied 14]>
   <Region Vivisbach>
    <RegionSekretariat Sekretariat [Leitung 2]>
    <RegionMitglieder Mitgliedschaften [Mitglied 28]>
-   <RegionPraesidium Partei [Mitglied 12, Praesident 4]>
+   <RegionPraesidium Partei [Mitglied 11, Praesident 4]>
    <Ort Attalens>
-    <OrtMitglieder Mitgliedschaften [Mitglied 43]>
-    <OrtPraesidium Partei [Mitglied 1, Praesident 1]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 42]>
    <Ort Bossonnens>
     <OrtMitglieder Mitgliedschaften [Mitglied 6]>
    <Ort Châtel-Saint-Denis>
-    <OrtMitglieder Mitgliedschaften [Mitglied 109]>
+    <OrtMitglieder Mitgliedschaften [Mitglied 125]>
     <OrtPraesidium Partei [Adressverwalter 5, Mitglied 1, Praesident 1]>
    <Ort Granges>
     <OrtMitglieder Mitgliedschaften [Mitglied 8]>
@@ -259,6 +251,6 @@
     <OrtPraesidium Partei [Mitglied 1, Praesident 1]>
    <Ort Semsales>
     <OrtMitglieder Mitgliedschaften [Mitglied 28]>
-    <OrtPraesidium Partei [Kassier 1, Mitglied 5, Praesident 2]>
+    <OrtPraesidium Partei [Adressverwalter 1, Kassier 1, Mitglied 5, Praesident 2]>
    <Ort St-Martin>
     <OrtMitglieder Mitgliedschaften [Mitglied 3]>

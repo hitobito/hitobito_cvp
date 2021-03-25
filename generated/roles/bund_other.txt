@@ -1,17 +1,17 @@
 <Bund CVP Schweiz>
- <BundGewaehlte Bundesrichter [VollamtBundesrichter 21]>
+ <BundGewaehlte Bundesrichter [VollamtBundesrichter 24]>
  <BundGewaehlte Bundesricher Ersatz [NebenamtBundesRichter 1]>
  <BundGewaehlte Bundesverwaltungsrichter [Bundesverwaltungsrichter 20]>
  <BundGewaehlte Bundesgericht nebenamtlicher Richter [NebenamtBundesRichter 5]>
- <BundGewaehlte Richter Bundesstrafgericht [Bundesstrafrichter 4]>
+ <BundGewaehlte Richter Bundesstrafgericht [Bundesstrafrichter 5]>
  <BundGewaehlte Bundesstrafgericht nebenamtlicher Richter [Bundesstrafrichter 4]>
- <BundArbeitsgruppe Arbeitsgruppe [Mitglied 571]>
- <BundArbeitsgruppe Regierungsrat [Mitglied 134]>
+ <BundArbeitsgruppe Arbeitsgruppe [Mitglied 569]>
+ <BundArbeitsgruppe Regierungsrat [Mitglied 131]>
  <BundArbeitsgruppe Arbeitsgruppen (PN/WiMi)>
   <BundArbeitsgruppe AG LGBT(JYM) [Mitglied 19, Praesident 1]>
   <BundArbeitsgruppe Ausländerpolitik und Migration (SE) [Mitglied 1]>
   <BundArbeitsgruppe Aussenpolitik (PN) [Mitglied 6, Praesident 1]>
-  <BundArbeitsgruppe Bildung (IC) [Mitglied 72, Praesident 1]>
+  <BundArbeitsgruppe Bildung (IC) [Mitglied 71, Praesident 1]>
   <BundArbeitsgruppe Biopolitik (IC) [Mitglied 1]>
   <BundArbeitsgruppe Familie (SJ) [Mitglied 30, Praesident 3]>
   <BundArbeitsgruppe Finanzen (IC) [Mitglied 17, Praesident 1]>
@@ -23,12 +23,12 @@
   <BundArbeitsgruppe Verkehrspolitik (IC) [Mitglied 9]>
   <BundArbeitsgruppe Wirtschaft (JYM) [Mitglied 95, Praesident 2]>
   <BundArbeitsgruppe soziale Sicherheit (SE) [Mitglied 10, Praesident 1]>
- <BundArbeitsgruppe B-Club (SJ) [Mitglied 10]>
+ <BundArbeitsgruppe B-Club (SJ) [Mitglied 10, tbd:Bundesrichter exBDP 3]>
  <BundArbeitsgruppe Gäste Delegiertenversammlung (CS)>
   <BundArbeitsgruppe Email Einladung [Mitglied 94]>
   <BundArbeitsgruppe Post Einladungen [Mitglied 141]>
  <BundArbeitsgruppe Inaktive Gruppierungen>
-  <BundArbeitsgruppe ICT-Forum [Gast 196, Mitglied 711]>
+  <BundArbeitsgruppe ICT-Forum [Gast 196, Mitglied 707]>
   <BundArbeitsgruppe Kommissionen>
    <BundArbeitsgruppe Kommission für Bildung [Mitglied 2]>
    <BundArbeitsgruppe Kommission für Familienfragen [Mitglied 14, Praesident 1]>
@@ -77,7 +77,7 @@
   <BundArbeitsgruppe AI [Mitglied 2]>
   <BundArbeitsgruppe AR [Leitung 2, Mitglied 1]>
   <BundArbeitsgruppe AWG [Mitglied 2]>
-  <BundArbeitsgruppe BE [Leitung 3, Mitglied 4]>
+  <BundArbeitsgruppe BE [Leitung 2, Mitglied 5]>
   <BundArbeitsgruppe BL [Leitung 1, Mitglied 2]>
   <BundArbeitsgruppe BS [Leitung 1, Mitglied 2]>
   <BundArbeitsgruppe CSP VS Oberwallis [Leitung 1, Mitglied 2]>
@@ -88,7 +88,7 @@
   <BundArbeitsgruppe GE [Leitung 1, Mitglied 3]>
   <BundArbeitsgruppe GL [Leitung 2, Mitglied 1]>
   <BundArbeitsgruppe GR [Leitung 1, Mitglied 2]>
-  <BundArbeitsgruppe JCVP [Leitung 4, Mitglied 2]>
+  <BundArbeitsgruppe JCVP [Leitung 5, Mitglied 2]>
   <BundArbeitsgruppe JU [Leitung 2, Mitglied 4]>
   <BundArbeitsgruppe Jura-Sud [Leitung 3, Mitglied 2]>
   <BundArbeitsgruppe LU [Leitung 1, Mitglied 2]>
@@ -102,7 +102,7 @@
   <BundArbeitsgruppe TG [Mitglied 1]>
   <BundArbeitsgruppe TI [Leitung 2, Mitglied 2]>
   <BundArbeitsgruppe UR [Leitung 1, Mitglied 3]>
-  <BundArbeitsgruppe VD [Leitung 3, Mitglied 4]>
+  <BundArbeitsgruppe VD [Leitung 4, Mitglied 4]>
   <BundArbeitsgruppe VS-Oberwallis [Leitung 1, Mitglied 2]>
   <BundArbeitsgruppe VS-Romand [Leitung 3, Mitglied 2]>
   <BundArbeitsgruppe ZG [Leitung 1, Mitglied 2]>
@@ -115,14 +115,15 @@
    <BundArbeitsgruppe FDK [Mitglied 8]>
    <BundArbeitsgruppe GDK [Mitglied 6]>
    <BundArbeitsgruppe KKJPD [Mitglied 5]>
-   <BundArbeitsgruppe KWL [Mitglied 7]>
+   <BundArbeitsgruppe KWL [Mitglied 6]>
    <BundArbeitsgruppe KöV [Mitglied 8]>
    <BundArbeitsgruppe SODK [Mitglied 3]>
    <BundArbeitsgruppe VDK [Mitglied 5]>
  <BundArbeitsgruppe Schiedsgericht (JM) [Mitglied 8]>
  <BundArbeitsgruppe Sekretäre (Administration Kantonalparteien)>
   <BundArbeitsgruppe AG [Leitung 1]>
-  <BundArbeitsgruppe BE [Leitung 2]>
+  <BundArbeitsgruppe BE [Leitung 1]>
+  <BundArbeitsgruppe BL [Leitung 1]>
   <BundArbeitsgruppe BS [Leitung 1]>
   <BundArbeitsgruppe FR-französisch [Leitung 1]>
   <BundArbeitsgruppe JU [Leitung 1]>
@@ -130,17 +131,17 @@
   <BundArbeitsgruppe SG [Leitung 1]>
   <BundArbeitsgruppe SZ [Leitung 1]>
  <BundArbeitsgruppe Sommerparteitag (CS)>
-  <BundArbeitsgruppe Einladung (MG) [Mitglied 1590]>
+  <BundArbeitsgruppe Einladung (MG) [Mitglied 1579]>
  <BundDelegierte Delegiertenversammlung (CS)>
   <BundDelegierte 60+ (7) [Delegierte 14]>
-  <BundDelegierte AG (28) [Delegierte 45]>
+  <BundDelegierte AG (28) [Delegierte 50]>
   <BundDelegierte AI (7) [Delegierte 9]>
   <BundDelegierte AR (7) [Delegierte 20]>
   <BundDelegierte AWG (7) [Delegierte 1]>
   <BundDelegierte BE (7) [Delegierte 13]>
   <BundDelegierte BE-Jura Sud (7) [Delegierte 14]>
   <BundDelegierte BL (8) [Delegierte 15]>
-  <BundDelegierte BS (7) [Delegierte 10]>
+  <BundDelegierte BS (7) [Delegierte 9]>
   <BundDelegierte CSP Oberwallis (7) [Delegierte 15]>
   <BundDelegierte CSV (7) [Delegierte 14]>
   <BundDelegierte CVP Frauen (7) [Delegierte 12]>
@@ -150,7 +151,7 @@
   <BundDelegierte GL (7) [Delegierte 9]>
   <BundDelegierte GR (8) [Delegierte 19]>
   <BundDelegierte JCVP (7) [Delegierte 25]>
-  <BundDelegierte JU (9) [Delegierte 22]>
+  <BundDelegierte JU (9) [Delegierte 24]>
   <BundDelegierte LU (50) [Delegierte 75]>
   <BundDelegierte NE (7) [Delegierte 16]>
   <BundDelegierte NW (7) [Delegierte 20]>
@@ -161,25 +162,25 @@
   <BundDelegierte SZ (12) [Delegierte 19]>
   <BundDelegierte TG (9) [Delegierte 17]>
   <BundDelegierte TI (28) [Delegierte 36]>
-  <BundDelegierte UR (7) [Delegierte 17]>
-  <BundDelegierte VD (7) [Delegierte 19]>
-  <BundDelegierte VS-Oberwallis (8) [Delegierte 12]>
+  <BundDelegierte UR (7) [Delegierte 16]>
+  <BundDelegierte VD (7) [Delegierte 17]>
+  <BundDelegierte VS-Oberwallis (8) [Delegierte 13]>
   <BundDelegierte VS-Romand (19) [Delegierte 33]>
   <BundDelegierte ZG (8) [Delegierte 17]>
   <BundDelegierte ZH (18) [Delegierte 31]>
- <BundExterneKontakte Communiqués [Kontakt 7617]>
- <BundExterneKontakte Gönner (LS) [Spender 9]>
-  <BundExterneKontakte Gold Card [Spender 11]>
-  <BundExterneKontakte Silver Card [Spender 79]>
+ <BundExterneKontakte Communiqués [Kontakt 7421]>
+ <BundExterneKontakte Gönner (LS) [Spender 8]>
+  <BundExterneKontakte Gold Card [Spender 9]>
+  <BundExterneKontakte Silver Card [Spender 78]>
   <BundExterneKontakte Silver-Plus Card [Spender 13]>
  <BundExterneKontakte Kontakte>
   <BundExterneKontakte Gesundheitsinitiative [Kontakt 89]>
- <BundExterneKontakte Medienverteiler [Kontakt 2991, Medien 22]>
- <BundExterneKontakte Newsletter [Kontakt 9448]>
+ <BundExterneKontakte Medienverteiler [Kontakt 2990, Medien 22]>
+ <BundExterneKontakte Newsletter [Kontakt 9299]>
  <BundExterneKontakte Vereinigungen>
   <BundExterneKontakte CVP-nahe Botschafter [Kontakt 36]>
-  <BundExterneKontakte Frauenznacht [Kontakt 182]>
-  <BundExterneKontakte KMU-Forum (CS) [Kontakt 524, Spender 41]>
+  <BundExterneKontakte Frauenznacht [Kontakt 181]>
+  <BundExterneKontakte KMU-Forum (CS) [Kontakt 522, Spender 41]>
   <BundExterneKontakte forum politique suisse (CS)>
    <BundExterneKontakte Gäste>
     <BundExterneKontakte 2014 Winter [Kontakt 13]>
@@ -194,10 +195,10 @@
     <BundExterneKontakte 2018 Frühjahr [Kontakt 3]>
     <BundExterneKontakte 2018 Winter [Kontakt 2]>
     <BundExterneKontakte fixe Gäste [Kontakt 26]>
-   <BundExterneKontakte Vorstand [Kontakt 2]>
+   <BundExterneKontakte Vorstand [Kontakt 1]>
  <BundGewaehlte Departement Bundesrat Nr. 1 [Bundesrat 5]>
  <BundGewaehlte Nationalrat [Nationalrat 138]>
  <BundGewaehlte Ständerat [Staenderat 47]>
  <BundKommission Kontrollkommission (JM) [Praesident 1]>
  <BundPraesidium Präsidium (LS) [Praesident 2, Vizepraesident 4]>
- <BundSekretariat Generalsekretariat (JM) [Leitung 8, Mitarbeiter 43]>
+ <BundSekretariat Generalsekretariat (JM) [Leitung 8, Mitarbeiter 41]>

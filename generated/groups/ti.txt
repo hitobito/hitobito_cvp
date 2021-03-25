@@ -1,12 +1,12 @@
 <Bund id=1, label=CVP Schweiz, parent_id=>
- <BundArbeitsgruppe id=40426, label=Arbeitsgruppe, parent_id=1>
+ <BundArbeitsgruppe id=40428, label=Arbeitsgruppe, parent_id=1>
  <BundGewaehlte id=14763, label=Departement Bundesrat Nr. 1, parent_id=1>
  <BundGewaehlte id=14860, label=Nationalrat, parent_id=1>
  <BundGewaehlte id=14861, label=Ständerat, parent_id=1>
  <Kanton id=172, label=CVP TI, parent_id=1>
-  <KantonDelegierte id=40434, label=Delegierte, parent_id=172>
-  <KantonSekretariat id=40436, label=Sekretariat, parent_id=172>
-  <KantonArbeitsgruppe id=40439, label=Arbeitsgruppe, parent_id=172>
+  <KantonDelegierte id=40436, label=Delegierte, parent_id=172>
+  <KantonSekretariat id=40438, label=Sekretariat, parent_id=172>
+  <KantonArbeitsgruppe id=40441, label=Arbeitsgruppe, parent_id=172>
   <KantonArbeitsgruppe id=39901, label=Adressen ohne Merkmale (aus Liste PPD), parent_id=172>
   <KantonArbeitsgruppe id=35542, label=Altri contributi secondo direttive, parent_id=172>
   <KantonArbeitsgruppe id=35537, label=Aziende e liberi professionisti, parent_id=172>
@@ -18,10 +18,10 @@
   <KantonMitglieder id=588, label=Mitgliedschaften, parent_id=172>
   <KantonPraesidium id=589, label=Partei, parent_id=172>
   <Region id=581, label=Bellinzona, parent_id=172>
-   <RegionDelegierte id=40449, label=Delegierte, parent_id=581>
+   <RegionDelegierte id=40451, label=Delegierte, parent_id=581>
    <RegionPraesidium id=1851, label=Partei, parent_id=581>
    <Ort id=1838, label=Arbedo-Castione, parent_id=581>
-    <OrtSekretariat id=40457, label=Sekretariat, parent_id=1838>
+    <OrtSekretariat id=40459, label=Sekretariat, parent_id=1838>
     <OrtGewaehlte id=36486, label=Exekutive, parent_id=1838>
     <OrtGewaehlte id=36487, label=Legislative, parent_id=1838>
     <OrtMitglieder id=3742, label=Mitgliedschaften, parent_id=1838>
@@ -41,21 +41,21 @@
     <OrtMitglieder id=3757, label=Mitgliedschaften, parent_id=1847>
     <OrtPraesidium id=3758, label=Partei, parent_id=1847>
    <Ort id=1848, label=Lumino, parent_id=581>
-    <OrtSekretariat id=40493, label=Sekretariat, parent_id=1848>
+    <OrtSekretariat id=40495, label=Sekretariat, parent_id=1848>
     <OrtGewaehlte id=36601, label=Exekutive, parent_id=1848>
     <OrtGewaehlte id=36602, label=Legislative, parent_id=1848>
     <OrtMitglieder id=3759, label=Mitgliedschaften, parent_id=1848>
     <OrtPraesidium id=3760, label=Partei, parent_id=1848>
    <Ort id=1855, label=S. Antonino, parent_id=581>
-    <OrtSekretariat id=40502, label=Sekretariat, parent_id=1855>
+    <OrtSekretariat id=40504, label=Sekretariat, parent_id=1855>
     <OrtGewaehlte id=36611, label=Exekutive, parent_id=1855>
     <OrtGewaehlte id=36612, label=Legislative, parent_id=1855>
     <OrtMitglieder id=3771, label=Mitgliedschaften, parent_id=1855>
     <OrtPraesidium id=3772, label=Partei, parent_id=1855>
   <Region id=582, label=Blenio, parent_id=172>
-   <RegionDelegierte id=40510, label=Delegierte, parent_id=582>
-   <RegionSekretariat id=40511, label=Sekretariat, parent_id=582>
-   <RegionParteigremium id=40512, label=Parteigremium, parent_id=582>
+   <RegionDelegierte id=40512, label=Delegierte, parent_id=582>
+   <RegionSekretariat id=40513, label=Sekretariat, parent_id=582>
+   <RegionParteigremium id=40514, label=Parteigremium, parent_id=582>
    <RegionPraesidium id=1865, label=Partei, parent_id=582>
    <Ort id=1857, label=Acquarossa, parent_id=582>
     <OrtMitglieder id=3775, label=Mitgliedschaften, parent_id=1857>
@@ -68,12 +68,12 @@
     <OrtMitglieder id=3780, label=Mitgliedschaften, parent_id=1861>
     <OrtPraesidium id=3781, label=Partei, parent_id=1861>
   <Region id=584, label=Leventina, parent_id=172>
-   <RegionDelegierte id=40544, label=Delegierte, parent_id=584>
-   <RegionSekretariat id=40545, label=Sekretariat, parent_id=584>
-   <RegionParteigremium id=40546, label=Parteigremium, parent_id=584>
+   <RegionDelegierte id=40546, label=Delegierte, parent_id=584>
+   <RegionSekretariat id=40547, label=Sekretariat, parent_id=584>
+   <RegionParteigremium id=40548, label=Parteigremium, parent_id=584>
    <RegionPraesidium id=1884, label=Partei, parent_id=584>
    <Ort id=1868, label=Airolo, parent_id=584>
-    <OrtSekretariat id=40552, label=Sekretariat, parent_id=1868>
+    <OrtSekretariat id=40554, label=Sekretariat, parent_id=1868>
     <OrtMitglieder id=3791, label=Mitgliedschaften, parent_id=1868>
     <OrtPraesidium id=3792, label=Partei, parent_id=1868>
    <Ort id=1870, label=Bedretto, parent_id=584>
@@ -87,7 +87,7 @@
     <OrtMitglieder id=3808, label=Mitgliedschaften, parent_id=1877>
     <OrtPraesidium id=3809, label=Partei, parent_id=1877>
    <Ort id=1879, label=Faido, parent_id=584>
-    <OrtSekretariat id=40588, label=Sekretariat, parent_id=1879>
+    <OrtSekretariat id=40590, label=Sekretariat, parent_id=1879>
     <OrtMitglieder id=3810, label=Mitgliedschaften, parent_id=1879>
     <OrtPraesidium id=3811, label=Partei, parent_id=1879>
    <Ort id=1880, label=Giornico, parent_id=584>
@@ -95,18 +95,18 @@
     <OrtMitglieder id=3812, label=Mitgliedschaften, parent_id=1880>
     <OrtPraesidium id=3813, label=Partei, parent_id=1880>
    <Ort id=1885, label=Personico, parent_id=584>
-    <OrtSekretariat id=40606, label=Sekretariat, parent_id=1885>
+    <OrtSekretariat id=40608, label=Sekretariat, parent_id=1885>
     <OrtMitglieder id=3818, label=Mitgliedschaften, parent_id=1885>
     <OrtPraesidium id=3819, label=Partei, parent_id=1885>
    <Ort id=1886, label=Pollegio, parent_id=584>
-    <OrtSekretariat id=40615, label=Sekretariat, parent_id=1886>
+    <OrtSekretariat id=40617, label=Sekretariat, parent_id=1886>
     <OrtMitglieder id=3820, label=Mitgliedschaften, parent_id=1886>
    <Ort id=1887, label=Prato Leventina, parent_id=584>
     <OrtGewaehlte id=36729, label=Exekutive, parent_id=1887>
     <OrtMitglieder id=3822, label=Mitgliedschaften, parent_id=1887>
     <OrtPraesidium id=3823, label=Partei, parent_id=1887>
    <Ort id=1888, label=Quinto, parent_id=584>
-    <OrtSekretariat id=40633, label=Sekretariat, parent_id=1888>
+    <OrtSekretariat id=40635, label=Sekretariat, parent_id=1888>
     <OrtGewaehlte id=36732, label=Legislative, parent_id=1888>
     <OrtMitglieder id=3824, label=Mitgliedschaften, parent_id=1888>
     <OrtPraesidium id=3825, label=Partei, parent_id=1888>
@@ -114,11 +114,11 @@
     <OrtMitglieder id=3828, label=Mitgliedschaften, parent_id=1890>
     <OrtPraesidium id=3829, label=Partei, parent_id=1890>
   <Region id=585, label=Locarno, parent_id=172>
-   <RegionDelegierte id=40650, label=Delegierte, parent_id=585>
-   <RegionParteigremium id=40652, label=Parteigremium, parent_id=585>
+   <RegionDelegierte id=40652, label=Delegierte, parent_id=585>
+   <RegionParteigremium id=40654, label=Parteigremium, parent_id=585>
    <RegionPraesidium id=1922, label=Partei, parent_id=585>
    <Ort id=1891, label=Ascona, parent_id=585>
-    <OrtSekretariat id=40658, label=Sekretariat, parent_id=1891>
+    <OrtSekretariat id=40660, label=Sekretariat, parent_id=1891>
     <OrtGewaehlte id=36735, label=Exekutive, parent_id=1891>
     <OrtGewaehlte id=36736, label=Legislative, parent_id=1891>
     <OrtMitglieder id=3830, label=Mitgliedschaften, parent_id=1891>
@@ -135,7 +135,7 @@
    <Ort id=1901, label=Corippo, parent_id=585>
     <OrtMitglieder id=3848, label=Mitgliedschaften, parent_id=1901>
    <Ort id=1902, label=Cugnasco - Gerra, parent_id=585>
-    <OrtSekretariat id=40712, label=Sekretariat, parent_id=1902>
+    <OrtSekretariat id=40714, label=Sekretariat, parent_id=1902>
     <OrtGewaehlte id=36464, label=Exekutive, parent_id=1902>
     <OrtGewaehlte id=36465, label=Legislative, parent_id=1902>
     <OrtMitglieder id=3849, label=Mitgliedschaften, parent_id=1902>
@@ -151,13 +151,13 @@
    <Ort id=1911, label=Isorno, parent_id=585>
     <OrtMitglieder id=3864, label=Mitgliedschaften, parent_id=1911>
    <Ort id=1912, label=Lavertezzo, parent_id=585>
-    <OrtSekretariat id=40766, label=Sekretariat, parent_id=1912>
+    <OrtSekretariat id=40768, label=Sekretariat, parent_id=1912>
     <OrtGewaehlte id=36474, label=Exekutive, parent_id=1912>
     <OrtGewaehlte id=36475, label=Legislative, parent_id=1912>
     <OrtMitglieder id=3865, label=Mitgliedschaften, parent_id=1912>
     <OrtPraesidium id=3866, label=Partei, parent_id=1912>
    <Ort id=1913, label=Locarno, parent_id=585>
-    <OrtSekretariat id=40775, label=Sekretariat, parent_id=1913>
+    <OrtSekretariat id=40777, label=Sekretariat, parent_id=1913>
     <OrtGewaehlte id=36761, label=Exekutive, parent_id=1913>
     <OrtGewaehlte id=36762, label=Legislative, parent_id=1913>
     <OrtMitglieder id=3867, label=Mitgliedschaften, parent_id=1913>
@@ -166,14 +166,14 @@
     <OrtMitglieder id=3869, label=Mitgliedschaften, parent_id=1914>
     <OrtPraesidium id=3870, label=Partei, parent_id=1914>
    <Ort id=1916, label=Minusio, parent_id=585>
-    <OrtSekretariat id=40802, label=Sekretariat, parent_id=1916>
+    <OrtSekretariat id=40804, label=Sekretariat, parent_id=1916>
     <OrtGewaehlte id=36769, label=Legislative, parent_id=1916>
     <OrtMitglieder id=3873, label=Mitgliedschaften, parent_id=1916>
     <OrtPraesidium id=3874, label=Partei, parent_id=1916>
    <Ort id=1917, label=Mosogno, parent_id=585>
     <OrtMitglieder id=3875, label=Mitgliedschaften, parent_id=1917>
    <Ort id=1918, label=Muralto, parent_id=585>
-    <OrtSekretariat id=40820, label=Sekretariat, parent_id=1918>
+    <OrtSekretariat id=40822, label=Sekretariat, parent_id=1918>
     <OrtGewaehlte id=36774, label=Legislative, parent_id=1918>
     <OrtMitglieder id=3877, label=Mitgliedschaften, parent_id=1918>
     <OrtPraesidium id=3878, label=Partei, parent_id=1918>
@@ -181,7 +181,7 @@
     <OrtMitglieder id=3879, label=Mitgliedschaften, parent_id=1919>
     <OrtPraesidium id=3880, label=Partei, parent_id=1919>
    <Ort id=1920, label=Orselina, parent_id=585>
-    <OrtSekretariat id=40838, label=Sekretariat, parent_id=1920>
+    <OrtSekretariat id=40840, label=Sekretariat, parent_id=1920>
     <OrtMitglieder id=3881, label=Mitgliedschaften, parent_id=1920>
     <OrtPraesidium id=3882, label=Partei, parent_id=1920>
    <Ort id=1924, label=Ronco S. Ascona, parent_id=585>
@@ -190,11 +190,11 @@
    <Ort id=1927, label=Sonogno, parent_id=585>
     <OrtMitglieder id=3893, label=Mitgliedschaften, parent_id=1927>
    <Ort id=1929, label=Tenero-Contra, parent_id=585>
-    <OrtSekretariat id=40865, label=Sekretariat, parent_id=1929>
+    <OrtSekretariat id=40867, label=Sekretariat, parent_id=1929>
     <OrtMitglieder id=3896, label=Mitgliedschaften, parent_id=1929>
     <OrtPraesidium id=3897, label=Partei, parent_id=1929>
    <Ort id=1928, label=Tre Terre, parent_id=585>
-    <OrtSekretariat id=40874, label=Sekretariat, parent_id=1928>
+    <OrtSekretariat id=40876, label=Sekretariat, parent_id=1928>
     <OrtMitglieder id=3894, label=Mitgliedschaften, parent_id=1928>
     <OrtPraesidium id=3895, label=Partei, parent_id=1928>
    <Ort id=1930, label=Vergeletto, parent_id=585>
@@ -202,8 +202,8 @@
    <Ort id=1933, label=Vogorno, parent_id=585>
     <OrtMitglieder id=3903, label=Mitgliedschaften, parent_id=1933>
   <Region id=586, label=Lugano, parent_id=172>
-   <RegionDelegierte id=40900, label=Delegierte, parent_id=586>
-   <RegionParteigremium id=40902, label=Parteigremium, parent_id=586>
+   <RegionDelegierte id=40902, label=Delegierte, parent_id=586>
+   <RegionParteigremium id=40904, label=Parteigremium, parent_id=586>
    <RegionPraesidium id=1986, label=Partei, parent_id=586>
    <Ort id=1934, label=Agno, parent_id=586>
     <OrtGewaehlte id=36855, label=Exekutive, parent_id=1934>
@@ -222,7 +222,7 @@
    <Ort id=1940, label=Arogno, parent_id=586>
     <OrtMitglieder id=3916, label=Mitgliedschaften, parent_id=1940>
    <Ort id=1944, label=Bedano, parent_id=586>
-    <OrtSekretariat id=40953, label=Sekretariat, parent_id=1944>
+    <OrtSekretariat id=40955, label=Sekretariat, parent_id=1944>
     <OrtGewaehlte id=36482, label=Exekutive, parent_id=1944>
     <OrtGewaehlte id=36483, label=Legislative, parent_id=1944>
     <OrtMitglieder id=3923, label=Mitgliedschaften, parent_id=1944>
@@ -249,20 +249,19 @@
     <OrtGewaehlte id=36874, label=Exekutive, parent_id=1951>
     <OrtGewaehlte id=36873, label=Legislative, parent_id=1951>
     <OrtMitglieder id=3937, label=Mitgliedschaften, parent_id=1951>
-    <OrtPraesidium id=3938, label=Partei, parent_id=1951>
    <Ort id=1952, label=Cadempino, parent_id=586>
     <OrtGewaehlte id=36876, label=Exekutive, parent_id=1952>
     <OrtGewaehlte id=36875, label=Legislative, parent_id=1952>
     <OrtMitglieder id=3939, label=Mitgliedschaften, parent_id=1952>
     <OrtPraesidium id=3940, label=Partei, parent_id=1952>
    <Ort id=1955, label=Canobbio, parent_id=586>
-    <OrtSekretariat id=41016, label=Sekretariat, parent_id=1955>
+    <OrtSekretariat id=41018, label=Sekretariat, parent_id=1955>
     <OrtGewaehlte id=36878, label=Exekutive, parent_id=1955>
     <OrtGewaehlte id=36877, label=Legislative, parent_id=1955>
     <OrtMitglieder id=3945, label=Mitgliedschaften, parent_id=1955>
     <OrtPraesidium id=3946, label=Partei, parent_id=1955>
    <Ort id=1956, label=Capriasca, parent_id=586>
-    <OrtSekretariat id=41025, label=Sekretariat, parent_id=1956>
+    <OrtSekretariat id=41027, label=Sekretariat, parent_id=1956>
     <OrtGewaehlte id=36880, label=Exekutive, parent_id=1956>
     <OrtGewaehlte id=36879, label=Legislative, parent_id=1956>
     <OrtMitglieder id=3947, label=Mitgliedschaften, parent_id=1956>
@@ -284,7 +283,7 @@
    <Ort id=1962, label=Croglio, parent_id=586>
     <OrtMitglieder id=3958, label=Mitgliedschaften, parent_id=1962>
    <Ort id=1963, label=Cureglia, parent_id=586>
-    <OrtSekretariat id=41079, label=Sekretariat, parent_id=1963>
+    <OrtSekretariat id=41081, label=Sekretariat, parent_id=1963>
     <OrtGewaehlte id=36892, label=Legislative, parent_id=1963>
     <OrtMitglieder id=3960, label=Mitgliedschaften, parent_id=1963>
     <OrtPraesidium id=3961, label=Partei, parent_id=1963>
@@ -292,22 +291,22 @@
     <OrtMitglieder id=3964, label=Mitgliedschaften, parent_id=1966>
     <OrtPraesidium id=3965, label=Partei, parent_id=1966>
    <Ort id=1967, label=Gravesano, parent_id=586>
-    <OrtSekretariat id=41106, label=Sekretariat, parent_id=1967>
+    <OrtSekretariat id=41108, label=Sekretariat, parent_id=1967>
     <OrtMitglieder id=3966, label=Mitgliedschaften, parent_id=1967>
     <OrtPraesidium id=3967, label=Partei, parent_id=1967>
    <Ort id=1969, label=Lamone, parent_id=586>
-    <OrtSekretariat id=41115, label=Sekretariat, parent_id=1969>
+    <OrtSekretariat id=41117, label=Sekretariat, parent_id=1969>
     <OrtGewaehlte id=36902, label=Exekutive, parent_id=1969>
     <OrtMitglieder id=3969, label=Mitgliedschaften, parent_id=1969>
     <OrtPraesidium id=3970, label=Partei, parent_id=1969>
    <Ort id=1983, label=Lugano, parent_id=586>
-    <OrtSekretariat id=41124, label=Sekretariat, parent_id=1983>
+    <OrtSekretariat id=41126, label=Sekretariat, parent_id=1983>
     <OrtMitglieder id=3997, label=Mitgliedschaften, parent_id=1983>
     <OrtPraesidium id=3998, label=Partei, parent_id=1983>
    <Ort id=1948, label=Magliaso, parent_id=586>
     <OrtGewaehlte id=36907, label=Exekutive, parent_id=1948>
    <Ort id=1972, label=Manno, parent_id=586>
-    <OrtSekretariat id=41142, label=Sekretariat, parent_id=1972>
+    <OrtSekretariat id=41144, label=Sekretariat, parent_id=1972>
     <OrtGewaehlte id=36909, label=Exekutive, parent_id=1972>
     <OrtMitglieder id=3975, label=Mitgliedschaften, parent_id=1972>
     <OrtPraesidium id=3976, label=Partei, parent_id=1972>
@@ -322,10 +321,10 @@
     <OrtMitglieder id=3981, label=Mitgliedschaften, parent_id=1975>
     <OrtPraesidium id=3982, label=Partei, parent_id=1975>
    <Ort id=1976, label=Melide, parent_id=586>
-    <OrtSekretariat id=41178, label=Sekretariat, parent_id=1976>
+    <OrtSekretariat id=41180, label=Sekretariat, parent_id=1976>
     <OrtMitglieder id=3983, label=Mitgliedschaften, parent_id=1976>
    <Ort id=1977, label=Mezzovico - Vira, parent_id=586>
-    <OrtSekretariat id=41187, label=Sekretariat, parent_id=1977>
+    <OrtSekretariat id=41189, label=Sekretariat, parent_id=1977>
     <OrtGewaehlte id=36470, label=Exekutive, parent_id=1977>
     <OrtGewaehlte id=36471, label=Legislative, parent_id=1977>
     <OrtMitglieder id=3985, label=Mitgliedschaften, parent_id=1977>
@@ -333,7 +332,7 @@
    <Ort id=1978, label=Miglieglia, parent_id=586>
     <OrtMitglieder id=3987, label=Mitgliedschaften, parent_id=1978>
    <Ort id=1936, label=Monteceneri, parent_id=586>
-    <OrtSekretariat id=41205, label=Sekretariat, parent_id=1936>
+    <OrtSekretariat id=41207, label=Sekretariat, parent_id=1936>
     <OrtGewaehlte id=36466, label=Exekutive, parent_id=1936>
     <OrtGewaehlte id=36469, label=Legislative, parent_id=1936>
     <OrtMitglieder id=3908, label=Mitgliedschaften, parent_id=1936>
@@ -345,23 +344,23 @@
    <Ort id=1980, label=Morcote, parent_id=586>
     <OrtMitglieder id=3991, label=Mitgliedschaften, parent_id=1980>
    <Ort id=1981, label=Muzzano, parent_id=586>
-    <OrtSekretariat id=41232, label=Sekretariat, parent_id=1981>
+    <OrtSekretariat id=41234, label=Sekretariat, parent_id=1981>
     <OrtMitglieder id=3993, label=Mitgliedschaften, parent_id=1981>
     <OrtPraesidium id=3994, label=Partei, parent_id=1981>
    <Ort id=1982, label=Novaggio, parent_id=586>
-    <OrtSekretariat id=41250, label=Sekretariat, parent_id=1982>
+    <OrtSekretariat id=41252, label=Sekretariat, parent_id=1982>
     <OrtMitglieder id=3995, label=Mitgliedschaften, parent_id=1982>
     <OrtPraesidium id=3996, label=Partei, parent_id=1982>
    <Ort id=1984, label=Origlio, parent_id=586>
-    <OrtSekretariat id=41259, label=Sekretariat, parent_id=1984>
+    <OrtSekretariat id=41261, label=Sekretariat, parent_id=1984>
     <OrtMitglieder id=3999, label=Mitgliedschaften, parent_id=1984>
     <OrtPraesidium id=4000, label=Partei, parent_id=1984>
    <Ort id=1985, label=Paradiso, parent_id=586>
-    <OrtSekretariat id=41268, label=Sekretariat, parent_id=1985>
+    <OrtSekretariat id=41270, label=Sekretariat, parent_id=1985>
     <OrtMitglieder id=4001, label=Mitgliedschaften, parent_id=1985>
     <OrtPraesidium id=4002, label=Partei, parent_id=1985>
    <Ort id=1987, label=Ponte Capriasca, parent_id=586>
-    <OrtSekretariat id=41277, label=Sekretariat, parent_id=1987>
+    <OrtSekretariat id=41279, label=Sekretariat, parent_id=1987>
     <OrtGewaehlte id=36936, label=Legislative, parent_id=1987>
     <OrtMitglieder id=4003, label=Mitgliedschaften, parent_id=1987>
    <Ort id=1964, label=Porza, parent_id=586>
@@ -369,7 +368,7 @@
    <Ort id=1989, label=Rovio, parent_id=586>
     <OrtMitglieder id=4007, label=Mitgliedschaften, parent_id=1989>
    <Ort id=1991, label=Savosa, parent_id=586>
-    <OrtSekretariat id=41331, label=Sekretariat, parent_id=1991>
+    <OrtSekretariat id=41333, label=Sekretariat, parent_id=1991>
     <OrtGewaehlte id=36954, label=Exekutive, parent_id=1991>
     <OrtMitglieder id=4009, label=Mitgliedschaften, parent_id=1991>
     <OrtPraesidium id=4010, label=Partei, parent_id=1991>
@@ -377,29 +376,29 @@
     <OrtMitglieder id=4011, label=Mitgliedschaften, parent_id=1992>
     <OrtPraesidium id=4012, label=Partei, parent_id=1992>
    <Ort id=1995, label=Sorengo, parent_id=586>
-    <OrtSekretariat id=41349, label=Sekretariat, parent_id=1995>
+    <OrtSekretariat id=41351, label=Sekretariat, parent_id=1995>
     <OrtGewaehlte id=36957, label=Legislative, parent_id=1995>
     <OrtMitglieder id=4016, label=Mitgliedschaften, parent_id=1995>
     <OrtPraesidium id=4017, label=Partei, parent_id=1995>
    <Ort id=1997, label=Torricella - Taverne, parent_id=586>
-    <OrtSekretariat id=41358, label=Sekretariat, parent_id=1997>
+    <OrtSekretariat id=41360, label=Sekretariat, parent_id=1997>
     <OrtMitglieder id=4019, label=Mitgliedschaften, parent_id=1997>
     <OrtPraesidium id=4020, label=Partei, parent_id=1997>
    <Ort id=1999, label=Vezia, parent_id=586>
-    <OrtSekretariat id=41376, label=Sekretariat, parent_id=1999>
+    <OrtSekretariat id=41378, label=Sekretariat, parent_id=1999>
     <OrtGewaehlte id=36472, label=Exekutive, parent_id=1999>
     <OrtGewaehlte id=36473, label=Legislative, parent_id=1999>
     <OrtMitglieder id=4023, label=Mitgliedschaften, parent_id=1999>
     <OrtPraesidium id=4024, label=Partei, parent_id=1999>
   <Region id=587, label=Mendrisio, parent_id=172>
-   <RegionDelegierte id=41393, label=Delegierte, parent_id=587>
-   <RegionParteigremium id=41395, label=Parteigremium, parent_id=587>
+   <RegionDelegierte id=41395, label=Delegierte, parent_id=587>
+   <RegionParteigremium id=41397, label=Parteigremium, parent_id=587>
    <RegionPraesidium id=2020, label=Partei, parent_id=587>
    <Ort id=2001, label=Arzo, parent_id=587>
     <OrtMitglieder id=36967, label=Mitgliedschaften, parent_id=2001>
    <Ort id=2002, label=Balerna, parent_id=587>
-    <OrtSekretariat id=41410, label=Sekretariat, parent_id=2002>
-    <OrtPraesidium id=41414, label=Praesidium, parent_id=2002>
+    <OrtSekretariat id=41412, label=Sekretariat, parent_id=2002>
+    <OrtPraesidium id=41416, label=Praesidium, parent_id=2002>
     <OrtGewaehlte id=4030, label=Exekutive, parent_id=2002>
      <OrtGewaehlte id=4683, label=Ausschuss, parent_id=4030>
     <OrtGewaehlte id=36971, label=Legislative, parent_id=2002>
@@ -411,10 +410,10 @@
    <Ort id=2006, label=Breggia - Morbio Superiore, parent_id=587>
     <OrtMitglieder id=4037, label=Mitgliedschaften, parent_id=2006>
    <Ort id=2009, label=Capolago, parent_id=587>
-    <OrtSekretariat id=41446, label=Sekretariat, parent_id=2009>
+    <OrtSekretariat id=41448, label=Sekretariat, parent_id=2009>
     <OrtPraesidium id=4044, label=Partei, parent_id=2009>
    <Ort id=2010, label=Castel S. Pietro, parent_id=587>
-    <OrtSekretariat id=41455, label=Sekretariat, parent_id=2010>
+    <OrtSekretariat id=41457, label=Sekretariat, parent_id=2010>
     <OrtGewaehlte id=36980, label=Legislative, parent_id=2010>
     <OrtMitglieder id=4045, label=Mitgliedschaften, parent_id=2010>
     <OrtPraesidium id=4046, label=Partei, parent_id=2010>
@@ -428,29 +427,29 @@
    <Ort id=2014, label=Genestrerio, parent_id=587>
     <OrtPraesidium id=4052, label=Partei, parent_id=2014>
    <Ort id=2016, label=Mendrisio, parent_id=587>
-    <OrtSekretariat id=41491, label=Sekretariat, parent_id=2016>
+    <OrtSekretariat id=41493, label=Sekretariat, parent_id=2016>
     <OrtGewaehlte id=35543, label=Legislative, parent_id=2016>
     <OrtMitglieder id=4055, label=Mitgliedschaften, parent_id=2016>
     <OrtPraesidium id=4056, label=Partei, parent_id=2016>
    <Ort id=2018, label=Morbio Inferiore, parent_id=587>
-    <OrtSekretariat id=41500, label=Sekretariat, parent_id=2018>
+    <OrtSekretariat id=41502, label=Sekretariat, parent_id=2018>
     <OrtGewaehlte id=36478, label=Exekutive, parent_id=2018>
     <OrtGewaehlte id=36479, label=Legislative, parent_id=2018>
     <OrtMitglieder id=4059, label=Mitgliedschaften, parent_id=2018>
     <OrtPraesidium id=4060, label=Partei, parent_id=2018>
    <Ort id=2019, label=Novazzano, parent_id=587>
-    <OrtSekretariat id=41509, label=Sekretariat, parent_id=2019>
+    <OrtSekretariat id=41511, label=Sekretariat, parent_id=2019>
     <OrtGewaehlte id=36988, label=Legislative, parent_id=2019>
     <OrtMitglieder id=4061, label=Mitgliedschaften, parent_id=2019>
     <OrtPraesidium id=4062, label=Partei, parent_id=2019>
    <Ort id=2021, label=Rancate, parent_id=587>
-    <OrtSekretariat id=41518, label=Sekretariat, parent_id=2021>
+    <OrtSekretariat id=41520, label=Sekretariat, parent_id=2021>
     <OrtPraesidium id=4064, label=Partei, parent_id=2021>
    <Ort id=2022, label=Riva San Vitale, parent_id=587>
     <OrtGewaehlte id=36992, label=Legislative, parent_id=2022>
     <OrtMitglieder id=4065, label=Mitgliedschaften, parent_id=2022>
    <Ort id=2023, label=Stabio, parent_id=587>
-    <OrtSekretariat id=41536, label=Sekretariat, parent_id=2023>
+    <OrtSekretariat id=41538, label=Sekretariat, parent_id=2023>
     <OrtGewaehlte id=36994, label=Legislative, parent_id=2023>
     <OrtMitglieder id=4067, label=Mitgliedschaften, parent_id=2023>
     <OrtPraesidium id=4068, label=Partei, parent_id=2023>
@@ -461,26 +460,26 @@
     <OrtMitglieder id=4071, label=Mitgliedschaften, parent_id=2025>
     <OrtPraesidium id=4072, label=Partei, parent_id=2025>
    <Ort id=36241, label=comitato, parent_id=587>
-    <OrtPraesidium id=41567, label=Praesidium, parent_id=36241>
+    <OrtPraesidium id=41569, label=Praesidium, parent_id=36241>
   <Region id=590, label=Riviera, parent_id=172>
-   <RegionDelegierte id=41571, label=Delegierte, parent_id=590>
-   <RegionSekretariat id=41572, label=Sekretariat, parent_id=590>
-   <RegionParteigremium id=41573, label=Parteigremium, parent_id=590>
+   <RegionDelegierte id=41573, label=Delegierte, parent_id=590>
+   <RegionSekretariat id=41574, label=Sekretariat, parent_id=590>
+   <RegionParteigremium id=41575, label=Parteigremium, parent_id=590>
    <RegionPraesidium id=2035, label=Partei, parent_id=590>
    <Ort id=2028, label=Biasca, parent_id=590>
-    <OrtSekretariat id=41579, label=Sekretariat, parent_id=2028>
+    <OrtSekretariat id=41581, label=Sekretariat, parent_id=2028>
     <OrtGewaehlte id=37294, label=Legislative, parent_id=2028>
     <OrtMitglieder id=4076, label=Mitgliedschaften, parent_id=2028>
    <Ort id=2033, label=Riviera, parent_id=590>
     <OrtMitglieder id=4084, label=Mitgliedschaften, parent_id=2033>
     <OrtPraesidium id=4085, label=Partei, parent_id=2033>
   <Region id=591, label=Vallemaggia, parent_id=172>
-   <RegionDelegierte id=41596, label=Delegierte, parent_id=591>
-   <RegionSekretariat id=41597, label=Sekretariat, parent_id=591>
-   <RegionParteigremium id=41598, label=Parteigremium, parent_id=591>
+   <RegionDelegierte id=41598, label=Delegierte, parent_id=591>
+   <RegionSekretariat id=41599, label=Sekretariat, parent_id=591>
+   <RegionParteigremium id=41600, label=Parteigremium, parent_id=591>
    <RegionPraesidium id=2048, label=Partei, parent_id=591>
    <Ort id=2037, label=Avegno - Gordevio, parent_id=591>
-    <OrtSekretariat id=41604, label=Sekretariat, parent_id=2037>
+    <OrtSekretariat id=41606, label=Sekretariat, parent_id=2037>
     <OrtGewaehlte id=37295, label=Exekutive, parent_id=2037>
     <OrtMitglieder id=4090, label=Mitgliedschaften, parent_id=2037>
     <OrtPraesidium id=4091, label=Partei, parent_id=2037>
@@ -490,7 +489,7 @@
    <Ort id=2040, label=Campo Vallemaggia, parent_id=591>
     <OrtMitglieder id=4096, label=Mitgliedschaften, parent_id=2040>
    <Ort id=2042, label=Cevio, parent_id=591>
-    <OrtSekretariat id=41649, label=Sekretariat, parent_id=2042>
+    <OrtSekretariat id=41651, label=Sekretariat, parent_id=2042>
     <OrtMitglieder id=4099, label=Mitgliedschaften, parent_id=2042>
     <OrtPraesidium id=4100, label=Partei, parent_id=2042>
    <Ort id=2045, label=Lavizzara, parent_id=591>

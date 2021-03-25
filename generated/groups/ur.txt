@@ -1,13 +1,13 @@
 <Bund id=1, label=CVP Schweiz, parent_id=>
- <BundArbeitsgruppe id=40426, label=Arbeitsgruppe, parent_id=1>
+ <BundArbeitsgruppe id=40428, label=Arbeitsgruppe, parent_id=1>
  <BundGewaehlte id=14763, label=Departement Bundesrat Nr. 1, parent_id=1>
  <BundGewaehlte id=14860, label=Nationalrat, parent_id=1>
  <BundGewaehlte id=14861, label=Ständerat, parent_id=1>
  <Kanton id=173, label=CVP UR, parent_id=1>
-  <KantonSympathisanten id=40431, label=Sympathisanten, parent_id=173>
-  <KantonPraesidium id=40433, label=Praesidium, parent_id=173>
-  <KantonSekretariat id=40436, label=Sekretariat, parent_id=173>
-  <KantonArbeitsgruppe id=40439, label=Arbeitsgruppe, parent_id=173>
+  <KantonSympathisanten id=40433, label=Sympathisanten, parent_id=173>
+  <KantonPraesidium id=40435, label=Praesidium, parent_id=173>
+  <KantonSekretariat id=40438, label=Sekretariat, parent_id=173>
+  <KantonArbeitsgruppe id=40441, label=Arbeitsgruppe, parent_id=173>
   <KantonArbeitsgruppe id=38864, label=Nationale Funktionen, parent_id=173>
   <KantonArbeitsgruppe id=2077, label=Parteitag, parent_id=173>
   <KantonDelegierte id=2074, label=DV, parent_id=173>
@@ -22,8 +22,8 @@
   <KantonParteigremium id=38863, label=Kontrollkommission, parent_id=173>
   <KantonPraesidium id=2073, label=Parteivorstand, parent_id=173>
   <Ort id=600, label=Altdorf, parent_id=173>
-   <OrtSympathisanten id=40446, label=Sympathisanten, parent_id=600>
-   <OrtGewaehlte id=40449, label=Gewaehlte, parent_id=600>
+   <OrtSympathisanten id=40448, label=Sympathisanten, parent_id=600>
+   <OrtGewaehlte id=40451, label=Gewaehlte, parent_id=600>
    <OrtGewaehlte id=35008, label=Exekutive, parent_id=600>
    <OrtMitglieder id=2057, label=Mitgliedschaften, parent_id=600>
    <OrtPraesidium id=2058, label=Partei, parent_id=600>
@@ -37,7 +37,7 @@
    <OrtMitglieder id=2061, label=Mitgliedschaften, parent_id=603>
    <OrtPraesidium id=2062, label=Partei, parent_id=603>
   <Ort id=604, label=Erstfeld, parent_id=173>
-   <OrtSympathisanten id=40482, label=Sympathisanten, parent_id=604>
+   <OrtSympathisanten id=40484, label=Sympathisanten, parent_id=604>
    <OrtMitglieder id=2063, label=Mitgliedschaften, parent_id=604>
    <OrtPraesidium id=2064, label=Partei, parent_id=604>
   <Ort id=608, label=Schattdorf, parent_id=173>

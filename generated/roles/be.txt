@@ -4,12 +4,11 @@
  <BundGewaehlte Nationalrat [Nationalrat 138]>
  <BundGewaehlte Ständerat [Staenderat 47]>
  <Kanton CVP BE>
-  <KantonSympathisanten Sympathisanten [Sympathisant 402]>
   <KantonDelegierte Delegierte [Delegierte 2]>
   <KantonSekretariat Sekretariat [Leitung 7]>
   <KantonExterneKontakte ExterneKontakte [Kontakt 1]>
   <KantonArbeitsgruppe Arbeitsgruppe [Mitglied 71]>
-  <KantonArbeitsgruppe 2019 Nominationsveranstaltung [Mitglied 118]>
+  <KantonArbeitsgruppe 2019 Nominationsveranstaltung [Mitglied 116]>
   <KantonArbeitsgruppe Aktionen-Mitmachen>
    <KantonArbeitsgruppe Briefchäschtele [Mitglied 12]>
    <KantonArbeitsgruppe Diverses [Mitglied 1]>
@@ -26,33 +25,32 @@
     <KantonArbeitsgruppe AWG [Mitglied 222]>
     <KantonArbeitsgruppe Grossfirma [Mitglied 71]>
     <KantonArbeitsgruppe Verband [Mitglied 16]>
-  <KantonArbeitsgruppe Medienmitteilungen d + f [Mitglied 93]>
+  <KantonArbeitsgruppe Medienmitteilungen d + f [Mitglied 91]>
   <KantonDelegierte DV>
    <KantonDelegierte Delegierte von Amtes wegen [DelegierteVonAmtesWegen 43]>
    <KantonDelegierte Ersatzdelegierte [Ersatzdelegierte 2]>
   <KantonExterneKontakte Firmen [Spender 1]>
   <KantonExterneKontakte KMU-Adressen>
    <KantonExterneKontakte Adressen November 2016 [Kontakt 36]>
-   <KantonExterneKontakte Versand für Nationalratswahlen 2015 [Kontakt 2580]>
-  <KantonExterneKontakte Newsletter d [Kontakt 429]>
-  <KantonExterneKontakte Newsletter f [Kontakt 86]>
+   <KantonExterneKontakte Versand für Nationalratswahlen 2015 [Kontakt 2577]>
+  <KantonExterneKontakte Newsletter d [Kontakt 424]>
+  <KantonExterneKontakte Newsletter f [Kontakt 84]>
   <KantonGewaehlte Judikative [MitgliedKantonalesGerichtErsteInstanz 2]>
   <KantonGewaehlte Legislative [KantonaleLegislative 5]>
-  <KantonMitglieder Mitgliedschaften [Mitglied 176]>
-  <KantonPraesidium Partei [Mitglied 47, Praesident 8]>
+  <KantonPraesidium Partei [Mitglied 45, Praesident 9]>
   <Ort Bern (Stadt)>
-   <OrtSympathisanten Sympathisanten [Sympathisant 169]>
+   <OrtSympathisanten Sympathisanten [Sympathisant 165]>
    <OrtSekretariat Sekretariat [Leitung 1]>
-   <OrtExterneKontakte ExterneKontakte [Kontakt 319]>
+   <OrtExterneKontakte ExterneKontakte [Kontakt 318]>
    <OrtGewaehlte Exekutive [KommunaleExekutive 1]>
    <OrtGewaehlte Legislative [KommunaleLegislative 3]>
-   <OrtMitglieder Mitgliedschaften [Mitglied 80]>
-   <OrtPraesidium Partei [Adressverwalter 15, Kassier 1, Praesident 4]>
+   <OrtMitglieder Mitgliedschaften [Mitglied 77]>
+   <OrtPraesidium Partei [Adressverwalter 16, Kassier 1, Praesident 4]>
    <OrtPraesidium Vorstand [Mitglied 14]>
   <Ort Biel>
    <OrtSympathisanten Sympathisanten [Sympathisant 11]>
    <OrtGewaehlte Legislative [KommunaleLegislative 2]>
-   <OrtMitglieder Mitgliedschaften [Mitglied 48]>
+   <OrtMitglieder Mitgliedschaften [Mitglied 47]>
    <OrtPraesidium Partei [Adressverwalter 10]>
   <Ort Bolligen-Ittingen-Ostermundigen>
    <OrtSympathisanten Sympathisanten [Sympathisant 27]>
@@ -62,10 +60,10 @@
   <Ort Burgdorf>
    <OrtSympathisanten Sympathisanten [Sympathisant 16]>
    <OrtSekretariat Sekretariat [Leitung 1]>
-   <OrtMitglieder Mitgliedschaften [Mitglied 35]>
-   <OrtPraesidium Partei [Adressverwalter 2, Kassier 1, Praesident 2]>
+   <OrtMitglieder Mitgliedschaften [Mitglied 32]>
+   <OrtPraesidium Partei [Adressverwalter 2, Kassier 1, Praesident 1]>
   <Ort Köniz [betreut durch Kehrsatz]>
-   <OrtSympathisanten Sympathisanten [Sympathisant 102]>
+   <OrtSympathisanten Sympathisanten [Sympathisant 93]>
    <OrtArbeitsgruppe Arbeitsgruppe [Mitglied 1]>
    <OrtGewaehlte Legislative [KommunaleLegislative 1]>
    <OrtMitglieder Mitgliedschaften [Mitglied 41]>
@@ -73,8 +71,8 @@
   <Ort Muri>
    <OrtSympathisanten Sympathisanten [Sympathisant 14]>
   <Ort Thun>
-   <OrtSympathisanten Sympathisanten [Sympathisant 93]>
+   <OrtSympathisanten Sympathisanten [Sympathisant 90]>
    <OrtSekretariat Sekretariat [Leitung 1]>
    <OrtGewaehlte Exekutive [KommunaleExekutive 1]>
-   <OrtMitglieder Mitgliedschaften [Mitglied 44]>
+   <OrtMitglieder Mitgliedschaften [Mitglied 43]>
    <OrtPraesidium Vorstand [Adressverwalter 4, Kassier 1, Mitglied 4, Praesident 4]>

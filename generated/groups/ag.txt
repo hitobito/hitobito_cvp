@@ -1,12 +1,12 @@
 <Bund id=1, label=CVP Schweiz, parent_id=>
- <BundGewaehlte id=40419, label=Bundesrichter, parent_id=1>
- <BundArbeitsgruppe id=40426, label=Arbeitsgruppe, parent_id=1>
+ <BundGewaehlte id=40421, label=Bundesrichter, parent_id=1>
+ <BundArbeitsgruppe id=40428, label=Arbeitsgruppe, parent_id=1>
  <BundGewaehlte id=14763, label=Departement Bundesrat Nr. 1, parent_id=1>
  <BundGewaehlte id=14860, label=Nationalrat, parent_id=1>
  <BundGewaehlte id=14861, label=Ständerat, parent_id=1>
  <Kanton id=151, label=CVP AG, parent_id=1>
-  <KantonSympathisanten id=40431, label=Sympathisanten, parent_id=151>
-  <KantonSekretariat id=40436, label=Sekretariat, parent_id=151>
+  <KantonSympathisanten id=40433, label=Sympathisanten, parent_id=151>
+  <KantonSekretariat id=40438, label=Sekretariat, parent_id=151>
   <KantonArbeitsgruppe id=37550, label=Diverse Funktionen, parent_id=151>
   <KantonArbeitsgruppe id=896, label=Fraktionsausflug, parent_id=151>
   <KantonArbeitsgruppe id=37541, label=Kantonale Verwaltung, parent_id=151>
@@ -43,11 +43,11 @@
   <KantonParteigremium id=37548, label=Parteivorstand, parent_id=151>
   <KantonPraesidium id=37549, label=Parteileitung, parent_id=151>
   <Region id=336, label=Bezirk Aarau, parent_id=151>
-   <RegionSympathisanten id=40446, label=Sympathisanten, parent_id=336>
+   <RegionSympathisanten id=40448, label=Sympathisanten, parent_id=336>
    <RegionMitglieder id=753, label=Mitgliedschaften, parent_id=336>
    <RegionPraesidium id=755, label=Partei, parent_id=336>
    <Ort id=748, label=Aarau, parent_id=336>
-    <OrtSympathisanten id=40453, label=Sympathisanten, parent_id=748>
+    <OrtSympathisanten id=40455, label=Sympathisanten, parent_id=748>
     <OrtGewaehlte id=2404, label=Exekutive, parent_id=748>
     <OrtGewaehlte id=2405, label=Legislative, parent_id=748>
     <OrtGewaehlte id=39527, label=Mandat, parent_id=748>
@@ -62,7 +62,7 @@
     <OrtGewaehlte id=39551, label=Mandat, parent_id=750>
     <OrtPraesidium id=2411, label=Partei, parent_id=750>
    <Ort id=751, label=Gränichen, parent_id=336>
-    <OrtSympathisanten id=40480, label=Sympathisanten, parent_id=751>
+    <OrtSympathisanten id=40482, label=Sympathisanten, parent_id=751>
     <OrtGewaehlte id=2412, label=Exekutive, parent_id=751>
     <OrtMitglieder id=4893, label=Mitgliedschaften, parent_id=751>
     <OrtPraesidium id=2413, label=Partei, parent_id=751>
@@ -73,36 +73,36 @@
     <OrtGewaehlte id=39599, label=Mandat, parent_id=754>
     <OrtPraesidium id=2415, label=Partei, parent_id=754>
   <Region id=337, label=Bezirk Baden, parent_id=151>
-   <RegionSympathisanten id=40516, label=Sympathisanten, parent_id=337>
+   <RegionSympathisanten id=40518, label=Sympathisanten, parent_id=337>
    <RegionMitglieder id=769, label=Mitgliedschaften, parent_id=337>
    <RegionPraesidium id=774, label=Partei, parent_id=337>
    <Ort id=757, label=Baden, parent_id=337>
-    <OrtSympathisanten id=40523, label=Sympathisanten, parent_id=757>
+    <OrtSympathisanten id=40525, label=Sympathisanten, parent_id=757>
     <OrtGewaehlte id=2417, label=Exekutive, parent_id=757>
     <OrtGewaehlte id=2418, label=Legislative, parent_id=757>
     <OrtGewaehlte id=39533, label=Mandat, parent_id=757>
     <OrtMitglieder id=4897, label=Mitgliedschaften, parent_id=757>
     <OrtPraesidium id=2419, label=Partei, parent_id=757>
    <Ort id=759, label=Birmenstorf, parent_id=337>
-    <OrtSympathisanten id=40541, label=Sympathisanten, parent_id=759>
+    <OrtSympathisanten id=40543, label=Sympathisanten, parent_id=759>
     <OrtGewaehlte id=2422, label=Exekutive, parent_id=759>
     <OrtGewaehlte id=39538, label=Mandat, parent_id=759>
     <OrtMitglieder id=4899, label=Mitgliedschaften, parent_id=759>
     <OrtPraesidium id=2423, label=Partei, parent_id=759>
    <Ort id=760, label=Ehrendingen, parent_id=337>
-    <OrtSympathisanten id=40550, label=Sympathisanten, parent_id=760>
+    <OrtSympathisanten id=40552, label=Sympathisanten, parent_id=760>
     <OrtGewaehlte id=2424, label=Exekutive, parent_id=760>
     <OrtGewaehlte id=39547, label=Mandat, parent_id=760>
     <OrtMitglieder id=4900, label=Mitgliedschaften, parent_id=760>
     <OrtPraesidium id=2425, label=Partei, parent_id=760>
    <Ort id=761, label=Ennetbaden, parent_id=337>
-    <OrtSympathisanten id=40559, label=Sympathisanten, parent_id=761>
+    <OrtSympathisanten id=40561, label=Sympathisanten, parent_id=761>
     <OrtGewaehlte id=2426, label=Exekutive, parent_id=761>
     <OrtGewaehlte id=39550, label=Mandat, parent_id=761>
     <OrtMitglieder id=4901, label=Mitgliedschaften, parent_id=761>
     <OrtPraesidium id=5063, label=Partei, parent_id=761>
    <Ort id=762, label=Fislisbach, parent_id=337>
-    <OrtSympathisanten id=40568, label=Sympathisanten, parent_id=762>
+    <OrtSympathisanten id=40570, label=Sympathisanten, parent_id=762>
     <OrtGewaehlte id=2427, label=Exekutive, parent_id=762>
     <OrtMitglieder id=4902, label=Mitgliedschaften, parent_id=762>
     <OrtPraesidium id=2428, label=Partei, parent_id=762>
@@ -120,7 +120,7 @@
    <Ort id=766, label=Künten, parent_id=337>
     <OrtGewaehlte id=2433, label=Exekutive, parent_id=766>
    <Ort id=768, label=Mellingen, parent_id=337>
-    <OrtSympathisanten id=40613, label=Sympathisanten, parent_id=768>
+    <OrtSympathisanten id=40615, label=Sympathisanten, parent_id=768>
     <OrtGewaehlte id=2436, label=Exekutive, parent_id=768>
     <OrtMitglieder id=4908, label=Mitgliedschaften, parent_id=768>
     <OrtPraesidium id=2437, label=Partei, parent_id=768>
@@ -130,25 +130,25 @@
     <OrtMitglieder id=4907, label=Mitgliedschaften, parent_id=767>
     <OrtPraesidium id=2435, label=Partei, parent_id=767>
    <Ort id=770, label=Neuenhof, parent_id=337>
-    <OrtSympathisanten id=40631, label=Sympathisanten, parent_id=770>
+    <OrtSympathisanten id=40633, label=Sympathisanten, parent_id=770>
     <OrtGewaehlte id=2438, label=Exekutive, parent_id=770>
     <OrtGewaehlte id=39596, label=Mandat, parent_id=770>
     <OrtMitglieder id=4909, label=Mitgliedschaften, parent_id=770>
     <OrtPraesidium id=2439, label=Partei, parent_id=770>
    <Ort id=771, label=Niederrohrdorf, parent_id=337>
-    <OrtSympathisanten id=40640, label=Sympathisanten, parent_id=771>
+    <OrtSympathisanten id=40642, label=Sympathisanten, parent_id=771>
     <OrtGewaehlte id=2440, label=Exekutive, parent_id=771>
     <OrtGewaehlte id=39597, label=Mandat, parent_id=771>
     <OrtMitglieder id=4910, label=Mitgliedschaften, parent_id=771>
     <OrtPraesidium id=2441, label=Partei, parent_id=771>
    <Ort id=772, label=Oberrohrdorf, parent_id=337>
-    <OrtSympathisanten id=40649, label=Sympathisanten, parent_id=772>
+    <OrtSympathisanten id=40651, label=Sympathisanten, parent_id=772>
     <OrtGewaehlte id=2442, label=Exekutive, parent_id=772>
     <OrtGewaehlte id=39602, label=Mandat, parent_id=772>
     <OrtMitglieder id=4911, label=Mitgliedschaften, parent_id=772>
     <OrtPraesidium id=2443, label=Partei, parent_id=772>
    <Ort id=773, label=Obersiggenthal, parent_id=337>
-    <OrtSympathisanten id=40658, label=Sympathisanten, parent_id=773>
+    <OrtSympathisanten id=40660, label=Sympathisanten, parent_id=773>
     <OrtGewaehlte id=2444, label=Exekutive, parent_id=773>
     <OrtGewaehlte id=2445, label=Legislative, parent_id=773>
     <OrtGewaehlte id=39604, label=Mandat, parent_id=773>
@@ -162,13 +162,13 @@
    <Ort id=778, label=Turgi, parent_id=337>
     <OrtGewaehlte id=2452, label=Exekutive, parent_id=778>
    <Ort id=779, label=Untersiggenthal, parent_id=337>
-    <OrtSympathisanten id=40703, label=Sympathisanten, parent_id=779>
+    <OrtSympathisanten id=40705, label=Sympathisanten, parent_id=779>
     <OrtGewaehlte id=2453, label=Exekutive, parent_id=779>
     <OrtGewaehlte id=39627, label=Mandat, parent_id=779>
     <OrtMitglieder id=4917, label=Mitgliedschaften, parent_id=779>
     <OrtPraesidium id=2454, label=Partei, parent_id=779>
    <Ort id=781, label=Wettingen, parent_id=337>
-    <OrtSympathisanten id=40712, label=Sympathisanten, parent_id=781>
+    <OrtSympathisanten id=40714, label=Sympathisanten, parent_id=781>
     <OrtGewaehlte id=2456, label=Exekutive, parent_id=781>
     <OrtGewaehlte id=2457, label=Legislative, parent_id=781>
     <OrtGewaehlte id=39632, label=Mandat, parent_id=781>
@@ -177,29 +177,29 @@
    <Ort id=782, label=Wohlenschwil, parent_id=337>
     <OrtGewaehlte id=2459, label=Exekutive, parent_id=782>
    <Ort id=783, label=Würenlingen, parent_id=337>
-    <OrtSympathisanten id=40730, label=Sympathisanten, parent_id=783>
+    <OrtSympathisanten id=40732, label=Sympathisanten, parent_id=783>
     <OrtGewaehlte id=2460, label=Exekutive, parent_id=783>
     <OrtGewaehlte id=39640, label=Mandat, parent_id=783>
     <OrtMitglieder id=4921, label=Mitgliedschaften, parent_id=783>
     <OrtPraesidium id=2461, label=Partei, parent_id=783>
    <Ort id=784, label=Würenlos, parent_id=337>
-    <OrtSympathisanten id=40739, label=Sympathisanten, parent_id=784>
+    <OrtSympathisanten id=40741, label=Sympathisanten, parent_id=784>
     <OrtGewaehlte id=2462, label=Exekutive, parent_id=784>
     <OrtGewaehlte id=39641, label=Mandat, parent_id=784>
     <OrtMitglieder id=4922, label=Mitgliedschaften, parent_id=784>
     <OrtPraesidium id=2463, label=Partei, parent_id=784>
   <Region id=338, label=Bezirk Bremgarten, parent_id=151>
-   <RegionSympathisanten id=40748, label=Sympathisanten, parent_id=338>
+   <RegionSympathisanten id=40750, label=Sympathisanten, parent_id=338>
    <RegionMitglieder id=793, label=Mitgliedschaften, parent_id=338>
    <RegionPraesidium id=796, label=Partei, parent_id=338>
    <Ort id=785, label=Berikon, parent_id=338>
-    <OrtSympathisanten id=40755, label=Sympathisanten, parent_id=785>
+    <OrtSympathisanten id=40757, label=Sympathisanten, parent_id=785>
     <OrtGewaehlte id=2464, label=Exekutive, parent_id=785>
     <OrtGewaehlte id=39536, label=Mandat, parent_id=785>
     <OrtMitglieder id=4995, label=Mitgliedschaften, parent_id=785>
     <OrtPraesidium id=2465, label=Partei, parent_id=785>
    <Ort id=786, label=Bremgarten, parent_id=338>
-    <OrtSympathisanten id=40764, label=Sympathisanten, parent_id=786>
+    <OrtSympathisanten id=40766, label=Sympathisanten, parent_id=786>
     <OrtGewaehlte id=2466, label=Exekutive, parent_id=786>
     <OrtGewaehlte id=39540, label=Mandat, parent_id=786>
     <OrtMitglieder id=4996, label=Mitgliedschaften, parent_id=786>
@@ -217,11 +217,11 @@
    <Ort id=791, label=Jonen, parent_id=338>
     <OrtGewaehlte id=2474, label=Exekutive, parent_id=791>
    <Ort id=792, label=Kelleramt, parent_id=338>
-    <OrtSympathisanten id=40818, label=Sympathisanten, parent_id=792>
+    <OrtSympathisanten id=40820, label=Sympathisanten, parent_id=792>
     <OrtMitglieder id=36375, label=Mitgliedschaften, parent_id=792>
     <OrtPraesidium id=2475, label=Partei, parent_id=792>
    <Ort id=794, label=Niederwil, parent_id=338>
-    <OrtSympathisanten id=40827, label=Sympathisanten, parent_id=794>
+    <OrtSympathisanten id=40829, label=Sympathisanten, parent_id=794>
     <OrtGewaehlte id=2476, label=Exekutive, parent_id=794>
     <OrtGewaehlte id=39598, label=Mandat, parent_id=794>
     <OrtMitglieder id=5002, label=Mitgliedschaften, parent_id=794>
@@ -232,84 +232,83 @@
     <OrtMitglieder id=5003, label=Mitgliedschaften, parent_id=795>
     <OrtPraesidium id=2479, label=Partei, parent_id=795>
    <Ort id=797, label=Rudolfstetten, parent_id=338>
-    <OrtSympathisanten id=40845, label=Sympathisanten, parent_id=797>
+    <OrtSympathisanten id=40847, label=Sympathisanten, parent_id=797>
     <OrtGewaehlte id=2480, label=Exekutive, parent_id=797>
     <OrtMitglieder id=5004, label=Mitgliedschaften, parent_id=797>
     <OrtPraesidium id=2481, label=Partei, parent_id=797>
    <Ort id=798, label=Sarmenstorf, parent_id=338>
-    <OrtSympathisanten id=40854, label=Sympathisanten, parent_id=798>
+    <OrtSympathisanten id=40856, label=Sympathisanten, parent_id=798>
     <OrtGewaehlte id=2482, label=Exekutive, parent_id=798>
     <OrtMitglieder id=5005, label=Mitgliedschaften, parent_id=798>
     <OrtPraesidium id=2483, label=Partei, parent_id=798>
    <Ort id=799, label=Tägerig, parent_id=338>
-    <OrtSympathisanten id=40863, label=Sympathisanten, parent_id=799>
+    <OrtSympathisanten id=40865, label=Sympathisanten, parent_id=799>
     <OrtGewaehlte id=2484, label=Exekutive, parent_id=799>
     <OrtGewaehlte id=39624, label=Mandat, parent_id=799>
     <OrtMitglieder id=5006, label=Mitgliedschaften, parent_id=799>
     <OrtPraesidium id=2485, label=Partei, parent_id=799>
    <Ort id=800, label=Villmergen, parent_id=338>
-    <OrtSympathisanten id=40872, label=Sympathisanten, parent_id=800>
+    <OrtSympathisanten id=40874, label=Sympathisanten, parent_id=800>
     <OrtGewaehlte id=2486, label=Exekutive, parent_id=800>
     <OrtGewaehlte id=39628, label=Mandat, parent_id=800>
     <OrtMitglieder id=5007, label=Mitgliedschaften, parent_id=800>
     <OrtPraesidium id=2487, label=Partei, parent_id=800>
     <OrtPraesidium id=4508, label=Vorstand, parent_id=800>
    <Ort id=801, label=Widen, parent_id=338>
-    <OrtSympathisanten id=40881, label=Sympathisanten, parent_id=801>
+    <OrtSympathisanten id=40883, label=Sympathisanten, parent_id=801>
     <OrtGewaehlte id=2488, label=Exekutive, parent_id=801>
     <OrtGewaehlte id=39633, label=Mandat, parent_id=801>
     <OrtMitglieder id=5008, label=Mitgliedschaften, parent_id=801>
     <OrtPraesidium id=2489, label=Partei, parent_id=801>
    <Ort id=802, label=Wohlen, parent_id=338>
-    <OrtSympathisanten id=40890, label=Sympathisanten, parent_id=802>
+    <OrtSympathisanten id=40892, label=Sympathisanten, parent_id=802>
     <OrtGewaehlte id=2490, label=Exekutive, parent_id=802>
     <OrtGewaehlte id=2491, label=Legislative, parent_id=802>
     <OrtGewaehlte id=39637, label=Mandat, parent_id=802>
     <OrtMitglieder id=5009, label=Mitgliedschaften, parent_id=802>
     <OrtPraesidium id=2492, label=Partei, parent_id=802>
    <Ort id=803, label=Zufikon, parent_id=338>
-    <OrtSympathisanten id=40899, label=Sympathisanten, parent_id=803>
+    <OrtSympathisanten id=40901, label=Sympathisanten, parent_id=803>
     <OrtGewaehlte id=2493, label=Exekutive, parent_id=803>
     <OrtMitglieder id=4881, label=Mitgliedschaften, parent_id=803>
     <OrtPraesidium id=2494, label=Partei, parent_id=803>
   <Region id=339, label=Bezirk Brugg, parent_id=151>
-   <RegionSympathisanten id=40908, label=Sympathisanten, parent_id=339>
+   <RegionSympathisanten id=40910, label=Sympathisanten, parent_id=339>
    <RegionMitglieder id=806, label=Mitgliedschaften, parent_id=339>
    <RegionPraesidium id=807, label=Partei, parent_id=339>
    <Ort id=804, label=Brugg, parent_id=339>
-    <OrtSympathisanten id=40915, label=Sympathisanten, parent_id=804>
     <OrtGewaehlte id=2495, label=Exekutive, parent_id=804>
     <OrtGewaehlte id=2496, label=Legislative, parent_id=804>
     <OrtMitglieder id=4925, label=Mitgliedschaften, parent_id=804>
     <OrtPraesidium id=2497, label=Partei, parent_id=804>
    <Ort id=805, label=Hausen, parent_id=339>
-    <OrtSympathisanten id=40924, label=Sympathisanten, parent_id=805>
+    <OrtSympathisanten id=40926, label=Sympathisanten, parent_id=805>
     <OrtGewaehlte id=2498, label=Exekutive, parent_id=805>
     <OrtMitglieder id=35621, label=Mitgliedschaften, parent_id=805>
     <OrtPraesidium id=2499, label=Partei, parent_id=805>
    <Ort id=37417, label=Mönthal, parent_id=339>
     <OrtGewaehlte id=37418, label=Exekutive, parent_id=37417>
    <Ort id=808, label=Riniken, parent_id=339>
-    <OrtSympathisanten id=40942, label=Sympathisanten, parent_id=808>
+    <OrtSympathisanten id=40944, label=Sympathisanten, parent_id=808>
     <OrtGewaehlte id=2500, label=Exekutive, parent_id=808>
     <OrtMitglieder id=4926, label=Mitgliedschaften, parent_id=808>
     <OrtPraesidium id=2501, label=Partei, parent_id=808>
    <Ort id=809, label=Windisch, parent_id=339>
-    <OrtSympathisanten id=40951, label=Sympathisanten, parent_id=809>
+    <OrtSympathisanten id=40953, label=Sympathisanten, parent_id=809>
     <OrtGewaehlte id=2502, label=Exekutive, parent_id=809>
     <OrtGewaehlte id=2503, label=Legislative, parent_id=809>
     <OrtGewaehlte id=39634, label=Mandat, parent_id=809>
     <OrtMitglieder id=4927, label=Mitgliedschaften, parent_id=809>
     <OrtPraesidium id=2504, label=Partei, parent_id=809>
   <Region id=340, label=Bezirk Kulm, parent_id=151>
-   <RegionSympathisanten id=40960, label=Sympathisanten, parent_id=340>
+   <RegionSympathisanten id=40962, label=Sympathisanten, parent_id=340>
    <RegionMitglieder id=810, label=Mitgliedschaften, parent_id=340>
    <RegionPraesidium id=811, label=Partei, parent_id=340>
    <Ort id=812, label=Schöftland, parent_id=340>
     <OrtGewaehlte id=2505, label=Exekutive, parent_id=812>
   <Region id=341, label=Bezirk Laufenburg, parent_id=151>
-   <RegionSympathisanten id=40976, label=Sympathisanten, parent_id=341>
-   <RegionExterneKontakte id=40977, label=ExterneKontakte, parent_id=341>
+   <RegionSympathisanten id=40978, label=Sympathisanten, parent_id=341>
+   <RegionExterneKontakte id=40979, label=ExterneKontakte, parent_id=341>
    <RegionMitglieder id=824, label=Mitgliedschaften, parent_id=341>
    <RegionPraesidium id=828, label=Partei, parent_id=341>
    <Ort id=813, label=Eiken, parent_id=341>
@@ -317,30 +316,30 @@
     <OrtMitglieder id=4929, label=Mitgliedschaften, parent_id=813>
     <OrtPraesidium id=2507, label=Partei, parent_id=813>
    <Ort id=815, label=Frick, parent_id=341>
-    <OrtSympathisanten id=40992, label=Sympathisanten, parent_id=815>
+    <OrtSympathisanten id=40994, label=Sympathisanten, parent_id=815>
     <OrtGewaehlte id=2510, label=Exekutive, parent_id=815>
     <OrtGewaehlte id=39556, label=Mandat, parent_id=815>
     <OrtMitglieder id=4931, label=Mitgliedschaften, parent_id=815>
     <OrtPraesidium id=2511, label=Partei, parent_id=815>
    <Ort id=816, label=Gansingen, parent_id=341>
-    <OrtSympathisanten id=41001, label=Sympathisanten, parent_id=816>
+    <OrtSympathisanten id=41003, label=Sympathisanten, parent_id=816>
     <OrtGewaehlte id=2512, label=Exekutive, parent_id=816>
     <OrtMitglieder id=4932, label=Mitgliedschaften, parent_id=816>
     <OrtPraesidium id=2513, label=Partei, parent_id=816>
    <Ort id=817, label=Gipf-Oberfrick, parent_id=341>
-    <OrtSympathisanten id=41010, label=Sympathisanten, parent_id=817>
+    <OrtSympathisanten id=41012, label=Sympathisanten, parent_id=817>
     <OrtGewaehlte id=2514, label=Exekutive, parent_id=817>
     <OrtMitglieder id=4933, label=Mitgliedschaften, parent_id=817>
     <OrtPraesidium id=2515, label=Partei, parent_id=817>
    <Ort id=819, label=Hornussen, parent_id=341>
     <OrtGewaehlte id=2518, label=Exekutive, parent_id=819>
    <Ort id=821, label=Kaisten, parent_id=341>
-    <OrtSympathisanten id=41028, label=Sympathisanten, parent_id=821>
+    <OrtSympathisanten id=41030, label=Sympathisanten, parent_id=821>
     <OrtGewaehlte id=2522, label=Exekutive, parent_id=821>
     <OrtMitglieder id=4936, label=Mitgliedschaften, parent_id=821>
     <OrtPraesidium id=2523, label=Partei, parent_id=821>
    <Ort id=822, label=Laufenburg, parent_id=341>
-    <OrtSympathisanten id=41037, label=Sympathisanten, parent_id=822>
+    <OrtSympathisanten id=41039, label=Sympathisanten, parent_id=822>
     <OrtGewaehlte id=2524, label=Exekutive, parent_id=822>
     <OrtMitglieder id=4937, label=Mitgliedschaften, parent_id=822>
     <OrtPraesidium id=2525, label=Partei, parent_id=822>
@@ -351,47 +350,47 @@
    <Ort id=827, label=Oeschgen, parent_id=341>
     <OrtGewaehlte id=2530, label=Exekutive, parent_id=827>
    <Ort id=832, label=Wittnau, parent_id=341>
-    <OrtSympathisanten id=41073, label=Sympathisanten, parent_id=832>
+    <OrtSympathisanten id=41075, label=Sympathisanten, parent_id=832>
     <OrtGewaehlte id=2536, label=Exekutive, parent_id=832>
     <OrtMitglieder id=4945, label=Mitgliedschaften, parent_id=832>
     <OrtPraesidium id=2537, label=Partei, parent_id=832>
    <Ort id=833, label=Wölflinswil, parent_id=341>
-    <OrtSympathisanten id=41082, label=Sympathisanten, parent_id=833>
+    <OrtSympathisanten id=41084, label=Sympathisanten, parent_id=833>
     <OrtGewaehlte id=2538, label=Exekutive, parent_id=833>
     <OrtMitglieder id=4946, label=Mitgliedschaften, parent_id=833>
     <OrtPraesidium id=2539, label=Partei, parent_id=833>
    <Ort id=834, label=Zeihen, parent_id=341>
-    <OrtSympathisanten id=41091, label=Sympathisanten, parent_id=834>
+    <OrtSympathisanten id=41093, label=Sympathisanten, parent_id=834>
     <OrtGewaehlte id=2540, label=Exekutive, parent_id=834>
     <OrtMitglieder id=4947, label=Mitgliedschaften, parent_id=834>
   <Region id=342, label=Bezirk Lenzburg, parent_id=151>
-   <RegionSympathisanten id=41100, label=Sympathisanten, parent_id=342>
+   <RegionSympathisanten id=41102, label=Sympathisanten, parent_id=342>
    <RegionMitglieder id=837, label=Mitgliedschaften, parent_id=342>
    <RegionPraesidium id=839, label=Partei, parent_id=342>
    <Ort id=835, label=Fahrwangen, parent_id=342>
     <OrtGewaehlte id=2542, label=Exekutive, parent_id=835>
+    <OrtGewaehlte id=39552, label=Mandat, parent_id=835>
    <Ort id=836, label=Lenzburg, parent_id=342>
-    <OrtSympathisanten id=41116, label=Sympathisanten, parent_id=836>
+    <OrtSympathisanten id=41118, label=Sympathisanten, parent_id=836>
     <OrtGewaehlte id=2543, label=Exekutive, parent_id=836>
     <OrtGewaehlte id=2544, label=Legislative, parent_id=836>
     <OrtGewaehlte id=39583, label=Mandat, parent_id=836>
     <OrtMitglieder id=4949, label=Mitgliedschaften, parent_id=836>
     <OrtPraesidium id=2545, label=Partei, parent_id=836>
    <Ort id=838, label=Möriken-Wildegg, parent_id=342>
-    <OrtSympathisanten id=41125, label=Sympathisanten, parent_id=838>
     <OrtGewaehlte id=2546, label=Exekutive, parent_id=838>
     <OrtMitglieder id=4950, label=Mitgliedschaften, parent_id=838>
     <OrtPraesidium id=2547, label=Partei, parent_id=838>
    <Ort id=39675, label=Rupperswil, parent_id=342>
     <OrtGewaehlte id=39677, label=Exekutive, parent_id=39675>
    <Ort id=840, label=Seon, parent_id=342>
-    <OrtSympathisanten id=41143, label=Sympathisanten, parent_id=840>
+    <OrtSympathisanten id=41145, label=Sympathisanten, parent_id=840>
     <OrtGewaehlte id=39674, label=Exekutive, parent_id=840>
     <OrtGewaehlte id=39618, label=Mandat, parent_id=840>
     <OrtMitglieder id=4951, label=Mitgliedschaften, parent_id=840>
     <OrtPraesidium id=2548, label=Partei, parent_id=840>
   <Region id=343, label=Bezirk Muri, parent_id=151>
-   <RegionSympathisanten id=41152, label=Sympathisanten, parent_id=343>
+   <RegionSympathisanten id=41154, label=Sympathisanten, parent_id=343>
    <RegionMitglieder id=852, label=Mitgliedschaften, parent_id=343>
    <RegionPraesidium id=856, label=Partei, parent_id=343>
    <Ort id=841, label=Abtwil, parent_id=343>
@@ -399,7 +398,7 @@
    <Ort id=842, label=Aristau, parent_id=343>
     <OrtGewaehlte id=2550, label=Exekutive, parent_id=842>
    <Ort id=843, label=Auw, parent_id=343>
-    <OrtSympathisanten id=41177, label=Sympathisanten, parent_id=843>
+    <OrtSympathisanten id=41179, label=Sympathisanten, parent_id=843>
     <OrtGewaehlte id=2552, label=Exekutive, parent_id=843>
     <OrtGewaehlte id=39531, label=Mandat, parent_id=843>
     <OrtMitglieder id=4954, label=Mitgliedschaften, parent_id=843>
@@ -409,7 +408,7 @@
    <Ort id=846, label=Bettwil, parent_id=343>
     <OrtGewaehlte id=2557, label=Exekutive, parent_id=846>
    <Ort id=847, label=Boswil, parent_id=343>
-    <OrtSympathisanten id=41204, label=Sympathisanten, parent_id=847>
+    <OrtSympathisanten id=41206, label=Sympathisanten, parent_id=847>
     <OrtGewaehlte id=2559, label=Exekutive, parent_id=847>
     <OrtGewaehlte id=39539, label=Mandat, parent_id=847>
     <OrtMitglieder id=4958, label=Mitgliedschaften, parent_id=847>
@@ -421,41 +420,41 @@
    <Ort id=849, label=Geltwil, parent_id=343>
     <OrtGewaehlte id=2563, label=Exekutive, parent_id=849>
    <Ort id=851, label=Merenschwand, parent_id=343>
-    <OrtSympathisanten id=41249, label=Sympathisanten, parent_id=851>
+    <OrtSympathisanten id=41251, label=Sympathisanten, parent_id=851>
     <OrtGewaehlte id=2565, label=Exekutive, parent_id=851>
     <OrtGewaehlte id=39588, label=Mandat, parent_id=851>
     <OrtMitglieder id=4962, label=Mitgliedschaften, parent_id=851>
     <OrtPraesidium id=2566, label=Partei, parent_id=851>
    <Ort id=854, label=Muri, parent_id=343>
-    <OrtSympathisanten id=41258, label=Sympathisanten, parent_id=854>
+    <OrtSympathisanten id=41260, label=Sympathisanten, parent_id=854>
     <OrtGewaehlte id=2569, label=Exekutive, parent_id=854>
     <OrtGewaehlte id=39595, label=Mandat, parent_id=854>
     <OrtMitglieder id=4964, label=Mitgliedschaften, parent_id=854>
     <OrtPraesidium id=2570, label=Partei, parent_id=854>
    <Ort id=853, label=Mühlau, parent_id=343>
-    <OrtSympathisanten id=41267, label=Sympathisanten, parent_id=853>
+    <OrtSympathisanten id=41269, label=Sympathisanten, parent_id=853>
     <OrtGewaehlte id=2567, label=Exekutive, parent_id=853>
     <OrtMitglieder id=4963, label=Mitgliedschaften, parent_id=853>
     <OrtPraesidium id=2568, label=Partei, parent_id=853>
    <Ort id=855, label=Oberrüti, parent_id=343>
     <OrtGewaehlte id=2571, label=Exekutive, parent_id=855>
    <Ort id=857, label=Sins, parent_id=343>
-    <OrtSympathisanten id=41294, label=Sympathisanten, parent_id=857>
+    <OrtSympathisanten id=41296, label=Sympathisanten, parent_id=857>
     <OrtGewaehlte id=2573, label=Exekutive, parent_id=857>
     <OrtGewaehlte id=39620, label=Mandat, parent_id=857>
     <OrtMitglieder id=4966, label=Mitgliedschaften, parent_id=857>
     <OrtPraesidium id=2574, label=Partei, parent_id=857>
    <Ort id=858, label=Waltenschwil, parent_id=343>
-    <OrtSympathisanten id=41303, label=Sympathisanten, parent_id=858>
+    <OrtSympathisanten id=41305, label=Sympathisanten, parent_id=858>
     <OrtGewaehlte id=2575, label=Exekutive, parent_id=858>
     <OrtMitglieder id=4967, label=Mitgliedschaften, parent_id=858>
     <OrtPraesidium id=2576, label=Partei, parent_id=858>
   <Region id=344, label=Bezirk Rheinfelden, parent_id=151>
-   <RegionSympathisanten id=41312, label=Sympathisanten, parent_id=344>
+   <RegionSympathisanten id=41314, label=Sympathisanten, parent_id=344>
    <RegionMitglieder id=862, label=Mitgliedschaften, parent_id=344>
    <RegionPraesidium id=865, label=Partei, parent_id=344>
    <Ort id=859, label=Hellikon, parent_id=344>
-    <OrtSympathisanten id=41319, label=Sympathisanten, parent_id=859>
+    <OrtSympathisanten id=41321, label=Sympathisanten, parent_id=859>
     <OrtMitglieder id=4968, label=Mitgliedschaften, parent_id=859>
    <Ort id=860, label=Kaiseraugst, parent_id=344>
     <OrtGewaehlte id=2579, label=Exekutive, parent_id=860>
@@ -484,7 +483,7 @@
     <OrtMitglieder id=4974, label=Mitgliedschaften, parent_id=867>
     <OrtPraesidium id=2590, label=Partei, parent_id=867>
    <Ort id=868, label=Wallbach, parent_id=344>
-    <OrtSympathisanten id=41382, label=Sympathisanten, parent_id=868>
+    <OrtSympathisanten id=41384, label=Sympathisanten, parent_id=868>
     <OrtGewaehlte id=2591, label=Exekutive, parent_id=868>
     <OrtGewaehlte id=39629, label=Mandat, parent_id=868>
     <OrtMitglieder id=4975, label=Mitgliedschaften, parent_id=868>
@@ -499,37 +498,38 @@
    <Ort id=871, label=Zuzgen, parent_id=344>
     <OrtGewaehlte id=2596, label=Exekutive, parent_id=871>
   <Region id=345, label=Bezirk Zofingen, parent_id=151>
-   <RegionSympathisanten id=41418, label=Sympathisanten, parent_id=345>
+   <RegionSympathisanten id=41420, label=Sympathisanten, parent_id=345>
    <RegionMitglieder id=873, label=Mitgliedschaften, parent_id=345>
    <RegionPraesidium id=874, label=Partei, parent_id=345>
    <Ort id=872, label=Aarburg, parent_id=345>
+    <OrtSympathisanten id=41427, label=Sympathisanten, parent_id=872>
     <OrtGewaehlte id=37419, label=Exekutive, parent_id=872>
     <OrtMitglieder id=4978, label=Mitgliedschaften, parent_id=872>
     <OrtPraesidium id=2597, label=Partei, parent_id=872>
    <Ort id=39186, label=Oftringen-Rothrist, parent_id=345>
-    <OrtSympathisanten id=41434, label=Sympathisanten, parent_id=39186>
+    <OrtSympathisanten id=41436, label=Sympathisanten, parent_id=39186>
     <OrtGewaehlte id=39606, label=Mandat, parent_id=39186>
     <OrtMitglieder id=39189, label=Mitgliedschaften, parent_id=39186>
     <OrtPraesidium id=39187, label=Partei, parent_id=39186>
    <Ort id=875, label=Zofingen-Strengelbach, parent_id=345>
-    <OrtSympathisanten id=41443, label=Sympathisanten, parent_id=875>
+    <OrtSympathisanten id=41445, label=Sympathisanten, parent_id=875>
     <OrtGewaehlte id=37492, label=Exekutive, parent_id=875>
     <OrtGewaehlte id=2598, label=Legislative, parent_id=875>
     <OrtGewaehlte id=39644, label=Mandat, parent_id=875>
     <OrtMitglieder id=10965, label=Mitgliedschaften, parent_id=875>
     <OrtPraesidium id=2599, label=Partei, parent_id=875>
   <Region id=346, label=Bezirk Zurzach, parent_id=151>
-   <RegionSympathisanten id=41452, label=Sympathisanten, parent_id=346>
+   <RegionSympathisanten id=41454, label=Sympathisanten, parent_id=346>
    <RegionMitglieder id=886, label=Mitgliedschaften, parent_id=346>
    <RegionPraesidium id=887, label=Partei, parent_id=346>
    <Ort id=876, label=Bad Zurzach, parent_id=346>
-    <OrtSympathisanten id=41459, label=Sympathisanten, parent_id=876>
+    <OrtSympathisanten id=41461, label=Sympathisanten, parent_id=876>
     <OrtGewaehlte id=2600, label=Exekutive, parent_id=876>
     <OrtGewaehlte id=39532, label=Mandat, parent_id=876>
     <OrtMitglieder id=4979, label=Mitgliedschaften, parent_id=876>
     <OrtPraesidium id=2601, label=Partei, parent_id=876>
    <Ort id=881, label=Böttstein/Kleindöttingen, parent_id=346>
-    <OrtSympathisanten id=41477, label=Sympathisanten, parent_id=881>
+    <OrtSympathisanten id=41479, label=Sympathisanten, parent_id=881>
     <OrtGewaehlte id=2608, label=Exekutive, parent_id=881>
     <OrtGewaehlte id=39575, label=Mandat, parent_id=881>
     <OrtMitglieder id=4984, label=Mitgliedschaften, parent_id=881>
@@ -537,7 +537,7 @@
    <Ort id=877, label=Döttingen, parent_id=346>
     <OrtGewaehlte id=2602, label=Exekutive, parent_id=877>
    <Ort id=878, label=Endingen, parent_id=346>
-    <OrtSympathisanten id=41495, label=Sympathisanten, parent_id=878>
+    <OrtSympathisanten id=41497, label=Sympathisanten, parent_id=878>
     <OrtGewaehlte id=2604, label=Exekutive, parent_id=878>
     <OrtGewaehlte id=39549, label=Mandat, parent_id=878>
     <OrtMitglieder id=4981, label=Mitgliedschaften, parent_id=878>
@@ -547,7 +547,7 @@
    <Ort id=880, label=Full-Reuenthal, parent_id=346>
     <OrtGewaehlte id=2607, label=Exekutive, parent_id=880>
    <Ort id=38493, label=Klingnau, parent_id=346>
-    <OrtSympathisanten id=41522, label=Sympathisanten, parent_id=38493>
+    <OrtSympathisanten id=41524, label=Sympathisanten, parent_id=38493>
     <OrtGewaehlte id=38495, label=Exekutive, parent_id=38493>
     <OrtGewaehlte id=39576, label=Mandat, parent_id=38493>
     <OrtMitglieder id=38496, label=Mitgliedschaften, parent_id=38493>
@@ -560,14 +560,14 @@
     <OrtMitglieder id=4987, label=Mitgliedschaften, parent_id=884>
     <OrtPraesidium id=2614, label=Partei, parent_id=884>
    <Ort id=885, label=Leuggern, parent_id=346>
-    <OrtSympathisanten id=41558, label=Sympathisanten, parent_id=885>
+    <OrtSympathisanten id=41560, label=Sympathisanten, parent_id=885>
     <OrtGewaehlte id=2615, label=Exekutive, parent_id=885>
     <OrtMitglieder id=36549, label=Mitgliedschaften, parent_id=885>
     <OrtPraesidium id=36548, label=Partei, parent_id=885>
    <Ort id=37402, label=Rekingen, parent_id=346>
     <OrtGewaehlte id=37403, label=Exekutive, parent_id=37402>
    <Ort id=888, label=Rietheim, parent_id=346>
-    <OrtSympathisanten id=41576, label=Sympathisanten, parent_id=888>
+    <OrtSympathisanten id=41578, label=Sympathisanten, parent_id=888>
     <OrtGewaehlte id=2616, label=Exekutive, parent_id=888>
     <OrtMitglieder id=4989, label=Mitgliedschaften, parent_id=888>
     <OrtPraesidium id=2617, label=Partei, parent_id=888>
