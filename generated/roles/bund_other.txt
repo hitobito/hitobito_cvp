@@ -23,7 +23,7 @@
   <BundArbeitsgruppe Verkehrspolitik (IC) [Mitglied 9]>
   <BundArbeitsgruppe Wirtschaft (JYM) [Mitglied 95, Praesident 2]>
   <BundArbeitsgruppe soziale Sicherheit (SE) [Mitglied 10, Praesident 1]>
- <BundArbeitsgruppe B-Club (SJ) [Mitglied 10, tbd:Bundesrichter exBDP 3]>
+ <BundArbeitsgruppe B-Club (SJ) [Mitglied 13]>
  <BundArbeitsgruppe Gäste Delegiertenversammlung (CS)>
   <BundArbeitsgruppe Email Einladung [Mitglied 94]>
   <BundArbeitsgruppe Post Einladungen [Mitglied 141]>

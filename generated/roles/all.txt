@@ -25,7 +25,7 @@
   <BundArbeitsgruppe Verkehrspolitik (IC) [Mitglied 9]>
   <BundArbeitsgruppe Wirtschaft (JYM) [Mitglied 95, Praesident 2]>
   <BundArbeitsgruppe soziale Sicherheit (SE) [Mitglied 10, Praesident 1]>
- <BundArbeitsgruppe B-Club (SJ) [Mitglied 10, tbd:Bundesrichter exBDP 3]>
+ <BundArbeitsgruppe B-Club (SJ) [Mitglied 13]>
  <BundArbeitsgruppe Die Politik>
   <BundArbeitsgruppe Inserenten [Mitglied 1]>
  <BundArbeitsgruppe Gäste Delegiertenversammlung (CS)>
@@ -864,7 +864,7 @@
   <KantonExterneKontakte Newsletter [Kontakt 43]>
   <KantonGewaehlte Legislative [KantonaleLegislative 1]>
   <KantonMitglieder Mitgliedschaften [Mitglied 7]>
-  <KantonPraesidium Partei [Kassier 1, Mitglied 3, Praesident 1, tbd:Ressort Strategie 22]>
+  <KantonPraesidium Partei [Kassier 1, Mitglied 25, Praesident 1]>
   <Ort Heiden>
    <OrtSympathisanten Sympathisanten [Sympathisant 1]>
    <OrtExterneKontakte Newsletter [Kontakt 45]>
@@ -2175,7 +2175,7 @@
    <KantonGewaehlte Richterpool [MitgliedKantonalesGerichtErsteInstanz 4]>
   <KantonGewaehlte Legislative [KantonaleLegislative 478]>
   <KantonMitglieder Mitgliedschaften [Mitglied 11259]>
-  <KantonPraesidium Partei [Kassier 4, Mitglied 494, Praesident 412]>
+  <KantonPraesidium Partei [Kassier 1, Mitglied 497, Praesident 412]>
   <Region Wahlkreis Entlebuch>
    <RegionPraesidium Partei [Kassier 3, Mitglied 16, Praesident 2]>
    <Ort Doppleschwand>
@@ -2490,7 +2490,7 @@
     <OrtSekretariat Sekretariat [Leitung 1]>
     <OrtExterneKontakte ExterneKontakte [Kontakt 457]>
     <OrtArbeitsgruppe Urnenbürofunktionäre 2017 [Mitglied 13]>
-    <OrtArbeitsgruppe Urnenbürofunktionäre 2021 [Mitglied 9, tbd:Ersatzkandidat 4]>
+    <OrtArbeitsgruppe Urnenbürofunktionäre 2021 [Mitglied 13]>
     <OrtExterneKontakte Firmen [Kontakt 525]>
     <OrtExterneKontakte Newsletter [Kontakt 844]>
     <OrtGewaehlte Exekutive [KommunaleExekutive 5, MitgliedWeitereGemeindeKommissionen 3]>
@@ -6617,7 +6617,7 @@
    <KantonSympathisanten Sympathisanten [Sympathisant 88]>
    <KantonExterneKontakte Newsletter [Kontakt 238]>
    <KantonMitglieder Mitgliedschaften [Mitglied 218]>
-   <KantonPraesidium Vorstand [Kassier 1, Mitglied 2, Praesident 1]>
+   <KantonPraesidium Vorstand [Mitglied 3, Praesident 1]>
   <Kanton SH>
    <KantonPraesidium Praesidium [Praesident 1]>
    <KantonMitglieder Mitglieder [Mitglied 2]>

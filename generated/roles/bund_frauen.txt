@@ -47,7 +47,7 @@
    <KantonSympathisanten Sympathisanten [Sympathisant 88]>
    <KantonExterneKontakte Newsletter [Kontakt 238]>
    <KantonMitglieder Mitgliedschaften [Mitglied 218]>
-   <KantonPraesidium Vorstand [Kassier 1, Mitglied 2, Praesident 1]>
+   <KantonPraesidium Vorstand [Mitglied 3, Praesident 1]>
   <Kanton SH>
    <KantonPraesidium Praesidium [Praesident 1]>
    <KantonMitglieder Mitglieder [Mitglied 2]>

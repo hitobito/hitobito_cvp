@@ -10,7 +10,7 @@
   <KantonExterneKontakte Newsletter [Kontakt 43]>
   <KantonGewaehlte Legislative [KantonaleLegislative 1]>
   <KantonMitglieder Mitgliedschaften [Mitglied 7]>
-  <KantonPraesidium Partei [Kassier 1, Mitglied 3, Praesident 1, tbd:Ressort Strategie 22]>
+  <KantonPraesidium Partei [Kassier 1, Mitglied 25, Praesident 1]>
   <Ort Heiden>
    <OrtSympathisanten Sympathisanten [Sympathisant 1]>
    <OrtExterneKontakte Newsletter [Kontakt 45]>

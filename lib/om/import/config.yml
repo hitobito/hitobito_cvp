@@ -400,6 +400,7 @@ roles_new:
       Mitglied:
       - !ruby/regexp /^Bundesanwalt$/i
       - !ruby/regexp /^Aufsichtsbehörde über die Bundesanwaltschaft$/i
+      - !ruby/regexp /^Bundesrichter exBDP$/i
       Gast:
       - !ruby/regexp /^Interessent$/i
 
@@ -432,6 +433,7 @@ roles_new:
       - !ruby/regexp /Präsident/i
       Mitglied:
       - !ruby/regexp /Mitglied/i
+      - !ruby/regexp /Ressort/i
     KantonParteigremium:
       Praesident:
       - !ruby/regexp /Präsident/i
@@ -584,6 +586,11 @@ roles_new:
       - !ruby/regexp /Exekutive/i
       - !ruby/regexp /^Mitglied$/i
       - !ruby/regexp /Präsident/i
+    OrtArbeitsgruppe:
+      Mitglied:
+      - !ruby/regexp /Bundesrichter/i
+      - !ruby/regexp /Ersatzkandidat/i
+
     OrtExterneKontakte:
       Spender:
       - ['Sponsoren', 'Kontakt']

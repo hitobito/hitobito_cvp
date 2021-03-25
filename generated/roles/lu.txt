@@ -134,7 +134,7 @@
    <KantonGewaehlte Richterpool [MitgliedKantonalesGerichtErsteInstanz 4]>
   <KantonGewaehlte Legislative [KantonaleLegislative 478]>
   <KantonMitglieder Mitgliedschaften [Mitglied 11259]>
-  <KantonPraesidium Partei [Kassier 4, Mitglied 494, Praesident 412]>
+  <KantonPraesidium Partei [Kassier 1, Mitglied 497, Praesident 412]>
   <Region Wahlkreis Entlebuch>
    <RegionPraesidium Partei [Kassier 3, Mitglied 16, Praesident 2]>
    <Ort Doppleschwand>
@@ -449,7 +449,7 @@
     <OrtSekretariat Sekretariat [Leitung 1]>
     <OrtExterneKontakte ExterneKontakte [Kontakt 457]>
     <OrtArbeitsgruppe Urnenbürofunktionäre 2017 [Mitglied 13]>
-    <OrtArbeitsgruppe Urnenbürofunktionäre 2021 [Mitglied 9, tbd:Ersatzkandidat 4]>
+    <OrtArbeitsgruppe Urnenbürofunktionäre 2021 [Mitglied 13]>
     <OrtExterneKontakte Firmen [Kontakt 525]>
     <OrtExterneKontakte Newsletter [Kontakt 844]>
     <OrtGewaehlte Exekutive [KommunaleExekutive 5, MitgliedWeitereGemeindeKommissionen 3]>
