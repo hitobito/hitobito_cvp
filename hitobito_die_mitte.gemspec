@@ -16,6 +16,7 @@ Gem::Specification.new do |s|
   s.files = Dir['{app,config,db,lib}/**/*'] + ['Rakefile']
   s.test_files = Dir['test/**/*']
   s.add_runtime_dependency 'pg' # for migration
+  s.add_runtime_dependency 'fuzzy-string-match' # for matching emails fuzz
 
   # rubocop:enable SingleSpaceBeforeFirstArg
 end
