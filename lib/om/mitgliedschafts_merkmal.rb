@@ -11,6 +11,8 @@ class MitgliedschaftsMerkmal < ActiveRecord::Base
   scope :entritt, -> { where(hauptcode: EINTRITT) }
   scope :austritt, -> { where(hauptcode: AUSTRITT) }
 
+  scope :cvp_lu_info, -> { where(hauptcode: CVP_LU_INFO) }
+
   def to_s
     merkmal.to_s
   end

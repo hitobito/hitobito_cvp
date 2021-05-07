@@ -132,16 +132,24 @@ migrate:
     alter: |
       -- Change types:
         ALTER TABLE mitgliedschaft_merkmal
-          ALTER COLUMN mitgliedschaftsnummer TYPE INTEGER USING mitgliedschaftsnummer::integer;
+          ALTER COLUMN mitgliedschaftsnummer TYPE INTEGER USING mitgliedschaftsnummer::integer,
+          ADD COLUMN merkmal_id INTEGER;
 
         CREATE INDEX idx_mitgliedschaft_merkmal_mitgliedschaftsnummer ON mitgliedschaft_merkmal(mitgliedschaftsnummer);
 
+        CREATE INDEX idx_mitgliedschaft_merkmal_id ON mitgliedschaft_merkmal(merkmal_id);
 
   09_MerkmalStamm:
     alter: |
       -- Create a primary key:
       ALTER TABLE merkmal_stamm ADD COLUMN ID SERIAL PRIMARY KEY;
       CREATE INDEX idx_merkmal_stamm_label ON merkmal_stamm USING gin(lower(merkmal_bezeichnung_d) gin_trgm_ops);
+
+      UPDATE mitgliedschaft_merkmal
+      SET merkmal_id = id
+      FROM merkmal_stamm
+      WHERE mitgliedschaft_merkmal.hauptcode = merkmal_stamm.merkmal_gruppe
+      AND mitgliedschaft_merkmal.untercode = merkmal_stamm.merkmal;
 
   10_KontoStamm:
     alter: |
