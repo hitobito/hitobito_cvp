@@ -7,6 +7,8 @@ files:
   - 07_Mitgliedschaft
   - 09_MerkmalStamm
   - 13_Verbindungen
+  - 14_Dokumente
+  - 15_DokumenteEmpfaenger
 
 migrate:
   01_KontaktDaten:
@@ -232,3 +234,6 @@ migrate:
       ALTER TABLE referenznummern
         ALTER COLUMN kunden_id TYPE UUID USING kunden_id::uuid,
         ALTER COLUMN mailingsnummer TYPE INTEGER USING mailingsnummer::integer;
+
+  14_Dokumente:
+  15_DokumenteEmpfaenger:

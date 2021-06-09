@@ -1,5 +1,5 @@
 class DokumentEmpfaenger < SourceModel
-  self.table_name = :dokumente_empfдnger
+  self.table_name = :dokumente_empfaenger
 
   belongs_to :kontakt, foreign_key: :empfänger_id
   # Das würde ich erwarte, hier steht aber ein Datum und keine dokumente nummer

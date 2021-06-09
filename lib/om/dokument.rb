@@ -2,6 +2,7 @@ class Dokument < SourceModel
   self.table_name = :dokumente
   self.primary_key = :nummer
   belongs_to :verband, foreign_key: :struktur_id
+  has_many :empfaenger, foreign_key: :nummer, class_name: "DokumentEmpfaenger"
   #
   # scope :kampagne, -> { where(protokollart: 'Kampagne') }
   # scope :neutral, -> { where(protokollart: 'Neutral') }
