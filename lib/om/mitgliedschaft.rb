@@ -24,6 +24,7 @@ class Mitgliedschaft < SourceModel
   scope :sympathisant, -> { where("mitgliedschafts_bezeichnung ~* '#{SYMPATHISANT}'") }
   scope :mitglieder, -> { einzel.or(familie).or(sympathisant) }
   scope :other, -> { where.not(mitgliedschafts_nummer: mitglieder.select(:mitgliedschafts_nummer)) }
+  scope :without_deleted, -> { where.not(deleted_at: nil) }
 
   def timestamps
     {

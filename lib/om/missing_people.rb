@@ -1,3 +1,4 @@
+require "csv"
 module MissingPeople
 
   class Import
@@ -37,20 +38,56 @@ module MissingPeople
     # 3. Export person attrs (as in normal import (gender / email fixes ..))
     #   -> Integrate zivilstand fix
     # 4. Generate CSV with person attrs, role, parent group
+    #
+    def self.generate
+      new.generate
+      new(scope: :without_deleted).generate
+    end
+
+
+    def initialize(merkmal = Merkmal.cvp_lu_info, scope:  nil)
+      @merkmal = merkmal
+      @scope = scope ? Mitgliedschaft.send(scope) : Mitgliedschaft
+      @label = [@merkmal.merkmal_bezeichnung_d,scope].compact.join(' ').parameterize
+      @file = "missing-people-#{@label}.csv"
+    end
+
 
     def info
       puts "Total: #{kontakte.count}"
-      existing = Person.where(kunden_id: kontakte.pluck(:kunden_id))
       puts "Existing: #{existing.count}"
-      puts "Missing: #{kontakte.count - existing.count}"
+      puts "Missing: #{missing.count}"
+    end
+
+    def generate
+      CSV.open(@file, "wb") do |csv|
+        csv << missing.first.prepare.keys
+        missing.each do |kontakt|
+          kontakt.email = nil if existing_emails.include?(kontakt.email)
+          csv << kontakt.prepare.values
+        end
+      end
+      puts "Generated #{@file}"
+    end
+
+    def existing_emails
+      @existing_emails ||= Person.where.not(email: "").pluck(:email)
+    end
+
+    def existing
+      @existing ||= Person.where(kunden_id: kontakte.pluck(:kunden_id))
+    end
+
+    def missing
+      @missing ||= Kontakt.where(kunden_id: kontakte.pluck(:kunden_id) - existing.pluck(:kunden_id))
     end
 
     def kontakte
-      Kontakt.joins(:mitgliedschaften).merge(mitgliedschaften)
+      Kontakt.joins(:mitgliedschaften).merge(mitgliedschaften).distinct
     end
 
     def mitgliedschaften
-      Mitgliedschaft.joins(:merkmale).merge(Merkmal.cvp_lu_info.mitgliedschafts_merkmale)
+      @scope.joins(:merkmale).merge(@merkmal.mitgliedschafts_merkmale)
     end
   end
 
