@@ -42,6 +42,8 @@ module MissingPeople
     def self.generate
       new.generate
       new(scope: :without_deleted).generate
+      new.generate_existing
+      new(scope: :without_deleted).generate_existing
     end
 
 
@@ -57,6 +59,18 @@ module MissingPeople
       puts "Total: #{kontakte.count}"
       puts "Existing: #{existing.count}"
       puts "Missing: #{missing.count}"
+    end
+
+    def generate_existing
+      file = "existing-people-#{@label}.csv"
+      scope = existing.select(:id, :email, :first_name, :last_name)
+      CSV.open(file, "wb") do |csv|
+        csv << scope.first.attributes.keys
+        scope.each do |person|
+          csv << person.attributes.values
+        end
+      end
+      puts "Generated #{file}"
     end
 
     def generate
